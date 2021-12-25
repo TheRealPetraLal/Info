@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5368
+item-10,Dummy Core,5396
 item-31,Basic Training Data,1838
 item-32,Intermediate Training Data,5248
 item-33,Advanced Training Data,5883
 -1,kalina_level,30
--1,kalina_favor,260945
-item-1,T-Doll Contract,1619
-item-2,Equipment Contract,1289
+-1,kalina_favor,286745
+item-1,T-Doll Contract,1622
+item-2,Equipment Contract,1283
 item-3,Quick Production Contract,1625
-item-4,Quick Repair Contract,6229
+item-4,Quick Repair Contract,6232
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,3
 item-8,Quick Training Contract,25
@@ -17,15 +17,15 @@ item-9,Enhancement Capsule,504
 item-11,Key Card,0
 item-12,Points,160
 item-13,Name Change Card,4
-item-14,Original Sample,121
-item-15,Pure Sample,15
+item-14,Original Sample,41
+item-15,Pure Sample,30
 item-16,Quick Analysis Contract,30
-item-17,Data Patch,7
-item-41,Token,1097
+item-17,Data Patch,11
+item-41,Token,14
 item-42,Exchange Ticket,0
-item-43,Black Card,2
+item-43,Black Card,6
 item-44,Calibration Ticket,2700
-item-45,Memory Fragment,1604
+item-45,Memory Fragment,1644
 item-46,Special Combat Report,6890
 item-47,Theater Material,1
 item-50,Universal Parts,917
@@ -37,16 +37,16 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,4798
-item-507,Surplus EXP,196200
-item-508,Friendship Points,18060
+item-506,Battery,4532
+item-507,Surplus EXP,0
+item-508,Friendship Points,18160
 item-509,Fairy Command,200
 item-512,Supernova Kernel,0
 item-513,Dark Star Kernel,8000
-item-514,Petri Dish,1424
+item-514,Petri Dish,1446
 item-515,Basic Training Keycode,31616
 item-516,Advanced Training Keycode,14846
-item-519,HOC General Data,84
+item-519,HOC General Data,85
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
@@ -361,15 +361,18 @@ item-900038,Platinum Medal·DJMAX,4
 item-900039,Xmas Supply Box,0
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-gift-100001,Lollipop,155
-gift-100002,Ice Cream Cone,67
-gift-100003,Strawberry Custard Cheesecake,1780
+item-1038,OTs-12 Icon,1
+gift-100001,Lollipop,569
+gift-100002,Ice Cream Cone,79
+gift-100003,Strawberry Custard Cheesecake,1808
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,4117
+gift-200001,Combat Report,4137
 gift-200006,Satan's Tears,10
 gift-400001,Rapid Growth Disk,1068
+gift-5303,Make a Sweet Wish,3
+gift-5301,Christmas Eve Detective,3
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
