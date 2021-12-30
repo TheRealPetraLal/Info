@@ -94,7 +94,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 718,Elementary8,Night,20055,AR,M4A1 Mod,200,1,10,10,Optical,HV Round,Exclusive,8492,1167,1
 718,Elementary8,Night,20065,AR,416 Mod,200,1,10,10,Exclusive,HV Round,Exclusive,7594,1044,2
 718,Elementary8,Night,73,AR,AUG,100,0,10,0,Holographic,HV Round,Chip,6054,998,3
-718,Elementary8,Night,106,AR,FAL,100,0,9,0,Red Dot,HV Round,Chip,5788,955,4
+718,Elementary8,Night,106,AR,FAL,100,0,10,0,Red Dot,HV Round,Chip,5820,960,4
 718,Elementary8,Night,20075,MG,M1918 Mod,200,1,10,10,SLAP,Exclusive,Exclusive,14551,909,5
 718,Elementary8,Night,171,AR,Ribeyrolles,100,0,10,0,Red Dot,HV Round,Chip,5508,908,6
 718,Elementary8,Night,54,AR,M16A1,100,0,6,0,HV Round,Armor Plate,Exclusive,6548,900,7
@@ -144,14 +144,14 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 718,Elementary8,Night,263,MG,Gr MG36,100,0,1,0,AP Round,Optical,Ammo Box,8308,519,51
 718,Elementary8,Night,303,HG,HP-35,100,0,10,0,Silencer,HP Round,X-Exo,3765,517,52
 718,Elementary8,Night,260,HG,PA-15,100,0,10,0,Silencer,HP Round,X-Exo,3745,514,53
-718,Elementary8,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,502,54
-718,Elementary8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,501,55
-718,Elementary8,Night,85,MG,PK,100,0,10,0,AP Round,Red Dot,Ammo Box,7994,499,56
-718,Elementary8,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,498,57
-718,Elementary8,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,498,58
-718,Elementary8,Night,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7960,497,59
-718,Elementary8,Night,77,MG,M2HB,100,0,8,0,AP Round,Red Dot,Ammo Box,7951,496,60
-718,Elementary8,Night,185,MG,Ameli,100,0,2,0,AP Round,Optical,Ammo Box,7871,491,61
+718,Elementary8,Night,1033,MG,Hanazono Yurine,100,0,1,0,AP Round,Exclusive,Ammo Box,8124,507,54
+718,Elementary8,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,502,55
+718,Elementary8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,501,56
+718,Elementary8,Night,85,MG,PK,100,0,10,0,AP Round,Red Dot,Ammo Box,7994,499,57
+718,Elementary8,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,498,58
+718,Elementary8,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,498,59
+718,Elementary8,Night,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7960,497,60
+718,Elementary8,Night,77,MG,M2HB,100,0,8,0,AP Round,Red Dot,Ammo Box,7951,496,61
 718,Elementary8,Night,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7827,489,62
 718,Elementary8,Night,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7823,488,63
 718,Elementary8,Night,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7813,488,64
@@ -479,8 +479,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 736,Advanced6,Day,205,AR,AN-94,100,0,10,0,Night Equip,HV Round,T-Exo,5158,967,20
 736,Advanced6,Day,20032,SMG,Micro Uzi Mod,200,1,10,10,T-Exo,HP Round,Night Equip,5953,967,21
 736,Advanced6,Day,274,AR,ACR,100,0,10,0,Night Equip,HV Round,T-Exo,5124,960,22
-736,Advanced6,Day,27,SMG,Skorpion,100,0,10,0,T-Exo,HP Round,Night Equip,4923,959,23
-736,Advanced6,Day,327,SMG,SUB-2000,100,0,1,0,T-Exo,HP Round,Night Equip,4920,959,24
+736,Advanced6,Day,327,SMG,SUB-2000,100,0,1,0,T-Exo,HP Round,Night Equip,4920,959,23
+736,Advanced6,Day,27,SMG,Skorpion,100,0,10,0,T-Exo,HP Round,Night Equip,4923,959,24
 736,Advanced6,Day,228,SMG,100 Shiki,100,0,4,0,T-Exo,Flaregun,Exclusive,5781,939,25
 736,Advanced6,Day,16,SMG,Thompson,100,0,10,0,T-Exo,Flaregun,Silencer,5674,922,26
 736,Advanced6,Day,1023,SMG,Henrietta,100,0,10,0,T-Exo,Flaregun,Exclusive,5568,904,27
@@ -539,10 +539,10 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 736,Advanced6,Day,208,MG,HMG21,100,0,10,0,AP Round,Holographic,Ammo Box,3865,193,80
 736,Advanced6,Day,263,MG,Gr MG36,100,0,1,0,AP Round,Holographic,Ammo Box,3832,191,81
 736,Advanced6,Day,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,3790,189,82
-736,Advanced6,Day,275,MG,M1895 CB,150,1,10,0,AP Round,Holographic,Ammo Box,3741,187,83
+736,Advanced6,Day,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,3744,187,83
 736,Advanced6,Day,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,3755,187,84
 736,Advanced6,Day,276,MG,Kord,150,1,10,0,AP Round,Holographic,Ammo Box,3745,187,85
-736,Advanced6,Day,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,3744,187,86
+736,Advanced6,Day,275,MG,M1895 CB,150,1,10,0,AP Round,Holographic,Ammo Box,3741,187,86
 736,Advanced6,Day,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,3678,183,87
 736,Advanced6,Day,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,3641,182,88
 736,Advanced6,Day,185,MG,Ameli,100,0,2,0,AP Round,Holographic,Ammo Box,3562,178,89
@@ -721,15 +721,15 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 743,Critical3,Night,208,MG,HMG21,100,0,10,0,AP Round,Optical,Ammo Box,8335,416,77
 743,Critical3,Night,276,MG,Kord,150,1,10,0,AP Round,Holographic,Ammo Box,8191,409,78
 743,Critical3,Night,109,MG,Gr MG5,100,0,10,0,AP Round,Optical,Ammo Box,8121,406,79
-743,Critical3,Night,275,MG,M1895 CB,150,1,10,0,AP Round,Optical,Ammo Box,8133,406,80
-743,Critical3,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,399,81
-743,Critical3,Night,185,MG,Ameli,100,0,2,0,AP Round,Optical,Ammo Box,7871,393,82
-743,Critical3,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,387,83
-743,Critical3,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,380,84
-743,Critical3,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,379,85
-743,Critical3,Night,85,MG,PK,100,0,10,0,AP Round,Holographic,Ammo Box,7540,377,86
-743,Critical3,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,370,87
-743,Critical3,Night,77,MG,M2HB,100,0,8,0,AP Round,Holographic,Ammo Box,7380,369,88
+743,Critical3,Night,1033,MG,Hanazono Yurine,100,0,1,0,AP Round,Exclusive,Ammo Box,8124,406,80
+743,Critical3,Night,275,MG,M1895 CB,150,1,10,0,AP Round,Optical,Ammo Box,8133,406,81
+743,Critical3,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,399,82
+743,Critical3,Night,185,MG,Ameli,100,0,2,0,AP Round,Optical,Ammo Box,7871,393,83
+743,Critical3,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,387,84
+743,Critical3,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,380,85
+743,Critical3,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,379,86
+743,Critical3,Night,85,MG,PK,100,0,10,0,AP Round,Holographic,Ammo Box,7540,377,87
+743,Critical3,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,370,88
 743,Critical3,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,360,89
 743,Critical3,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,357,90
 743,Critical3,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,351,91
@@ -910,9 +910,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 748,Critical8,Day,263,MG,Gr MG36,100,0,1,0,AP Round,Holographic,Ammo Box,3832,287,81
 748,Critical8,Day,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,3790,284,82
 748,Critical8,Day,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,3755,281,83
-748,Critical8,Day,275,MG,M1895 CB,150,1,10,0,AP Round,Holographic,Ammo Box,3741,280,84
+748,Critical8,Day,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,3744,280,84
 748,Critical8,Day,276,MG,Kord,150,1,10,0,AP Round,Holographic,Ammo Box,3745,280,85
-748,Critical8,Day,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,3744,280,86
+748,Critical8,Day,275,MG,M1895 CB,150,1,10,0,AP Round,Holographic,Ammo Box,3741,280,86
 748,Critical8,Day,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,3678,275,87
 748,Critical8,Day,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,3641,273,88
 748,Critical8,Day,185,MG,Ameli,100,0,2,0,AP Round,Holographic,Ammo Box,3562,267,89
