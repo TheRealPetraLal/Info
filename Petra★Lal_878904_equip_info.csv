@@ -441,7 +441,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34923506,224,RMR,?????,RMR T4 Red Dot Sight,111977698,Python,0,20,0,0,0,0%,30%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 34934793,229,SLAP,?????,Mk1000 SLAP,-,-,0,0,0,0,-5,0%,0%,500,0,0,0%,0%,0%,0,10000,10,20,Locked
 34965068,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,5,Locked
-34984268,211,Exclusive,?????,Arisaka AP Rounds,114121873,4 Shiki,5,0,0,0,0,0%,0%,120,0,0,0%,0%,0%,0,1,0,6,Locked
+34984268,211,Exclusive,?????,Arisaka AP Rounds,114121873,4 Shiki,7,0,0,0,0,0%,0%,144,0,0,0%,0%,0%,0,4901,4,6,Locked
 34985972,229,SLAP,?????,Mk1000 SLAP,147949376,Kord,0,0,0,0,-5,0%,0%,500,0,0,0%,0%,0%,0,10000,10,24,Locked
 35034072,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35040213,231,Birdshot,?????,#7.5 Birdshot,-,-,0,0,0,0,6,-18%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -457,3 +457,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35078175,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35078176,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35094118,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+35126399,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+35126400,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+35126401,18,Armor-piercing,???,M993 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,69,0,0,0%,0%,0%,0,0,0,0,
+35130648,223,RMR,????,RMR T2 Red Dot Sight,-,-,0,7,0,0,0,0%,10%,0,0,0,0%,0%,0%,0,0,0,0,
+35130649,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
+35130650,13,Night Equipment,??,PEQ-2,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,53%,0,0,0,0,
+35130651,63,Suppressor,??,AC1 Suppressor,-,-,0,0,2,0,0,0%,4%,0,0,0,0%,0%,0%,0,0,0,0,
+35130798,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
