@@ -452,7 +452,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35073383,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
 35076064,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
 35076067,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-35077487,234,Chipset,?????,#2 Processor,-,-,12,0,0,0,18,-50%,0%,0,0,0,0%,0%,0%,0,6000,8,0,Locked
+35077487,234,Chipset,?????,#2 Processor,-,-,13,0,0,0,20,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 35078156,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,8,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,Locked
 35078175,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35078176,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -478,3 +478,19 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35105085,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
 35105086,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
 35105087,29,High-velocity,??,FMJ High-Velocity Ammo,-,-,2,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35108220,63,Suppressor,??,AC1 Suppressor,-,-,0,0,2,0,0,0%,4%,0,0,0,0%,0%,0%,0,0,0,0,
+35108221,64,Suppressor,???,AC2 Suppressor,-,-,0,0,3,0,0,0%,6%,0,0,0,0%,0%,0%,0,0,0,0,
+35108222,73,Buckshot,??,#1 Buckshot,-,-,1,0,0,0,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35108223,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+35109382,232,Chipset,???,Experimental Processor,-,-,2,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35109383,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+35109384,87,Camouflage Cape,??,Ragged Cape,-,-,0,0,0,-3,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35109385,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+35109992,19,Armor-piercing,????,Mk169 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,90,0,0,0%,0%,0%,0,0,0,0,
+35109993,63,Suppressor,??,AC1 Suppressor,-,-,0,0,2,0,0,0%,4%,0,0,0,0%,0%,0%,0,0,0,0,
+35109994,64,Suppressor,???,AC2 Suppressor,-,-,0,0,3,0,0,0%,7%,0,0,0,0%,0%,0%,0,0,0,0,
+35109995,226,M1022 AP,????,M33 Sniper Rounds,-,-,1,0,0,0,0,0%,0%,54,0,0,0%,0%,0%,0,0,0,0,
+35118005,228,SLAP,????,Mk900 SLAP,-,-,0,0,0,0,-5,0%,0%,194,0,0,0%,0%,0%,0,0,0,0,
+35118006,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+35118007,223,RMR,????,RMR T2 Red Dot Sight,-,-,0,6,0,0,0,0%,10%,0,0,0,0%,0%,0%,0,0,0,0,
+35118008,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
