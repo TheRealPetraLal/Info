@@ -457,11 +457,8 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35078175,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35078176,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35094118,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-35126399,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
-35126400,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
-35126401,18,Armor-piercing,???,M993 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,69,0,0,0%,0%,0%,0,0,0,0,
-35130648,223,RMR,????,RMR T2 Red Dot Sight,-,-,0,7,0,0,0,0%,10%,0,0,0,0%,0%,0%,0,0,0,0,
 35130649,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
-35130650,13,Night Equipment,??,PEQ-2,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,53%,0,0,0,0,
-35130651,63,Suppressor,??,AC1 Suppressor,-,-,0,0,2,0,0,0%,4%,0,0,0,0%,0%,0%,0,0,0,0,
-35130798,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+35132333,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+35132334,89,Camouflage Cape,????,Urban Camouflage Cape,-,-,0,0,0,-3,0,8%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35132335,29,High-velocity,??,FMJ High-Velocity Ammo,-,-,2,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35132336,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
