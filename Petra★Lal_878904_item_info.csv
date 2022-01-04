@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5779
+item-10,Dummy Core,5800
 item-31,Basic Training Data,3938
 item-32,Intermediate Training Data,9278
 item-33,Advanced Training Data,5171
 -1,kalina_level,30
 -1,kalina_favor,292489
-item-1,T-Doll Contract,1565
-item-2,Equipment Contract,1179
-item-3,Quick Production Contract,1428
-item-4,Quick Repair Contract,6320
+item-1,T-Doll Contract,1567
+item-2,Equipment Contract,1151
+item-3,Quick Production Contract,1408
+item-4,Quick Repair Contract,6322
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,7
 item-8,Quick Training Contract,29
@@ -20,12 +20,12 @@ item-13,Name Change Card,5
 item-14,Original Sample,1
 item-15,Pure Sample,5
 item-16,Quick Analysis Contract,33
-item-17,Data Patch,19
-item-41,Token,1216
+item-17,Data Patch,20
+item-41,Token,1219
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,2635
-item-45,Memory Fragment,3624
+item-44,Calibration Ticket,2645
+item-45,Memory Fragment,3734
 item-46,Special Combat Report,7490
 item-47,Theater Material,1
 item-50,Universal Parts,1749
@@ -37,8 +37,8 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,4144
-item-507,Surplus EXP,52800
+item-506,Battery,3904
+item-507,Surplus EXP,124608
 item-508,Friendship Points,19490
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
@@ -54,8 +54,8 @@ item-522,Turret,8
 item-525,Quick Auto-Battle Contract,45
 item-601,Infinite Surprise Dye,19
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
-item-604,Electronic Impulse,0
+item-603,Potential Energy,0
+item-604,Electronic Impulse,1
 item-605,Aid Commission,0
 item-606,Transfer Catalyst,205
 item-1001,AAT-52 Icon,1
@@ -250,9 +250,9 @@ item-1914,ID: Cozy Tatami,1
 item-1915,Background: Birthplace of Dreams,1
 item-1916,Background: Promised Dream Hotel,1
 item-1974,To Matka Joanna,1
-item-4001,City's Gift,13567
-item-4002,Snowfield's Gift,14024
-item-4003,Forest's Gift,6856
+item-4001,City's Gift,13592
+item-4002,Snowfield's Gift,14268
+item-4003,Forest's Gift,6881
 item-4004,Wasteland's Gift,1576
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
@@ -372,7 +372,7 @@ gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
 gift-200001,Combat Report,3020
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,1775
+gift-400001,Rapid Growth Disk,1847
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
