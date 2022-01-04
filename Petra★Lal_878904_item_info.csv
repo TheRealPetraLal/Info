@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5760
-item-31,Basic Training Data,3338
-item-32,Intermediate Training Data,8978
-item-33,Advanced Training Data,5321
+item-10,Dummy Core,5779
+item-31,Basic Training Data,3938
+item-32,Intermediate Training Data,9278
+item-33,Advanced Training Data,5171
 -1,kalina_level,30
--1,kalina_favor,292326
-item-1,T-Doll Contract,1559
-item-2,Equipment Contract,1230
-item-3,Quick Production Contract,1484
-item-4,Quick Repair Contract,6307
+-1,kalina_favor,292489
+item-1,T-Doll Contract,1565
+item-2,Equipment Contract,1179
+item-3,Quick Production Contract,1428
+item-4,Quick Repair Contract,6320
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,7
 item-8,Quick Training Contract,29
-item-9,Enhancement Capsule,624
-item-11,Key Card,25
+item-9,Enhancement Capsule,620
+item-11,Key Card,33
 item-12,Points,30
 item-13,Name Change Card,5
-item-14,Original Sample,11
-item-15,Pure Sample,19
-item-16,Quick Analysis Contract,32
+item-14,Original Sample,1
+item-15,Pure Sample,5
+item-16,Quick Analysis Contract,33
 item-17,Data Patch,19
-item-41,Token,1212
+item-41,Token,1216
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,2690
-item-45,Memory Fragment,3574
+item-44,Calibration Ticket,2635
+item-45,Memory Fragment,3624
 item-46,Special Combat Report,7490
 item-47,Theater Material,1
-item-50,Universal Parts,1783
+item-50,Universal Parts,1749
 item-51,New Type Fire-Control Component,33
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,108
@@ -37,21 +37,21 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,4284
-item-507,Surplus EXP,184020
-item-508,Friendship Points,19470
+item-506,Battery,4144
+item-507,Surplus EXP,52800
+item-508,Friendship Points,19490
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,120
 item-513,Dark Star Kernel,14700
 item-514,Petri Dish,1699
 item-515,Basic Training Keycode,31410
-item-516,Advanced Training Keycode,14808
+item-516,Advanced Training Keycode,14408
 item-519,HOC General Data,85
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,42
+item-525,Quick Auto-Battle Contract,45
 item-601,Infinite Surprise Dye,19
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,2
@@ -250,10 +250,10 @@ item-1914,ID: Cozy Tatami,1
 item-1915,Background: Birthplace of Dreams,1
 item-1916,Background: Promised Dream Hotel,1
 item-1974,To Matka Joanna,1
-item-4001,City's Gift,13532
-item-4002,Snowfield's Gift,13668
-item-4003,Forest's Gift,6533
-item-4004,Wasteland's Gift,1545
+item-4001,City's Gift,13567
+item-4002,Snowfield's Gift,14024
+item-4003,Forest's Gift,6856
+item-4004,Wasteland's Gift,1576
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
@@ -261,7 +261,7 @@ item-6004,Commonfolk Standard,0
 item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
-item-6008,One Week's Cake Selection,1
+item-6008,One Week's Cake Selection,0
 item-6009,Sweet Explosives,9
 item-6010,"Baby  B-A-B-Y.",11
 item-6011,Streetside Oden,8
@@ -365,14 +365,14 @@ item-900039,Xmas Supply Box,0
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,575
-gift-100002,Ice Cream Cone,82
-gift-100003,Strawberry Custard Cheesecake,1874
+gift-100002,Ice Cream Cone,83
+gift-100003,Strawberry Custard Cheesecake,1876
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,2940
+gift-200001,Combat Report,3020
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,1739
+gift-400001,Rapid Growth Disk,1775
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
