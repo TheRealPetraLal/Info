@@ -432,7 +432,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34923506,224,RMR,?????,RMR T4 Red Dot Sight,111977698,Python,0,20,0,0,0,0%,30%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 34934793,229,SLAP,?????,Mk1000 SLAP,-,-,0,0,0,0,-5,0%,0%,500,0,0,0%,0%,0%,0,10000,10,20,Locked
 34965068,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,5,Locked
-34984268,211,Exclusive,?????,Arisaka AP Rounds,114121873,4 Shiki,9,0,0,0,0,0%,0%,168,0,0,0%,0%,0%,0,22001,8,6,Locked
+34984268,211,Exclusive,?????,Arisaka AP Rounds,114121873,4 Shiki,9,0,0,0,0,0%,0%,174,0,0,0%,0%,0%,0,26001,9,6,Locked
 34985972,229,SLAP,?????,Mk1000 SLAP,147949376,Kord,0,0,0,0,-5,0%,0%,500,0,0,0%,0%,0%,0,10000,10,24,Locked
 35034072,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35040213,231,Birdshot,?????,#7.5 Birdshot,-,-,0,0,0,0,6,-18%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -467,3 +467,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35227576,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 35235834,227,M1022 AP,?????,M1022 Sniper Rounds,-,-,6,0,0,0,0,0%,0%,73,0,0,0%,0%,0%,0,0,0,0,Locked
 35235857,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+35247425,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-7,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
