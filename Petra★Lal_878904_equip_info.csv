@@ -456,7 +456,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35217694,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,114,0,0,0%,0%,0%,0,0,0,0,Locked
 35217714,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,91%,0,0,0,0,Locked
 35227558,227,M1022 AP,?????,M1022 Sniper Rounds,162590074,ZB-26,7,0,0,0,0,0%,0%,75,0,0,0%,0%,0%,0,0,0,0,Locked
-35227560,227,M1022 AP,?????,M1022 Sniper Rounds,176327976,RPK-16,6,0,0,0,0,0%,0%,71,0,0,0%,0%,0%,0,0,0,0,Locked
+35227560,227,M1022 AP,?????,M1022 Sniper Rounds,176327976,RPK-16,7,0,0,0,0,0%,0%,93,0,0,0%,0%,0%,0,4000,6,0,Locked
 35227576,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 35235834,227,M1022 AP,?????,M1022 Sniper Rounds,147949376,Kord,8,0,0,0,0,0%,0%,110,0,0,0%,0%,0%,0,10000,10,0,Locked
 35235857,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
