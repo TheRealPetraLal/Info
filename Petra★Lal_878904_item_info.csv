@@ -1,32 +1,32 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5558
+item-10,Dummy Core,5569
 item-31,Basic Training Data,8858
 item-32,Intermediate Training Data,7948
 item-33,Advanced Training Data,6498
 -1,kalina_level,30
--1,kalina_favor,311928
-item-1,T-Doll Contract,1691
-item-2,Equipment Contract,455
-item-3,Quick Production Contract,817
-item-4,Quick Repair Contract,6423
+-1,kalina_favor,311953
+item-1,T-Doll Contract,1694
+item-2,Equipment Contract,461
+item-3,Quick Production Contract,818
+item-4,Quick Repair Contract,6429
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,7
 item-8,Quick Training Contract,26
-item-9,Enhancement Capsule,496
+item-9,Enhancement Capsule,497
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,1
-item-15,Pure Sample,7
-item-16,Quick Analysis Contract,50
+item-14,Original Sample,81
+item-15,Pure Sample,13
+item-16,Quick Analysis Contract,51
 item-17,Data Patch,1
-item-41,Token,1443
+item-41,Token,1445
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,325
 item-45,Memory Fragment,4914
-item-46,Special Combat Report,7520
+item-46,Special Combat Report,7530
 item-47,Theater Material,1
 item-50,Universal Parts,1248
 item-51,New Type Fire-Control Component,33
@@ -37,10 +37,10 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,178
+item-506,Battery,87
 item-507,Surplus EXP,240000
-item-508,Friendship Points,21610
-item-509,Fairy Command,182
+item-508,Friendship Points,21750
+item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,170
 item-513,Dark Star Kernel,21100
@@ -51,12 +51,12 @@ item-519,HOC General Data,91
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,78
+item-525,Quick Auto-Battle Contract,81
 item-601,Infinite Surprise Dye,19
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
-item-604,Electronic Impulse,7
-item-605,Aid Commission,51
+item-603,Potential Energy,5
+item-604,Electronic Impulse,2
+item-605,Aid Commission,52
 item-606,Transfer Catalyst,210
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -343,8 +343,8 @@ item-100110,Platinum Medal - Freaky Pandemic,7
 item-100117,Star Ornament,110
 item-100118,Nova Medal·A Snowy Night Capriccio,3
 item-100119,Platinum Medal·A Snowy Night Capriccio,0
-item-100123,Xmas Coin,55
-item-100124,Nova Medal - One Coin Short,432
+item-100123,Xmas Coin,10
+item-100124,Nova Medal - One Coin Short,462
 item-100125,Platinum Medal - One Coin Short,3
 item-110008,Event Points,2600
 item-110009,Event Points,3000
@@ -380,7 +380,7 @@ gift-100003,Strawberry Custard Cheesecake,1917
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,4019
+gift-200001,Combat Report,4099
 gift-400001,Rapid Growth Disk,2038
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
