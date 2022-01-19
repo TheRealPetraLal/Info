@@ -1,31 +1,31 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5590
-item-31,Basic Training Data,8858
-item-32,Intermediate Training Data,8148
-item-33,Advanced Training Data,6457
+item-10,Dummy Core,5605
+item-31,Basic Training Data,9358
+item-32,Intermediate Training Data,8448
+item-33,Advanced Training Data,6060
 -1,kalina_level,30
--1,kalina_favor,311953
-item-1,T-Doll Contract,1697
-item-2,Equipment Contract,448
-item-3,Quick Production Contract,825
-item-4,Quick Repair Contract,6439
+-1,kalina_favor,312116
+item-1,T-Doll Contract,1703
+item-2,Equipment Contract,447
+item-3,Quick Production Contract,828
+item-4,Quick Repair Contract,6443
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,7
 item-8,Quick Training Contract,26
-item-9,Enhancement Capsule,465
+item-9,Enhancement Capsule,466
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,41
-item-15,Pure Sample,33
+item-14,Original Sample,1
+item-15,Pure Sample,9
 item-16,Quick Analysis Contract,52
-item-17,Data Patch,3
-item-41,Token,1461
+item-17,Data Patch,4
+item-41,Token,1464
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,325
-item-45,Memory Fragment,4914
+item-45,Memory Fragment,4954
 item-46,Special Combat Report,7530
 item-47,Theater Material,1
 item-50,Universal Parts,1212
@@ -37,24 +37,24 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,13
-item-507,Surplus EXP,162900
-item-508,Friendship Points,21760
+item-506,Battery,26
+item-507,Surplus EXP,0
+item-508,Friendship Points,21880
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,170
 item-513,Dark Star Kernel,21100
-item-514,Petri Dish,1405
+item-514,Petri Dish,1449
 item-515,Basic Training Keycode,31911
 item-516,Advanced Training Keycode,12539
-item-519,HOC General Data,91
+item-519,HOC General Data,92
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,81
+item-525,Quick Auto-Battle Contract,84
 item-601,Infinite Surprise Dye,19
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,0
 item-604,Electronic Impulse,2
 item-605,Aid Commission,52
 item-606,Transfer Catalyst,210
@@ -257,9 +257,9 @@ item-1992,ID card: Maelstrom of Pink and Purple,1
 item-2013,Icon: Birth of Starlight,1
 item-2016,Icon: Best Partner,2
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,16267
-item-4002,Snowfield's Gift,20795
-item-4003,Forest's Gift,8950
+item-4001,City's Gift,16291
+item-4002,Snowfield's Gift,21012
+item-4003,Forest's Gift,8974
 item-4004,Wasteland's Gift,2586
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
@@ -267,7 +267,7 @@ item-6003,Trove of Meat Buns,0
 item-6004,Commonfolk Standard,0
 item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
-item-6007,Strawberry Cheesecake Slice,1
+item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
 item-6009,Sweet Explosives,1
 item-6010,"Baby  B-A-B-Y.",12
@@ -376,11 +376,11 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,577
 gift-100002,Ice Cream Cone,85
-gift-100003,Strawberry Custard Cheesecake,1917
+gift-100003,Strawberry Custard Cheesecake,1919
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,4259
+gift-200001,Combat Report,4339
 gift-400001,Rapid Growth Disk,2038
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
