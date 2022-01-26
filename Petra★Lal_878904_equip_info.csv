@@ -71,7 +71,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 22807573,76,Buckshot,?????,#000 Buckshot,-,-,7,0,0,0,0,12%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 22809123,12,Red Dot,?????,ITI MARS,-,-,0,11,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 22810884,80,Slug,?????,SABOT Slug,-,-,0,10,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-22893916,8,Holographic,?????,EOT 518,-,-,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
+22893916,8,Holographic,?????,EOT 518,140764628,Gr G11 Mod,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 23054859,8,Holographic,?????,EOT 518,-,-,5,12,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
 23110506,76,Buckshot,?????,#000 Buckshot,-,-,8,0,0,0,0,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23117135,12,Red Dot,?????,ITI MARS,-,-,0,23,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -103,7 +103,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 24351804,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,15,Locked
 24403135,40,T-Exo,?????,IOP T4 Exoskeleton,106392321,Gr G36c,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 24544090,91,Exclusive,?????,Special Warfare Mobile Suit,-,-,0,-20,10,0,-10,0%,0%,0,20,0,0%,0%,0%,0,30000,10,0,Locked
-24597985,16,Night Equipment,?????,PEQ-16A,140764628,Gr G11,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,13,Locked
+24597985,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,13,Locked
 24701524,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,89841765,WA2000,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,8,Locked
 24828827,4,Optical,?????,VFL 6-24X56,89251030,K2,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 24851993,12,Red Dot,?????,ITI MARS,-,-,0,13,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -359,7 +359,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33917131,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,140092305,Type88 Mod,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
 33930708,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 33956904,95,Hollow-point,?????,16Lab Hollow-Point,165154921,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,0,Locked
-33956905,110,High-velocity,?????,16Lab High-Velocity Ammo,140764628,Gr G11,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
+33956905,110,High-velocity,?????,16Lab High-Velocity Ammo,140764628,Gr G11 Mod,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 33981820,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,89713144,FF FN49 Mod,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,17,Locked
 33996499,156,Exclusive,?????,AMP COMPSP,-,-,5,7,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34044674,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,43%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -406,7 +406,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34889705,234,Chipset,?????,#2 Processor,177875706,Vector,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 34889736,12,Red Dot,?????,ITI MARS,-,-,0,11,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 34889824,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
-34889842,234,Chipset,?????,#2 Processor,116296812,SR-3MP,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
+34889842,234,Chipset,?????,#2 Processor,140764628,Gr G11 Mod,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 34905771,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,1,0,0,Locked
 34920650,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,17%,0,0,0,0%,0%,0%,0,1,0,0,
 34923506,224,RMR,?????,RMR T4 Red Dot Sight,111977698,Python,0,20,0,0,0,0%,30%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
@@ -424,8 +424,8 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35076067,225,Flare,?????,Signal Flare,92738349,M950A Mod,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35077487,234,Chipset,?????,#2 Processor,165154921,Vector,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 35078156,72,Hollow-point,?????,ILM Hollow-Point Ammo,106392321,Gr G36c,8,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,Locked
-35078175,225,Flare,?????,Signal Flare,130898923,P22,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-35078176,225,Flare,?????,Signal Flare,177712696,HS2000,0,0,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+35078175,225,Flare,?????,Signal Flare,99164341,C-MS,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+35078176,225,Flare,?????,Signal Flare,130898923,P22,0,0,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35094118,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35132336,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
 35214553,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,111,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -460,7 +460,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35271826,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 35279910,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
 35280523,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,7,0,0%,0%,0%,0,0,0,0,Locked
-35294147,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-6,0,33,0,0,0%,0%,0,0,0,0%,0%,0%,0,6000,8,6,Locked
+35294147,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 35317116,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,22%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35317149,12,Red Dot,?????,ITI MARS,-,-,0,11,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 35324587,165,Exclusive,?????,Tactical Earphones,-,-,5,0,11,0,5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -480,3 +480,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35522836,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,
 35522846,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,17%,0,0,0,0%,0%,0%,0,0,0,0,
 35536199,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35545991,259,Exclusive,?????,Old Camouflage Uniform,-,-,0,0,0,0,0,22%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
