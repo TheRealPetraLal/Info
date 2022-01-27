@@ -1,35 +1,35 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5467
-item-31,Basic Training Data,13018
-item-32,Intermediate Training Data,7748
-item-33,Advanced Training Data,9117
+item-10,Dummy Core,4470
+item-31,Basic Training Data,13238
+item-32,Intermediate Training Data,7808
+item-33,Advanced Training Data,9427
 -1,kalina_level,30
--1,kalina_favor,315012
-item-1,T-Doll Contract,1800
-item-2,Equipment Contract,398
-item-3,Quick Production Contract,902
-item-4,Quick Repair Contract,6513
+-1,kalina_favor,316172
+item-1,T-Doll Contract,1806
+item-2,Equipment Contract,406
+item-3,Quick Production Contract,905
+item-4,Quick Repair Contract,6522
 item-5,Daily Pause Permit,1
-item-7,Oath Certificate,4
+item-7,Oath Certificate,0
 item-8,Quick Training Contract,26
-item-9,Enhancement Capsule,521
+item-9,Enhancement Capsule,562
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,151
-item-15,Pure Sample,9
-item-16,Quick Analysis Contract,60
-item-17,Data Patch,16
-item-41,Token,2191
+item-14,Original Sample,81
+item-15,Pure Sample,10
+item-16,Quick Analysis Contract,63
+item-17,Data Patch,18
+item-41,Token,2252
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,570
-item-45,Memory Fragment,2324
-item-46,Special Combat Report,7770
+item-44,Calibration Ticket,730
+item-45,Memory Fragment,2824
+item-46,Special Combat Report,7970
 item-47,Theater Material,1
-item-50,Universal Parts,628
-item-51,New Type Fire-Control Component,29
+item-50,Universal Parts,642
+item-51,New Type Fire-Control Component,31
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,108
 item-103,Challenger Medal,23
@@ -37,24 +37,24 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,657
-item-507,Surplus EXP,66536
-item-508,Friendship Points,22860
-item-509,Fairy Command,192
+item-506,Battery,696
+item-507,Surplus EXP,74216
+item-508,Friendship Points,22990
+item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,170
 item-513,Dark Star Kernel,22900
 item-514,Petri Dish,1540
-item-515,Basic Training Keycode,33627
-item-516,Advanced Training Keycode,12791
-item-519,HOC General Data,97
+item-515,Basic Training Keycode,33879
+item-516,Advanced Training Keycode,13043
+item-519,HOC General Data,98
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,105
+item-525,Quick Auto-Battle Contract,108
 item-601,Infinite Surprise Dye,22
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,0
 item-604,Electronic Impulse,2
 item-605,Aid Commission,58
 item-606,Transfer Catalyst,210
@@ -269,7 +269,7 @@ item-4003,Forest's Gift,9511
 item-4004,Wasteland's Gift,2991
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
-item-6003,Trove of Meat Buns,0
+item-6003,Trove of Meat Buns,2
 item-6004,Commonfolk Standard,0
 item-6005,Comfort Bucket for One,1
 item-6006,Full Meal for Two,1
@@ -317,8 +317,9 @@ item-100049,Azure Conch,20
 item-100050,Nova Medal – Il Teatrino,1
 item-100051,Platinum Medal – Il Teatrino,7
 item-100052,Augustus,70
-item-100058,item-10100058,38
-item-100059,item-10100059,49
+item-100057,item-10100057,0
+item-100058,item-10100058,49
+item-100059,item-10100059,77
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,15
 item-100064,Nova Medal,1
@@ -366,7 +367,7 @@ item-110015,Event Points,3000
 item-110016,Event Points,2400
 item-110017,Event Points,3000
 item-110018,Event Points,3000
-item-110019,Event Points,160
+item-110019,Event Points,210
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -390,7 +391,7 @@ gift-100003,Strawberry Custard Cheesecake,2038
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,4184
+gift-200001,Combat Report,3424
 gift-400001,Rapid Growth Disk,1770
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
