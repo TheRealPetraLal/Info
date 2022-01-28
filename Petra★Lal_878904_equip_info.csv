@@ -82,7 +82,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 23244473,126,Exclusive,?????,Dinergate RO,-,-,35,14,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,30000,10,26,Locked
 23284364,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,7,Locked
 23335469,80,Slug,?????,SABOT Slug,-,-,0,8,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-23418412,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
+23418412,32,High-velocity,?????,APCR High-Velocity Ammo,164166207,R5,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
 23418477,72,Hollow-point,?????,ILM Hollow-Point Ammo,130415829,P22,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
 23455190,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 23482478,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,10,Locked
@@ -90,7 +90,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 23500625,76,Buckshot,?????,#000 Buckshot,-,-,8,0,0,0,0,11%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23503643,72,Hollow-point,?????,ILM Hollow-Point Ammo,130913655,P22,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
 23503831,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,5,Locked
-23646900,66,Suppressor,?????,AC4 Suppressor,89108029,M1911 Mod,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
+23646900,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 23648291,8,Holographic,?????,EOT 518,-,-,5,10,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 23744267,80,Slug,?????,SABOT Slug,-,-,0,10,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 23849159,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,4,Locked
@@ -209,12 +209,12 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 28414184,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,12%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 28417806,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 28417808,8,Holographic,?????,EOT 518,-,-,5,11,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,6300,8,0,Locked
-28433245,58,X-Exo,?????,IOP X4 Exoskeleton,148772463,ACR,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,2,Locked
+28433245,58,X-Exo,?????,IOP X4 Exoskeleton,111977698,Python,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,2,Locked
 28462913,95,Hollow-point,?????,16Lab Hollow-Point,177875706,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,0,Locked
 28631147,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,6,Locked
 28747936,4,Optical,?????,VFL 6-24X56,140922304,Carcano M91/38,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 28805185,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,94%,0,0,0,0,Locked
-28812122,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,11,Locked
+28812122,4,Optical,?????,VFL 6-24X56,164166207,R5,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,11,Locked
 28840289,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 28844041,32,High-velocity,?????,APCR High-Velocity Ammo,142992712,Angelica,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 28904923,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -284,7 +284,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 31392370,32,High-velocity,?????,APCR High-Velocity Ammo,95214253,AN-94,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,5,Locked
 31402164,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,2,Locked
 31412191,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
-31434919,58,X-Exo,?????,IOP X4 Exoskeleton,111977698,Python,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
+31434919,58,X-Exo,?????,IOP X4 Exoskeleton,164166207,R5,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
 31451485,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,89841765,WA2000,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,14,Locked
 31453555,40,T-Exo,?????,IOP T4 Exoskeleton,92738349,M950A Mod,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 31468943,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,2,Locked
@@ -344,7 +344,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33460583,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,105416005,Lee Enfield,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,2,Locked
 33513092,177,Exclusive,?????,MGP Upgrade Kit,-,-,0,12,0,0,-1,12%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 33560902,80,Slug,?????,SABOT Slug,-,-,0,10,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-33571120,176,Exclusive,?????,7N31,-,-,15,0,0,0,3,0%,0%,35,0,0,0%,0%,0%,0,30000,10,6,Locked
+33571120,176,Exclusive,?????,7N31,143549591,GSh-18 Mod,15,0,0,0,3,0%,0%,35,0,0,0%,0%,0%,0,30000,10,6,Locked
 33587433,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,175094142,De Lisle,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 33616160,80,Slug,?????,SABOT Slug,-,-,0,9,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 33644439,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,140922304,Carcano M91/38,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,8,Locked
@@ -414,7 +414,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34965068,225,Flare,?????,Signal Flare,161816245,Webley,0,0,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,5,Locked
 34984268,211,Exclusive,?????,Arisaka AP Rounds,-,-,10,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,30000,10,6,Locked
 34985972,229,SLAP,?????,Mk1000 SLAP,-,-,0,0,0,0,-5,0%,0%,500,0,0,0%,0%,0%,0,10000,10,24,Locked
-35034072,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+35034072,224,RMR,?????,RMR T4 Red Dot Sight,143549591,GSh-18 Mod,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35040213,231,Birdshot,?????,#7.5 Birdshot,-,-,0,0,0,0,6,-18%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35042970,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35060088,207,Exclusive,?????,PT-3 Stock,124594489,PP-19 Mod,2,0,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,6,Locked
@@ -445,7 +445,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35227560,227,M1022 AP,?????,M1022 Sniper Rounds,90605914,M1918 Mod,10,0,0,0,0,0%,0%,120,0,0,0%,0%,0%,0,10000,10,14,Locked
 35227576,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 35235834,227,M1022 AP,?????,M1022 Sniper Rounds,147949376,Kord,10,0,0,0,0,0%,0%,120,0,0,0%,0%,0%,0,10000,10,20,Locked
-35235857,58,X-Exo,?????,IOP X4 Exoskeleton,95214253,AN-94,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+35235857,58,X-Exo,?????,IOP X4 Exoskeleton,143549591,GSh-18 Mod,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35247425,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 35257934,72,Hollow-point,?????,ILM Hollow-Point Ammo,120756243,El Clear,8,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,0,0,0,Locked
 35266184,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
@@ -468,7 +468,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35342101,72,Hollow-point,?????,ILM Hollow-Point Ammo,114317668,Five-seven,7,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,0,0,0,Locked
 35368236,266,Exclusive,?????,ImpulsIIA/C,-,-,0,0,12,0,0,0%,8%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 35381111,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,21%,0%,0,0,0,0%,0%,0%,0,4000,6,2,Locked
-35394436,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,15%,0%,0,0,0,0%,0%,0%,0,0,0,5,Locked
+35394436,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,21%,0%,0,0,0,0%,0%,0%,0,4000,6,5,Locked
 35431201,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,92%,0,0,0,0,Locked
 35436448,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 35457916,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -484,3 +484,6 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35550716,192,Exclusive,?????,Beloved Dangle,95924334,RO635 Mod,-6,0,45,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,16,Locked
 35565016,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 35565473,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+35578410,227,M1022 AP,?????,M1022 Sniper Rounds,-,-,10,0,0,0,0,0%,0%,120,0,0,0%,0%,0%,0,10000,10,6,Locked
+35578412,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35580999,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
