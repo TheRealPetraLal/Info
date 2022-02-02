@@ -300,7 +300,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 32176642,174,Exclusive,?????,FRAG-12 High Explosive Rounds,-,-,15,20,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,0,Locked
 32195513,44,Armor Plate,?????,Type 3 Armor Plate,164972788,DP-12,0,0,-2,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,4,Locked
 32214095,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,99%,0,0,0,19,Locked
-32217026,72,Hollow-point,?????,ILM Hollow-Point Ammo,92738349,M950A Mod,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
+32217026,72,Hollow-point,?????,ILM Hollow-Point Ammo,177875706,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
 32248286,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 32274432,58,X-Exo,?????,IOP X4 Exoskeleton,173811924,HP-35,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 32396395,115,Exclusive,?????,Digital Camouflage,89547809,SV-98 Mod,6,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,30000,10,6,Locked
@@ -320,7 +320,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 32940469,12,Red Dot,?????,ITI MARS,-,-,0,13,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 32972957,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,20%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33039352,16,Night Equipment,?????,PEQ-16A,90041310,ST AR-15 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,9,Locked
-33039807,72,Hollow-point,?????,ILM Hollow-Point Ammo,114317668,Five-seven,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
+33039807,72,Hollow-point,?????,ILM Hollow-Point Ammo,165154921,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
 33085290,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,12%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 33195336,117,Exclusive,?????,Glorylight,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,0,Locked
 33207524,40,T-Exo,?????,IOP T4 Exoskeleton,130954341,P22,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
