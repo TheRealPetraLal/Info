@@ -44,7 +44,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 21657462,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,1,0,13,Locked
 21744004,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,14,Locked
 21744059,66,Suppressor,?????,AC4 Suppressor,95924334,RO635 Mod,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
-21809659,62,Exclusive,?????,GSG UX Exoskeleton,160340087,Gr MP5 Mod,-10,0,57,0,0,0%,0%,0,0,0,0%,0%,0%,0,25875,9,25,Locked
+21809659,62,Exclusive,?????,GSG UX Exoskeleton,160340087,Gr MP5 Mod,-10,0,57,0,0,0%,0%,0,0,0,0%,0%,0%,0,28375,9,25,Locked
 21809751,62,Exclusive,?????,GSG UX Exoskeleton,90244940,Gr MP5 Mod,-6,0,58,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,16,Locked
 21815923,155,Exclusive,?????,PPK Suppressor,-,-,0,0,18,0,0,0%,26%,0,0,0,0%,0%,0%,0,30000,10,6,Locked
 21860704,8,Holographic,?????,EOT 518,-,-,7,9,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
@@ -470,3 +470,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35592054,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,8,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35619841,80,Slug,?????,SABOT Slug,-,-,0,9,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35619842,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,17%,0,0,0,0%,0%,0%,0,0,0,0,
+35656174,190,Exclusive,?????,G-box,140764628,Gr G11 Mod,10,3,0,0,0,10%,0%,0,0,0,0%,0%,0%,0,1,0,0,
+35663414,6,Holographic,???,EOT 512,-,-,1,2,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35663415,56,X-Exo,???,IOP X2 Exoskeleton,-,-,0,0,4,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35663416,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35663417,56,X-Exo,???,IOP X2 Exoskeleton,-,-,0,0,4,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+35663418,14,Night Equipment,???,PEQ-5,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,63%,0,0,0,0,
+35663419,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,116,0,0,0%,0%,0%,0,0,0,0,Locked
+35663420,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,8,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
