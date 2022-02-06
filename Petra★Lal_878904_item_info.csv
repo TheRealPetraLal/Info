@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4427
-item-31,Basic Training Data,15138
-item-32,Intermediate Training Data,6554
-item-33,Advanced Training Data,9369
+item-10,Dummy Core,4400
+item-31,Basic Training Data,15308
+item-32,Intermediate Training Data,6574
+item-33,Advanced Training Data,9429
 -1,kalina_level,30
 -1,kalina_favor,329918
-item-1,T-Doll Contract,1901
-item-2,Equipment Contract,457
-item-3,Quick Production Contract,992
-item-4,Quick Repair Contract,6521
+item-1,T-Doll Contract,1908
+item-2,Equipment Contract,463
+item-3,Quick Production Contract,993
+item-4,Quick Repair Contract,6526
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,16
-item-9,Enhancement Capsule,727
+item-9,Enhancement Capsule,738
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,11
-item-15,Pure Sample,11
-item-16,Quick Analysis Contract,80
-item-17,Data Patch,39
-item-41,Token,3247
+item-14,Original Sample,1
+item-15,Pure Sample,10
+item-16,Quick Analysis Contract,81
+item-17,Data Patch,40
+item-41,Token,3248
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,380
-item-45,Memory Fragment,2934
+item-44,Calibration Ticket,390
+item-45,Memory Fragment,3094
 item-46,Special Combat Report,7970
 item-47,Theater Material,1
-item-50,Universal Parts,941
+item-50,Universal Parts,949
 item-51,New Type Fire-Control Component,25
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,108
@@ -37,24 +37,24 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,2639
-item-507,Surplus EXP,130320
-item-508,Friendship Points,1060
-item-509,Fairy Command,49
+item-506,Battery,2668
+item-507,Surplus EXP,132384
+item-508,Friendship Points,1070
+item-509,Fairy Command,36
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,170
 item-513,Dark Star Kernel,24600
 item-514,Petri Dish,2022
-item-515,Basic Training Keycode,27449
-item-516,Advanced Training Keycode,12976
+item-515,Basic Training Keycode,27680
+item-516,Advanced Training Keycode,13007
 item-519,HOC General Data,104
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,135
+item-525,Quick Auto-Battle Contract,138
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,3
 item-604,Electronic Impulse,8
 item-605,Aid Commission,86
 item-606,Transfer Catalyst,210
@@ -270,10 +270,10 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,14291
-item-4002,Snowfield's Gift,13402
-item-4003,Forest's Gift,6770
-item-4004,Wasteland's Gift,3599
+item-4001,City's Gift,14779
+item-4002,Snowfield's Gift,13743
+item-4003,Forest's Gift,6801
+item-4004,Wasteland's Gift,3644
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
@@ -281,11 +281,11 @@ item-6004,Commonfolk Standard,0
 item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
-item-6008,One Week's Cake Selection,0
+item-6008,One Week's Cake Selection,1
 item-6009,Sweet Explosives,0
 item-6010,"Baby  B-A-B-Y.",12
 item-6011,Streetside Oden,9
-item-6012,Wild Honeycomb,8
+item-6012,Wild Honeycomb,9
 item-6013,Icy Theater,12
 item-7001,Candy Pocket,0
 item-7004,Lovestruck,0
@@ -325,8 +325,8 @@ item-100050,Nova Medal – Il Teatrino,1
 item-100051,Platinum Medal – Il Teatrino,7
 item-100052,Augustus,70
 item-100057,True Core Mask - Dual Randomness,0
-item-100058,Nova Medal - Dual Randomness,368
-item-100059,Platinum Medal - Dual Randomness,322
+item-100058,Nova Medal - Dual Randomness,380
+item-100059,Platinum Medal - Dual Randomness,328
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,15
 item-100064,Nova Medal,1
@@ -392,13 +392,14 @@ item-900038,Platinum Medal·DJMAX,4
 item-900039,Xmas Supply Box,0
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
+item-2015,Icon: Walking in Solitude,1
 gift-100001,Lollipop,587
 gift-100002,Ice Cream Cone,85
 gift-100003,Strawberry Custard Cheesecake,1811
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,56
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,4665
+gift-200001,Combat Report,4745
 gift-400001,Rapid Growth Disk,2187
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
