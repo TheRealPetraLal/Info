@@ -96,7 +96,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 23849159,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,4,Locked
 24049915,32,High-velocity,?????,APCR High-Velocity Ammo,95214253,AN-94,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 24176985,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,6,Locked
-24198349,72,Hollow-point,?????,ILM Hollow-Point Ammo,173811924,HP-35,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
+24198349,72,Hollow-point,?????,ILM Hollow-Point Ammo,177875706,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
 24222859,76,Buckshot,?????,#000 Buckshot,-,-,7,0,0,0,0,10%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 24271560,4,Optical,?????,VFL 6-24X56,89413427,M4A1 Mod,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,9,Locked
 24295131,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -210,7 +210,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 28417806,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 28417808,8,Holographic,?????,EOT 518,-,-,5,11,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,6300,8,0,Locked
 28433245,58,X-Exo,?????,IOP X4 Exoskeleton,132613878,HS2000,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,2,Locked
-28462913,95,Hollow-point,?????,16Lab Hollow-Point,92738349,M950A Mod,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,0,Locked
+28462913,95,Hollow-point,?????,16Lab Hollow-Point,165154921,Vector,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,0,Locked
 28631147,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,6,Locked
 28747936,4,Optical,?????,VFL 6-24X56,123050147,SRS,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 28805185,16,Night Equipment,?????,PEQ-16A,89108029,M1911 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,94%,0,0,0,0,Locked
@@ -372,7 +372,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34595901,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,97%,0,0,0,0,Locked
 34618927,66,Suppressor,?????,AC4 Suppressor,148302753,P22,0,0,6,0,0,0%,12%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 34632596,12,Red Dot,?????,ITI MARS,-,-,0,13,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-34632781,254,Exclusive,?????,Donut of Sweet Dreams,176901885,Pekola,0,0,0,-3,0,35%,0%,0,0,0,0%,0%,0%,0,6651,5,6,Locked
+34632781,254,Exclusive,?????,Donut of Sweet Dreams,176901885,Pekola,0,0,0,-3,0,35%,0%,0,0,0,0%,0%,0%,0,7051,5,6,Locked
 34632784,252,Exclusive,?????,Grimoire Vol. II,-,-,3,1,0,0,0,0%,20%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34656892,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,89261929,M14 Mod,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,10,Locked
 34663866,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,2,0%,19%,0,0,0,0%,0%,0%,0,1,0,0,Locked
@@ -388,7 +388,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34802832,66,Suppressor,?????,AC4 Suppressor,161816245,Webley,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34813524,40,T-Exo,?????,IOP T4 Exoskeleton,117852540,M950A,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 34877311,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,1,0,0,Locked
-34889705,234,Chipset,?????,#2 Processor,96721836,K11,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
+34889705,234,Chipset,?????,#2 Processor,177875706,Vector,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 34889736,12,Red Dot,?????,ITI MARS,-,-,0,11,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 34889824,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 34889842,234,Chipset,?????,#2 Processor,114056562,Vector,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
@@ -405,7 +405,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35060088,207,Exclusive,?????,PT-3 Stock,-,-,2,0,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,6,Locked
 35068425,80,Slug,?????,SABOT Slug,-,-,0,9,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35076067,225,Flare,?????,Signal Flare,130898923,P22,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-35077487,234,Chipset,?????,#2 Processor,90361470,Micro Uzi Mod,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
+35077487,234,Chipset,?????,#2 Processor,165154921,Vector,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 35078156,72,Hollow-point,?????,ILM Hollow-Point Ammo,161816245,Webley,8,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,Locked
 35078175,225,Flare,?????,Signal Flare,90244940,Gr MP5 Mod,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 35078176,225,Flare,?????,Signal Flare,130415829,P22,0,0,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
