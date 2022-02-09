@@ -61,8 +61,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 714,Elementary4,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,357,60
 714,Elementary4,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,356,61
 714,Elementary4,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,351,62
-714,Elementary4,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,350,63
-714,Elementary4,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,350,64
+714,Elementary4,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,351,63
+714,Elementary4,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,350,64
 714,Elementary4,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,348,65
 714,Elementary4,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,348,66
 714,Elementary4,Night,20051,RF,FF FN49 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,6883,344,67
@@ -222,7 +222,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 718,Elementary8,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,267,106
 718,Elementary8,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,267,107
 718,Elementary8,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,263,108
-718,Elementary8,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,262,109
+718,Elementary8,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,263,109
 718,Elementary8,Night,50,RF,Lee Enfield,100,0,10,0,Sniper Round,Exclusive,Camo Cloak,6708,251,110
 718,Elementary8,Night,1031,RF,Pekola,100,0,10,0,Sniper Round,Optical,Exclusive,6702,251,111
 718,Elementary8,Night,20051,RF,FF FN49 Mod,200,1,10,10,Sniper Round,Exclusive,Camo Cloak,6636,248,112
@@ -291,8 +291,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 724,Intermediate4,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,535,59
 724,Intermediate4,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,534,60
 724,Intermediate4,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,527,61
-724,Intermediate4,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,62
-724,Intermediate4,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,525,63
+724,Intermediate4,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,527,62
+724,Intermediate4,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,63
 724,Intermediate4,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,522,64
 724,Intermediate4,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,522,65
 724,Intermediate4,Night,20051,RF,FF FN49 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,6883,516,66
@@ -425,8 +425,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 728,Intermediate8,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,535,79
 728,Intermediate8,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,534,80
 728,Intermediate8,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,527,81
-728,Intermediate8,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,82
-728,Intermediate8,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,525,83
+728,Intermediate8,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,527,82
+728,Intermediate8,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,83
 728,Intermediate8,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,522,84
 728,Intermediate8,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,522,85
 728,Intermediate8,Night,20051,RF,FF FN49 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,6883,516,86
@@ -479,9 +479,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 733,Advanced3,Night,242,HG,P22,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3992,798,19
 733,Advanced3,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,798,20
 733,Advanced3,Night,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7960,796,21
-733,Advanced3,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,790,22
-733,Advanced3,Night,20005,HG,M1895 Mod,200,1,10,10,Exclusive,HP Round,T-Exo,3953,790,23
-733,Advanced3,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,788,24
+733,Advanced3,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,791,22
+733,Advanced3,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,790,23
+733,Advanced3,Night,20005,HG,M1895 Mod,200,1,10,10,Exclusive,HP Round,T-Exo,3953,790,24
 733,Advanced3,Night,20002,HG,M1911 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,3944,788,25
 733,Advanced3,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,783,26
 733,Advanced3,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,783,27
@@ -683,8 +683,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 736,Advanced6,Day,20051,RF,FF FN49 Mod,200,1,10,10,Sniper Round,Exclusive,Camo Cloak,3390,169,110
 736,Advanced6,Day,257,RF,M200,100,0,10,0,Sniper Round,Optical,Camo Cloak,3367,168,111
 736,Advanced6,Day,197,RF,Carcano M1891,150,1,10,0,Sniper Round,Optical,Camo Cloak,3353,167,112
-736,Advanced6,Day,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,3319,165,113
-736,Advanced6,Day,50,RF,Lee Enfield,100,0,10,0,Sniper Round,Exclusive,Camo Cloak,3319,165,114
+736,Advanced6,Day,316,RF,General Liu,100,0,8,0,Sniper Round,Optical,Camo Cloak,3343,167,113
+736,Advanced6,Day,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,3319,165,114
 736,Advanced6,Day,270,RF,4 Shiki,100,0,10,0,Exclusive,Optical,Camo Cloak,3151,157,115
 738,Advanced8,Night,20055,AR,M4A1 Mod,200,1,10,10,Optical,HV Round,Exclusive,8492,1592,1
 738,Advanced8,Night,20122,AR,Gr G11 Mod,200,1,10,10,Optical,HV Round,Exclusive,7925,1485,2
@@ -771,7 +771,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 738,Advanced8,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,713,83
 738,Advanced8,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,703,84
 738,Advanced8,Night,125,MG,Gr MG4,100,0,10,0,AP Round,Exclusive,Ammo Box,9379,703,85
-738,Advanced8,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,700,86
+738,Advanced8,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,703,86
 738,Advanced8,Night,173,MG,PKP,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9326,699,87
 738,Advanced8,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,696,88
 738,Advanced8,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,696,89
@@ -909,7 +909,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 743,Critical3,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,357,105
 743,Critical3,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,356,106
 743,Critical3,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,351,107
-743,Critical3,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,350,108
+743,Critical3,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,351,108
 743,Critical3,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,348,109
 743,Critical3,Night,1031,RF,Pekola,100,0,10,0,Sniper Round,Optical,Exclusive,6702,335,110
 743,Critical3,Night,20051,RF,FF FN49 Mod,200,1,10,10,Sniper Round,Exclusive,Camo Cloak,6636,331,111
@@ -994,10 +994,10 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 746,Critical6,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,703,75
 746,Critical6,Night,125,MG,Gr MG4,100,0,10,0,AP Round,Exclusive,Ammo Box,9379,703,76
 746,Critical6,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,T-Exo,5624,703,77
-746,Critical6,Night,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Red Dot,6244,702,78
-746,Critical6,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,T-Exo,5610,701,79
-746,Critical6,Night,234,SMG,JS 9,150,1,10,0,T-Exo,HP Round,Red Dot,6225,700,80
-746,Critical6,Night,316,RF,General Liu,100,0,7,0,AP Round,Optical,Camo Cloak,7006,700,81
+746,Critical6,Night,316,RF,General Liu,100,0,8,0,AP Round,Optical,Camo Cloak,7038,703,78
+746,Critical6,Night,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Red Dot,6244,702,79
+746,Critical6,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,T-Exo,5610,701,80
+746,Critical6,Night,234,SMG,JS 9,150,1,10,0,T-Exo,HP Round,Red Dot,6225,700,81
 746,Critical6,Night,194,AR,K2,150,1,10,0,Optical,HV Round,T-Exo,5599,699,82
 746,Critical6,Night,173,MG,PKP,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9326,699,83
 746,Critical6,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,696,84
@@ -1145,6 +1145,6 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 748,Critical8,Day,1031,RF,Pekola,100,0,10,0,Sniper Round,Optical,Exclusive,3397,254,110
 748,Critical8,Day,257,RF,M200,100,0,10,0,Sniper Round,Optical,Camo Cloak,3367,252,111
 748,Critical8,Day,197,RF,Carcano M1891,150,1,10,0,Sniper Round,Optical,Camo Cloak,3353,251,112
-748,Critical8,Day,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,3319,248,113
-748,Critical8,Day,50,RF,Lee Enfield,100,0,10,0,Sniper Round,Exclusive,Camo Cloak,3319,248,114
+748,Critical8,Day,316,RF,General Liu,100,0,8,0,Sniper Round,Optical,Camo Cloak,3343,250,113
+748,Critical8,Day,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,3319,248,114
 748,Critical8,Day,270,RF,4 Shiki,100,0,10,0,Exclusive,Optical,Camo Cloak,3151,236,115
