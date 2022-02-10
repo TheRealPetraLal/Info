@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4424
-item-31,Basic Training Data,15638
-item-32,Intermediate Training Data,7258
+item-10,Dummy Core,4454
+item-31,Basic Training Data,15658
+item-32,Intermediate Training Data,7454
 item-33,Advanced Training Data,9554
 -1,kalina_level,30
 -1,kalina_favor,338418
-item-1,T-Doll Contract,1941
-item-2,Equipment Contract,459
-item-3,Quick Production Contract,1017
-item-4,Quick Repair Contract,6521
+item-1,T-Doll Contract,1947
+item-2,Equipment Contract,466
+item-3,Quick Production Contract,1023
+item-4,Quick Repair Contract,6524
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,16
@@ -17,11 +17,11 @@ item-9,Enhancement Capsule,810
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,71
-item-15,Pure Sample,47
+item-14,Original Sample,11
+item-15,Pure Sample,14
 item-16,Quick Analysis Contract,87
-item-17,Data Patch,46
-item-41,Token,3394
+item-17,Data Patch,47
+item-41,Token,3396
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,450
@@ -37,17 +37,17 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,4423
-item-507,Surplus EXP,141720
-item-508,Friendship Points,1600
-item-509,Fairy Command,31
+item-506,Battery,4256
+item-507,Surplus EXP,21720
+item-508,Friendship Points,1630
+item-509,Fairy Command,61
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,170
 item-513,Dark Star Kernel,24900
-item-514,Petri Dish,2110
+item-514,Petri Dish,2154
 item-515,Basic Training Keycode,30680
 item-516,Advanced Training Keycode,13738
-item-519,HOC General Data,105
+item-519,HOC General Data,106
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
@@ -55,7 +55,7 @@ item-525,Quick Auto-Battle Contract,150
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,2
-item-604,Electronic Impulse,6
+item-604,Electronic Impulse,9
 item-605,Aid Commission,141
 item-606,Transfer Catalyst,210
 item-1001,AAT-52 Icon,1
@@ -271,10 +271,10 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,15464
+item-4001,City's Gift,15498
 item-4002,Snowfield's Gift,14146
-item-4003,Forest's Gift,7561
-item-4004,Wasteland's Gift,772
+item-4003,Forest's Gift,7595
+item-4004,Wasteland's Gift,1112
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
@@ -283,7 +283,7 @@ item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
-item-6009,Sweet Explosives,3
+item-6009,Sweet Explosives,2
 item-6010,"Baby  B-A-B-Y.",12
 item-6011,Streetside Oden,10
 item-6012,Wild Honeycomb,10
@@ -376,7 +376,7 @@ item-110015,Event Points,3000
 item-110016,Event Points,2400
 item-110017,Event Points,3000
 item-110018,Event Points,3000
-item-110019,Event Points,2080
+item-110019,Event Points,2130
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -396,11 +396,11 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,587
 gift-100002,Ice Cream Cone,85
-gift-100003,Strawberry Custard Cheesecake,1632
+gift-100003,Strawberry Custard Cheesecake,1634
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,56
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,5165
+gift-200001,Combat Report,5325
 gift-400001,Rapid Growth Disk,2496
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
