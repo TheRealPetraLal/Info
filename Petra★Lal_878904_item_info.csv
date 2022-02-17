@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4478
+item-10,Dummy Core,4472
 item-31,Basic Training Data,15408
-item-32,Intermediate Training Data,7778
-item-33,Advanced Training Data,8704
+item-32,Intermediate Training Data,7798
+item-33,Advanced Training Data,8304
 -1,kalina_level,30
 -1,kalina_favor,344606
-item-1,T-Doll Contract,2010
-item-2,Equipment Contract,529
-item-3,Quick Production Contract,1088
-item-4,Quick Repair Contract,6422
+item-1,T-Doll Contract,2012
+item-2,Equipment Contract,528
+item-3,Quick Production Contract,1093
+item-4,Quick Repair Contract,6420
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,10
 item-8,Quick Training Contract,18
-item-9,Enhancement Capsule,866
+item-9,Enhancement Capsule,850
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,11
-item-15,Pure Sample,2
-item-16,Quick Analysis Contract,90
+item-14,Original Sample,21
+item-15,Pure Sample,31
+item-16,Quick Analysis Contract,91
 item-17,Data Patch,59
-item-41,Token,3530
+item-41,Token,3533
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,320
-item-45,Memory Fragment,4654
+item-45,Memory Fragment,4744
 item-46,Special Combat Report,8570
 item-47,Theater Material,1
-item-50,Universal Parts,895
+item-50,Universal Parts,899
 item-51,New Type Fire-Control Component,25
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,108
@@ -37,25 +37,25 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,1660
-item-507,Surplus EXP,240000
-item-508,Friendship Points,2650
-item-509,Fairy Command,41
+item-506,Battery,970
+item-507,Surplus EXP,167658
+item-508,Friendship Points,2660
+item-509,Fairy Command,65
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,250
 item-513,Dark Star Kernel,26000
 item-514,Petri Dish,2685
-item-515,Basic Training Keycode,29436
+item-515,Basic Training Keycode,29886
 item-516,Advanced Training Keycode,13990
 item-519,HOC General Data,108
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,171
+item-525,Quick Auto-Battle Contract,174
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,4
+item-604,Electronic Impulse,5
 item-605,Aid Commission,147
 item-606,Transfer Catalyst,210
 item-1001,AAT-52 Icon,1
@@ -272,11 +272,11 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,16245
-item-4002,Snowfield's Gift,18148
-item-4003,Forest's Gift,8064
+item-4001,City's Gift,16276
+item-4002,Snowfield's Gift,18444
+item-4003,Forest's Gift,8095
 item-4004,Wasteland's Gift,1692
-item-6001,Ordinary Meat Bun,0
+item-6001,Ordinary Meat Bun,1
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
 item-6004,Commonfolk Standard,0
@@ -307,7 +307,7 @@ item-8001,Intel Points,2640
 item-8003,Intel Points,0
 item-9003,Supply Box,0
 item-9004,Supply Box,0
-item-9005,Supply Box,0
+item-9005,Supply Box,75
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,0
@@ -328,8 +328,8 @@ item-100050,Nova Medal – Il Teatrino,1
 item-100051,Platinum Medal – Il Teatrino,7
 item-100052,Augustus,70
 item-100057,True Core Mask - Dual Randomness,0
-item-100058,Nova Medal - Dual Randomness,24
-item-100059,Platinum Medal - Dual Randomness,621
+item-100058,Nova Medal - Dual Randomness,70
+item-100059,Platinum Medal - Dual Randomness,657
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,15
 item-100064,Nova Medal,1
@@ -401,8 +401,8 @@ gift-100003,Strawberry Custard Cheesecake,1766
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,56
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,1645
-gift-400001,Rapid Growth Disk,3389
+gift-200001,Combat Report,1805
+gift-400001,Rapid Growth Disk,3561
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
