@@ -75,7 +75,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 714,Elementary4,Night,198,RF,Carcano M91/38,100,0,10,0,AP Round,Optical,Camo Cloak,6552,327,74
 714,Elementary4,Night,204,RF,Ballista,100,0,4,0,AP Round,Optical,Camo Cloak,6466,323,75
 714,Elementary4,Night,148,RF,IWS 2000,100,0,10,0,AP Round,Optical,Camo Cloak,6446,322,76
-714,Elementary4,Night,20124,RF,Super SASS Mod,115.0712,1,10,0,AP Round,Optical,Camo Cloak,6424,321,77
+714,Elementary4,Night,312,RF,VSK-94,100,0,4,0,AP Round,Optical,Camo Cloak,6456,322,77
 714,Elementary4,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,301,78
 714,Elementary4,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,300,79
 714,Elementary4,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,300,80
@@ -314,12 +314,12 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 724,Intermediate4,Night,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7823,488,80
 724,Intermediate4,Night,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7813,488,81
 724,Intermediate4,Night,204,RF,Ballista,100,0,4,0,AP Round,Optical,Camo Cloak,6466,484,82
-724,Intermediate4,Night,148,RF,IWS 2000,100,0,10,0,AP Round,Optical,Camo Cloak,6446,483,83
-724,Intermediate4,Night,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7737,483,84
-724,Intermediate4,Night,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7734,483,85
-724,Intermediate4,Night,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7722,482,86
-724,Intermediate4,Night,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7721,482,87
-724,Intermediate4,Night,20124,RF,Super SASS Mod,115.0712,1,10,0,AP Round,Optical,Camo Cloak,6424,481,88
+724,Intermediate4,Night,312,RF,VSK-94,100,0,4,0,AP Round,Optical,Camo Cloak,6456,484,83
+724,Intermediate4,Night,148,RF,IWS 2000,100,0,10,0,AP Round,Optical,Camo Cloak,6446,483,84
+724,Intermediate4,Night,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7737,483,85
+724,Intermediate4,Night,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7734,483,86
+724,Intermediate4,Night,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7722,482,87
+724,Intermediate4,Night,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7721,482,88
 724,Intermediate4,Night,20161,SG,Type97S Mod,106.1414,1,10,0,Armor Plate,Buckshot Shell,Red Dot,7548,471,89
 724,Intermediate4,Night,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7531,470,90
 724,Intermediate4,Night,189,SG,USAS-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7482,467,91
@@ -450,8 +450,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 728,Intermediate8,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,X-Exo,5604,490,101
 728,Intermediate8,Night,293,AR,AK-15,100,0,10,0,Optical,HV Round,X-Exo,5562,486,102
 728,Intermediate8,Night,204,RF,Ballista,100,0,4,0,AP Round,Optical,Camo Cloak,6466,484,103
-728,Intermediate8,Night,148,RF,IWS 2000,100,0,10,0,AP Round,Optical,Camo Cloak,6446,483,104
-728,Intermediate8,Night,20124,RF,Super SASS Mod,115.0712,1,10,0,AP Round,Optical,Camo Cloak,6424,481,105
+728,Intermediate8,Night,312,RF,VSK-94,100,0,4,0,AP Round,Optical,Camo Cloak,6456,484,104
+728,Intermediate8,Night,148,RF,IWS 2000,100,0,10,0,AP Round,Optical,Camo Cloak,6446,483,105
 728,Intermediate8,Night,1029,AR,Agent 416,100,0,10,0,Optical,HV Round,Exclusive,5222,456,106
 728,Intermediate8,Night,253,MG,Lewis,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9532,357,107
 728,Intermediate8,Night,173,MG,PKP,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9326,349,108
@@ -525,8 +525,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 733,Advanced3,Night,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7359,735,61
 733,Advanced3,Night,162,SG,SPAS-12,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7345,734,62
 733,Advanced3,Night,204,RF,Ballista,100,0,4,0,AP Round,Optical,Camo Cloak,6466,727,63
-733,Advanced3,Night,148,RF,IWS 2000,100,0,10,0,AP Round,Optical,Camo Cloak,6446,725,64
-733,Advanced3,Night,20124,RF,Super SASS Mod,115.0712,1,10,0,AP Round,Optical,Camo Cloak,6424,722,65
+733,Advanced3,Night,312,RF,VSK-94,100,0,4,0,AP Round,Optical,Camo Cloak,6456,726,64
+733,Advanced3,Night,148,RF,IWS 2000,100,0,10,0,AP Round,Optical,Camo Cloak,6446,725,65
 733,Advanced3,Night,20152,SG,M1897 Mod,115.0712,1,10,0,Armor Plate,Birdshot,Red Dot,7056,705,66
 733,Advanced3,Night,326,SG,512,100,0,8,0,Armor Plate,Birdshot,Red Dot,7022,702,67
 733,Advanced3,Night,155,SG,M590,100,0,8,0,Armor Plate,Slug Shell,Holographic,6994,699,68
@@ -552,7 +552,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 733,Advanced3,Night,62,AR,Gr G41,150,1,10,0,Optical,HV Round,Exclusive,6486,567,88
 733,Advanced3,Night,54,AR,M16A1,100,0,7,0,HV Round,T-Exo,Exclusive,6467,565,89
 733,Advanced3,Night,20064,AR,Gr G36 Mod,200,1,10,10,Holographic,HV Round,Chip,6458,565,90
-733,Advanced3,Night,317,RF,Mondragon M1908,79.992,0,1,0,AP Round,Optical,Exclusive,4180,564,91
+733,Advanced3,Night,317,RF,Mondragon M1908,81.9084,0,1,0,AP Round,Optical,Exclusive,4180,564,91
 733,Advanced3,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,545,92
 733,Advanced3,Night,1027,AR,Angelica,100,0,10,0,Optical,HV Round,Exclusive,6211,543,93
 733,Advanced3,Night,1032,AR,Medusa,100,0,10,0,Holographic,HV Round,Exclusive,6206,543,94
