@@ -51,7 +51,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 671762,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Critical I,1,
 672789,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Accuracy I,1,
 674951,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Damage II,1,
-676095,11,??,420,40,Parachute Fairy,11.5,0.0,10.5,2.5,13.0,Fervor,10,Locked
+676095,11,??,435,40,Parachute Fairy,11.5,0.0,10.5,2.5,13.0,Fervor,10,Locked
 677135,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Charge,1,
 677410,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion II,1,
 677538,1008,?,0,1,Kouji,3.2,5.2,12.0,3.2,0.0,Sturdy,1,
@@ -84,7 +84,6 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 710312,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Armor I,1,
 710499,6,?,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Damage I,1,
 710500,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Evasion I,1,
-712623,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Fervor,1,
 713157,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Keen,1,
 713158,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Evasion I,1,
 713177,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Keen,1,
@@ -101,10 +100,11 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 715869,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Critical I,1,
 716460,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Armor I,1,
 717058,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Assault,1,
+717418,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Suppression,1,
 689089,11,?,0,16,Parachute Fairy,7.2,0.0,6.4,1.6,8.0,Accuracy II,10,Locked
 676581,11,?,0,17,Parachute Fairy,7.2,0.0,6.8,1.6,8.0,Keen,10,Locked
-346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 441155,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
+346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 354824,11,????,1580,100,Parachute Fairy,28.8,0.0,25.6,6.4,32.0,Damage I,10,Locked
 465187,22,?????,550,100,Beach Fairy,32.0,0.0,40.0,0.0,32.0,Fervor,10,Locked
 465188,22,?????,550,100,Beach Fairy,32.0,0.0,40.0,0.0,32.0,Damage II,10,Locked
