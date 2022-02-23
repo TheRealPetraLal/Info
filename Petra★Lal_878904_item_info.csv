@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4486
+item-10,Dummy Core,4487
 item-31,Basic Training Data,15248
-item-32,Intermediate Training Data,7838
-item-33,Advanced Training Data,7849
+item-32,Intermediate Training Data,8132
+item-33,Advanced Training Data,7249
 -1,kalina_level,30
 -1,kalina_favor,345824
-item-1,T-Doll Contract,2056
-item-2,Equipment Contract,601
-item-3,Quick Production Contract,1150
-item-4,Quick Repair Contract,6372
+item-1,T-Doll Contract,2059
+item-2,Equipment Contract,610
+item-3,Quick Production Contract,1152
+item-4,Quick Repair Contract,6376
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,8
 item-8,Quick Training Contract,20
@@ -18,10 +18,10 @@ item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
 item-14,Original Sample,11
-item-15,Pure Sample,10
+item-15,Pure Sample,6
 item-16,Quick Analysis Contract,106
-item-17,Data Patch,8
-item-41,Token,3593
+item-17,Data Patch,11
+item-41,Token,3596
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,705
@@ -37,25 +37,25 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,1356
-item-507,Surplus EXP,65160
+item-506,Battery,1062
+item-507,Surplus EXP,151559
 item-508,Friendship Points,3320
-item-509,Fairy Command,76
+item-509,Fairy Command,106
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,250
 item-513,Dark Star Kernel,13300
-item-514,Petri Dish,2033
+item-514,Petri Dish,2077
 item-515,Basic Training Keycode,30642
 item-516,Advanced Training Keycode,16142
 item-519,HOC General Data,111
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,186
+item-525,Quick Auto-Battle Contract,189
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,2
-item-604,Electronic Impulse,7
+item-604,Electronic Impulse,11
 item-605,Aid Commission,154
 item-606,Transfer Catalyst,210
 item-1001,AAT-52 Icon,1
@@ -402,7 +402,7 @@ gift-100003,Strawberry Custard Cheesecake,3894
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,56
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,674
+gift-200001,Combat Report,834
 gift-400001,Rapid Growth Disk,4112
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
