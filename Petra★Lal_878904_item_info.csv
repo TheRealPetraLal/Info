@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4513
-item-31,Basic Training Data,15248
+item-10,Dummy Core,4466
+item-31,Basic Training Data,14648
 item-32,Intermediate Training Data,8230
 item-33,Advanced Training Data,7249
 -1,kalina_level,30
--1,kalina_favor,345824
-item-1,T-Doll Contract,2061
-item-2,Equipment Contract,611
-item-3,Quick Production Contract,1156
-item-4,Quick Repair Contract,6377
+-1,kalina_favor,346627
+item-1,T-Doll Contract,2068
+item-2,Equipment Contract,617
+item-3,Quick Production Contract,1161
+item-4,Quick Repair Contract,6381
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,8
 item-8,Quick Training Contract,20
@@ -17,15 +17,15 @@ item-9,Enhancement Capsule,891
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,21
-item-15,Pure Sample,6
-item-16,Quick Analysis Contract,106
-item-17,Data Patch,13
-item-41,Token,3598
+item-14,Original Sample,31
+item-15,Pure Sample,22
+item-16,Quick Analysis Contract,110
+item-17,Data Patch,16
+item-41,Token,3600
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,855
-item-45,Memory Fragment,5634
+item-44,Calibration Ticket,630
+item-45,Memory Fragment,4734
 item-46,Special Combat Report,8570
 item-47,Theater Material,1
 item-50,Universal Parts,964
@@ -37,26 +37,26 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,644
-item-507,Surplus EXP,182016
-item-508,Friendship Points,3440
-item-509,Fairy Command,136
+item-506,Battery,568
+item-507,Surplus EXP,148362
+item-508,Friendship Points,3450
+item-509,Fairy Command,166
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,250
 item-513,Dark Star Kernel,13300
 item-514,Petri Dish,2099
-item-515,Basic Training Keycode,30642
-item-516,Advanced Training Keycode,16394
-item-519,HOC General Data,111
+item-515,Basic Training Keycode,31146
+item-516,Advanced Training Keycode,16594
+item-519,HOC General Data,112
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,189
+item-525,Quick Auto-Battle Contract,192
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,2
-item-604,Electronic Impulse,11
-item-605,Aid Commission,154
+item-604,Electronic Impulse,7
+item-605,Aid Commission,155
 item-606,Transfer Catalyst,210
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -330,7 +330,7 @@ item-100051,Platinum Medal – Il Teatrino,7
 item-100052,Augustus,70
 item-100057,True Core Mask - Dual Randomness,0
 item-100058,Nova Medal - Dual Randomness,54
-item-100059,Platinum Medal - Dual Randomness,22
+item-100059,Platinum Medal - Dual Randomness,2
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,15
 item-100064,Nova Medal,1
@@ -398,11 +398,11 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,587
 gift-100002,Ice Cream Cone,85
-gift-100003,Strawberry Custard Cheesecake,3894
+gift-100003,Strawberry Custard Cheesecake,3900
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,56
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,1074
+gift-200001,Combat Report,148
 gift-400001,Rapid Growth Disk,4112
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
