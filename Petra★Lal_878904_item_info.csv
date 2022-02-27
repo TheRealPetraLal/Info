@@ -1,14 +1,14 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4634
+item-10,Dummy Core,4747
 item-31,Basic Training Data,12868
 item-32,Intermediate Training Data,6247
-item-33,Advanced Training Data,7462
+item-33,Advanced Training Data,7062
 -1,kalina_level,30
 -1,kalina_favor,347236
-item-1,T-Doll Contract,1991
-item-2,Equipment Contract,652
-item-3,Quick Production Contract,1086
+item-1,T-Doll Contract,1994
+item-2,Equipment Contract,664
+item-3,Quick Production Contract,1088
 item-4,Quick Repair Contract,6392
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,8
@@ -17,15 +17,15 @@ item-9,Enhancement Capsule,879
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,1
-item-15,Pure Sample,18
+item-14,Original Sample,51
+item-15,Pure Sample,38
 item-16,Quick Analysis Contract,113
-item-17,Data Patch,18
+item-17,Data Patch,19
 item-41,Token,3615
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,640
-item-45,Memory Fragment,2254
+item-45,Memory Fragment,2294
 item-46,Special Combat Report,8570
 item-47,Theater Material,1
 item-50,Universal Parts,969
@@ -37,15 +37,15 @@ item-104,Elite Adventurer Medal,5
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,111
-item-507,Surplus EXP,139949
-item-508,Friendship Points,3840
+item-506,Battery,43
+item-507,Surplus EXP,240000
+item-508,Friendship Points,3970
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,250
 item-513,Dark Star Kernel,13300
 item-514,Petri Dish,2247
-item-515,Basic Training Keycode,32050
+item-515,Basic Training Keycode,32302
 item-516,Advanced Training Keycode,17446
 item-519,HOC General Data,112
 item-520,Frag Grenade,106
@@ -54,7 +54,7 @@ item-522,Turret,8
 item-525,Quick Auto-Battle Contract,201
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
+item-603,Potential Energy,1
 item-604,Electronic Impulse,9
 item-605,Aid Commission,159
 item-606,Transfer Catalyst,210
@@ -403,7 +403,7 @@ gift-100003,Strawberry Custard Cheesecake,3906
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,56
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,113
+gift-200001,Combat Report,273
 gift-400001,Rapid Growth Disk,4350
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
