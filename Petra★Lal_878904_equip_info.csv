@@ -194,7 +194,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 28116863,189,Exclusive,?????,Wristwatch,-,-,4,1,0,0,0,0%,18%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 28116867,186,Exclusive,?????,Bayonet,-,-,8,0,0,0,0,11%,11%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 28116873,184,Exclusive,?????,Fairy Tale Picture Books,-,-,15,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,8,Locked
-28139839,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,6,Locked
+28139839,44,Armor Plate,?????,Type 3 Armor Plate,177001801,Minos,0,0,-2,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,6,Locked
 28139841,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 28223442,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,6,Locked
 28249800,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
@@ -344,7 +344,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33902801,76,Buckshot,?????,#000 Buckshot,-,-,9,0,0,0,0,10%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33917131,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
 33930708,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-33956904,95,Hollow-point,?????,16Lab Hollow-Point,116383794,Stechkin Mod,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,0,Locked
+33956904,95,Hollow-point,?????,16Lab Hollow-Point,128650011,PA-15,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,0,Locked
 33956905,110,High-velocity,?????,16Lab High-Velocity Ammo,89413427,M4A1 Mod,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 33981820,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,17,Locked
 33996499,156,Exclusive,?????,AMP COMPSP,89281536,UMP9 Mod,5,7,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
@@ -378,7 +378,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34663866,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,3,0%,24%,0,0,0,0%,0%,0%,0,1,0,6,Locked
 34679703,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,92%,0,0,0,0,Locked
 34680112,253,Exclusive,?????,Miraculous Curry Ladle,-,-,3,0,22,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,13,0,0,0,18,-50%,0%,0,0,0,0%,0%,0%,0,3301,3,16,Locked
+34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,14,0,0,0,19,-50%,0%,0,0,0,0%,0%,0%,0,3701,4,16,Locked
 34680114,251,Exclusive,?????,Demonic Bell,-,-,0,14,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34692759,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 34768712,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,21%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -494,3 +494,8 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36005169,43,Armor Plate,????,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,
 36005170,29,High-velocity,??,FMJ High-Velocity Ammo,-,-,2,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36005171,223,RMR,????,RMR T2 Red Dot Sight,-,-,0,6,0,0,0,0%,9%,0,0,0,0%,0%,0%,0,0,0,0,
+36018820,206,Exclusive,?????,12-gauge Flechette Rounds,155168503,M1897 Mod,9,4,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,
+36019265,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+36019266,17,Armor-piercing,??,M61 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,49,0,0,0%,0%,0%,0,0,0,0,
+36019267,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+36019268,222,RMR,???,RMR Red Dot Sight,-,-,0,4,0,0,0,0%,5%,0,0,0,0%,0%,0%,0,0,0,0,
