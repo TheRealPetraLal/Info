@@ -294,7 +294,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 31930253,130,Exclusive,?????,Gr G36 Hybrid Sight,-,-,0,8,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,30000,10,16,Locked
 32024635,40,T-Exo,?????,IOP T4 Exoskeleton,106392321,Gr G36c,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,12,Locked
 32043764,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
-32058572,4,Optical,?????,VFL 6-24X56,89413427,M4A1 Mod,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,10,Locked
+32058572,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,10,Locked
 32085035,125,Exclusive,?????,Additional Computing Module,-,-,0,0,15,0,0,0%,25%,0,0,0,0%,0%,0%,0,30000,10,26,Locked
 32128539,136,Exclusive,?????,7.92 KURZ,-,-,23,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,0,Locked
 32176642,174,Exclusive,?????,FRAG-12 High Explosive Rounds,-,-,15,20,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,0,Locked
@@ -340,7 +340,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33795998,106,Exclusive,?????,EOT XPS3,151934555,416 Mod,8,14,0,0,0,0%,25%,0,0,0,0%,0%,0%,0,30000,10,16,Locked
 33806786,76,Buckshot,?????,#000 Buckshot,-,-,8,0,0,0,0,10%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33808843,106,Exclusive,?????,EOT XPS3,89748707,416 Mod,8,14,0,0,0,0%,25%,0,0,0,0%,0%,0%,0,30000,10,6,Locked
-33902764,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,6,Locked
+33902764,16,Night Equipment,?????,PEQ-16A,89413427,M4A1 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,6,Locked
 33902801,76,Buckshot,?????,#000 Buckshot,-,-,9,0,0,0,0,10%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 33917131,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,25%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
 33930708,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -378,7 +378,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34663866,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,3,0%,24%,0,0,0,0%,0%,0%,0,1,0,6,Locked
 34679703,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,92%,0,0,0,0,Locked
 34680112,253,Exclusive,?????,Miraculous Curry Ladle,-,-,3,0,22,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,15,0,0,0,20,-50%,0%,0,0,0,0%,0%,0%,0,5701,5,16,Locked
+34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,15,0,0,0,20,-50%,0%,0,0,0,0%,0%,0%,0,6501,5,16,Locked
 34680114,251,Exclusive,?????,Demonic Bell,-,-,0,14,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34692759,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 34768712,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,21%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -488,7 +488,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36018820,206,Exclusive,?????,12-gauge Flechette Rounds,155168503,M1897 Mod,9,4,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 36026361,234,Chipset,?????,#2 Processor,-,-,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 36031685,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36043911,197,Exclusive,?????,Mk31 Multi-functional Exoskeleton,-,-,-6,0,25,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,
+36043911,197,Exclusive,?????,Mk31 Multi-functional Exoskeleton,-,-,-6,0,25,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 36044421,10,Red Dot,???,AMP COMPM4,-,-,0,4,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36044422,30,High-velocity,???,JSP High-Velocity Ammo,-,-,3,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36044423,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
@@ -519,7 +519,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36065650,64,Suppressor,???,AC2 Suppressor,-,-,0,0,3,0,0,0%,6%,0,0,0,0%,0%,0%,0,0,0,0,
 36066008,222,RMR,???,RMR Red Dot Sight,-,-,0,3,0,0,0,0%,6%,0,0,0,0%,0%,0%,0,0,0,0,
 36066009,38,T-Exo,???,IOP T2 Exoskeleton,-,-,-3,0,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36066010,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,8,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,
+36066010,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,8,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,Locked
 36066011,233,Chipset,????,#1 Processor,-,-,4,0,0,0,8,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36066012,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
 36066013,74,Buckshot,???,#0 Buckshot,-,-,2,0,0,0,0,5%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -535,3 +535,21 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36078193,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
 36082429,79,Slug,????,WAD Slug,-,-,0,5,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36082454,65,Suppressor,????,AC3 Suppressor,-,-,0,0,4,0,0,0%,10%,0,0,0,0%,0%,0%,0,1,0,0,
+36087376,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+36087377,18,Armor-piercing,???,M993 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,68,0,0,0%,0%,0%,0,0,0,0,
+36087378,223,RMR,????,RMR T2 Red Dot Sight,-,-,0,6,0,0,0,0%,9%,0,0,0,0%,0%,0%,0,0,0,0,
+36087379,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+36087380,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,
+36087381,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+36087382,19,Armor-piercing,????,Mk169 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,91,0,0,0%,0%,0%,0,0,0,0,
+36087383,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,
+36094621,233,Chipset,????,#1 Processor,-,-,4,0,0,0,9,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094622,55,X-Exo,??,IOP X1 Exoskeleton,-,-,0,0,2,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094623,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094624,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
+36094625,39,T-Exo,????,IOP T3 Exoskeleton,-,-,-5,0,15,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094626,55,X-Exo,??,IOP X1 Exoskeleton,-,-,0,0,2,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094627,232,Chipset,???,Experimental Processor,-,-,2,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094628,77,Slug,??,BK Slug,-,-,0,1,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094629,10,Red Dot,???,AMP COMPM4,-,-,0,4,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36094630,11,Red Dot,????,COG M150,-,-,0,8,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
