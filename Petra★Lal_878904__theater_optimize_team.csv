@@ -17,109 +17,110 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 714,Elementary4,Night,20064,AR,Gr G36 Mod,200,1,10,10,Holographic,HV Round,Chip,6458,565,16
 714,Elementary4,Night,20143,SMG,RO635 Mod,200,1,10,10,Exclusive,HP Round,Red Dot,7478,560,17
 714,Elementary4,Night,20026,SMG,Gr MP5 Mod,200,1,10,10,Exclusive,HP Round,Exclusive,7423,556,18
-714,Elementary4,Night,20032,SMG,Micro Uzi Mod,200,1,10,10,Chip,HP Round,Exclusive,7397,554,19
-714,Elementary4,Night,20101,SMG,UMP9 Mod,200,1,10,10,Chip,HP Round,Exclusive,7356,551,20
+714,Elementary4,Night,330,AR,FX-05,100,0,1,0,Holographic,HV Round,Chip,5287,555,19
+714,Elementary4,Night,20032,SMG,Micro Uzi Mod,200,1,10,10,Chip,HP Round,Exclusive,7397,554,20
 714,Elementary4,Night,242,HG,P22,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3992,548,21
 714,Elementary4,Night,1027,AR,Angelica,100,0,10,0,Optical,HV Round,Exclusive,6211,543,22
 714,Elementary4,Night,1032,AR,Medusa,100,0,10,0,Holographic,HV Round,Exclusive,6206,543,23
 714,Elementary4,Night,20005,HG,M1895 Mod,200,1,10,10,Exclusive,HP Round,T-Exo,3953,543,24
 714,Elementary4,Night,20002,HG,M1911 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,3944,542,25
-714,Elementary4,Night,20091,HG,MP-446 Mod,200,1,10,10,Auxiliary Sights,HP Round,X-Exo,3894,535,26
-714,Elementary4,Night,10,HG,PPK,100,0,6,0,Exclusive,HP Round,X-Exo,3233,533,27
-714,Elementary4,Night,142,HG,Five-seven,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3880,533,28
-714,Elementary4,Night,233,HG,Px4 Storm,100,0,10,0,Exclusive,HP Round,X-Exo,3872,532,29
-714,Elementary4,Night,4,HG,Python,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3867,531,30
-714,Elementary4,Night,294,HG,Webley,100,0,10,0,Silencer,HP Round,T-Exo,3859,530,31
-714,Elementary4,Night,126,HG,NZ75,100,0,10,0,Exclusive,HP Round,X-Exo,3854,529,32
-714,Elementary4,Night,96,HG,Grizzly,150,1,9,0,Auxiliary Sights,HP Round,T-Exo,3840,528,33
-714,Elementary4,Night,250,HG,HS2000,100,0,10,0,Auxiliary Sights,HP Round,X-Exo,3839,527,34
-714,Elementary4,Night,20061,AR,StG44 Mod,200,1,10,10,Optical,Exclusive,T-Exo,5846,511,35
-714,Elementary4,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,508,36
-714,Elementary4,Night,20136,SMG,PP-19 Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,6731,504,37
-714,Elementary4,Night,206,AR,AK-12,100,0,10,0,Optical,HV Round,T-Exo,5708,499,38
-714,Elementary4,Night,20029,SMG,STEN Mk? Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,6665,499,39
-714,Elementary4,Night,205,AR,AN-94,100,0,10,0,Optical,HV Round,T-Exo,5688,497,40
-714,Elementary4,Night,73,AR,AUG,100,0,10,0,Optical,HV Round,T-Exo,5679,496,41
-714,Elementary4,Night,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,6595,494,42
-714,Elementary4,Night,318,AR,VHS,100,0,10,0,Optical,HV Round,T-Exo,5651,494,43
-714,Elementary4,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,T-Exo,5624,492,44
-714,Elementary4,Night,303,HG,HP-35,100,0,10,0,Silencer,Signal Flare,T-Exo,3578,491,45
-714,Elementary4,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,T-Exo,5610,490,46
-714,Elementary4,Night,194,AR,K2,150,1,10,0,Optical,HV Round,T-Exo,5599,489,47
-714,Elementary4,Night,293,AR,AK-15,100,0,10,0,Optical,HV Round,T-Exo,5580,488,48
-714,Elementary4,Night,330,AR,FX-05,95.6044,0,1,0,Optical,HV Round,T-Exo,4654,488,49
+714,Elementary4,Night,20101,SMG,UMP9 Mod,200,1,10,10,T-Exo,HP Round,Exclusive,7156,536,26
+714,Elementary4,Night,20091,HG,MP-446 Mod,200,1,10,10,Auxiliary Sights,HP Round,X-Exo,3894,535,27
+714,Elementary4,Night,10,HG,PPK,100,0,6,0,Exclusive,HP Round,X-Exo,3233,533,28
+714,Elementary4,Night,142,HG,Five-seven,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3880,533,29
+714,Elementary4,Night,233,HG,Px4 Storm,100,0,10,0,Exclusive,HP Round,X-Exo,3872,532,30
+714,Elementary4,Night,4,HG,Python,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3867,531,31
+714,Elementary4,Night,294,HG,Webley,100,0,10,0,Silencer,HP Round,T-Exo,3859,530,32
+714,Elementary4,Night,126,HG,NZ75,100,0,10,0,Exclusive,HP Round,X-Exo,3854,529,33
+714,Elementary4,Night,96,HG,Grizzly,150,1,9,0,Auxiliary Sights,HP Round,T-Exo,3840,528,34
+714,Elementary4,Night,250,HG,HS2000,100,0,10,0,Auxiliary Sights,HP Round,X-Exo,3839,527,35
+714,Elementary4,Night,20061,AR,StG44 Mod,200,1,10,10,Optical,Exclusive,T-Exo,5846,511,36
+714,Elementary4,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,508,37
+714,Elementary4,Night,20136,SMG,PP-19 Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,6731,504,38
+714,Elementary4,Night,206,AR,AK-12,100,0,10,0,Optical,HV Round,T-Exo,5708,499,39
+714,Elementary4,Night,20029,SMG,STEN Mk? Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,6665,499,40
+714,Elementary4,Night,205,AR,AN-94,100,0,10,0,Optical,HV Round,T-Exo,5688,497,41
+714,Elementary4,Night,73,AR,AUG,100,0,10,0,Optical,HV Round,T-Exo,5679,496,42
+714,Elementary4,Night,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,6595,494,43
+714,Elementary4,Night,318,AR,VHS,100,0,10,0,Optical,HV Round,T-Exo,5651,494,44
+714,Elementary4,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,T-Exo,5624,492,45
+714,Elementary4,Night,303,HG,HP-35,100,0,10,0,Silencer,Signal Flare,T-Exo,3578,491,46
+714,Elementary4,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,T-Exo,5610,490,47
+714,Elementary4,Night,194,AR,K2,150,1,10,0,Optical,HV Round,T-Exo,5599,489,48
+714,Elementary4,Night,293,AR,AK-15,100,0,10,0,Optical,HV Round,T-Exo,5580,488,49
 714,Elementary4,Night,306,AR,AK-Alfa,100,0,10,0,Optical,HV Round,T-Exo,5571,487,50
 714,Elementary4,Night,289,AR,R5,100,0,10,0,Optical,HV Round,T-Exo,5569,487,51
-714,Elementary4,Night,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,Signal Flare,Red Dot,6332,474,52
-714,Elementary4,Night,1029,AR,Agent 416,100,0,10,0,Optical,Exclusive,Exclusive,5222,456,53
-714,Elementary4,Night,1028,SMG,Agent Vector,100,0,10,0,Exclusive,Exclusive,Red Dot,6000,450,54
-714,Elementary4,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,387,55
-714,Elementary4,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,380,56
-714,Elementary4,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,379,57
-714,Elementary4,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,370,58
-714,Elementary4,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,363,59
-714,Elementary4,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,360,60
-714,Elementary4,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,359,61
-714,Elementary4,Night,20081,MG,LWMMG Mod,200,1,10,10,Special AP Round,Exclusive,Ammo Box,14360,359,62
-714,Elementary4,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,357,63
-714,Elementary4,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,357,64
-714,Elementary4,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,356,65
-714,Elementary4,Night,316,RF,General Liu,100,0,10,0,AP Round,Optical,Camo Cloak,7103,355,66
-714,Elementary4,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,351,67
-714,Elementary4,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,350,68
-714,Elementary4,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,348,69
-714,Elementary4,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,348,70
-714,Elementary4,Night,20051,RF,FF FN49 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,6883,344,71
-714,Elementary4,Night,48,RF,WA2000,100,0,10,0,AP Round,Optical,Camo Cloak,6735,336,72
-714,Elementary4,Night,296,RF,Gr SL8,100,0,10,0,AP Round,Optical,Camo Cloak,6719,335,73
-714,Elementary4,Night,329,RF,SVCh,100,0,10,0,AP Round,Optical,Camo Cloak,6697,334,74
-714,Elementary4,Night,312,RF,VSK-94,100,0,10,0,AP Round,Optical,Camo Cloak,6651,332,75
-714,Elementary4,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,331,76
-714,Elementary4,Night,257,RF,M200,100,0,10,0,AP Round,Optical,Camo Cloak,6586,329,77
-714,Elementary4,Night,317,RF,Mondragon M1908,100,0,1,0,AP Round,Optical,Exclusive,6582,329,78
-714,Elementary4,Night,197,RF,Carcano M1891,150,1,10,0,AP Round,Optical,Camo Cloak,6578,328,79
-714,Elementary4,Night,231,RF,M82A1,100,0,8,0,AP Round,Optical,Camo Cloak,6576,328,80
-714,Elementary4,Night,198,RF,Carcano M91/38,100,0,10,0,AP Round,Optical,Camo Cloak,6552,327,81
-714,Elementary4,Night,20124,RF,Super SASS Mod,135.6721,1,10,0,AP Round,Optical,Camo Cloak,6512,325,82
-714,Elementary4,Night,204,RF,Ballista,100,0,5,0,AP Round,Optical,Camo Cloak,6499,324,83
-714,Elementary4,Night,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,8218,308,84
-714,Elementary4,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,301,85
-714,Elementary4,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,300,86
-714,Elementary4,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,300,87
-714,Elementary4,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,300,88
-714,Elementary4,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,299,89
-714,Elementary4,Night,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7960,298,90
-714,Elementary4,Night,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7823,293,91
-714,Elementary4,Night,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7827,293,92
-714,Elementary4,Night,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7813,292,93
-714,Elementary4,Night,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7737,290,94
-714,Elementary4,Night,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7734,290,95
-714,Elementary4,Night,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7722,289,96
-714,Elementary4,Night,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7721,289,97
-714,Elementary4,Night,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7531,282,98
-714,Elementary4,Night,189,SG,USAS-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7482,280,99
-714,Elementary4,Night,1025,SG,Triela,100,0,10,0,Armor Plate,Exclusive,Red Dot,7476,280,100
-714,Elementary4,Night,153,SG,M37,100,0,8,0,Armor Plate,Buckshot Shell,Exclusive,7463,279,101
-714,Elementary4,Night,302,SG,Defender,100,0,10,0,Armor Plate,Exclusive,Red Dot,7441,279,102
-714,Elementary4,Night,162,SG,SPAS-12,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7345,275,103
-714,Elementary4,Night,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Birdshot,Red Dot,7040,264,104
-714,Elementary4,Night,155,SG,M590,100,0,8,0,Armor Plate,Birdshot,Red Dot,7027,263,105
-714,Elementary4,Night,326,SG,512,100,0,8,0,Armor Plate,Slug Shell,Holographic,6972,261,106
-714,Elementary4,Night,158,SG,KS-23,100,0,4,0,Armor Plate,Slug Shell,Red Dot,6852,256,107
-714,Elementary4,Night,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Holographic,6795,254,108
-714,Elementary4,Night,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Holographic,6763,253,109
-714,Elementary4,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,248,110
-714,Elementary4,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Optical,6538,245,111
-714,Elementary4,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,243,112
-714,Elementary4,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,239,113
-714,Elementary4,Night,253,MG,Lewis,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9532,238,114
-714,Elementary4,Night,173,MG,PKP,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9326,233,115
-714,Elementary4,Night,1033,MG,Hanazono Yurine,100,0,10,0,Sniper Round,Exclusive,Ammo Box,8637,215,116
-714,Elementary4,Night,276,MG,Kord,150,1,10,0,Sniper Round,Red Dot,Ammo Box,8315,207,117
-714,Elementary4,Night,263,MG,Gr MG36,100,0,10,0,Sniper Round,Optical,Ammo Box,8216,205,118
-714,Elementary4,Night,292,MG,RPK-16,100,0,10,0,Sniper Round,Optical,Ammo Box,8216,205,119
-714,Elementary4,Night,307,MG,ZB-26,100,0,10,0,Sniper Round,Red Dot,Ammo Box,8149,203,120
-714,Elementary4,Night,208,MG,HMG21,100,0,10,0,Sniper Round,Red Dot,Ammo Box,8104,202,121
+714,Elementary4,Night,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,Signal Flare,Red Dot,6364,477,52
+714,Elementary4,Night,16,SMG,Thompson,100,0,10,0,Exclusive,Signal Flare,Silencer,6260,469,53
+714,Elementary4,Night,1029,AR,Agent 416,100,0,10,0,Optical,Exclusive,Exclusive,5222,456,54
+714,Elementary4,Night,1028,SMG,Agent Vector,100,0,10,0,Exclusive,Exclusive,Red Dot,6000,450,55
+714,Elementary4,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,387,56
+714,Elementary4,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,380,57
+714,Elementary4,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,379,58
+714,Elementary4,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,370,59
+714,Elementary4,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,363,60
+714,Elementary4,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,360,61
+714,Elementary4,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,359,62
+714,Elementary4,Night,20081,MG,LWMMG Mod,200,1,10,10,Special AP Round,Exclusive,Ammo Box,14360,359,63
+714,Elementary4,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,357,64
+714,Elementary4,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,357,65
+714,Elementary4,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,356,66
+714,Elementary4,Night,316,RF,General Liu,100,0,10,0,AP Round,Optical,Camo Cloak,7103,355,67
+714,Elementary4,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,351,68
+714,Elementary4,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,350,69
+714,Elementary4,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,348,70
+714,Elementary4,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,348,71
+714,Elementary4,Night,20051,RF,FF FN49 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,6883,344,72
+714,Elementary4,Night,48,RF,WA2000,100,0,10,0,AP Round,Optical,Camo Cloak,6735,336,73
+714,Elementary4,Night,296,RF,Gr SL8,100,0,10,0,AP Round,Optical,Camo Cloak,6719,335,74
+714,Elementary4,Night,329,RF,SVCh,100,0,10,0,AP Round,Optical,Camo Cloak,6697,334,75
+714,Elementary4,Night,312,RF,VSK-94,100,0,10,0,AP Round,Optical,Camo Cloak,6651,332,76
+714,Elementary4,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,331,77
+714,Elementary4,Night,257,RF,M200,100,0,10,0,AP Round,Optical,Camo Cloak,6586,329,78
+714,Elementary4,Night,317,RF,Mondragon M1908,100,0,1,0,AP Round,Optical,Exclusive,6582,329,79
+714,Elementary4,Night,197,RF,Carcano M1891,150,1,10,0,AP Round,Optical,Camo Cloak,6578,328,80
+714,Elementary4,Night,231,RF,M82A1,100,0,8,0,AP Round,Optical,Camo Cloak,6576,328,81
+714,Elementary4,Night,198,RF,Carcano M91/38,100,0,10,0,AP Round,Optical,Camo Cloak,6552,327,82
+714,Elementary4,Night,20124,RF,Super SASS Mod,137.4538,1,10,0,AP Round,Optical,Camo Cloak,6512,325,83
+714,Elementary4,Night,204,RF,Ballista,100,0,5,0,AP Round,Optical,Camo Cloak,6499,324,84
+714,Elementary4,Night,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,8218,308,85
+714,Elementary4,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,301,86
+714,Elementary4,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,301,87
+714,Elementary4,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,300,88
+714,Elementary4,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,300,89
+714,Elementary4,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,299,90
+714,Elementary4,Night,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7960,298,91
+714,Elementary4,Night,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7823,293,92
+714,Elementary4,Night,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7827,293,93
+714,Elementary4,Night,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7813,292,94
+714,Elementary4,Night,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7737,290,95
+714,Elementary4,Night,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7734,290,96
+714,Elementary4,Night,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7722,289,97
+714,Elementary4,Night,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7721,289,98
+714,Elementary4,Night,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7531,282,99
+714,Elementary4,Night,189,SG,USAS-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7482,280,100
+714,Elementary4,Night,1025,SG,Triela,100,0,10,0,Armor Plate,Exclusive,Red Dot,7476,280,101
+714,Elementary4,Night,153,SG,M37,100,0,8,0,Armor Plate,Buckshot Shell,Exclusive,7463,279,102
+714,Elementary4,Night,302,SG,Defender,100,0,10,0,Armor Plate,Exclusive,Red Dot,7441,279,103
+714,Elementary4,Night,162,SG,SPAS-12,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7345,275,104
+714,Elementary4,Night,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Birdshot,Red Dot,7040,264,105
+714,Elementary4,Night,155,SG,M590,100,0,8,0,Armor Plate,Birdshot,Red Dot,7027,263,106
+714,Elementary4,Night,326,SG,512,100,0,8,0,Armor Plate,Slug Shell,Holographic,6972,261,107
+714,Elementary4,Night,158,SG,KS-23,100,0,4,0,Armor Plate,Slug Shell,Red Dot,6852,256,108
+714,Elementary4,Night,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Holographic,6795,254,109
+714,Elementary4,Night,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Holographic,6763,253,110
+714,Elementary4,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,248,111
+714,Elementary4,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Optical,6538,245,112
+714,Elementary4,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,243,113
+714,Elementary4,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,239,114
+714,Elementary4,Night,253,MG,Lewis,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9532,238,115
+714,Elementary4,Night,173,MG,PKP,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9326,233,116
+714,Elementary4,Night,1033,MG,Hanazono Yurine,100,0,10,0,Sniper Round,Exclusive,Ammo Box,8637,215,117
+714,Elementary4,Night,276,MG,Kord,150,1,10,0,Sniper Round,Red Dot,Ammo Box,8315,207,118
+714,Elementary4,Night,263,MG,Gr MG36,100,0,10,0,Sniper Round,Optical,Ammo Box,8216,205,119
+714,Elementary4,Night,292,MG,RPK-16,100,0,10,0,Sniper Round,Optical,Ammo Box,8216,205,120
+714,Elementary4,Night,307,MG,ZB-26,100,0,10,0,Sniper Round,Red Dot,Ammo Box,8149,203,121
+714,Elementary4,Night,208,MG,HMG21,100,0,10,0,Sniper Round,Red Dot,Ammo Box,8104,202,122
 718,Elementary8,Night,20055,AR,M4A1 Mod,200,1,10,10,Optical,HV Round,Exclusive,8492,1167,1
 718,Elementary8,Night,20122,AR,Gr G11 Mod,200,1,10,10,Optical,HV Round,Exclusive,7946,1092,2
 718,Elementary8,Night,20065,AR,416 Mod,200,1,10,10,Exclusive,HV Round,Exclusive,7594,1044,3
@@ -166,7 +167,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 718,Elementary8,Night,275,MG,M1895 CB,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,8903,556,44
 718,Elementary8,Night,20026,SMG,Gr MP5 Mod,200,1,10,10,Exclusive,HP Round,Exclusive,7423,556,45
 718,Elementary8,Night,109,MG,Gr MG5,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,8864,554,46
-718,Elementary8,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,552,47
+718,Elementary8,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,552,47
 718,Elementary8,Night,242,HG,P22,150,1,10,0,Silencer,HP Round,X-Exo,3957,544,48
 718,Elementary8,Night,20005,HG,M1895 Mod,200,1,10,10,Exclusive,HP Round,T-Exo,3953,543,49
 718,Elementary8,Night,6,HG,Tokarev,100,0,4,0,Silencer,HP Round,T-Exo,3273,540,50
@@ -189,7 +190,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 718,Elementary8,Night,199,MG,Type80,100,0,10,0,AP Round,Red Dot,Ammo Box,8092,505,67
 718,Elementary8,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,502,68
 718,Elementary8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,501,69
-718,Elementary8,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,501,70
+718,Elementary8,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,501,70
 718,Elementary8,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,500,71
 718,Elementary8,Night,85,MG,PK,100,0,10,0,AP Round,Red Dot,Ammo Box,7994,499,72
 718,Elementary8,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,498,73
@@ -204,7 +205,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 718,Elementary8,Night,20136,SMG,PP-19 Mod,200,1,10,10,X-Exo,Signal Flare,Exclusive,6442,483,82
 718,Elementary8,Night,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7722,482,83
 718,Elementary8,Night,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7721,482,84
-718,Elementary8,Night,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,Signal Flare,Red Dot,6332,474,85
+718,Elementary8,Night,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,Signal Flare,Red Dot,6364,477,85
 718,Elementary8,Night,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7531,470,86
 718,Elementary8,Night,16,SMG,Thompson,100,0,10,0,Exclusive,Signal Flare,Silencer,6260,469,87
 718,Elementary8,Night,115,SMG,Suomi,100,0,10,0,Exclusive,Signal Flare,Holographic,6247,468,88
@@ -222,26 +223,27 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 718,Elementary8,Night,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Holographic,6763,422,100
 718,Elementary8,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,413,101
 718,Elementary8,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,6549,409,102
-718,Elementary8,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,405,103
-718,Elementary8,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,398,104
-718,Elementary8,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,290,105
-718,Elementary8,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,285,106
-718,Elementary8,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,284,107
-718,Elementary8,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,277,108
-718,Elementary8,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,270,109
-718,Elementary8,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,269,110
-718,Elementary8,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,267,111
-718,Elementary8,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,267,112
-718,Elementary8,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,267,113
-718,Elementary8,Night,316,RF,General Liu,100,0,10,0,AP Round,Optical,Camo Cloak,7103,266,114
-718,Elementary8,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,263,115
-718,Elementary8,Night,50,RF,Lee Enfield,100,0,10,0,Sniper Round,Exclusive,Camo Cloak,6708,251,116
-718,Elementary8,Night,1031,RF,Pekola,100,0,10,0,Sniper Round,Optical,Exclusive,6702,251,117
-718,Elementary8,Night,20051,RF,FF FN49 Mod,200,1,10,10,Sniper Round,Exclusive,Camo Cloak,6636,248,118
-718,Elementary8,Night,48,RF,WA2000,100,0,10,0,Sniper Round,Optical,Camo Cloak,6479,242,119
-718,Elementary8,Night,296,RF,Gr SL8,100,0,10,0,Sniper Round,Optical,Camo Cloak,6454,242,120
-718,Elementary8,Night,329,RF,SVCh,100,0,10,0,Sniper Round,Optical,Camo Cloak,6460,242,121
-718,Elementary8,Night,270,RF,4 Shiki,100,0,10,0,Exclusive,Optical,Camo Cloak,6393,239,122
+718,Elementary8,Night,20093,SMG,IDW Mod,200,1,1,1,Exclusive,Signal Flare,Holographic,5426,406,103
+718,Elementary8,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,405,104
+718,Elementary8,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,398,105
+718,Elementary8,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,290,106
+718,Elementary8,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,285,107
+718,Elementary8,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,284,108
+718,Elementary8,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,277,109
+718,Elementary8,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,270,110
+718,Elementary8,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,269,111
+718,Elementary8,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,267,112
+718,Elementary8,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,267,113
+718,Elementary8,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,267,114
+718,Elementary8,Night,316,RF,General Liu,100,0,10,0,AP Round,Optical,Camo Cloak,7103,266,115
+718,Elementary8,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,263,116
+718,Elementary8,Night,50,RF,Lee Enfield,100,0,10,0,Sniper Round,Exclusive,Camo Cloak,6708,251,117
+718,Elementary8,Night,1031,RF,Pekola,100,0,10,0,Sniper Round,Optical,Exclusive,6702,251,118
+718,Elementary8,Night,20051,RF,FF FN49 Mod,200,1,10,10,Sniper Round,Exclusive,Camo Cloak,6636,248,119
+718,Elementary8,Night,48,RF,WA2000,100,0,10,0,Sniper Round,Optical,Camo Cloak,6479,242,120
+718,Elementary8,Night,296,RF,Gr SL8,100,0,10,0,Sniper Round,Optical,Camo Cloak,6454,242,121
+718,Elementary8,Night,329,RF,SVCh,100,0,10,0,Sniper Round,Optical,Camo Cloak,6460,242,122
+718,Elementary8,Night,270,RF,4 Shiki,100,0,10,0,Exclusive,Optical,Camo Cloak,6393,239,123
 724,Intermediate4,Night,20055,AR,M4A1 Mod,200,1,10,10,Optical,HV Round,Exclusive,8492,1167,1
 724,Intermediate4,Night,20122,AR,Gr G11 Mod,200,1,10,10,Optical,HV Round,Exclusive,7946,1092,2
 724,Intermediate4,Night,20065,AR,416 Mod,200,1,10,10,Exclusive,HV Round,Exclusive,7594,1044,3
@@ -263,7 +265,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 724,Intermediate4,Night,203,SMG,Honey Badger,100,0,7,0,T-Exo,HP Round,Red Dot,5625,843,19
 724,Intermediate4,Night,20064,AR,Gr G36 Mod,200,1,10,10,Exclusive,HV Round,T-Exo,6123,841,20
 724,Intermediate4,Night,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6710,838,21
-724,Intermediate4,Night,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,HP Round,Red Dot,6537,817,22
+724,Intermediate4,Night,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,HP Round,Red Dot,6569,821,22
 724,Intermediate4,Night,115,SMG,Suomi,100,0,10,0,Exclusive,HP Round,Red Dot,6462,807,23
 724,Intermediate4,Night,16,SMG,Thompson,100,0,10,0,Exclusive,HP Round,Red Dot,6430,803,24
 724,Intermediate4,Night,20061,AR,StG44 Mod,200,1,10,10,Optical,Exclusive,T-Exo,5846,803,25
@@ -294,12 +296,12 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 724,Intermediate4,Night,251,SMG,X95,100,0,10,0,X-Exo,Signal Flare,Red Dot,5577,697,50
 724,Intermediate4,Night,20,SMG,Vector,100,0,10,0,X-Exo,Signal Flare,Red Dot,5520,690,51
 724,Intermediate4,Night,224,SMG,PM-06,100,0,10,0,X-Exo,Signal Flare,Holographic,5504,688,52
-724,Intermediate4,Night,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,4964,682,53
+724,Intermediate4,Night,176,SMG,TMP,100,0,2,0,X-Exo,Signal Flare,Holographic,4567,685,53
 724,Intermediate4,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,581,54
 724,Intermediate4,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,570,55
 724,Intermediate4,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,569,56
 724,Intermediate4,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,555,57
-724,Intermediate4,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,552,58
+724,Intermediate4,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,552,58
 724,Intermediate4,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,545,59
 724,Intermediate4,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,541,60
 724,Intermediate4,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,539,61
@@ -319,7 +321,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 724,Intermediate4,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,502,75
 724,Intermediate4,Night,329,RF,SVCh,100,0,10,0,AP Round,Optical,Camo Cloak,6697,502,76
 724,Intermediate4,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,501,77
-724,Intermediate4,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,501,78
+724,Intermediate4,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,501,78
 724,Intermediate4,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,500,79
 724,Intermediate4,Night,312,RF,VSK-94,100,0,10,0,AP Round,Optical,Camo Cloak,6651,498,80
 724,Intermediate4,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,498,81
@@ -332,7 +334,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 724,Intermediate4,Night,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7827,489,88
 724,Intermediate4,Night,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7823,488,89
 724,Intermediate4,Night,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7813,488,90
-724,Intermediate4,Night,20124,RF,Super SASS Mod,135.6721,1,10,0,AP Round,Optical,Camo Cloak,6512,488,91
+724,Intermediate4,Night,20124,RF,Super SASS Mod,137.4538,1,10,0,AP Round,Optical,Camo Cloak,6512,488,91
 724,Intermediate4,Night,204,RF,Ballista,100,0,5,0,AP Round,Optical,Camo Cloak,6499,487,92
 724,Intermediate4,Night,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7737,483,93
 724,Intermediate4,Night,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7734,483,94
@@ -356,12 +358,13 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 724,Intermediate4,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,398,112
 724,Intermediate4,Night,253,MG,Lewis,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9532,357,113
 724,Intermediate4,Night,173,MG,PKP,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9326,349,114
-724,Intermediate4,Night,276,MG,Kord,150,1,10,0,Sniper Round,Auxiliary Sights,Ammo Box,8773,328,115
+724,Intermediate4,Night,276,MG,Kord,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9136,342,115
 724,Intermediate4,Night,263,MG,Gr MG36,100,0,10,0,Sniper Round,Auxiliary Sights,Ammo Box,8656,324,116
 724,Intermediate4,Night,307,MG,ZB-26,100,0,10,0,Sniper Round,Auxiliary Sights,Ammo Box,8663,324,117
 724,Intermediate4,Night,1033,MG,Hanazono Yurine,100,0,10,0,Sniper Round,Exclusive,Ammo Box,8637,323,118
 724,Intermediate4,Night,208,MG,HMG21,100,0,10,0,Sniper Round,Auxiliary Sights,Ammo Box,8608,322,119
 724,Intermediate4,Night,292,MG,RPK-16,100,0,10,0,Sniper Round,Auxiliary Sights,Ammo Box,8575,321,120
+724,Intermediate4,Night,275,MG,M1895 CB,150,1,10,0,Sniper Round,Auxiliary Sights,Ammo Box,8504,318,121
 728,Intermediate8,Night,213,SMG,C-MS,150,1,10,0,Chip,AP Round,Red Dot,8162,1020,1
 728,Intermediate8,Night,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,4964,992,2
 728,Intermediate8,Night,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7813,937,3
@@ -372,21 +375,21 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 728,Intermediate8,Night,20032,SMG,Micro Uzi Mod,200,1,10,10,Chip,HP Round,Exclusive,7397,924,8
 728,Intermediate8,Night,20101,SMG,UMP9 Mod,200,1,10,10,Chip,HP Round,Exclusive,7356,919,9
 728,Intermediate8,Night,20007,HG,Stechkin Mod,200,1,10,10,Auxiliary Sights,HP Round,Exclusive,4462,892,10
-728,Intermediate8,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,883,11
+728,Intermediate8,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,883,11
 728,Intermediate8,Night,162,SG,SPAS-12,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7345,881,12
 728,Intermediate8,Night,286,SMG,K-PDW,100,0,8,0,Chip,HP Round,Red Dot,5800,870,13
 728,Intermediate8,Night,20136,SMG,PP-19 Mod,200,1,10,10,Chip,HP Round,Red Dot,6919,864,14
 728,Intermediate8,Night,20029,SMG,STEN Mk? Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6809,851,15
 728,Intermediate8,Night,20001,HG,SAA Mod,200,1,10,10,Exclusive,HP Round,T-Exo,4220,844,16
 728,Intermediate8,Night,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6710,838,17
-728,Intermediate8,Night,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,8218,821,18
-728,Intermediate8,Night,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,HP Round,Red Dot,6537,817,19
+728,Intermediate8,Night,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,HP Round,Red Dot,6569,821,18
+728,Intermediate8,Night,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,8218,821,19
 728,Intermediate8,Night,115,SMG,Suomi,100,0,10,0,Exclusive,HP Round,Red Dot,6462,807,20
 728,Intermediate8,Night,209,SMG,OTs-39,100,0,1,0,T-Exo,HP Round,Red Dot,5363,804,21
 728,Intermediate8,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,804,22
 728,Intermediate8,Night,16,SMG,Thompson,100,0,10,0,Exclusive,HP Round,Red Dot,6430,803,23
-728,Intermediate8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,802,24
-728,Intermediate8,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,801,25
+728,Intermediate8,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,803,24
+728,Intermediate8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,802,25
 728,Intermediate8,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,800,26
 728,Intermediate8,Night,1023,SMG,Henrietta,100,0,10,0,T-Exo,HP Round,Exclusive,6395,799,27
 728,Intermediate8,Night,242,HG,P22,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3992,798,28
@@ -414,66 +417,66 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 728,Intermediate8,Night,302,SG,Defender,100,0,10,0,Armor Plate,Exclusive,Red Dot,7441,744,50
 728,Intermediate8,Night,104,SMG,Gr G36c,150,1,10,0,T-Exo,Signal Flare,Holographic,5947,743,51
 728,Intermediate8,Night,20055,AR,M4A1 Mod,200,1,10,10,Optical,HV Round,Exclusive,8492,743,52
-728,Intermediate8,Night,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Birdshot,Red Dot,7040,704,53
-728,Intermediate8,Night,155,SG,M590,100,0,8,0,Armor Plate,Birdshot,Red Dot,7027,702,54
-728,Intermediate8,Night,326,SG,512,100,0,8,0,Armor Plate,Slug Shell,Holographic,6972,697,55
-728,Intermediate8,Night,20122,AR,Gr G11 Mod,200,1,10,10,Optical,HV Round,Exclusive,7946,695,56
-728,Intermediate8,Night,158,SG,KS-23,100,0,4,0,Armor Plate,Slug Shell,Optical,6811,681,57
-728,Intermediate8,Night,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Holographic,6795,679,58
-728,Intermediate8,Night,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Holographic,6763,676,59
-728,Intermediate8,Night,20065,AR,416 Mod,200,1,10,10,Exclusive,HV Round,Exclusive,7594,664,60
-728,Intermediate8,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,661,61
-728,Intermediate8,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,6549,654,62
-728,Intermediate8,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,648,63
-728,Intermediate8,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,638,64
-728,Intermediate8,Night,20056,AR,M4 SOPMOD II Mod,200,1,10,10,Optical,Exclusive,HV Round,7240,633,65
-728,Intermediate8,Night,321,SG,TS12,100,0,1,0,Armor Plate,Slug Shell,Holographic,6288,628,66
-728,Intermediate8,Night,20057,AR,ST AR-15 Mod,200,1,10,10,Optical,Exclusive,Exclusive,6927,606,67
-728,Intermediate8,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,581,68
-728,Intermediate8,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,570,69
-728,Intermediate8,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,569,70
-728,Intermediate8,Night,54,AR,M16A1,100,0,8,0,HV Round,T-Exo,Exclusive,6497,568,71
-728,Intermediate8,Night,62,AR,Gr G41,150,1,10,0,Optical,HV Round,Exclusive,6486,567,72
-728,Intermediate8,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,555,73
-728,Intermediate8,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,545,74
-728,Intermediate8,Night,1027,AR,Angelica,100,0,10,0,Optical,HV Round,Exclusive,6211,543,75
-728,Intermediate8,Night,1032,AR,Medusa,100,0,10,0,Holographic,HV Round,Exclusive,6206,543,76
-728,Intermediate8,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,541,77
-728,Intermediate8,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,539,78
-728,Intermediate8,Night,20081,MG,LWMMG Mod,200,1,10,10,Special AP Round,Exclusive,Ammo Box,14360,538,79
-728,Intermediate8,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,535,80
-728,Intermediate8,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,535,81
-728,Intermediate8,Night,20060,AR,AS Val Mod,200,1,10,10,Optical,Exclusive,T-Exo,6117,535,82
-728,Intermediate8,Night,20064,AR,Gr G36 Mod,200,1,10,10,Exclusive,HV Round,T-Exo,6123,535,83
-728,Intermediate8,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,534,84
-728,Intermediate8,Night,316,RF,General Liu,100,0,10,0,AP Round,Optical,Camo Cloak,7103,532,85
-728,Intermediate8,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,527,86
-728,Intermediate8,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,87
-728,Intermediate8,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,522,88
-728,Intermediate8,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,522,89
-728,Intermediate8,Night,20051,RF,FF FN49 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,6883,516,90
-728,Intermediate8,Night,20061,AR,StG44 Mod,200,1,10,10,Optical,Exclusive,T-Exo,5846,511,91
-728,Intermediate8,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,508,92
-728,Intermediate8,Night,48,RF,WA2000,100,0,10,0,AP Round,Optical,Camo Cloak,6735,505,93
-728,Intermediate8,Night,296,RF,Gr SL8,100,0,10,0,AP Round,Optical,Camo Cloak,6719,503,94
-728,Intermediate8,Night,329,RF,SVCh,100,0,10,0,AP Round,Optical,Camo Cloak,6697,502,95
-728,Intermediate8,Night,206,AR,AK-12,100,0,10,0,Optical,HV Round,T-Exo,5708,499,96
-728,Intermediate8,Night,312,RF,VSK-94,100,0,10,0,AP Round,Optical,Camo Cloak,6651,498,97
-728,Intermediate8,Night,205,AR,AN-94,100,0,10,0,Optical,HV Round,T-Exo,5688,497,98
-728,Intermediate8,Night,73,AR,AUG,100,0,10,0,Optical,HV Round,X-Exo,5646,494,99
-728,Intermediate8,Night,197,RF,Carcano M1891,150,1,10,0,AP Round,Optical,Camo Cloak,6578,493,100
-728,Intermediate8,Night,257,RF,M200,100,0,10,0,AP Round,Optical,Camo Cloak,6586,493,101
-728,Intermediate8,Night,317,RF,Mondragon M1908,100,0,1,0,AP Round,Optical,Exclusive,6582,493,102
-728,Intermediate8,Night,231,RF,M82A1,100,0,8,0,AP Round,Optical,Camo Cloak,6576,493,103
-728,Intermediate8,Night,318,AR,VHS,100,0,10,0,Optical,HV Round,X-Exo,5625,492,104
-728,Intermediate8,Night,198,RF,Carcano M91/38,100,0,10,0,AP Round,Optical,Camo Cloak,6552,491,105
-728,Intermediate8,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,X-Exo,5604,490,106
-728,Intermediate8,Night,20124,RF,Super SASS Mod,135.6721,1,10,0,AP Round,Optical,Camo Cloak,6512,488,107
-728,Intermediate8,Night,204,RF,Ballista,100,0,5,0,AP Round,Optical,Camo Cloak,6499,487,108
-728,Intermediate8,Night,293,AR,AK-15,100,0,10,0,Optical,HV Round,X-Exo,5562,486,109
-728,Intermediate8,Night,194,AR,K2,150,1,10,0,Optical,HV Round,X-Exo,5550,485,110
-728,Intermediate8,Night,306,AR,AK-Alfa,100,0,10,0,Optical,HV Round,X-Exo,5536,484,111
-728,Intermediate8,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,X-Exo,5529,483,112
+728,Intermediate8,Night,259,SMG,PM-9,100,0,10,0,T-Exo,Signal Flare,Holographic,5903,737,53
+728,Intermediate8,Night,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Birdshot,Red Dot,7040,704,54
+728,Intermediate8,Night,155,SG,M590,100,0,8,0,Armor Plate,Birdshot,Red Dot,7027,702,55
+728,Intermediate8,Night,326,SG,512,100,0,8,0,Armor Plate,Slug Shell,Holographic,6972,697,56
+728,Intermediate8,Night,20122,AR,Gr G11 Mod,200,1,10,10,Optical,HV Round,Exclusive,7946,695,57
+728,Intermediate8,Night,158,SG,KS-23,100,0,4,0,Armor Plate,Slug Shell,Optical,6811,681,58
+728,Intermediate8,Night,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Holographic,6795,679,59
+728,Intermediate8,Night,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Holographic,6763,676,60
+728,Intermediate8,Night,20065,AR,416 Mod,200,1,10,10,Exclusive,HV Round,Exclusive,7594,664,61
+728,Intermediate8,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,661,62
+728,Intermediate8,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,6549,654,63
+728,Intermediate8,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,648,64
+728,Intermediate8,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,638,65
+728,Intermediate8,Night,20056,AR,M4 SOPMOD II Mod,200,1,10,10,Optical,Exclusive,HV Round,7240,633,66
+728,Intermediate8,Night,321,SG,TS12,100,0,1,0,Armor Plate,Slug Shell,Holographic,6288,628,67
+728,Intermediate8,Night,20057,AR,ST AR-15 Mod,200,1,10,10,Optical,Exclusive,Exclusive,6927,606,68
+728,Intermediate8,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,581,69
+728,Intermediate8,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,570,70
+728,Intermediate8,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,569,71
+728,Intermediate8,Night,54,AR,M16A1,100,0,8,0,HV Round,T-Exo,Exclusive,6497,568,72
+728,Intermediate8,Night,62,AR,Gr G41,150,1,10,0,Optical,HV Round,Exclusive,6486,567,73
+728,Intermediate8,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,555,74
+728,Intermediate8,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,545,75
+728,Intermediate8,Night,1027,AR,Angelica,100,0,10,0,Optical,HV Round,Exclusive,6211,543,76
+728,Intermediate8,Night,1032,AR,Medusa,100,0,10,0,Holographic,HV Round,Exclusive,6206,543,77
+728,Intermediate8,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,541,78
+728,Intermediate8,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,539,79
+728,Intermediate8,Night,20081,MG,LWMMG Mod,200,1,10,10,Special AP Round,Exclusive,Ammo Box,14360,538,80
+728,Intermediate8,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,535,81
+728,Intermediate8,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,535,82
+728,Intermediate8,Night,20060,AR,AS Val Mod,200,1,10,10,Optical,Exclusive,T-Exo,6117,535,83
+728,Intermediate8,Night,20064,AR,Gr G36 Mod,200,1,10,10,Exclusive,HV Round,T-Exo,6123,535,84
+728,Intermediate8,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,534,85
+728,Intermediate8,Night,316,RF,General Liu,100,0,10,0,AP Round,Optical,Camo Cloak,7103,532,86
+728,Intermediate8,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,527,87
+728,Intermediate8,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,88
+728,Intermediate8,Night,50,RF,Lee Enfield,100,0,10,0,AP Round,Exclusive,Camo Cloak,6968,522,89
+728,Intermediate8,Night,1031,RF,Pekola,100,0,10,0,AP Round,Optical,Exclusive,6968,522,90
+728,Intermediate8,Night,20051,RF,FF FN49 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,6883,516,91
+728,Intermediate8,Night,20061,AR,StG44 Mod,200,1,10,10,Optical,Exclusive,T-Exo,5846,511,92
+728,Intermediate8,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,508,93
+728,Intermediate8,Night,48,RF,WA2000,100,0,10,0,AP Round,Optical,Camo Cloak,6735,505,94
+728,Intermediate8,Night,296,RF,Gr SL8,100,0,10,0,AP Round,Optical,Camo Cloak,6719,503,95
+728,Intermediate8,Night,329,RF,SVCh,100,0,10,0,AP Round,Optical,Camo Cloak,6697,502,96
+728,Intermediate8,Night,206,AR,AK-12,100,0,10,0,Optical,HV Round,T-Exo,5708,499,97
+728,Intermediate8,Night,312,RF,VSK-94,100,0,10,0,AP Round,Optical,Camo Cloak,6651,498,98
+728,Intermediate8,Night,205,AR,AN-94,100,0,10,0,Optical,HV Round,X-Exo,5670,496,99
+728,Intermediate8,Night,73,AR,AUG,100,0,10,0,Optical,HV Round,X-Exo,5646,494,100
+728,Intermediate8,Night,197,RF,Carcano M1891,150,1,10,0,AP Round,Optical,Camo Cloak,6578,493,101
+728,Intermediate8,Night,257,RF,M200,100,0,10,0,AP Round,Optical,Camo Cloak,6586,493,102
+728,Intermediate8,Night,317,RF,Mondragon M1908,100,0,1,0,AP Round,Optical,Exclusive,6582,493,103
+728,Intermediate8,Night,231,RF,M82A1,100,0,8,0,AP Round,Optical,Camo Cloak,6576,493,104
+728,Intermediate8,Night,318,AR,VHS,100,0,10,0,Optical,HV Round,X-Exo,5625,492,105
+728,Intermediate8,Night,198,RF,Carcano M91/38,100,0,10,0,AP Round,Optical,Camo Cloak,6552,491,106
+728,Intermediate8,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,X-Exo,5604,490,107
+728,Intermediate8,Night,20124,RF,Super SASS Mod,137.4538,1,10,0,AP Round,Optical,Camo Cloak,6512,488,108
+728,Intermediate8,Night,204,RF,Ballista,100,0,5,0,AP Round,Optical,Camo Cloak,6499,487,109
+728,Intermediate8,Night,293,AR,AK-15,100,0,10,0,Optical,HV Round,X-Exo,5562,486,110
+728,Intermediate8,Night,194,AR,K2,150,1,10,0,Optical,HV Round,X-Exo,5550,485,111
+728,Intermediate8,Night,306,AR,AK-Alfa,100,0,10,0,Optical,HV Round,X-Exo,5536,484,112
 728,Intermediate8,Night,1029,AR,Agent 416,100,0,10,0,Optical,HV Round,Exclusive,5222,456,113
 728,Intermediate8,Night,253,MG,Lewis,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9532,357,114
 728,Intermediate8,Night,173,MG,PKP,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9326,349,115
@@ -491,7 +494,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 733,Advanced3,Night,329,RF,SVCh,100,0,10,0,AP Round,Optical,Camo Cloak,6697,904,5
 733,Advanced3,Night,20007,HG,Stechkin Mod,200,1,10,10,Auxiliary Sights,HP Round,Exclusive,4462,892,6
 733,Advanced3,Night,317,RF,Mondragon M1908,100,0,1,0,AP Round,Optical,Exclusive,6582,888,7
-733,Advanced3,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,883,8
+733,Advanced3,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,883,8
 733,Advanced3,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,871,9
 733,Advanced3,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,855,10
 733,Advanced3,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,853,11
@@ -503,9 +506,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 733,Advanced3,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,804,17
 733,Advanced3,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,803,18
 733,Advanced3,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,803,19
-733,Advanced3,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,802,20
-733,Advanced3,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,802,21
-733,Advanced3,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,801,22
+733,Advanced3,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,803,20
+733,Advanced3,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,802,21
+733,Advanced3,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,802,22
 733,Advanced3,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,800,23
 733,Advanced3,Night,316,RF,General Liu,100,0,10,0,AP Round,Optical,Camo Cloak,7103,799,24
 733,Advanced3,Night,242,HG,P22,150,1,10,0,Auxiliary Sights,HP Round,X-Exo,3992,798,25
@@ -551,7 +554,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 733,Advanced3,Night,231,RF,M82A1,100,0,8,0,AP Round,Optical,Camo Cloak,6576,739,65
 733,Advanced3,Night,198,RF,Carcano M91/38,100,0,10,0,AP Round,Optical,Camo Cloak,6552,737,66
 733,Advanced3,Night,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7359,735,67
-733,Advanced3,Night,20124,RF,Super SASS Mod,135.6721,1,10,0,AP Round,Optical,Camo Cloak,6512,732,68
+733,Advanced3,Night,20124,RF,Super SASS Mod,137.4538,1,10,0,AP Round,Optical,Camo Cloak,6512,732,68
 733,Advanced3,Night,204,RF,Ballista,100,0,5,0,AP Round,Optical,Camo Cloak,6499,731,69
 733,Advanced3,Night,155,SG,M590,100,0,8,0,Armor Plate,Birdshot,Red Dot,7027,702,70
 733,Advanced3,Night,326,SG,512,100,0,8,0,Armor Plate,Birdshot,Red Dot,7022,702,71
@@ -567,30 +570,30 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 733,Advanced3,Night,99,HG,Gr Mk23,100,0,10,0,Silencer,Signal Flare,T-Exo,3337,667,81
 733,Advanced3,Night,20065,AR,416 Mod,200,1,10,10,Exclusive,HV Round,Exclusive,7594,664,82
 733,Advanced3,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,661,83
-733,Advanced3,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,6549,654,84
-733,Advanced3,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,648,85
-733,Advanced3,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,638,86
-733,Advanced3,Night,20056,AR,M4 SOPMOD II Mod,200,1,10,10,Optical,Exclusive,HV Round,7240,633,87
-733,Advanced3,Night,321,SG,TS12,100,0,1,0,Armor Plate,Slug Shell,Holographic,6288,628,88
-733,Advanced3,Night,213,SMG,C-MS,150,1,10,0,Chip,AP Round,Red Dot,8162,612,89
-733,Advanced3,Night,20057,AR,ST AR-15 Mod,200,1,10,10,Optical,Exclusive,Exclusive,6927,606,90
-733,Advanced3,Night,20060,AR,AS Val Mod,200,1,10,10,Holographic,Exclusive,Chip,6524,570,91
-733,Advanced3,Night,54,AR,M16A1,100,0,8,0,HV Round,T-Exo,Exclusive,6497,568,92
-733,Advanced3,Night,62,AR,Gr G41,150,1,10,0,Optical,HV Round,Exclusive,6486,567,93
-733,Advanced3,Night,20064,AR,Gr G36 Mod,200,1,10,10,Holographic,HV Round,Chip,6458,565,94
-733,Advanced3,Night,20061,AR,StG44 Mod,200,1,10,10,Red Dot,Exclusive,Chip,6306,551,95
-733,Advanced3,Night,206,AR,AK-12,100,0,10,0,Holographic,HV Round,Chip,6249,546,96
-733,Advanced3,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,545,97
-733,Advanced3,Night,1027,AR,Angelica,100,0,10,0,Optical,HV Round,Exclusive,6211,543,98
-733,Advanced3,Night,1032,AR,Medusa,100,0,10,0,Holographic,HV Round,Exclusive,6206,543,99
-733,Advanced3,Night,20081,MG,LWMMG Mod,200,1,10,10,Special AP Round,Exclusive,Ammo Box,14360,538,100
-733,Advanced3,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,101
-733,Advanced3,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,508,102
-733,Advanced3,Night,205,AR,AN-94,100,0,10,0,Optical,HV Round,T-Exo,5688,497,103
-733,Advanced3,Night,73,AR,AUG,100,0,10,0,Optical,HV Round,T-Exo,5679,496,104
-733,Advanced3,Night,318,AR,VHS,100,0,10,0,Optical,HV Round,T-Exo,5651,494,105
-733,Advanced3,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,T-Exo,5624,492,106
-733,Advanced3,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,T-Exo,5610,490,107
+733,Advanced3,Night,20012,HG,C96 Mod,115.1555,1,5,0,Silencer,Signal Flare,T-Exo,3309,661,84
+733,Advanced3,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,6549,654,85
+733,Advanced3,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,648,86
+733,Advanced3,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,638,87
+733,Advanced3,Night,20056,AR,M4 SOPMOD II Mod,200,1,10,10,Optical,Exclusive,HV Round,7240,633,88
+733,Advanced3,Night,321,SG,TS12,100,0,1,0,Armor Plate,Slug Shell,Holographic,6288,628,89
+733,Advanced3,Night,213,SMG,C-MS,150,1,10,0,Chip,AP Round,Red Dot,8162,612,90
+733,Advanced3,Night,20057,AR,ST AR-15 Mod,200,1,10,10,Optical,Exclusive,Exclusive,6927,606,91
+733,Advanced3,Night,20060,AR,AS Val Mod,200,1,10,10,Holographic,Exclusive,Chip,6524,570,92
+733,Advanced3,Night,54,AR,M16A1,100,0,8,0,HV Round,T-Exo,Exclusive,6497,568,93
+733,Advanced3,Night,62,AR,Gr G41,150,1,10,0,Optical,HV Round,Exclusive,6486,567,94
+733,Advanced3,Night,20064,AR,Gr G36 Mod,200,1,10,10,Holographic,HV Round,Chip,6458,565,95
+733,Advanced3,Night,20061,AR,StG44 Mod,200,1,10,10,Red Dot,Exclusive,Chip,6306,551,96
+733,Advanced3,Night,206,AR,AK-12,100,0,10,0,Holographic,HV Round,Chip,6249,546,97
+733,Advanced3,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,545,98
+733,Advanced3,Night,1027,AR,Angelica,100,0,10,0,Optical,HV Round,Exclusive,6211,543,99
+733,Advanced3,Night,1032,AR,Medusa,100,0,10,0,Holographic,HV Round,Exclusive,6206,543,100
+733,Advanced3,Night,20081,MG,LWMMG Mod,200,1,10,10,Special AP Round,Exclusive,Ammo Box,14360,538,101
+733,Advanced3,Night,125,MG,Gr MG4,100,0,10,0,Special AP Round,Exclusive,Ammo Box,14016,525,102
+733,Advanced3,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,508,103
+733,Advanced3,Night,205,AR,AN-94,100,0,10,0,Optical,HV Round,T-Exo,5688,497,104
+733,Advanced3,Night,73,AR,AUG,100,0,10,0,Optical,HV Round,T-Exo,5679,496,105
+733,Advanced3,Night,318,AR,VHS,100,0,10,0,Optical,HV Round,T-Exo,5651,494,106
+733,Advanced3,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,T-Exo,5624,492,107
 733,Advanced3,Night,1029,AR,Agent 416,100,0,10,0,Optical,HV Round,Exclusive,5222,456,108
 733,Advanced3,Night,1028,SMG,Agent Vector,100,0,10,0,Exclusive,Exclusive,Red Dot,6000,450,109
 733,Advanced3,Night,1033,MG,Hanazono Yurine,100,0,10,0,AP Round,Exclusive,Ammo Box,9024,338,110
@@ -611,7 +614,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 736,Advanced6,Day,20064,AR,Gr G36 Mod,200,1,10,10,Night Equip,HV Round,Chip,6095,1142,7
 736,Advanced6,Day,20143,SMG,RO635 Mod,200,1,10,10,Exclusive,HP Round,Night Equip,6956,1130,8
 736,Advanced6,Day,20061,AR,StG44 Mod,200,1,10,10,Night Equip,Exclusive,Chip,5963,1118,9
-736,Advanced6,Day,206,AR,AK-12,100,0,10,0,Night Equip,HV Round,Chip,5916,1109,10
+736,Advanced6,Day,330,AR,FX-05,100,0,1,0,Night Equip,HV Round,Chip,4967,1117,10
 736,Advanced6,Day,1032,AR,Medusa,100,0,10,0,Night Equip,HV Round,Exclusive,5874,1101,11
 736,Advanced6,Day,20057,AR,ST AR-15 Mod,200,1,10,10,Night Equip,Exclusive,Exclusive,5801,1087,12
 736,Advanced6,Day,62,AR,Gr G41,150,1,10,0,Night Equip,HV Round,Exclusive,5775,1082,13
@@ -625,63 +628,63 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 736,Advanced6,Day,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,HP Round,Night Equip,6191,1006,21
 736,Advanced6,Day,73,AR,AUG,100,0,10,0,Night Equip,HV Round,T-Exo,5178,970,22
 736,Advanced6,Day,115,SMG,Suomi,100,0,10,0,Exclusive,HP Round,Night Equip,5967,969,23
-736,Advanced6,Day,205,AR,AN-94,100,0,10,0,Night Equip,HV Round,T-Exo,5158,967,24
-736,Advanced6,Day,20032,SMG,Micro Uzi Mod,200,1,10,10,T-Exo,HP Round,Night Equip,5953,967,25
-736,Advanced6,Day,327,SMG,SUB-2000,100,0,2,0,T-Exo,HP Round,Night Equip,4947,964,26
+736,Advanced6,Day,206,AR,AK-12,100,0,10,0,Night Equip,HV Round,T-Exo,5167,968,24
+736,Advanced6,Day,205,AR,AN-94,100,0,10,0,Night Equip,HV Round,T-Exo,5158,967,25
+736,Advanced6,Day,20032,SMG,Micro Uzi Mod,200,1,10,10,T-Exo,HP Round,Night Equip,5953,967,26
 736,Advanced6,Day,16,SMG,Thompson,100,0,10,0,Exclusive,Signal Flare,Silencer,5840,949,27
 736,Advanced6,Day,228,SMG,100 Shiki,100,0,4,0,T-Exo,Signal Flare,Exclusive,5781,939,28
-736,Advanced6,Day,27,SMG,Skorpion,100,0,10,0,T-Exo,Signal Flare,Silencer,4682,912,29
-736,Advanced6,Day,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,Signal Flare,Silencer,5590,908,30
-736,Advanced6,Day,1023,SMG,Henrietta,100,0,10,0,T-Exo,Signal Flare,Exclusive,5568,904,31
-736,Advanced6,Day,245,SMG,P90,100,0,10,0,T-Exo,HP Round,Silencer,5429,882,32
-736,Advanced6,Day,234,SMG,JS 9,150,1,10,0,T-Exo,HP Round,Silencer,5364,871,33
-736,Advanced6,Day,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Silencer,5331,866,34
-736,Advanced6,Day,104,SMG,Gr G36c,150,1,10,0,T-Exo,HP Round,Silencer,5265,855,35
-736,Advanced6,Day,315,SMG,AUG Para,100,0,7,0,T-Exo,HP Round,Silencer,5201,845,36
-736,Advanced6,Day,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Silencer,5177,841,37
-736,Advanced6,Day,224,SMG,PM-06,100,0,10,0,T-Exo,HP Round,Silencer,5166,839,38
-736,Advanced6,Day,127,SMG,Type79,100,0,10,0,T-Exo,Exclusive,Silencer,5135,834,39
-736,Advanced6,Day,259,SMG,PM-9,100,0,10,0,T-Exo,HP Round,Silencer,5133,834,40
+736,Advanced6,Day,327,SMG,SUB-2000,100,0,2,0,T-Exo,Signal Flare,Silencer,4801,936,29
+736,Advanced6,Day,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,Signal Flare,Silencer,5622,913,30
+736,Advanced6,Day,27,SMG,Skorpion,100,0,10,0,T-Exo,Signal Flare,Silencer,4682,912,31
+736,Advanced6,Day,1023,SMG,Henrietta,100,0,10,0,T-Exo,Signal Flare,Exclusive,5568,904,32
+736,Advanced6,Day,245,SMG,P90,100,0,10,0,T-Exo,HP Round,Silencer,5429,882,33
+736,Advanced6,Day,234,SMG,JS 9,150,1,10,0,T-Exo,HP Round,Silencer,5364,871,34
+736,Advanced6,Day,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Silencer,5331,866,35
+736,Advanced6,Day,104,SMG,Gr G36c,150,1,10,0,T-Exo,HP Round,Silencer,5265,855,36
+736,Advanced6,Day,315,SMG,AUG Para,100,0,7,0,T-Exo,HP Round,Silencer,5201,845,37
+736,Advanced6,Day,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Silencer,5177,841,38
+736,Advanced6,Day,224,SMG,PM-06,100,0,10,0,T-Exo,HP Round,Silencer,5166,839,39
+736,Advanced6,Day,127,SMG,Type79,100,0,10,0,T-Exo,Exclusive,Silencer,5135,834,40
 736,Advanced6,Day,1028,SMG,Agent Vector,100,0,10,0,Exclusive,HP Round,Silencer,4941,802,41
 736,Advanced6,Day,20093,SMG,IDW Mod,200,1,1,1,Exclusive,HP Round,Silencer,4783,777,42
-736,Advanced6,Day,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,7625,667,43
-736,Advanced6,Day,243,AR,64 Shiki,100,0,10,0,Silencer,HV Round,X-Exo,3513,658,44
-736,Advanced6,Day,194,AR,K2,150,1,10,0,Red Dot,HV Round,X-Exo,3501,656,45
-736,Advanced6,Day,306,AR,AK-Alfa,100,0,10,0,Red Dot,HV Round,X-Exo,3474,651,46
-736,Advanced6,Day,236,AR,K11,100,0,10,0,Silencer,HV Round,X-Exo,3460,648,47
-736,Advanced6,Day,274,AR,ACR,100,0,10,0,Red Dot,HV Round,X-Exo,3461,648,48
-736,Advanced6,Day,289,AR,R5,100,0,10,0,Red Dot,HV Round,X-Exo,3450,646,49
-736,Advanced6,Day,318,AR,VHS,100,0,10,0,Red Dot,HV Round,X-Exo,3448,646,50
-736,Advanced6,Day,215,AR,MDR,100,0,10,0,Exclusive,HV Round,X-Exo,3432,643,51
-736,Advanced6,Day,1029,AR,Agent 416,100,0,10,0,Red Dot,Exclusive,X-Exo,3318,622,52
-736,Advanced6,Day,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,7034,615,53
-736,Advanced6,Day,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,614,54
-736,Advanced6,Day,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6837,598,55
-736,Advanced6,Day,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,6802,595,56
-736,Advanced6,Day,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6695,585,57
-736,Advanced6,Day,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,6681,584,58
-736,Advanced6,Day,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6664,583,59
-736,Advanced6,Day,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6649,581,60
-736,Advanced6,Day,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Red Dot,6638,580,61
-736,Advanced6,Day,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6634,580,62
-736,Advanced6,Day,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6560,574,63
-736,Advanced6,Day,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6541,572,64
-736,Advanced6,Day,20221,HG,GSh-18 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,3271,572,65
-736,Advanced6,Day,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6526,571,66
-736,Advanced6,Day,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,3239,566,67
-736,Advanced6,Day,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6426,562,68
-736,Advanced6,Day,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6311,552,69
-736,Advanced6,Day,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6299,551,70
-736,Advanced6,Day,153,SG,M37,100,0,8,0,Armor Plate,Buckshot Shell,Exclusive,6174,540,71
-736,Advanced6,Day,189,SG,USAS-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6154,538,72
-736,Advanced6,Day,1025,SG,Triela,100,0,10,0,Armor Plate,Exclusive,Red Dot,6137,536,73
-736,Advanced6,Day,155,SG,M590,100,0,8,0,Armor Plate,Slug Shell,Red Dot,6105,534,74
-736,Advanced6,Day,162,SG,SPAS-12,100,0,8,0,Armor Plate,Slug Shell,Red Dot,6058,530,75
-736,Advanced6,Day,302,SG,Defender,100,0,10,0,Armor Plate,Exclusive,Red Dot,6056,529,76
-736,Advanced6,Day,326,SG,512,100,0,8,0,Armor Plate,Slug Shell,Red Dot,6021,526,77
-736,Advanced6,Day,158,SG,KS-23,100,0,4,0,Armor Plate,Slug Shell,Red Dot,6002,525,78
-736,Advanced6,Day,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Red Dot,5979,523,79
-736,Advanced6,Day,20002,HG,M1911 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,2935,513,80
+736,Advanced6,Day,259,SMG,PM-9,100,0,10,0,X-Exo,HP Round,Silencer,4775,775,43
+736,Advanced6,Day,135,SMG,SR-3MP,150,1,10,0,X-Exo,HP Round,Silencer,4726,767,44
+736,Advanced6,Day,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,7625,667,45
+736,Advanced6,Day,243,AR,64 Shiki,100,0,10,0,Silencer,HV Round,X-Exo,3513,658,46
+736,Advanced6,Day,194,AR,K2,150,1,10,0,Red Dot,HV Round,X-Exo,3501,656,47
+736,Advanced6,Day,306,AR,AK-Alfa,100,0,10,0,Red Dot,HV Round,X-Exo,3474,651,48
+736,Advanced6,Day,236,AR,K11,100,0,10,0,Silencer,HV Round,X-Exo,3460,648,49
+736,Advanced6,Day,274,AR,ACR,100,0,10,0,Red Dot,HV Round,X-Exo,3461,648,50
+736,Advanced6,Day,289,AR,R5,100,0,10,0,Red Dot,HV Round,X-Exo,3450,646,51
+736,Advanced6,Day,318,AR,VHS,100,0,10,0,Red Dot,HV Round,X-Exo,3448,646,52
+736,Advanced6,Day,1029,AR,Agent 416,100,0,10,0,Red Dot,Exclusive,X-Exo,3318,622,53
+736,Advanced6,Day,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,7034,615,54
+736,Advanced6,Day,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,614,55
+736,Advanced6,Day,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6837,598,56
+736,Advanced6,Day,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,6814,596,57
+736,Advanced6,Day,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6695,585,58
+736,Advanced6,Day,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,6681,584,59
+736,Advanced6,Day,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6664,583,60
+736,Advanced6,Day,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6649,581,61
+736,Advanced6,Day,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Red Dot,6638,580,62
+736,Advanced6,Day,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6634,580,63
+736,Advanced6,Day,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6560,574,64
+736,Advanced6,Day,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6541,572,65
+736,Advanced6,Day,20221,HG,GSh-18 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,3271,572,66
+736,Advanced6,Day,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6526,571,67
+736,Advanced6,Day,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,3239,566,68
+736,Advanced6,Day,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6426,562,69
+736,Advanced6,Day,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6311,552,70
+736,Advanced6,Day,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6299,551,71
+736,Advanced6,Day,153,SG,M37,100,0,8,0,Armor Plate,Buckshot Shell,Exclusive,6174,540,72
+736,Advanced6,Day,189,SG,USAS-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6154,538,73
+736,Advanced6,Day,1025,SG,Triela,100,0,10,0,Armor Plate,Exclusive,Red Dot,6137,536,74
+736,Advanced6,Day,155,SG,M590,100,0,8,0,Armor Plate,Slug Shell,Red Dot,6105,534,75
+736,Advanced6,Day,162,SG,SPAS-12,100,0,8,0,Armor Plate,Slug Shell,Red Dot,6058,530,76
+736,Advanced6,Day,302,SG,Defender,100,0,10,0,Armor Plate,Exclusive,Red Dot,6056,529,77
+736,Advanced6,Day,326,SG,512,100,0,8,0,Armor Plate,Slug Shell,Red Dot,6021,526,78
+736,Advanced6,Day,158,SG,KS-23,100,0,4,0,Armor Plate,Slug Shell,Red Dot,6002,525,79
+736,Advanced6,Day,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Red Dot,5979,523,80
 736,Advanced6,Day,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Red Dot,5858,512,81
 736,Advanced6,Day,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,5675,496,82
 736,Advanced6,Day,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,5671,496,83
@@ -700,15 +703,15 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 736,Advanced6,Day,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,4214,210,96
 736,Advanced6,Day,109,MG,Gr MG5,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,4183,209,97
 736,Advanced6,Day,208,MG,HMG21,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,4173,208,98
-736,Advanced6,Day,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4059,202,99
-736,Advanced6,Day,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4006,200,100
-736,Advanced6,Day,1033,MG,Hanazono Yurine,100,0,10,0,AP Round,Exclusive,Ammo Box,3818,190,101
+736,Advanced6,Day,1033,MG,Hanazono Yurine,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,4062,203,99
+736,Advanced6,Day,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4059,202,100
+736,Advanced6,Day,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4006,200,101
 736,Advanced6,Day,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,3790,189,102
 736,Advanced6,Day,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,3755,187,103
 736,Advanced6,Day,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,3744,187,104
 736,Advanced6,Day,275,MG,M1895 CB,150,1,10,0,AP Round,Holographic,Ammo Box,3741,187,105
 736,Advanced6,Day,276,MG,Kord,150,1,10,0,AP Round,Holographic,Ammo Box,3745,187,106
-736,Advanced6,Day,20089,MG,Bren Mod,124.1975,1,10,0,AP Round,Holographic,Ammo Box,3685,184,107
+736,Advanced6,Day,20089,MG,Bren Mod,125.9792,1,10,0,AP Round,Holographic,Ammo Box,3685,184,107
 736,Advanced6,Day,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,3678,183,108
 736,Advanced6,Day,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,3641,182,109
 736,Advanced6,Day,185,MG,Ameli,100,0,2,0,AP Round,Holographic,Ammo Box,3562,178,110
@@ -739,7 +742,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 738,Advanced8,Night,1032,AR,Medusa,100,0,10,0,Red Dot,HV Round,Exclusive,6208,1164,13
 738,Advanced8,Night,205,AR,AN-94,100,0,10,0,Holographic,HV Round,Chip,6193,1161,14
 738,Advanced8,Night,319,MG,PM1910,100,0,1,0,Special AP Round,Auxiliary Sights,Ammo Box,12278,1105,15
-738,Advanced8,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,1104,16
+738,Advanced8,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,1104,16
 738,Advanced8,Night,162,SG,SPAS-12,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7345,1101,17
 738,Advanced8,Night,326,SG,512,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,7333,1099,18
 738,Advanced8,Night,264,MG,Chauchat,100,0,1,0,Special AP Round,Auxiliary Sights,Ammo Box,12209,1098,19
@@ -757,8 +760,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 738,Advanced8,Night,236,AR,K11,100,0,10,0,Optical,HV Round,T-Exo,5545,1039,31
 738,Advanced8,Night,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,8218,1027,32
 738,Advanced8,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,1005,33
-738,Advanced8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,1002,34
-738,Advanced8,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,1002,35
+738,Advanced8,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,1003,34
+738,Advanced8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,1002,35
 738,Advanced8,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,1000,36
 738,Advanced8,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,997,37
 738,Advanced8,Night,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7960,995,38
@@ -801,8 +804,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 738,Advanced8,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,759,75
 738,Advanced8,Night,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6710,754,76
 738,Advanced8,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,740,77
-738,Advanced8,Night,20001,HG,SAA Mod,200,1,10,10,Exclusive,HP Round,T-Exo,4220,738,78
-738,Advanced8,Night,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,HP Round,Red Dot,6537,735,79
+738,Advanced8,Night,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,HP Round,Red Dot,6569,739,78
+738,Advanced8,Night,20001,HG,SAA Mod,200,1,10,10,Exclusive,HP Round,T-Exo,4220,738,79
 738,Advanced8,Night,115,SMG,Suomi,100,0,10,0,Exclusive,HP Round,Red Dot,6462,726,80
 738,Advanced8,Night,16,SMG,Thompson,100,0,10,0,Exclusive,HP Round,Red Dot,6430,723,81
 738,Advanced8,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,721,82
@@ -869,11 +872,11 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 743,Critical3,Night,238,MG,QJY-88,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,13176,790,20
 743,Critical3,Night,1027,AR,Angelica,100,0,10,0,Optical,HV Round,Exclusive,6211,776,21
 743,Critical3,Night,1032,AR,Medusa,100,0,10,0,Red Dot,HV Round,Exclusive,6208,776,22
-743,Critical3,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,773,23
+743,Critical3,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,773,23
 743,Critical3,Night,20136,SMG,PP-19 Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6840,769,24
 743,Critical3,Night,20029,SMG,STEN Mk? Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6809,766,25
 743,Critical3,Night,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6710,754,26
-743,Critical3,Night,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,HP Round,Red Dot,6537,735,27
+743,Critical3,Night,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,HP Round,Red Dot,6569,739,27
 743,Critical3,Night,20061,AR,StG44 Mod,200,1,10,10,Optical,Exclusive,T-Exo,5846,730,28
 743,Critical3,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,726,29
 743,Critical3,Night,115,SMG,Suomi,100,0,10,0,Exclusive,HP Round,Red Dot,6462,726,30
@@ -889,10 +892,10 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 743,Critical3,Night,228,SMG,100 Shiki,100,0,4,0,T-Exo,HP Round,Exclusive,6273,705,40
 743,Critical3,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,703,41
 743,Critical3,Night,274,AR,ACR,100,0,10,0,Optical,HV Round,T-Exo,5624,703,42
-743,Critical3,Night,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Red Dot,6244,702,43
-743,Critical3,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,701,44
-743,Critical3,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,T-Exo,5610,701,45
-743,Critical3,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,701,46
+743,Critical3,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,702,43
+743,Critical3,Night,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Red Dot,6244,702,44
+743,Critical3,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,701,45
+743,Critical3,Night,243,AR,64 Shiki,100,0,10,0,Optical,HV Round,T-Exo,5610,701,46
 743,Critical3,Night,234,SMG,JS 9,150,1,10,0,T-Exo,HP Round,Red Dot,6225,700,47
 743,Critical3,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,700,48
 743,Critical3,Night,194,AR,K2,150,1,10,0,Optical,HV Round,T-Exo,5599,699,49
@@ -925,49 +928,50 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 743,Critical3,Night,162,SG,SPAS-12,100,0,8,0,Armor Plate,Slug Shell,Holographic,6988,611,76
 743,Critical3,Night,155,SG,M590,100,0,8,0,Armor Plate,Slug Shell,Holographic,6994,611,77
 743,Critical3,Night,326,SG,512,100,0,8,0,Armor Plate,Slug Shell,Holographic,6972,610,78
-743,Critical3,Night,158,SG,KS-23,100,0,4,0,Armor Plate,Birdshot,Holographic,6827,597,79
-743,Critical3,Night,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Holographic,6795,594,80
-743,Critical3,Night,159,SG,RMB-93,100,0,10,0,Armor Plate,Birdshot,Holographic,6769,592,81
-743,Critical3,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,579,82
-743,Critical3,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,6549,573,83
-743,Critical3,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,567,84
-743,Critical3,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,558,85
-743,Critical3,Night,20075,MG,M1918 Mod,200,1,10,10,AP Round,Exclusive,Exclusive,10215,510,86
-743,Critical3,Night,20081,MG,LWMMG Mod,200,1,10,10,AP Round,Exclusive,Ammo Box,10125,506,87
-743,Critical3,Night,253,MG,Lewis,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9532,476,88
-743,Critical3,Night,125,MG,Gr MG4,100,0,10,0,AP Round,Exclusive,Ammo Box,9379,468,89
-743,Critical3,Night,276,MG,Kord,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9136,456,90
-743,Critical3,Night,307,MG,ZB-26,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9047,452,91
-743,Critical3,Night,1033,MG,Hanazono Yurine,100,0,10,0,AP Round,Exclusive,Ammo Box,9024,451,92
-743,Critical3,Night,208,MG,HMG21,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9013,450,93
-743,Critical3,Night,292,MG,RPK-16,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,8995,449,94
-743,Critical3,Night,275,MG,M1895 CB,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,8903,445,95
-743,Critical3,Night,109,MG,Gr MG5,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,8864,443,96
-743,Critical3,Night,112,MG,Negev,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,8817,440,97
-743,Critical3,Night,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,4964,434,98
-743,Critical3,Night,1026,MG,Claes,100,0,1,0,AP Round,Exclusive,Ammo Box,8162,408,99
-743,Critical3,Night,138,AR,6P62,100,0,5,0,Optical,AP Round,X-Exo,3200,400,100
-743,Critical3,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,399,101
-743,Critical3,Night,185,MG,Ameli,100,0,2,0,AP Round,Optical,Ammo Box,7871,393,102
-743,Critical3,Night,20089,MG,Bren Mod,124.1975,1,10,0,AP Round,Optical,Ammo Box,7860,393,103
-743,Critical3,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,387,104
-743,Critical3,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,380,105
-743,Critical3,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,379,106
-743,Critical3,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,370,107
-743,Critical3,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,360,108
-743,Critical3,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,359,109
-743,Critical3,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,357,110
-743,Critical3,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,357,111
-743,Critical3,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,356,112
-743,Critical3,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,351,113
-743,Critical3,Night,316,RF,General Liu,100,0,10,0,Sniper Round,Optical,Camo Cloak,6837,341,114
-743,Critical3,Night,50,RF,Lee Enfield,100,0,10,0,Sniper Round,Exclusive,Camo Cloak,6708,335,115
-743,Critical3,Night,1031,RF,Pekola,100,0,10,0,Sniper Round,Optical,Exclusive,6702,335,116
-743,Critical3,Night,20051,RF,FF FN49 Mod,200,1,10,10,Sniper Round,Exclusive,Camo Cloak,6636,331,117
-743,Critical3,Night,48,RF,WA2000,100,0,10,0,Sniper Round,Optical,Camo Cloak,6479,323,118
-743,Critical3,Night,329,RF,SVCh,100,0,10,0,Sniper Round,Optical,Camo Cloak,6460,323,119
-743,Critical3,Night,270,RF,4 Shiki,100,0,10,0,Exclusive,Optical,Camo Cloak,6393,319,120
-746,Critical6,Night,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,1104,1
+743,Critical3,Night,20093,SMG,IDW Mod,200,1,1,1,Exclusive,Signal Flare,Holographic,5426,610,79
+743,Critical3,Night,158,SG,KS-23,100,0,4,0,Armor Plate,Birdshot,Holographic,6827,597,80
+743,Critical3,Night,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Holographic,6795,594,81
+743,Critical3,Night,159,SG,RMB-93,100,0,10,0,Armor Plate,Birdshot,Holographic,6769,592,82
+743,Critical3,Night,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,6619,579,83
+743,Critical3,Night,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,6549,573,84
+743,Critical3,Night,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,6485,567,85
+743,Critical3,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,6382,558,86
+743,Critical3,Night,20075,MG,M1918 Mod,200,1,10,10,AP Round,Exclusive,Exclusive,10215,510,87
+743,Critical3,Night,20081,MG,LWMMG Mod,200,1,10,10,AP Round,Exclusive,Ammo Box,10125,506,88
+743,Critical3,Night,253,MG,Lewis,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9532,476,89
+743,Critical3,Night,125,MG,Gr MG4,100,0,10,0,AP Round,Exclusive,Ammo Box,9379,468,90
+743,Critical3,Night,276,MG,Kord,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,9136,456,91
+743,Critical3,Night,307,MG,ZB-26,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9047,452,92
+743,Critical3,Night,1033,MG,Hanazono Yurine,100,0,10,0,AP Round,Exclusive,Ammo Box,9024,451,93
+743,Critical3,Night,208,MG,HMG21,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,9013,450,94
+743,Critical3,Night,292,MG,RPK-16,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,8995,449,95
+743,Critical3,Night,275,MG,M1895 CB,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,8903,445,96
+743,Critical3,Night,109,MG,Gr MG5,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,8864,443,97
+743,Critical3,Night,112,MG,Negev,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,8817,440,98
+743,Critical3,Night,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,4964,434,99
+743,Critical3,Night,1026,MG,Claes,100,0,1,0,AP Round,Exclusive,Ammo Box,8162,408,100
+743,Critical3,Night,138,AR,6P62,100,0,5,0,Optical,AP Round,X-Exo,3200,400,101
+743,Critical3,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,399,102
+743,Critical3,Night,185,MG,Ameli,100,0,2,0,AP Round,Optical,Ammo Box,7871,393,103
+743,Critical3,Night,20089,MG,Bren Mod,125.9792,1,10,0,AP Round,Optical,Ammo Box,7860,393,104
+743,Critical3,Night,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7750,387,105
+743,Critical3,Night,20039,RF,Mosin-Nagant Mod,200,1,10,10,AP Round,Exclusive,Exclusive,7601,380,106
+743,Critical3,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,379,107
+743,Critical3,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,370,108
+743,Critical3,Night,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,7214,360,109
+743,Critical3,Night,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,7190,359,110
+743,Critical3,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,357,111
+743,Critical3,Night,1024,RF,Rico,150,1,10,0,AP Round,Optical,Exclusive,7145,357,112
+743,Critical3,Night,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,7130,356,113
+743,Critical3,Night,36,RF,Springfield,100,0,8,0,Exclusive,Optical,Camo Cloak,7031,351,114
+743,Critical3,Night,316,RF,General Liu,100,0,10,0,Sniper Round,Optical,Camo Cloak,6837,341,115
+743,Critical3,Night,50,RF,Lee Enfield,100,0,10,0,Sniper Round,Exclusive,Camo Cloak,6708,335,116
+743,Critical3,Night,1031,RF,Pekola,100,0,10,0,Sniper Round,Optical,Exclusive,6702,335,117
+743,Critical3,Night,20051,RF,FF FN49 Mod,200,1,10,10,Sniper Round,Exclusive,Camo Cloak,6636,331,118
+743,Critical3,Night,48,RF,WA2000,100,0,10,0,Sniper Round,Optical,Camo Cloak,6479,323,119
+743,Critical3,Night,329,RF,SVCh,100,0,10,0,Sniper Round,Optical,Camo Cloak,6460,323,120
+743,Critical3,Night,270,RF,4 Shiki,100,0,10,0,Exclusive,Optical,Camo Cloak,6393,319,121
+746,Critical6,Night,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,8839,1104,1
 746,Critical6,Night,20075,MG,M1918 Mod,200,1,10,10,Special AP Round,Exclusive,Exclusive,14551,1091,2
 746,Critical6,Night,20081,MG,LWMMG Mod,200,1,10,10,Special AP Round,Exclusive,Ammo Box,14360,1077,3
 746,Critical6,Night,80,MG,M1919A4,100,0,6,0,Special AP Round,Auxiliary Sights,Ammo Box,11925,1073,4
@@ -977,8 +981,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 746,Critical6,Night,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,8218,1027,8
 746,Critical6,Night,190,SG,NS2000,100,0,4,0,Armor Plate,Buckshot Shell,Red Dot,6737,1010,9
 746,Critical6,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,1005,10
-746,Critical6,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,1002,11
-746,Critical6,Night,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,8018,1002,12
+746,Critical6,Night,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,8030,1003,11
+746,Critical6,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,1002,12
 746,Critical6,Night,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,1000,13
 746,Critical6,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,7983,997,14
 746,Critical6,Night,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7960,995,15
@@ -1024,7 +1028,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 746,Critical6,Night,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,7591,759,55
 746,Critical6,Night,20103,SMG,UMP45 Mod,200,1,10,10,T-Exo,HP Round,Exclusive,6710,754,56
 746,Critical6,Night,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,7401,740,57
-746,Critical6,Night,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,HP Round,Red Dot,6537,735,58
+746,Critical6,Night,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,HP Round,Red Dot,6569,739,58
 746,Critical6,Night,20061,AR,StG44 Mod,200,1,10,10,Optical,Exclusive,T-Exo,5846,730,59
 746,Critical6,Night,215,AR,MDR,100,0,10,0,Exclusive,HV Round,T-Exo,5811,726,60
 746,Critical6,Night,115,SMG,Suomi,100,0,10,0,Exclusive,HP Round,Red Dot,6462,726,61
@@ -1087,8 +1091,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 746,Critical6,Night,251,SMG,X95,100,0,10,0,X-Exo,Signal Flare,Holographic,5534,622,118
 746,Critical6,Night,224,SMG,PM-06,100,0,10,0,X-Exo,Signal Flare,Holographic,5504,619,119
 746,Critical6,Night,20,SMG,Vector,100,0,10,0,X-Exo,Signal Flare,Holographic,5481,616,120
-746,Critical6,Night,20221,HG,GSh-18 Mod,200,1,10,10,Silencer,Exclusive,X-Exo,4570,399,121
-746,Critical6,Night,20002,HG,M1911 Mod,200,1,10,10,Silencer,Exclusive,X-Exo,3890,340,122
+746,Critical6,Night,20093,SMG,IDW Mod,200,1,1,1,Exclusive,Signal Flare,Holographic,5426,610,121
+746,Critical6,Night,20221,HG,GSh-18 Mod,200,1,10,10,Silencer,Exclusive,X-Exo,4570,399,122
+746,Critical6,Night,20002,HG,M1911 Mod,200,1,10,10,Silencer,Exclusive,X-Exo,3890,340,123
 748,Critical8,Day,20055,AR,M4A1 Mod,200,1,10,10,Night Equip,HV Round,Exclusive,7607,2091,1
 748,Critical8,Day,20122,AR,Gr G11 Mod,200,1,10,10,Night Equip,HV Round,Exclusive,6652,1829,2
 748,Critical8,Day,20065,AR,416 Mod,200,1,10,10,Night Equip,HV Round,Exclusive,6569,1806,3
@@ -1098,7 +1103,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 748,Critical8,Day,20064,AR,Gr G36 Mod,200,1,10,10,Night Equip,HV Round,Chip,6095,1676,7
 748,Critical8,Day,20143,SMG,RO635 Mod,200,1,10,10,Exclusive,HP Round,Night Equip,6956,1652,8
 748,Critical8,Day,20061,AR,StG44 Mod,200,1,10,10,Night Equip,Exclusive,Chip,5963,1639,9
-748,Critical8,Day,206,AR,AK-12,100,0,10,0,Night Equip,HV Round,Chip,5916,1626,10
+748,Critical8,Day,330,AR,FX-05,100,0,1,0,Night Equip,HV Round,Chip,4967,1639,10
 748,Critical8,Day,1032,AR,Medusa,100,0,10,0,Night Equip,HV Round,Exclusive,5874,1615,11
 748,Critical8,Day,20057,AR,ST AR-15 Mod,200,1,10,10,Night Equip,Exclusive,Exclusive,5801,1595,12
 748,Critical8,Day,62,AR,Gr G41,150,1,10,0,Night Equip,HV Round,Exclusive,5775,1588,13
@@ -1113,54 +1118,54 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 748,Critical8,Day,203,SMG,Honey Badger,100,0,7,0,T-Exo,HP Round,Night Equip,5095,1452,22
 748,Critical8,Day,73,AR,AUG,100,0,10,0,Night Equip,HV Round,T-Exo,5178,1423,23
 748,Critical8,Day,187,AR,Ak 5,100,0,1,0,Night Equip,HV Round,T-Exo,4309,1421,24
-748,Critical8,Day,205,AR,AN-94,100,0,10,0,Night Equip,HV Round,T-Exo,5158,1418,25
-748,Critical8,Day,115,SMG,Suomi,100,0,10,0,Exclusive,HP Round,Night Equip,5967,1417,26
+748,Critical8,Day,206,AR,AK-12,100,0,10,0,Night Equip,HV Round,T-Exo,5167,1420,25
+748,Critical8,Day,205,AR,AN-94,100,0,10,0,Night Equip,HV Round,T-Exo,5158,1418,26
 748,Critical8,Day,16,SMG,Thompson,100,0,10,0,Exclusive,Signal Flare,Silencer,5840,1387,27
 748,Critical8,Day,228,SMG,100 Shiki,100,0,4,0,T-Exo,Signal Flare,Exclusive,5781,1372,28
-748,Critical8,Day,20032,SMG,Micro Uzi Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,5597,1329,29
-748,Critical8,Day,1030,SMG,Jashin-chan,100,0,9,0,Exclusive,Signal Flare,Silencer,5590,1327,30
-748,Critical8,Day,1023,SMG,Henrietta,100,0,10,0,T-Exo,Signal Flare,Exclusive,5568,1322,31
-748,Critical8,Day,245,SMG,P90,100,0,10,0,T-Exo,HP Round,Silencer,5429,1289,32
-748,Critical8,Day,234,SMG,JS 9,150,1,10,0,T-Exo,HP Round,Silencer,5364,1273,33
-748,Critical8,Day,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Silencer,5331,1266,34
-748,Critical8,Day,104,SMG,Gr G36c,150,1,10,0,T-Exo,HP Round,Silencer,5265,1250,35
-748,Critical8,Day,315,SMG,AUG Para,100,0,7,0,T-Exo,HP Round,Silencer,5201,1235,36
-748,Critical8,Day,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Silencer,5177,1229,37
-748,Critical8,Day,224,SMG,PM-06,100,0,10,0,T-Exo,HP Round,Silencer,5166,1226,38
-748,Critical8,Day,127,SMG,Type79,100,0,10,0,T-Exo,Exclusive,Silencer,5135,1219,39
-748,Critical8,Day,259,SMG,PM-9,100,0,10,0,T-Exo,HP Round,Silencer,5133,1219,40
+748,Critical8,Day,115,SMG,Suomi,100,0,10,0,Exclusive,Signal Flare,Silencer,5714,1357,29
+748,Critical8,Day,1030,SMG,Jashin-chan,100,0,10,0,Exclusive,Signal Flare,Silencer,5622,1335,30
+748,Critical8,Day,20032,SMG,Micro Uzi Mod,200,1,10,10,T-Exo,Signal Flare,Exclusive,5597,1329,31
+748,Critical8,Day,1023,SMG,Henrietta,100,0,10,0,T-Exo,Signal Flare,Exclusive,5568,1322,32
+748,Critical8,Day,245,SMG,P90,100,0,10,0,T-Exo,HP Round,Silencer,5429,1289,33
+748,Critical8,Day,234,SMG,JS 9,150,1,10,0,T-Exo,HP Round,Silencer,5364,1273,34
+748,Critical8,Day,311,SMG,Lusa,100,0,10,0,T-Exo,HP Round,Silencer,5331,1266,35
+748,Critical8,Day,104,SMG,Gr G36c,150,1,10,0,T-Exo,HP Round,Silencer,5265,1250,36
+748,Critical8,Day,315,SMG,AUG Para,100,0,7,0,T-Exo,HP Round,Silencer,5201,1235,37
+748,Critical8,Day,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Silencer,5177,1229,38
+748,Critical8,Day,224,SMG,PM-06,100,0,10,0,T-Exo,HP Round,Silencer,5166,1226,39
+748,Critical8,Day,127,SMG,Type79,100,0,10,0,T-Exo,Exclusive,Silencer,5135,1219,40
 748,Critical8,Day,1028,SMG,Agent Vector,100,0,10,0,Exclusive,HP Round,Silencer,4941,1173,41
 748,Critical8,Day,20093,SMG,IDW Mod,200,1,1,1,Exclusive,HP Round,Silencer,4783,1135,42
-748,Critical8,Day,135,SMG,SR-3MP,150,1,10,0,X-Exo,HP Round,Silencer,4726,1122,43
-748,Critical8,Day,243,AR,64 Shiki,100,0,10,0,Silencer,HV Round,X-Exo,3513,966,44
-748,Critical8,Day,194,AR,K2,150,1,10,0,Red Dot,HV Round,X-Exo,3501,962,45
-748,Critical8,Day,306,AR,AK-Alfa,100,0,10,0,Red Dot,HV Round,X-Exo,3474,955,46
-748,Critical8,Day,20161,SG,Type97S Mod,159.1488,1,10,10,Exclusive,Buckshot Shell,Red Dot,7625,953,47
-748,Critical8,Day,236,AR,K11,100,0,10,0,Silencer,HV Round,X-Exo,3460,951,48
-748,Critical8,Day,274,AR,ACR,100,0,10,0,Red Dot,HV Round,X-Exo,3461,951,49
-748,Critical8,Day,289,AR,R5,100,0,10,0,Red Dot,HV Round,X-Exo,3450,948,50
-748,Critical8,Day,318,AR,VHS,100,0,10,0,Red Dot,HV Round,X-Exo,3448,948,51
-748,Critical8,Day,1029,AR,Agent 416,100,0,10,0,Red Dot,Exclusive,X-Exo,3318,912,52
-748,Critical8,Day,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,7034,879,53
-748,Critical8,Day,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,878,54
-748,Critical8,Day,20221,HG,GSh-18 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,3271,858,55
-748,Critical8,Day,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6837,854,56
-748,Critical8,Day,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,3239,850,57
-748,Critical8,Day,20152,SG,M1897 Mod,150,1,10,9,Armor Plate,Exclusive,Red Dot,6802,850,58
-748,Critical8,Day,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6695,836,59
-748,Critical8,Day,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,6681,835,60
-748,Critical8,Day,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6664,833,61
-748,Critical8,Day,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6649,831,62
-748,Critical8,Day,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Red Dot,6638,829,63
-748,Critical8,Day,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6634,829,64
-748,Critical8,Day,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6560,820,65
-748,Critical8,Day,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6541,817,66
-748,Critical8,Day,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6526,815,67
-748,Critical8,Day,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6426,803,68
-748,Critical8,Day,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6311,788,69
-748,Critical8,Day,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6299,787,70
-748,Critical8,Day,153,SG,M37,100,0,8,0,Armor Plate,Buckshot Shell,Exclusive,6174,771,71
-748,Critical8,Day,20002,HG,M1911 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,2935,770,72
+748,Critical8,Day,259,SMG,PM-9,100,0,10,0,X-Exo,HP Round,Silencer,4775,1134,43
+748,Critical8,Day,135,SMG,SR-3MP,150,1,10,0,X-Exo,HP Round,Silencer,4726,1122,44
+748,Critical8,Day,20031,SMG,M38 Mod,127.5548,1,10,0,X-Exo,HP Round,Silencer,4687,1113,45
+748,Critical8,Day,243,AR,64 Shiki,100,0,10,0,Silencer,HV Round,X-Exo,3513,966,46
+748,Critical8,Day,194,AR,K2,150,1,10,0,Red Dot,HV Round,X-Exo,3501,962,47
+748,Critical8,Day,306,AR,AK-Alfa,100,0,10,0,Red Dot,HV Round,X-Exo,3474,955,48
+748,Critical8,Day,20161,SG,Type97S Mod,160.9305,1,10,10,Exclusive,Buckshot Shell,Red Dot,7625,953,49
+748,Critical8,Day,236,AR,K11,100,0,10,0,Silencer,HV Round,X-Exo,3460,951,50
+748,Critical8,Day,274,AR,ACR,100,0,10,0,Red Dot,HV Round,X-Exo,3461,951,51
+748,Critical8,Day,289,AR,R5,100,0,10,0,Red Dot,HV Round,X-Exo,3450,948,52
+748,Critical8,Day,1029,AR,Agent 416,100,0,10,0,Red Dot,Exclusive,X-Exo,3318,912,53
+748,Critical8,Day,1034,SG,Minos,100,0,1,0,Armor Plate,Buckshot Shell,Exclusive,7034,879,54
+748,Critical8,Day,323,SG,LTLX7000,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,878,55
+748,Critical8,Day,20221,HG,GSh-18 Mod,200,1,10,10,Auxiliary Sights,Exclusive,X-Exo,3271,858,56
+748,Critical8,Day,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6837,854,57
+748,Critical8,Day,20152,SG,M1897 Mod,150,1,10,10,Armor Plate,Exclusive,Red Dot,6814,851,58
+748,Critical8,Day,183,HG,Contender,150,1,10,0,Auxiliary Sights,AP Round,X-Exo,3239,850,59
+748,Critical8,Day,164,SG,FP-6,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6695,836,60
+748,Critical8,Day,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Exclusive,6681,835,61
+748,Critical8,Day,324,SG,M6 ASW,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6664,833,62
+748,Critical8,Day,151,SG,M1887,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6649,831,63
+748,Critical8,Day,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Red Dot,6638,829,64
+748,Critical8,Day,229,SG,M870,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6634,829,65
+748,Critical8,Day,157,SG,Am KSG,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6560,820,66
+748,Critical8,Day,160,SG,Saiga-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6541,817,67
+748,Critical8,Day,282,SG,DP-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6526,815,68
+748,Critical8,Day,281,SG,CAWS,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6426,803,69
+748,Critical8,Day,165,SG,M1014,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6311,788,70
+748,Critical8,Day,156,SG,Super-Shorty,100,0,8,0,Armor Plate,Buckshot Shell,Red Dot,6299,787,71
+748,Critical8,Day,153,SG,M37,100,0,8,0,Armor Plate,Buckshot Shell,Exclusive,6174,771,72
 748,Critical8,Day,189,SG,USAS-12,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6154,769,73
 748,Critical8,Day,1025,SG,Triela,100,0,10,0,Armor Plate,Exclusive,Red Dot,6137,767,74
 748,Critical8,Day,155,SG,M590,100,0,8,0,Armor Plate,Slug Shell,Red Dot,6105,763,75
@@ -1170,7 +1175,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 748,Critical8,Day,158,SG,KS-23,100,0,4,0,Armor Plate,Slug Shell,Red Dot,6002,750,79
 748,Critical8,Day,159,SG,RMB-93,100,0,10,0,Armor Plate,Slug Shell,Red Dot,5979,747,80
 748,Critical8,Day,283,SG,Liberator,100,0,8,0,Armor Plate,Slug Shell,Red Dot,5858,732,81
-748,Critical8,Day,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Holographic,5675,709,82
+748,Critical8,Day,299,SG,HSM10,100,0,5,0,Armor Plate,Slug Shell,Red Dot,5720,715,82
 748,Critical8,Day,325,SG,PM5,100,0,4,0,Armor Plate,Slug Shell,Holographic,5671,708,83
 748,Critical8,Day,278,SG,Six12,100,0,4,0,Armor Plate,Slug Shell,Holographic,5533,691,84
 748,Critical8,Day,190,SG,NS2000,100,0,4,0,Armor Plate,Slug Shell,Holographic,5507,688,85
@@ -1187,15 +1192,15 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Affection,Oathed,Skill1,Skill2,E
 748,Critical8,Day,238,MG,QJY-88,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,4205,315,96
 748,Critical8,Day,109,MG,Gr MG5,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,4183,313,97
 748,Critical8,Day,208,MG,HMG21,100,0,10,0,AP Round,Auxiliary Sights,Ammo Box,4173,312,98
-748,Critical8,Day,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4059,304,99
-748,Critical8,Day,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4006,300,100
-748,Critical8,Day,1033,MG,Hanazono Yurine,100,0,10,0,AP Round,Exclusive,Ammo Box,3818,286,101
-748,Critical8,Day,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,3790,284,102
-748,Critical8,Day,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,3755,281,103
-748,Critical8,Day,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,3744,280,104
-748,Critical8,Day,275,MG,M1895 CB,150,1,10,0,AP Round,Holographic,Ammo Box,3741,280,105
-748,Critical8,Day,276,MG,Kord,150,1,10,0,AP Round,Holographic,Ammo Box,3745,280,106
-748,Critical8,Day,20089,MG,Bren Mod,124.1975,1,10,0,AP Round,Holographic,Ammo Box,3685,276,107
+748,Critical8,Day,276,MG,Kord,150,1,10,0,AP Round,Auxiliary Sights,Ammo Box,4076,305,99
+748,Critical8,Day,20053,RF,NTW-20 Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4059,304,100
+748,Critical8,Day,20252,RF,KSVK Mod,200,1,10,10,Exclusive,Optical,Camo Cloak,4006,300,101
+748,Critical8,Day,1033,MG,Hanazono Yurine,100,0,10,0,AP Round,Exclusive,Ammo Box,3818,286,102
+748,Critical8,Day,20037,RF,M14 Mod,200,1,10,10,AP Round,Exclusive,Camo Cloak,3790,284,103
+748,Critical8,Day,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,3755,281,104
+748,Critical8,Day,266,RF,R93,150,1,10,0,AP Round,Optical,Camo Cloak,3744,280,105
+748,Critical8,Day,275,MG,M1895 CB,150,1,10,0,AP Round,Holographic,Ammo Box,3741,280,106
+748,Critical8,Day,20089,MG,Bren Mod,125.9792,1,10,0,AP Round,Holographic,Ammo Box,3685,276,107
 748,Critical8,Day,20044,RF,SV-98 Mod,200,1,10,10,AP Round,Optical,Exclusive,3678,275,108
 748,Critical8,Day,261,RF,QBU-88,100,0,10,0,AP Round,Optical,Camo Cloak,3641,273,109
 748,Critical8,Day,185,MG,Ameli,100,0,2,0,AP Round,Holographic,Ammo Box,3562,267,110

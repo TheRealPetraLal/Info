@@ -491,7 +491,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36043911,197,Exclusive,?????,Mk31 Multi-functional Exoskeleton,-,-,-6,0,25,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 36044929,8,Holographic,?????,EOT 518,-,-,4,6,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36044930,225,Flare,?????,Signal Flare,177712696,HS2000,0,0,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-36044931,234,Chipset,?????,#2 Processor,-,-,8,0,0,0,12,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+36044931,234,Chipset,?????,#2 Processor,-,-,10,0,0,0,16,-50%,0%,0,0,0,0%,0%,0%,0,0,0,10,Locked
 36066010,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,8,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,Locked
 36087380,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36087383,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -519,3 +519,13 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36099888,63,Suppressor,??,AC1 Suppressor,-,-,0,0,2,0,0,0%,4%,0,0,0,0%,0%,0%,0,0,0,0,
 36099889,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
 36099890,37,T-Exo,??,IOP T1 Exoskeleton,-,-,-1,0,6,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36106442,87,Camouflage Cape,??,Ragged Cape,-,-,0,0,0,-3,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36106443,17,Armor-piercing,??,M61 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,46,0,0,0%,0%,0%,0,0,0,0,
+36106444,29,High-velocity,??,FMJ High-Velocity Ammo,-,-,2,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36106445,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+36106446,225,Flare,?????,Signal Flare,-,-,0,0,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+36106447,78,Slug,???,FST Slug,-,-,0,3,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36106448,89,Camouflage Cape,????,Urban Camouflage Cape,-,-,0,0,0,-3,0,8%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36106449,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
+36106450,18,Armor-piercing,???,M993 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,67,0,0,0%,0%,0%,0,0,0,0,
+36106451,8,Holographic,?????,EOT 518,-,-,5,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
