@@ -378,7 +378,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34663866,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,3,0%,24%,0,0,0,0%,0%,0%,0,1,0,6,Locked
 34679703,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,92%,0,0,0,0,Locked
 34680112,253,Exclusive,?????,Miraculous Curry Ladle,-,-,3,0,22,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,16,0,0,0,22,-50%,0%,0,0,0,0%,0%,0%,0,13351,7,16,Locked
+34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,16,0,0,0,22,-50%,0%,0,0,0,0%,0%,0%,0,15051,7,16,Locked
 34680114,251,Exclusive,?????,Demonic Bell,-,-,0,14,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34692759,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 34768712,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,21%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -501,7 +501,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36096123,29,High-velocity,??,FMJ High-Velocity Ammo,-,-,2,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36096124,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
 36098191,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
-36098192,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,
+36098192,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36098193,75,Buckshot,????,#00 Buckshot,-,-,4,0,0,0,0,7%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36099506,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
 36099507,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -511,3 +511,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36099511,56,X-Exo,???,IOP X2 Exoskeleton,-,-,0,0,4,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36099512,74,Buckshot,???,#0 Buckshot,-,-,2,0,0,0,0,5%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36099513,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+36099883,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,5,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
+36099884,64,Suppressor,???,AC2 Suppressor,-,-,0,0,3,0,0,0%,6%,0,0,0,0%,0%,0%,0,0,0,0,
+36099885,227,M1022 AP,?????,M1022 Sniper Rounds,-,-,6,0,0,0,0,0%,0%,70,0,0,0%,0%,0%,0,0,0,0,Locked
+36099886,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
+36099887,88,Camouflage Cape,???,Camouflage Cape,-,-,0,0,0,-3,0,5%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36099888,63,Suppressor,??,AC1 Suppressor,-,-,0,0,2,0,0,0%,4%,0,0,0,0%,0%,0%,0,0,0,0,
+36099889,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
+36099890,37,T-Exo,??,IOP T1 Exoskeleton,-,-,-1,0,6,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
