@@ -378,7 +378,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34663866,104,Exclusive,?????,Fire Selector,-,-,0,0,0,0,3,0%,24%,0,0,0,0%,0%,0%,0,1,0,6,Locked
 34679703,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,92%,0,0,0,0,Locked
 34680112,253,Exclusive,?????,Miraculous Curry Ladle,-,-,3,0,22,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,16,0,0,0,22,-50%,0%,0,0,0,0%,0%,0%,0,15051,7,16,Locked
+34680113,255,Exclusive,?????,Paper Bag Helmet,-,-,16,0,0,0,23,-50%,0%,0,0,0,0%,0%,0%,0,19051,8,16,Locked
 34680114,251,Exclusive,?????,Demonic Bell,-,-,0,14,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34692759,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 34768712,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,21%,0,0,0,0%,0%,0%,0,0,0,0,Locked
@@ -529,3 +529,15 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36106449,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
 36106450,18,Armor-piercing,???,M993 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,67,0,0,0%,0%,0%,0,0,0,0,
 36106451,8,Holographic,?????,EOT 518,-,-,5,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119009,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,4,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119010,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,4,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119011,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119012,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119013,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119014,232,Chipset,???,Experimental Processor,-,-,2,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119015,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119016,232,Chipset,???,Experimental Processor,-,-,2,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36119017,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,17%,0,0,0,0%,0%,0%,0,0,0,0,
+36119018,3,Optical,????,PSO-1,-,-,0,0,0,0,0,0%,14%,0,0,0,0%,0%,0%,0,0,0,0,
+36119019,18,Armor-piercing,???,M993 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,65,0,0,0%,0%,0%,0,0,0,0,
+36119020,79,Slug,????,WAD Slug,-,-,0,6,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
