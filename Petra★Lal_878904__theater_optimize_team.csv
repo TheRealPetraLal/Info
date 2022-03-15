@@ -37,7 +37,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Elementary4,Day,4,HG,Python,100,150,1,10,0,Auxiliary Sights (5-Star),HP Round (5-Star),X-Exo (5-Star),3867,531,36
 714,Elementary4,Day,294,HG,Webley,100,100,0,10,0,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3859,530,37
 714,Elementary4,Day,126,HG,NZ75,100,100,0,10,0,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),3854,529,38
-714,Elementary4,Day,20012,HG,C96 Mod,111,147,1,7,1,Auxiliary Sights (5-Star),HP Round (5-Star),X-Exo (5-Star),3849,529,39
+714,Elementary4,Day,20012,HG,C96 Mod,111,148,1,7,1,Auxiliary Sights (5-Star),HP Round (5-Star),X-Exo (5-Star),3849,529,39
 714,Elementary4,Day,96,HG,Grizzly,100,150,1,9,0,Auxiliary Sights (5-Star),HP Round (5-Star),T-Exo (5-Star),3840,528,40
 714,Elementary4,Day,250,HG,HS2000,100,100,0,10,0,Auxiliary Sights (5-Star),HP Round (5-Star),T-Exo (5-Star),3811,524,41
 714,Elementary4,Day,303,HG,HP-35,100,100,0,10,0,Auxiliary Sights (5-Star),HP Round (5-Star),T-Exo (5-Star),3785,520,42
@@ -191,7 +191,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Elementary8,Day,4,HG,Python,100,150,1,10,0,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3843,528,59
 718,Elementary8,Day,112,MG,Negev,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),8391,524,60
 718,Elementary8,Day,96,HG,Grizzly,100,150,1,9,0,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3807,523,61
-718,Elementary8,Day,20012,HG,C96 Mod,111,147,1,7,1,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3809,523,62
+718,Elementary8,Day,20012,HG,C96 Mod,111,148,1,7,1,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3809,523,62
 718,Elementary8,Day,238,MG,QJY-88,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Ammo Box (5-Star),8356,522,63
 718,Elementary8,Day,20032,SMG,Micro Uzi Mod,120,200,1,10,10,T-Exo (5-Star),HP Round (5-Star),Exclusive (5-Star),6956,521,64
 718,Elementary8,Day,142,HG,Five-seven,100,150,1,10,0,Silencer (5-Star),HP Round (5-Star),X-Exo (5-Star),3796,521,65
@@ -313,7 +313,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Intermediate4,Day,1029,AR,Agent 416,100,100,0,10,0,Optical (5-Star),Exclusive (5-Star),X-Exo (5-Star),5222,718,50
 724,Intermediate4,Day,183,HG,Contender,100,150,1,10,0,Auxiliary Sights (5-Star),AP Round (5-Star),X-Exo (5-Star),4964,682,51
 724,Intermediate4,Day,251,SMG,X95,100,100,0,10,0,X-Exo (5-Star),Signal Flare (5-Star),Red Dot (5-Star),5427,678,52
-724,Intermediate4,Day,20031,SMG,M38 Mod,110,149,1,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5377,672,53
+724,Intermediate4,Day,20031,SMG,M38 Mod,110,150,1,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5377,672,53
 724,Intermediate4,Day,224,SMG,PM-06,100,100,0,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5354,669,54
 724,Intermediate4,Day,20,SMG,Vector,100,100,0,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5331,666,55
 724,Intermediate4,Day,176,SMG,TMP,100,100,0,2,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),4417,662,56
@@ -450,7 +450,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Intermediate8,Day,326,SG,512,100,100,0,8,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Holographic (5-Star),7165,716,57
 728,Intermediate8,Day,155,SG,M590,100,100,0,8,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Holographic (5-Star),7152,715,58
 728,Intermediate8,Day,135,SMG,SR-3MP,100,150,1,10,0,T-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5716,714,59
-728,Intermediate8,Day,20031,SMG,M38 Mod,110,149,1,10,0,T-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5712,714,60
+728,Intermediate8,Day,20031,SMG,M38 Mod,110,150,1,10,0,T-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5712,714,60
 728,Intermediate8,Day,20122,AR,Gr G11 Mod,119,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8001,700,61
 728,Intermediate8,Day,158,SG,KS-23,100,100,0,4,0,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),6827,682,62
 728,Intermediate8,Day,283,SG,Liberator,100,100,0,8,0,Armor Plate (5-Star),Slug Shell (5-Star),Holographic (5-Star),6795,679,63
@@ -570,7 +570,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Advanced3,Day,151,SG,M1887,100,100,0,10,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Red Dot (5-Star),7721,772,45
 733,Advanced3,Day,294,HG,Webley,100,100,0,10,0,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3859,771,46
 733,Advanced3,Day,126,HG,NZ75,100,100,0,10,0,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),3854,770,47
-733,Advanced3,Day,20012,HG,C96 Mod,111,147,1,7,1,Auxiliary Sights (5-Star),HP Round (5-Star),T-Exo (5-Star),3847,769,48
+733,Advanced3,Day,20012,HG,C96 Mod,111,148,1,7,1,Auxiliary Sights (5-Star),HP Round (5-Star),T-Exo (5-Star),3847,769,48
 733,Advanced3,Day,96,HG,Grizzly,100,150,1,9,0,Auxiliary Sights (5-Star),HP Round (5-Star),T-Exo (5-Star),3840,768,49
 733,Advanced3,Day,250,HG,HS2000,100,100,0,10,0,Auxiliary Sights (5-Star),HP Round (5-Star),T-Exo (5-Star),3811,762,50
 733,Advanced3,Day,20124,RF,Super SASS Mod,110,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6739,758,51
@@ -691,7 +691,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 736,Advanced6,Night,311,SMG,Lusa,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5331,866,38
 736,Advanced6,Night,315,SMG,AUG Para,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5298,860,39
 736,Advanced6,Night,104,SMG,Gr G36c,100,150,1,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5265,855,40
-736,Advanced6,Night,20031,SMG,M38 Mod,110,149,1,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5236,850,41
+736,Advanced6,Night,20031,SMG,M38 Mod,110,150,1,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5236,850,41
 736,Advanced6,Night,28,SMG,Gr MP7,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5177,841,42
 736,Advanced6,Night,224,SMG,PM-06,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5166,839,43
 736,Advanced6,Night,127,SMG,Type79,100,100,0,10,0,T-Exo (5-Star),Exclusive (5-Star),Silencer (5-Star),5135,834,44
@@ -994,7 +994,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 743,Critical3,Day,326,SG,512,100,100,0,8,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Holographic (5-Star),7165,626,77
 743,Critical3,Day,162,SG,SPAS-12,100,100,0,8,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Holographic (5-Star),7146,625,78
 743,Critical3,Day,155,SG,M590,100,100,0,8,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Holographic (5-Star),7152,625,79
-743,Critical3,Day,20031,SMG,M38 Mod,110,149,1,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5377,604,80
+743,Critical3,Day,20031,SMG,M38 Mod,110,150,1,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5377,604,80
 743,Critical3,Day,224,SMG,PM-06,100,100,0,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5354,602,81
 743,Critical3,Day,20,SMG,Vector,100,100,0,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5331,599,82
 743,Critical3,Day,158,SG,KS-23,100,100,0,4,0,Armor Plate (5-Star),Birdshot (5-Star),Holographic (5-Star),6827,597,83
@@ -1168,7 +1168,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Critical6,Day,231,RF,M82A1,100,100,0,8,0,Sniper Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6356,635,120
 746,Critical6,Day,109,MG,Gr MG5,100,100,0,10,0,Sniper Round (5-Star),Auxiliary Sights (5-Star),Ammo Box (5-Star),8457,634,121
 746,Critical6,Day,198,RF,Carcano M91/38,100,100,0,10,0,Sniper Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),6325,632,122
-746,Critical6,Day,20031,SMG,M38 Mod,110,149,1,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5377,604,123
+746,Critical6,Day,20031,SMG,M38 Mod,110,150,1,10,0,X-Exo (5-Star),Signal Flare (5-Star),Holographic (5-Star),5377,604,123
 746,Critical6,Day,224,SMG,PM-06,100,100,0,10,0,X-Exo (5-Star),Signal Flare (5-Star),Silencer (5-Star),5311,597,124
 746,Critical6,Day,20093,SMG,IDW Mod,120,200,1,1,1,Exclusive (5-Star),Signal Flare (5-Star),Silencer (5-Star),5244,589,125
 746,Critical6,Day,20,SMG,Vector,100,100,0,10,0,X-Exo (5-Star),Signal Flare (5-Star),Silencer (5-Star),5134,577,126
@@ -1218,7 +1218,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 748,Critical8,Night,311,SMG,Lusa,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5331,1266,39
 748,Critical8,Night,315,SMG,AUG Para,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5298,1258,40
 748,Critical8,Night,104,SMG,Gr G36c,100,150,1,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5265,1250,41
-748,Critical8,Night,20031,SMG,M38 Mod,110,149,1,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5236,1243,42
+748,Critical8,Night,20031,SMG,M38 Mod,110,150,1,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5236,1243,42
 748,Critical8,Night,28,SMG,Gr MP7,100,100,0,10,0,T-Exo (5-Star),HP Round (5-Star),Silencer (5-Star),5177,1229,43
 748,Critical8,Night,127,SMG,Type79,100,100,0,10,0,T-Exo (5-Star),Exclusive (5-Star),Silencer (5-Star),5135,1219,44
 748,Critical8,Night,224,SMG,PM-06,100,100,0,10,0,T-Exo (5-Star),Signal Flare (5-Star),Silencer (5-Star),5126,1217,45
