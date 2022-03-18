@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4979
+item-10,Dummy Core,4980
 item-31,Basic Training Data,2008
-item-32,Intermediate Training Data,587
-item-33,Advanced Training Data,849
+item-32,Intermediate Training Data,784
+item-33,Advanced Training Data,649
 -1,kalina_level,30
 -1,kalina_favor,396903
-item-1,T-Doll Contract,2119
-item-2,Equipment Contract,341
-item-3,Quick Production Contract,1168
-item-4,Quick Repair Contract,6541
+item-1,T-Doll Contract,2122
+item-2,Equipment Contract,336
+item-3,Quick Production Contract,1170
+item-4,Quick Repair Contract,6544
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,6
@@ -21,13 +21,13 @@ item-14,Original Sample,21
 item-15,Pure Sample,20
 item-16,Quick Analysis Contract,146
 item-17,Data Patch,19
-item-41,Token,138
+item-41,Token,140
 item-42,Exchange Ticket,0
 item-43,Black Card,5
 item-44,Calibration Ticket,10
 item-45,Memory Fragment,934
 item-46,Special Combat Report,8470
-item-47,Theater Material,1
+item-47,Theater Material,13070
 item-50,Universal Parts,1
 item-51,New Type Fire-Control Component,27
 item-100,Elite Griffin Combat Medal,5
@@ -45,7 +45,7 @@ item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,300
 item-513,Dark Star Kernel,16900
-item-514,Petri Dish,2680
+item-514,Petri Dish,2702
 item-515,Basic Training Keycode,41234
 item-516,Advanced Training Keycode,20788
 item-519,HOC General Data,114
@@ -55,7 +55,7 @@ item-522,Turret,8
 item-525,Quick Auto-Battle Contract,252
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
+item-603,Potential Energy,2
 item-604,Electronic Impulse,0
 item-605,Aid Commission,216
 item-606,Transfer Catalyst,220
