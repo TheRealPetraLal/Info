@@ -2,7 +2,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 17517346,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 18225466,16,Night Equipment,?????,PEQ-16A,89289929,StG44 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,10,Locked
 18284324,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,16,Locked
-18322041,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
+18322041,58,X-Exo,?????,IOP X4 Exoskeleton,89082391,Galil Mod,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 18361031,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,5,Locked
 18400386,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 18527707,8,Holographic,?????,EOT 518,-,-,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,14,Locked
@@ -378,7 +378,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34802832,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34813524,40,T-Exo,?????,IOP T4 Exoskeleton,150787571,Honey Badger,-6,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 34877311,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,901,3,0,Locked
-34889705,234,Chipset,?????,#2 Processor,177875706,Vector,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
+34889705,234,Chipset,?????,#2 Processor,89536698,AS Val Mod,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 34889824,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 34889842,234,Chipset,?????,#2 Processor,112144757,Gr G36 Mod,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 34905771,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,1,0,0,Locked
@@ -466,7 +466,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35989974,8,Holographic,?????,EOT 518,-,-,5,6,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 35989978,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36018820,206,Exclusive,?????,12-gauge Flechette Rounds,-,-,9,4,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-36026361,234,Chipset,?????,#2 Processor,165154921,Vector,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
+36026361,234,Chipset,?????,#2 Processor,119237881,Ribeyrolles,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 36031685,8,Holographic,?????,EOT 518,-,-,4,7,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36043911,197,Exclusive,?????,Mk31 Multi-functional Exoskeleton,-,-,-6,0,47,0,0,0%,0%,0,0,0,0%,0%,0%,0,30000,10,0,Locked
 36044929,8,Holographic,?????,EOT 518,-,-,4,6,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -510,7 +510,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36226190,58,X-Exo,?????,IOP X4 Exoskeleton,89081046,M1895 Mod,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36226378,90,Camouflage Cape,?????,Thermoptic Camouflage Cape,-,-,0,0,0,-3,0,12%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36226389,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,7,0,0,0%,12%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-36229076,15,Night Equipment,????,PEQ-15,95924334,RO635 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,82%,0,0,0,0,Locked
+36229076,15,Night Equipment,????,PEQ-15,150787571,Honey Badger,0,0,0,0,0,0%,0%,0,0,0,0%,0%,82%,0,0,0,0,Locked
 36231583,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36231586,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,
 36241735,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,
@@ -520,6 +520,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36250846,220,Exclusive,?????,Special Steel Buttstock,-,-,0,14,0,0,0,3%,15%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 36258575,58,X-Exo,?????,IOP X4 Exoskeleton,111977698,Python,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36264541,14,Night Equipment,???,PEQ-5,99164341,C-MS,0,0,0,0,0,0%,0%,0,0,0,0%,0%,67%,0,0,0,0,
-36264542,15,Night Equipment,????,PEQ-15,150787571,Honey Badger,0,0,0,0,0,0%,0%,0,0,0,0%,0%,80%,0,0,0,0,
-36264543,14,Night Equipment,???,PEQ-5,90244940,Gr MP5 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,64%,0,0,0,0,
-36281602,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,15,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,3525,6,0,Locked
+36264542,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,80%,0,0,0,0,
+36281602,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,19,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,9000,9,1,Locked
+36288236,15,Night Equipment,????,PEQ-15,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,78%,0,0,0,0,
+36288907,15,Night Equipment,????,PEQ-15,90244940,Gr MP5 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,77%,0,0,0,0,
+36289026,205,Exclusive,?????,Galil Special Handguards,-,-,10,3,-8,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
+36290615,227,M1022 AP,?????,M1022 Sniper Rounds,-,-,7,0,0,0,0,0%,0%,73,0,0,0%,0%,0%,0,0,0,0,Locked
+36290616,16,Night Equipment,?????,PEQ-16A,95924334,RO635 Mod,0,0,0,0,0,0%,0%,0,0,0,0%,0%,93%,0,0,0,0,Locked
+36294731,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,8,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
