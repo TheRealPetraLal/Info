@@ -43,6 +43,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 672789,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Accuracy I,1,
 674951,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Damage II,1,
 676095,11,??,435,40,Parachute Fairy,11.5,0.0,10.5,2.5,13.0,Fervor,10,Locked
+676581,11,?,0,17,Parachute Fairy,7.2,0.0,6.8,1.6,8.0,Keen,10,Locked
 677135,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Charge,1,
 677410,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion II,1,
 677538,1008,?,0,1,Kouji,3.2,5.2,12.0,3.2,0.0,Sturdy,1,
@@ -100,7 +101,6 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 724199,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0.0,Armor II,1,
 725121,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Evasion I,1,
 725516,4,?,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0.0,Charge,1,
-676581,11,?,0,17,Parachute Fairy,7.2,0.0,6.8,1.6,8.0,Keen,10,Locked
 181576,8,?????,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0.0,Damage II,10,Locked
 679835,6,?????,3000,99,Taunt Fairy,14.4,46.4,22.4,6.4,19.2,Fervor,1,Locked
 561897,11,???,515,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Critical I,10,Locked
