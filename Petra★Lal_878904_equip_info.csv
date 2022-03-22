@@ -5,7 +5,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 18322041,58,X-Exo,?????,IOP X4 Exoskeleton,89082391,Galil Mod,0,0,20,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 18361031,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,5,Locked
 18400386,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
-18527707,8,Holographic,?????,EOT 518,-,-,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,14,Locked
+18527707,8,Holographic,?????,EOT 518,121180382,Zas M21,8,14,0,0,-4,0%,0%,0,0,0,0%,0%,0%,0,10000,10,14,Locked
 18665433,12,Red Dot,?????,ITI MARS,-,-,0,30,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 18678362,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,48%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 18678366,12,Red Dot,?????,ITI MARS,-,-,0,30,0,0,-1,0%,0%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
@@ -80,7 +80,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 23244473,126,Exclusive,?????,Dinergate RO,-,-,12,14,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,30000,10,26,Locked
 23284364,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,7,Locked
 23335469,80,Slug,?????,SABOT Slug,-,-,0,8,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-23418412,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
+23418412,32,High-velocity,?????,APCR High-Velocity Ammo,121180382,Zas M21,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
 23418477,72,Hollow-point,?????,ILM Hollow-Point Ammo,124594489,PP-19 Mod,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
 23455190,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,6,0,0%,0%,0%,0,0,0,0,Locked
 23482478,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,10,Locked
@@ -91,7 +91,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 23646900,66,Suppressor,?????,AC4 Suppressor,-,-,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,6,Locked
 23648291,8,Holographic,?????,EOT 518,-,-,5,10,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 23744267,80,Slug,?????,SABOT Slug,-,-,0,10,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
-23849159,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,4,Locked
+23849159,32,High-velocity,?????,APCR High-Velocity Ammo,121180992,Zas M21,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,4,Locked
 24049915,32,High-velocity,?????,APCR High-Velocity Ammo,142992712,Angelica,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,7,Locked
 24176985,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,6,Locked
 24198349,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,6,Locked
@@ -229,7 +229,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 29626060,68,Ammunition Box,?????,IOP Maximum Ammo Box,147949376,Kord,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,4,10000,10,0,Locked
 29640932,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,20,Locked
 29642126,169,Exclusive,?????,Am RFB Quad Rail,-,-,0,0,0,0,0,8%,20%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-29743728,8,Holographic,?????,EOT 518,-,-,6,12,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
+29743728,8,Holographic,?????,EOT 518,121180992,Zas M21,6,12,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 29743735,16,Night Equipment,?????,PEQ-16A,95535795,AK-12,0,0,0,0,0,0%,0%,0,0,0,0%,0%,100%,0,0,0,19,Locked
 29832066,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,12,Locked
 29832241,20,Armor-piercing,?????,Mk211 High-Explosive Armor-Piercing Ammo,91391114,Mosin-Nagant Mod,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,10,Locked
@@ -528,3 +528,8 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36302179,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,8,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,0,0,0,Locked
 36304450,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,7,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,Locked
 36307668,80,Slug,?????,SABOT Slug,-,-,0,9,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36308073,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36308074,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,7,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,0,0,0,
+36309372,235,Flashbang,?????,Shotgun Flash Shells,-,-,0,9,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36309373,234,Chipset,?????,#2 Processor,-,-,15,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,10000,10,15,Locked
+36317282,237,Exclusive,?????,MkV Mobility Skeleton,-,-,0,0,14,3,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,
