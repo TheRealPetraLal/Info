@@ -34,7 +34,6 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 590233,14,?,0,14,Construction Fairy,4.0,13.2,10.8,2.8,5.6,Damage I,1,Locked
 602579,11,??,360,100,Parachute Fairy,18.0,0.0,16.0,4.0,20.0,Accuracy I,10,Locked
 623841,1004,?,0,1,Suee,0.0,0.0,14.0,3.6,6.0,Critical I,1,Locked
-628004,6,?,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Fervor,1,
 659170,12,?,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0.0,Aim,1,
 660436,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Fervor,1,
 665430,11,?,45,13,Parachute Fairy,6.8,0.0,6.4,1.6,7.6,Critical II,10,Locked
@@ -42,7 +41,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 671762,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Critical I,1,
 672789,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Accuracy I,1,
 674951,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Damage II,1,
-676095,11,??,435,40,Parachute Fairy,11.5,0.0,10.5,2.5,13.0,Fervor,10,Locked
+676095,11,??,465,40,Parachute Fairy,11.5,0.0,10.5,2.5,13.0,Fervor,10,Locked
 676581,11,?,0,17,Parachute Fairy,7.2,0.0,6.8,1.6,8.0,Keen,10,Locked
 677135,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Charge,1,
 677410,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion II,1,
@@ -94,13 +93,13 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 721265,28,?,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,2.8,Fervor,1,Locked
 722131,11,?,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,6.4,Accuracy I,1,Locked
 722785,2,?,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Evasion I,1,
-723094,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Fervor,1,
 723444,12,?,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0.0,Fervor,1,
 723445,2,?,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Evasion II,1,
 724198,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Aim,1,
 724199,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0.0,Armor II,1,
 725121,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Evasion I,1,
 725516,4,?,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0.0,Charge,1,
+728815,23,?,0,1,Combo Fairy,6.4,18.8,0.0,0.0,3.2,Charge,1,
 181576,8,?????,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0.0,Damage II,10,Locked
 679835,6,?????,3000,99,Taunt Fairy,14.4,46.4,22.4,6.4,19.2,Fervor,1,Locked
 561897,11,???,515,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Critical I,10,Locked
