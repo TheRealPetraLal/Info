@@ -88,9 +88,9 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 720338,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Suppression,1,
 720339,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Critical I,1,
 720354,2,?,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Aim,1,
-721263,28,?,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,2.8,Accuracy I,1,Locked
-721264,28,?,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,2.8,Duststorm Type,1,Locked
-721265,28,?,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,2.8,Fervor,1,Locked
+721263,28,?,0,11,Sand Dancer Fairy,6.0,6.4,12.8,0.0,3.2,Accuracy I,1,Locked
+721264,28,?,0,10,Sand Dancer Fairy,6.0,6.4,12.4,0.0,3.2,Duststorm Type,1,Locked
+721265,28,?,0,11,Sand Dancer Fairy,6.0,6.4,12.8,0.0,3.2,Fervor,1,Locked
 722131,11,?,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,6.4,Accuracy I,1,Locked
 722785,2,?,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Evasion I,1,
 723444,12,?,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0.0,Fervor,1,
@@ -103,6 +103,8 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 729531,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Evasion I,1,
 729532,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0.0,Critical II,1,
 729593,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Critical I,1,
+729896,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Damage I,1,
+729897,2,?,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Armor I,1,
 181576,8,?????,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0.0,Damage II,10,Locked
 679835,6,?????,3000,99,Taunt Fairy,14.4,46.4,22.4,6.4,19.2,Fervor,1,Locked
 561897,11,???,515,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Critical I,10,Locked
