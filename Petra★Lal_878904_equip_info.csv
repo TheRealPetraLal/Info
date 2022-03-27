@@ -462,7 +462,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35923801,236,Exclusive,?????,Thompson's Exoskeleton,-,-,-8,0,23,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 35945969,265,Exclusive,?????,Synthetic Pistol Grip,-,-,3,11,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 35978061,76,Buckshot,?????,#000 Buckshot,-,-,15,0,0,0,0,22%,0%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
-35982517,193,Exclusive,?????,Tactical Riot Shield,-,-,0,0,2,0,0,0%,0%,0,10,0,0%,0%,0%,0,20451,8,6,Locked
+35982517,193,Exclusive,?????,Tactical Riot Shield,-,-,0,0,2,0,0,0%,0%,0,10,0,0%,0%,0%,0,21501,8,6,Locked
 35989974,8,Holographic,?????,EOT 518,-,-,5,6,0,0,-5,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 35989978,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36018820,206,Exclusive,?????,12-gauge Flechette Rounds,-,-,9,4,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
@@ -520,7 +520,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36250846,220,Exclusive,?????,Special Steel Buttstock,-,-,0,14,0,0,0,3%,15%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 36258575,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36281602,32,High-velocity,?????,APCR High-Velocity Ammo,89413427,M4A1 Mod,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,1,Locked
-36289026,205,Exclusive,?????,Galil Special Handguards,-,-,10,3,-8,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
+36289026,205,Exclusive,?????,Galil Special Handguards,-,-,10,5,-5,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,16,Locked
 36290615,227,M1022 AP,?????,M1022 Sniper Rounds,-,-,7,0,0,0,0,0%,0%,73,0,0,0%,0%,0%,0,0,0,0,Locked
 36290616,16,Night Equipment,?????,PEQ-16A,150787571,Honey Badger,0,0,0,0,0,0%,0%,0,0,0,0%,0%,93%,0,0,0,0,Locked
 36294731,32,High-velocity,?????,APCR High-Velocity Ammo,-,-,19,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,9775,9,10,Locked
@@ -542,13 +542,14 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36346743,12,Red Dot,?????,ITI MARS,-,-,0,12,0,0,-2,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36346745,234,Chipset,?????,#2 Processor,-,-,8,0,0,0,13,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36369798,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,7,0,0,0,0,0%,0%,-9,0,0,0%,0%,0%,0,1,0,0,
-36384337,74,Buckshot,???,#0 Buckshot,-,-,2,0,0,0,0,5%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36384338,17,Armor-piercing,??,M61 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,50,0,0,0%,0%,0%,0,0,0,0,
-36384339,13,Night Equipment,??,PEQ-2,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,51%,0,0,0,0,
-36384340,75,Buckshot,????,#00 Buckshot,-,-,4,0,0,0,0,7%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36384341,30,High-velocity,???,JSP High-Velocity Ammo,-,-,3,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36384342,14,Night Equipment,???,PEQ-5,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,64%,0,0,0,0,
-36384343,89,Camouflage Cape,????,Urban Camouflage Cape,-,-,0,0,0,-3,0,8%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36384344,64,Suppressor,???,AC2 Suppressor,-,-,0,0,3,0,0,0%,6%,0,0,0,0%,0%,0%,0,0,0,0,
-36384345,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36384346,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,3,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36401196,77,Slug,??,BK Slug,-,-,0,1,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36401197,87,Camouflage Cape,??,Ragged Cape,-,-,0,0,0,-3,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36401198,14,Night Equipment,???,PEQ-5,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,67%,0,0,0,0,
+36401199,38,T-Exo,???,IOP T2 Exoskeleton,-,-,-3,0,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36401200,19,Armor-piercing,????,Mk169 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,94,0,0,0%,0%,0%,0,0,0,0,
+36401201,74,Buckshot,???,#0 Buckshot,-,-,2,0,0,0,0,5%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36401202,222,RMR,???,RMR Red Dot Sight,-,-,0,3,0,0,0,0%,6%,0,0,0,0%,0%,0%,0,0,0,0,
+36401203,29,High-velocity,??,FMJ High-Velocity Ammo,-,-,2,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36401204,18,Armor-piercing,???,M993 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,69,0,0,0%,0%,0%,0,0,0,0,
+36401205,7,Holographic,????,EOT 516,-,-,2,3,0,0,-3,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36401206,226,M1022 AP,????,M33 Sniper Rounds,-,-,1,0,0,0,0,0%,0%,53,0,0,0%,0%,0%,0,0,0,0,
