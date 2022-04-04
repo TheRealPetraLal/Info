@@ -369,7 +369,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34679703,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,96%,0,0,0,7,Locked
 34680112,253,Exclusive,?????,Miraculous Curry Ladle,-,-,3,0,22,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34680113,255,Exclusive,?????,Paper Bag Helmet,176998344,Medusa,18,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,30000,10,16,Locked
-34680114,251,Exclusive,?????,Demonic Bell,-,-,0,26,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,18126,8,0,Locked
+34680114,251,Exclusive,?????,Demonic Bell,-,-,0,26,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,20101,8,0,Locked
 34692759,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 34768712,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,21%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 34781721,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,7,0,0%,0%,0%,0,0,0,0,Locked
@@ -554,20 +554,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36483434,107,Exclusive,?????,Infinite Ammo Box,-,-,-25,-10,-2,0,0,0%,0%,0,0,0,0%,0%,0%,20,0,0,0,Locked
 36484201,119,Exclusive,?????,FÉLIN System Sight,-,-,3,1,0,0,0,0%,20%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36513047,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,
-36513070,71,Hollow-point,????,ILM Hollow-Point Ammo,-,-,4,0,0,0,0,0%,0%,-5,0,0,0%,0%,0%,0,0,0,0,
 36516477,229,SLAP,?????,Mk1000 SLAP,-,-,0,0,0,0,-5,0%,0%,245,0,0,0%,0%,0%,0,0,0,0,
-36516478,55,X-Exo,??,IOP X1 Exoskeleton,-,-,0,0,2,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36516479,87,Camouflage Cape,??,Ragged Cape,-,-,0,0,0,-3,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36516480,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
-36516481,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
-36516482,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,4,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36516483,42,Armor Plate,???,Type 1 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,3,0,0%,0%,0%,0,0,0,0,
-36516484,77,Slug,??,BK Slug,-,-,0,1,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36519740,30,High-velocity,???,JSP High-Velocity Ammo,-,-,3,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36519741,57,X-Exo,????,IOP X3 Exoskeleton,-,-,0,0,6,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36519742,73,Buckshot,??,#1 Buckshot,-,-,1,0,0,0,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36519743,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
-36519744,65,Suppressor,????,AC3 Suppressor,-,-,0,0,4,0,0,0%,9%,0,0,0,0%,0%,0%,0,0,0,0,
-36519745,87,Camouflage Cape,??,Ragged Cape,-,-,0,0,0,-3,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36519746,88,Camouflage Cape,???,Camouflage Cape,-,-,0,0,0,-3,0,5%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36519747,29,High-velocity,??,FMJ High-Velocity Ammo,-,-,2,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
