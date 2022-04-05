@@ -369,7 +369,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34679703,16,Night Equipment,?????,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,96%,0,0,0,7,Locked
 34680112,253,Exclusive,?????,Miraculous Curry Ladle,-,-,3,0,22,0,0,0%,0%,0,0,0,0%,0%,0%,0,1,0,0,Locked
 34680113,255,Exclusive,?????,Paper Bag Helmet,176998344,Medusa,18,0,0,0,25,-50%,0%,0,0,0,0%,0%,0%,0,30000,10,16,Locked
-34680114,251,Exclusive,?????,Demonic Bell,-,-,0,26,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,20501,8,0,Locked
+34680114,251,Exclusive,?????,Demonic Bell,-,-,0,26,3,0,0,0%,0%,0,0,0,0%,0%,0%,0,21376,8,0,Locked
 34692759,68,Ammunition Box,?????,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 34768712,4,Optical,?????,VFL 6-24X56,-,-,0,0,0,0,0,0%,21%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 34781721,44,Armor Plate,?????,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,7,0,0%,0%,0%,0,0,0,0,Locked
@@ -555,11 +555,3 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36484201,119,Exclusive,?????,FÉLIN System Sight,-,-,3,1,0,0,0,0%,20%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36513047,224,RMR,?????,RMR T4 Red Dot Sight,-,-,0,10,0,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36516477,229,SLAP,?????,Mk1000 SLAP,-,-,0,0,0,0,-5,0%,0%,245,0,0,0%,0%,0%,0,0,0,0,Locked
-36531151,223,RMR,????,RMR T2 Red Dot Sight,-,-,0,7,0,0,0,0%,10%,0,0,0,0%,0%,0%,0,0,0,0,
-36531152,57,X-Exo,????,IOP X3 Exoskeleton,-,-,0,0,6,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36531153,222,RMR,???,RMR Red Dot Sight,-,-,0,3,0,0,0,0%,6%,0,0,0,0%,0%,0%,0,0,0,0,
-36531154,230,Birdshot,????,#6 Birdshot,-,-,0,0,0,0,3,-24%,0%,0,0,0,0%,0%,0%,0,0,0,0,
-36531155,17,Armor-piercing,??,M61 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,47,0,0,0%,0%,0%,0,0,0,0,
-36531156,17,Armor-piercing,??,M61 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,52,0,0,0%,0%,0%,0,0,0,0,
-36531157,13,Night Equipment,??,PEQ-2,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,52%,0,0,0,0,
-36531158,222,RMR,???,RMR Red Dot Sight,-,-,0,3,0,0,0,0%,5%,0,0,0,0%,0%,0%,0,0,0,0,
