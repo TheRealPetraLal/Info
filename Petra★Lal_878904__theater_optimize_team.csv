@@ -11,7 +11,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Elementary4,Day,54,AR,M16A1,100,150,1,10,0,HV Round (5-Star),Armor Plate (5-Star),Exclusive (5-Star),6853,599,10
 714,Elementary4,Day,115,SMG,Suomi,100,100,0,10,0,Exclusive (5-Star),HP Round (5-Star),Red Dot (5-Star),6462,581,11
 714,Elementary4,Day,20001,HG,SAA Mod,120,200,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4220,580,12
-714,Elementary4,Day,20012,HG,C96 Mod,115,155,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4217,579,13
+714,Elementary4,Day,20012,HG,C96 Mod,115,159,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4217,579,13
 714,Elementary4,Day,20060,AR,AS Val Mod,120,200,1,10,10,Holographic (5-Star),Exclusive (5-Star),Chip (5-Star),6524,570,14
 714,Elementary4,Day,62,AR,Gr G41,100,150,1,10,0,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),6486,567,15
 714,Elementary4,Day,138,AR,6P62,100,150,1,10,0,Red Dot (5-Star),AP Round (5-Star),Chip (5-Star),6481,567,16
@@ -258,7 +258,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Elementary8,Day,288,AR,CR-21,100,100,0,7,0,Optical (5-Star),-,T-Exo (5-Star),4327,594,62
 718,Elementary8,Day,118,AR,9A-91,100,100,0,10,0,Optical (5-Star),-,T-Exo (5-Star),4314,593,63
 718,Elementary8,Day,193,AR,T65,100,100,0,1,0,Optical (5-Star),-,X-Exo (5-Star),4232,581,64
-718,Elementary8,Day,20012,HG,C96 Mod,115,155,1,10,10,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),4200,577,65
+718,Elementary8,Day,20012,HG,C96 Mod,115,159,1,10,10,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),4200,577,65
 718,Elementary8,Day,20001,HG,SAA Mod,120,200,1,10,10,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),4172,573,66
 718,Elementary8,Day,276,MG,Kord,100,150,1,10,0,AP Round (5-Star),Auxiliary Sights (5-Star),Ammo Box (5-Star),9136,571,67
 718,Elementary8,Day,307,MG,ZB-26,100,100,0,10,0,AP Round (5-Star),Auxiliary Sights (5-Star),Ammo Box (5-Star),9047,565,68
@@ -620,7 +620,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Intermediate8,Day,20029,SMG,STEN Mk? Mod,120,200,1,10,10,Chip (5-Star),HP Round (5-Star),Red Dot (5-Star),6900,862,16
 728,Intermediate8,Day,20103,SMG,UMP45 Mod,120,200,1,10,10,Chip (5-Star),HP Round (5-Star),Red Dot (5-Star),6785,848,17
 728,Intermediate8,Day,20001,HG,SAA Mod,120,200,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4220,844,18
-728,Intermediate8,Day,20012,HG,C96 Mod,115,155,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4217,843,19
+728,Intermediate8,Day,20012,HG,C96 Mod,115,159,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4217,843,19
 728,Intermediate8,Day,245,SMG,P90,100,100,0,10,0,Chip (5-Star),HP Round (5-Star),Red Dot (5-Star),6581,822,20
 728,Intermediate8,Day,1023,SMG,Henrietta,100,100,0,10,0,Chip (5-Star),HP Round (5-Star),Red Dot (5-Star),6581,822,21
 728,Intermediate8,Day,202,HG,Thunder,100,100,0,6,0,Silencer (5-Star),HP Round (5-Star),T-Exo (5-Star),3372,809,22
@@ -813,7 +813,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Advanced3,Day,20039,RF,Mosin-Nagant Mod,120,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Exclusive (5-Star),7601,855,11
 733,Advanced3,Day,20252,RF,KSVK Mod,120,200,1,10,10,Exclusive (5-Star),Optical (5-Star),Camo Cloak (5-Star),7591,853,12
 733,Advanced3,Day,20001,HG,SAA Mod,120,200,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4220,844,13
-733,Advanced3,Day,20012,HG,C96 Mod,115,155,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4217,843,14
+733,Advanced3,Day,20012,HG,C96 Mod,115,159,1,10,10,Exclusive (5-Star),HP Round (5-Star),T-Exo (5-Star),4217,843,14
 733,Advanced3,Day,20037,RF,M14 Mod,120,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7401,832,15
 733,Advanced3,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7214,811,16
 733,Advanced3,Day,261,RF,QBU-88,100,100,0,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7190,808,17
@@ -1306,7 +1306,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Advanced8,Day,20037,RF,M14 Mod,120,200,1,10,10,AP Round (5-Star),Exclusive (5-Star),Camo Cloak (5-Star),7401,740,108
 738,Advanced8,Day,20136,SMG,PP-19 Mod,120,200,1,10,10,X-Exo (5-Star),HP Round (5-Star),Exclusive (5-Star),6552,737,109
 738,Advanced8,Day,279,AR,INSAS,100,100,0,1,0,Optical (5-Star),-,X-Exo (5-Star),3924,735,110
-738,Advanced8,Day,20012,HG,C96 Mod,115,155,1,10,10,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),4200,735,111
+738,Advanced8,Day,20012,HG,C96 Mod,115,159,1,10,10,Exclusive (5-Star),HP Round (5-Star),X-Exo (5-Star),4200,735,111
 738,Advanced8,Day,20029,SMG,STEN Mk? Mod,120,200,1,10,10,X-Exo (5-Star),HP Round (5-Star),Exclusive (5-Star),6526,734,112
 738,Advanced8,Day,239,AR,Type03,100,100,0,1,0,Optical (5-Star),-,X-Exo (5-Star),3907,732,113
 738,Advanced8,Day,266,RF,R93,100,150,1,10,0,AP Round (5-Star),Optical (5-Star),Camo Cloak (5-Star),7214,721,114

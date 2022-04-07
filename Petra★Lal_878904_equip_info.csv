@@ -566,7 +566,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36571239,233,Chipset,????,#1 Processor,-,-,4,0,0,0,8,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36571240,63,Suppressor,??,AC1 Suppressor,-,-,0,0,2,0,0,0%,4%,0,0,0,0%,0%,0%,0,0,0,0,
 36571241,69,Hollow-point,??,ILM Hollow-Point Ammo,-,-,1,0,0,0,0,0%,0%,-1,0,0,0%,0%,0%,0,0,0,0,
-36571514,234,Chipset,?????,#2 Processor,-,-,8,0,0,0,13,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
+36571514,234,Chipset,?????,#2 Processor,-,-,8,0,0,0,13,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 36571515,17,Armor-piercing,??,M61 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,49,0,0,0%,0%,0%,0,0,0,0,
 36571516,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
 36571517,232,Chipset,???,Experimental Processor,-,-,1,0,0,0,4,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
@@ -575,7 +575,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36571841,87,Camouflage Cape,??,Ragged Cape,-,-,0,0,0,-3,0,3%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36571842,17,Armor-piercing,??,M61 Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,49,0,0,0%,0%,0%,0,0,0,0,
 36572639,223,RMR,????,RMR T2 Red Dot Sight,-,-,0,6,0,0,0,0%,9%,0,0,0,0%,0%,0%,0,0,0,0,
-36572640,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,7,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,
+36572640,72,Hollow-point,?????,ILM Hollow-Point Ammo,-,-,7,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,0,0,0,Locked
 36572641,56,X-Exo,???,IOP X2 Exoskeleton,-,-,0,0,4,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36572642,233,Chipset,????,#1 Processor,-,-,4,0,0,0,8,-50%,0%,0,0,0,0%,0%,0%,0,0,0,0,
 36572643,70,Hollow-point,???,ILM Hollow-Point Ammo,-,-,2,0,0,0,0,0%,0%,-2,0,0,0%,0%,0%,0,0,0,0,
