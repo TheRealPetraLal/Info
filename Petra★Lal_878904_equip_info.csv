@@ -487,7 +487,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36147644,235,Flash Shell,?????,Shotgun Flash Shells,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36148248,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,247,-,-,-,-,-,-,0,0,18,Locked
 36159091,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
-36160030,229,Special AP Round,?????,Mk1000 SLAP,164151462,M1895 CB,-,-,-,-,-5,-,-,400,-,-,-,-,-,-,3025,6,7,Locked
+36160030,229,Special AP Round,?????,Mk1000 SLAP,164151462,M1895 CB,-,-,-,-,-5,-,-,425,-,-,-,-,-,-,4850,7,7,Locked
 36163234,234,Chip,?????,#2 Processor,95214253,AN-94,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 36163789,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,114,-,-,-,-,-,-,0,0,0,Locked
 36164284,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
@@ -562,12 +562,14 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36589536,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,
 36592870,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,19%,-,-,-,-,-,-,-,0,0,0,
 36606685,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
-36620937,69,HP Round,??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
-36620938,77,Slug Shell,??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-36620939,69,HP Round,??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
-36620940,13,Night Equip,??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,54%,-,0,0,0,
-36620941,69,HP Round,??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
 36621813,32,HV Round,?????,APCR High-Velocity Ammo,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-36621814,223,Auxiliary Sights,????,RMR T2 Red Dot Sight,-,-,-,6,-,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
-36621815,222,Auxiliary Sights,???,RMR Red Dot Sight,-,-,-,4,-,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
 36621816,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
+36639707,223,Auxiliary Sights,????,RMR T2 Red Dot Sight,-,-,-,6,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
+36639708,75,Buckshot Shell,????,#00 Buckshot,-,-,4,-,-,-,-,7%,-,-,-,-,-,-,-,-,0,0,0,
+36639709,234,Chip,?????,#2 Processor,-,-,8,-,-,-,13,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
+36639710,233,Chip,????,#1 Processor,-,-,4,-,-,-,8,-50%,-,-,-,-,-,-,-,-,0,0,0,
+36639711,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+36639712,87,Camo Cloak,??,Ragged Cape,-,-,-,-,-,-3,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+36639713,225,Signal Flare,?????,Signal Flare,-,-,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+36639714,222,Auxiliary Sights,???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
+36639715,223,Auxiliary Sights,????,RMR T2 Red Dot Sight,-,-,-,7,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
