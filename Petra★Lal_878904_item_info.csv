@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6077
-item-31,Basic Training Data,1090
-item-32,Intermediate Training Data,2112
+item-10,Dummy Core,6091
+item-31,Basic Training Data,490
+item-32,Intermediate Training Data,2409
 item-33,Advanced Training Data,1365
 -1,kalina_level,30
--1,kalina_favor,423015
-item-1,T-Doll Contract,2355
+-1,kalina_favor,423178
+item-1,T-Doll Contract,2356
 item-2,Equipment Contract,378
 item-3,Quick Production Contract,1368
-item-4,Quick Repair Contract,6755
+item-4,Quick Repair Contract,6756
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,2
 item-8,Quick Training Contract,20
-item-9,Enhancement Capsule,699
-item-11,Key Card,24
+item-9,Enhancement Capsule,694
+item-11,Key Card,33
 item-12,Points,30
 item-13,Name Change Card,6
-item-14,Original Sample,1
-item-15,Pure Sample,8
-item-16,Quick Analysis Contract,124
+item-14,Original Sample,81
+item-15,Pure Sample,14
+item-16,Quick Analysis Contract,125
 item-17,Data Patch,36
-item-41,Token,1423
+item-41,Token,1428
 item-42,Exchange Ticket,0
 item-43,Black Card,5
-item-44,Calibration Ticket,5460
-item-45,Memory Fragment,5024
+item-44,Calibration Ticket,5660
+item-45,Memory Fragment,5044
 item-46,Special Combat Report,6680
 item-47,Theater Material,6
-item-50,Universal Parts,1219
+item-50,Universal Parts,1212
 item-51,New Type Fire-Control Component,29
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,130
@@ -38,9 +38,9 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,37
-item-506,Battery,1844
-item-507,Surplus EXP,0
-item-508,Friendship Points,4870
+item-506,Battery,1804
+item-507,Surplus EXP,77040
+item-508,Friendship Points,4930
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,360
@@ -52,10 +52,10 @@ item-519,HOC General Data,123
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,321
+item-525,Quick Auto-Battle Contract,324
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,1
+item-603,Potential Energy,0
 item-604,Electronic Impulse,0
 item-605,Aid Commission,291
 item-606,Transfer Catalyst,50
@@ -279,9 +279,9 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,6643
-item-4002,Snowfield's Gift,8811
-item-4003,Forest's Gift,4823
+item-4001,City's Gift,6681
+item-4002,Snowfield's Gift,9215
+item-4003,Forest's Gift,4861
 item-4004,Wasteland's Gift,2661
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
@@ -289,7 +289,7 @@ item-6003,Trove of Meat Buns,0
 item-6004,Commonfolk Standard,1
 item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
-item-6007,Strawberry Cheesecake Slice,2
+item-6007,Strawberry Cheesecake Slice,3
 item-6008,One Week's Cake Selection,1
 item-6009,Sweet Explosives,1
 item-6010,"Baby  B-A-B-Y.",17
@@ -319,7 +319,7 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,0
-item-10604,Extra Impulse,0
+item-10604,Extra Impulse,2
 item-100009,Crown of Respect,80
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -406,14 +406,14 @@ item-900041,Platinum Medal·The Photo Studio Mystery,144
 item-900042,Tangerine Coin,170
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-gift-100001,Lollipop,2174
+gift-100001,Lollipop,2175
 gift-100002,Ice Cream Cone,101
-gift-100003,Strawberry Custard Cheesecake,3091
+gift-100003,Strawberry Custard Cheesecake,3093
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,810
-gift-400001,Rapid Growth Disk,4313
+gift-200001,Combat Report,800
+gift-400001,Rapid Growth Disk,4385
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
