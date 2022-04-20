@@ -1,27 +1,27 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6317
+item-10,Dummy Core,6358
 item-31,Basic Training Data,30
-item-32,Intermediate Training Data,7294
-item-33,Advanced Training Data,2501
+item-32,Intermediate Training Data,7492
+item-33,Advanced Training Data,1901
 -1,kalina_level,30
 -1,kalina_favor,430171
-item-1,T-Doll Contract,2400
-item-2,Equipment Contract,459
-item-3,Quick Production Contract,1412
-item-4,Quick Repair Contract,6810
+item-1,T-Doll Contract,2404
+item-2,Equipment Contract,464
+item-3,Quick Production Contract,1413
+item-4,Quick Repair Contract,6813
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,20
 item-9,Enhancement Capsule,847
-item-11,Key Card,81
+item-11,Key Card,85
 item-12,Points,30
 item-13,Name Change Card,6
-item-14,Original Sample,31
-item-15,Pure Sample,24
+item-14,Original Sample,101
+item-15,Pure Sample,39
 item-16,Quick Analysis Contract,131
-item-17,Data Patch,44
-item-41,Token,2091
+item-17,Data Patch,46
+item-41,Token,2094
 item-42,Exchange Ticket,0
 item-43,Black Card,5
 item-44,Calibration Ticket,7320
@@ -38,14 +38,14 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,37
-item-506,Battery,8831
-item-507,Surplus EXP,172368
-item-508,Friendship Points,6140
+item-506,Battery,8251
+item-507,Surplus EXP,70113
+item-508,Friendship Points,6220
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,370
 item-513,Dark Star Kernel,11600
-item-514,Petri Dish,4520
+item-514,Petri Dish,4542
 item-515,Basic Training Keycode,44086
 item-516,Advanced Training Keycode,22152
 item-519,HOC General Data,126
@@ -55,7 +55,7 @@ item-522,Turret,8
 item-525,Quick Auto-Battle Contract,327
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,5
 item-604,Electronic Impulse,0
 item-605,Aid Commission,292
 item-606,Transfer Catalyst,75
@@ -280,9 +280,9 @@ item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
 item-4001,City's Gift,6873
-item-4002,Snowfield's Gift,11329
-item-4003,Forest's Gift,7123
-item-4004,Wasteland's Gift,2883
+item-4002,Snowfield's Gift,11371
+item-4003,Forest's Gift,7511
+item-4004,Wasteland's Gift,2925
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,1
 item-6003,Trove of Meat Buns,0
@@ -413,7 +413,7 @@ gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
 gift-400001,Rapid Growth Disk,5043
-gift-200001,Combat Report,80
+gift-200001,Combat Report,240
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
