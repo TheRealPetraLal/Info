@@ -52,7 +52,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 21998353,61,Exclusive,?????,Titan Fire-Control Chip,-,-,-2,-,-,-,-1,-,-,-,-,-,-,-,-,6,30000,10,16,Locked
 22078209,127,Exclusive,?????,Hi-Performance Tactical Hair Accessory,113016113,Gr G41,25,10,20,-,-,-,-,-,-,-,-,-,-,-,30000,10,0,Locked
 22097766,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,7,Locked
-22129404,66,Silencer,?????,AC4 Suppressor,-,-,-,-,10,-,-,-,20%,-,-,-,-,-,-,-,10000,10,6,Locked
+22129404,66,Silencer,?????,AC4 Suppressor,130913655,P22,-,-,10,-,-,-,20%,-,-,-,-,-,-,-,10000,10,6,Locked
 22138143,100,Exclusive,?????,Lightweight Rail Kit,90041310,ST AR-15 Mod,-,10,-,-,-,20%,-,-,-,-,-,-,-,-,30000,10,6,Locked
 22227033,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10000,10,6,Locked
 22304840,12,Red Dot,?????,ITI MARS,-,-,-,26,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,3,Locked
@@ -429,7 +429,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35271825,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,112,-,-,-,-,-,-,0,0,0,Locked
 35271826,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,Locked
 35280523,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,7,-,-,-,-,-,0,0,0,Locked
-35294147,40,T-Exo,?????,IOP T4 Exoskeleton,-,-,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,6,Locked
+35294147,40,T-Exo,?????,IOP T4 Exoskeleton,130913655,P22,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,6,Locked
 35317116,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,22%,-,-,-,-,-,-,-,0,0,0,Locked
 35324587,165,Exclusive,?????,Tactical Earphones,-,-,5,-,11,-,5,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 35342101,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-7,-,-,-,-,-,-,0,0,0,Locked
@@ -556,7 +556,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36516477,229,Special AP Round,?????,Mk1000 SLAP,164151462,M1895 CB,-,-,-,-,-5,-,-,245,-,-,-,-,-,-,0,0,0,Locked
 36552126,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 36552467,66,Silencer,?????,AC4 Suppressor,-,-,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
-36571514,234,Chip,?????,#2 Processor,-,-,14,-,-,-,23,-50%,-,-,-,-,-,-,-,-,5800,8,9,Locked
+36571514,234,Chip,?????,#2 Processor,-,-,14,-,-,-,23,-50%,-,-,-,-,-,-,-,-,7300,8,9,Locked
 36572640,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
 36589534,234,Chip,?????,#2 Processor,-,-,8,-,-,-,13,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 36589536,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,
@@ -565,27 +565,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36621813,32,HV Round,?????,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 36621816,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
 36639709,234,Chip,?????,#2 Processor,-,-,8,-,-,-,13,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
-36639713,225,Signal Flare,?????,Signal Flare,-,-,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+36639713,225,Signal Flare,?????,Signal Flare,130913655,P22,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36658395,264,Exclusive,?????,PK Exclusive Tripod,-,-,4,4,-,-,-,-,21%,-,-,-,-,-,-,-,1,0,0,Locked
 36680809,234,Chip,?????,#2 Processor,-,-,8,-,-,-,12,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 36693998,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,7,-,-,-,-,-,0,0,0,
 36726355,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,99163986,Bren Mod,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 36737353,235,Flash Shell,?????,Shotgun Flash Shells,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36773223,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,99%,-,0,0,0,Locked
-36802219,69,HP Round,??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
-36802220,63,Silencer,??,AC1 Suppressor,-,-,-,-,2,-,-,-,4%,-,-,-,-,-,-,-,0,0,0,
-36802221,63,Silencer,??,AC1 Suppressor,-,-,-,-,2,-,-,-,4%,-,-,-,-,-,-,-,0,0,0,
-36802222,77,Slug Shell,??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-36802223,5,Holographic,??,EOT 506,-,-,1,1,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
-36802224,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-36802266,42,Armor Plate,???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-36802267,69,HP Round,??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
-36802268,71,HP Round,????,ILM Hollow-Point Ammo,-,-,4,-,-,-,-,-,-,-5,-,-,-,-,-,-,0,0,0,
-36802269,69,HP Round,??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
-36802270,222,Auxiliary Sights,???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,5%,-,-,-,-,-,-,-,0,0,0,
-36802271,78,Slug Shell,???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-36802272,232,Chip,???,Experimental Processor,-,-,2,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
 36802273,227,Sniper Round,?????,M1022 Sniper Rounds,-,-,6,-,-,-,-,-,-,72,-,-,-,-,-,-,0,0,0,
-36802274,19,AP Round,????,Mk169 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,92,-,-,-,-,-,-,0,0,0,
-36802275,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
-36802276,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,194,-,-,-,-,-,-,0,0,0,
