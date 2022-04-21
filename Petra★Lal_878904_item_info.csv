@@ -1,31 +1,31 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6380
+item-10,Dummy Core,6433
 item-31,Basic Training Data,30
-item-32,Intermediate Training Data,7110
-item-33,Advanced Training Data,1121
+item-32,Intermediate Training Data,7118
+item-33,Advanced Training Data,521
 -1,kalina_level,30
--1,kalina_favor,430334
-item-1,T-Doll Contract,2408
-item-2,Equipment Contract,476
-item-3,Quick Production Contract,1416
-item-4,Quick Repair Contract,6817
+-1,kalina_favor,431734
+item-1,T-Doll Contract,2416
+item-2,Equipment Contract,493
+item-3,Quick Production Contract,1420
+item-4,Quick Repair Contract,6821
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,20
-item-9,Enhancement Capsule,842
-item-11,Key Card,91
+item-9,Enhancement Capsule,797
+item-11,Key Card,95
 item-12,Points,30
 item-13,Name Change Card,6
-item-14,Original Sample,71
-item-15,Pure Sample,20
-item-16,Quick Analysis Contract,131
-item-17,Data Patch,48
-item-41,Token,2296
+item-14,Original Sample,11
+item-15,Pure Sample,6
+item-16,Quick Analysis Contract,129
+item-17,Data Patch,49
+item-41,Token,2301
 item-42,Exchange Ticket,0
 item-43,Black Card,5
 item-44,Calibration Ticket,7530
-item-45,Memory Fragment,3154
+item-45,Memory Fragment,3254
 item-46,Special Combat Report,6680
 item-47,Theater Material,6
 item-50,Universal Parts,638
@@ -38,26 +38,26 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,37
-item-506,Battery,8467
-item-507,Surplus EXP,24360
-item-508,Friendship Points,6400
+item-506,Battery,7829
+item-507,Surplus EXP,79560
+item-508,Friendship Points,6430
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,370
 item-513,Dark Star Kernel,11600
 item-514,Petri Dish,4586
-item-515,Basic Training Keycode,44338
-item-516,Advanced Training Keycode,22552
+item-515,Basic Training Keycode,44590
+item-516,Advanced Training Keycode,22804
 item-519,HOC General Data,127
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,327
+item-525,Quick Auto-Battle Contract,330
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,3
 item-604,Electronic Impulse,0
-item-605,Aid Commission,292
+item-605,Aid Commission,293
 item-606,Transfer Catalyst,75
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -279,9 +279,9 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,6905
-item-4002,Snowfield's Gift,11371
-item-4003,Forest's Gift,7543
+item-4001,City's Gift,6937
+item-4002,Snowfield's Gift,11686
+item-4003,Forest's Gift,7575
 item-4004,Wasteland's Gift,3215
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,1
@@ -413,7 +413,7 @@ gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
 gift-400001,Rapid Growth Disk,5153
-gift-200001,Combat Report,390
+gift-200001,Combat Report,400
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
