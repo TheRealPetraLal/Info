@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6475
+item-10,Dummy Core,6568
 item-31,Basic Training Data,50
-item-32,Intermediate Training Data,5696
+item-32,Intermediate Training Data,5452
 item-33,Advanced Training Data,541
 -1,kalina_level,30
 -1,kalina_favor,432060
-item-1,T-Doll Contract,2382
-item-2,Equipment Contract,511
-item-3,Quick Production Contract,1439
-item-4,Quick Repair Contract,6836
+item-1,T-Doll Contract,2392
+item-2,Equipment Contract,528
+item-3,Quick Production Contract,1442
+item-4,Quick Repair Contract,6835
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,20
@@ -17,15 +17,15 @@ item-9,Enhancement Capsule,790
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,6
-item-14,Original Sample,151
-item-15,Pure Sample,22
-item-16,Quick Analysis Contract,130
+item-14,Original Sample,241
+item-15,Pure Sample,28
+item-16,Quick Analysis Contract,131
 item-17,Data Patch,50
-item-41,Token,2711
+item-41,Token,2714
 item-42,Exchange Ticket,0
 item-43,Black Card,5
-item-44,Calibration Ticket,7940
-item-45,Memory Fragment,3504
+item-44,Calibration Ticket,8470
+item-45,Memory Fragment,3524
 item-46,Special Combat Report,6680
 item-47,Theater Material,6
 item-50,Universal Parts,615
@@ -38,25 +38,25 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,37
-item-506,Battery,8267
-item-507,Surplus EXP,114989
-item-508,Friendship Points,6850
+item-506,Battery,6830
+item-507,Surplus EXP,204538
+item-508,Friendship Points,7030
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,370
 item-513,Dark Star Kernel,11600
-item-514,Petri Dish,4668
+item-514,Petri Dish,4734
 item-515,Basic Training Keycode,44842
 item-516,Advanced Training Keycode,23604
 item-519,HOC General Data,127
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,333
+item-525,Quick Auto-Battle Contract,336
 item-601,Infinite Surprise Dye,24
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
-item-604,Electronic Impulse,1
+item-603,Potential Energy,0
+item-604,Electronic Impulse,3
 item-605,Aid Commission,293
 item-606,Transfer Catalyst,75
 item-1001,AAT-52 Icon,1
@@ -280,9 +280,9 @@ item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
 item-4001,City's Gift,7031
-item-4002,Snowfield's Gift,12640
-item-4003,Forest's Gift,7927
-item-4004,Wasteland's Gift,3242
+item-4002,Snowfield's Gift,12672
+item-4003,Forest's Gift,8225
+item-4004,Wasteland's Gift,3274
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,1
 item-6003,Trove of Meat Buns,0
@@ -293,7 +293,7 @@ item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
 item-6009,Sweet Explosives,2
 item-6010,"Baby  B-A-B-Y.",18
-item-6011,Streetside Oden,12
+item-6011,Streetside Oden,13
 item-6012,Wild Honeycomb,1
 item-6013,Icy Theater,14
 item-7001,Candy Pocket,0
@@ -413,7 +413,7 @@ gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
 gift-400001,Rapid Growth Disk,5297
-gift-200001,Combat Report,720
+gift-200001,Combat Report,80
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
