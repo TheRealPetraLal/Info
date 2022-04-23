@@ -16,6 +16,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 313987,1004,?????,550,100,Suee,0.0,0.0,70.0,18.0,30.0,Fervor,10,Locked
 346689,12,?,0,40,Landmine Fairy,7.6,13.2,25.2,0.0,0.0,Critical I,4,Locked
 354824,11,????,1895,100,Parachute Fairy,28.8,0.0,25.6,6.4,32.0,Evasion I,10,Locked
+366421,10,????,1500,71,Reinforcement Fairy,8.0,0.0,58.4,8.0,10.4,Damage I,4,Locked
 373900,21,?????,550,100,Zodiac Fairy,25.0,0.0,20.0,20.0,25.0,Damage II,10,Locked
 391838,13,?,0,12,Rocket Fairy,0.0,11.2,0.0,5.6,8.8,Charge,4,Locked
 441155,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
@@ -44,7 +45,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 677410,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion II,1,
 677538,1008,?,0,1,Kouji,3.2,5.2,12.0,3.2,0.0,Sturdy,1,
 677539,1008,?,0,1,Kouji,3.2,5.2,12.0,3.2,0.0,Armor I,1,
-679835,6,?????,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,25.0,Fervor,6,Locked
+679835,6,?????,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,25.0,Fervor,7,Locked
 689089,11,?,0,16,Parachute Fairy,7.2,0.0,6.4,1.6,8.0,Accuracy II,10,Locked
 692681,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion I,1,
 692805,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Evasion II,1,
@@ -99,10 +100,9 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 738654,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Accuracy II,1,
 738939,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Armor II,1,
 738957,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Sturdy,1,
-462508,23,???,585,67,Combo Fairy,15.0,43.8,0.0,0.0,7.8,Assault,10,Locked
+462508,23,???,585,71,Combo Fairy,15.6,44.4,0.0,0.0,7.8,Assault,10,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 181576,8,?????,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0.0,Damage II,10,Locked
 561897,11,???,530,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Critical I,10,Locked
 589166,7,?????,3000,100,Sniper Fairy,0.0,88.0,28.0,15.0,36.0,Fervor,10,Locked
 721265,28,?,0,19,Sand Dancer Fairy,6.4,6.8,13.6,0.0,3.6,Fervor,1,Locked
-366421,10,????,1500,71,Reinforcement Fairy,8.0,0.0,58.4,8.0,10.4,Damage I,4,Locked

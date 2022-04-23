@@ -539,7 +539,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36325735,227,Sniper Round,?????,M1022 Sniper Rounds,-,-,6,-,-,-,-,-,-,73,-,-,-,-,-,-,0,0,0,Locked
 36325737,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,8,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
 36346743,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-36346745,234,Chip,?????,#2 Processor,-,-,10,-,-,-,16,-50%,-,-,-,-,-,-,-,-,0,0,16,Locked
+36346745,234,Chip,?????,#2 Processor,-,-,12,-,-,-,20,-50%,-,-,-,-,-,-,-,-,2000,5,16,Locked
 36369798,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-9,-,-,-,-,-,-,1,0,0,Locked
 36407891,167,Exclusive,?????,C96 Oak Stock,-,-,-,-,8,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
 36416612,225,Signal Flare,?????,Signal Flare,130415829,P22,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -556,7 +556,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36516477,229,Special AP Round,?????,Mk1000 SLAP,164151462,M1895 CB,-,-,-,-,-5,-,-,245,-,-,-,-,-,-,0,0,0,Locked
 36552126,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 36552467,66,Silencer,?????,AC4 Suppressor,-,-,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
-36571514,234,Chip,?????,#2 Processor,-,-,14,-,-,-,23,-50%,-,-,-,-,-,-,-,-,7300,8,9,Locked
+36571514,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,9,Locked
 36572640,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
 36589534,234,Chip,?????,#2 Processor,-,-,8,-,-,-,13,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 36589536,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,
@@ -573,14 +573,8 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36737353,235,Flash Shell,?????,Shotgun Flash Shells,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36773223,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,99%,-,0,0,0,Locked
 36802273,227,Sniper Round,?????,M1022 Sniper Rounds,-,-,6,-,-,-,-,-,-,72,-,-,-,-,-,-,0,0,0,Locked
-36817686,13,Night Equip,??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,52%,-,0,0,0,
-36817687,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
-36817688,13,Night Equip,??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,52%,-,0,0,0,
-36817689,42,Armor Plate,???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-36817690,232,Chip,???,Experimental Processor,-,-,1,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
-36817691,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-36817692,87,Camo Cloak,??,Ragged Cape,-,-,-,-,-,-3,-,3%,-,-,-,-,-,-,-,-,0,0,0,
 36817894,66,Silencer,?????,AC4 Suppressor,-,-,-,-,6,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,Locked
-36817895,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,190,-,-,-,-,-,-,0,0,0,
 36818089,90,Camo Cloak,?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,11%,-,-,-,-,-,-,-,-,0,0,0,Locked
 36832379,242,Exclusive,?????,7N14,-,-,1,-,-,-,-,-,-,113,-,-,-,-,-,-,1,0,0,
+36833078,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,8,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,
+36833082,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,
