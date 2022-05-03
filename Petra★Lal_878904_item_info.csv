@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6940
-item-31,Basic Training Data,398
-item-32,Intermediate Training Data,696
-item-33,Advanced Training Data,691
+item-10,Dummy Core,7132
+item-31,Basic Training Data,198
+item-32,Intermediate Training Data,2693
+item-33,Advanced Training Data,1711
 -1,kalina_level,30
--1,kalina_favor,461033
-item-1,T-Doll Contract,2401
-item-2,Equipment Contract,706
-item-3,Quick Production Contract,1353
-item-4,Quick Repair Contract,6819
+-1,kalina_favor,478006
+item-1,T-Doll Contract,2406
+item-2,Equipment Contract,732
+item-3,Quick Production Contract,1360
+item-4,Quick Repair Contract,6835
 item-5,Daily Pause Permit,1
-item-7,Oath Certificate,2
+item-7,Oath Certificate,6
 item-8,Quick Training Contract,24
-item-9,Enhancement Capsule,935
+item-9,Enhancement Capsule,1045
 item-11,Key Card,0
 item-12,Points,0
-item-13,Name Change Card,6
+item-13,Name Change Card,7
 item-14,Original Sample,21
-item-15,Pure Sample,29
-item-16,Quick Analysis Contract,139
-item-17,Data Patch,68
-item-41,Token,227
+item-15,Pure Sample,15
+item-16,Quick Analysis Contract,141
+item-17,Data Patch,71
+item-41,Token,201
 item-42,Exchange Ticket,0
-item-43,Black Card,12
-item-44,Calibration Ticket,9410
-item-45,Memory Fragment,3944
+item-43,Black Card,20
+item-44,Calibration Ticket,15910
+item-45,Memory Fragment,6044
 item-46,Special Combat Report,7380
 item-47,Theater Material,6
-item-50,Universal Parts,1346
+item-50,Universal Parts,1335
 item-51,New Type Fire-Control Component,31
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,130
@@ -38,26 +38,26 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,2741
-item-507,Surplus EXP,22920
-item-508,Friendship Points,8800
+item-506,Battery,3629
+item-507,Surplus EXP,114600
+item-508,Friendship Points,9010
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,370
 item-513,Dark Star Kernel,12200
-item-514,Petri Dish,3989
-item-515,Basic Training Keycode,44483
+item-514,Petri Dish,4033
+item-515,Basic Training Keycode,42983
 item-516,Advanced Training Keycode,23808
 item-519,HOC General Data,132
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,363
+item-525,Quick Auto-Battle Contract,369
 item-601,Infinite Surprise Dye,25
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
-item-604,Electronic Impulse,9
-item-605,Aid Commission,296
+item-603,Potential Energy,0
+item-604,Electronic Impulse,10
+item-605,Aid Commission,316
 item-606,Transfer Catalyst,100
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -170,6 +170,8 @@ item-1430,Icon: Official 4-koma - VOL. 10,1
 item-1445,Micro Uzi Neural Upgrade Icon,1
 item-1446,AS Val Neural Upgrade Icon,1
 item-1447,StG44 Neural Upgrade Icon,1
+item-1459,Icon: Beer Wave,1
+item-1461,Icon: Kitty Friends Won't Leave,1
 item-1482,Flying Fish Assault,1
 item-1491,Icon: Lost Queen-of-the-Night,1
 item-1492,ID: Train Station of the Beginning,1
@@ -279,19 +281,19 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,5617
-item-4002,Snowfield's Gift,4293
-item-4003,Forest's Gift,6348
-item-4004,Wasteland's Gift,4854
+item-4001,City's Gift,5676
+item-4002,Snowfield's Gift,4510
+item-4003,Forest's Gift,6407
+item-4004,Wasteland's Gift,5205
 item-6001,Ordinary Meat Bun,0
-item-6002,Bundle of Meat Buns,1
+item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
-item-6004,Commonfolk Standard,0
+item-6004,Commonfolk Standard,1
 item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
-item-6009,Sweet Explosives,0
+item-6009,Sweet Explosives,1
 item-6010,"Baby  B-A-B-Y.",18
 item-6011,Streetside Oden,13
 item-6012,Wild Honeycomb,1
@@ -410,16 +412,22 @@ item-900041,Platinum Medal·The Photo Studio Mystery,144
 item-900042,Tangerine Coin,170
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-item-1459,Icon: Beer Wave,1
-item-1461,Icon: Kitty Friends Won't Leave,1
-gift-100001,Lollipop,2244
-gift-100002,Ice Cream Cone,119
-gift-100003,Strawberry Custard Cheesecake,3029
+item-100044,item-10100044,0
+item-100043,item-10100043,0
+item-100042,item-10100042,0
+item-100041,item-10100041,0
+item-1463,Icon: Dear Becky,1
+item-1462,Icon: A Toast To This Damn World,1
+item-1464,Icon: Super-Shorty Squad Leader,1
+item-1460,Icon: Crimson Fist Grand Slam,1
+gift-100001,Lollipop,2270
+gift-100002,Ice Cream Cone,123
+gift-100003,Strawberry Custard Cheesecake,3041
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-400001,Rapid Growth Disk,3565
-gift-200001,Combat Report,560
+gift-400001,Rapid Growth Disk,3673
+gift-200001,Combat Report,2580
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
