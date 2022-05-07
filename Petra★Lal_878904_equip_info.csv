@@ -337,7 +337,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33956904,95,HP Round,?????,16Lab Hollow-Point,128650011,PA-15,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
 33956905,110,HV Round,?????,16Lab High-Velocity Ammo,95535795,AK-12,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 33981820,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,17,Locked
-33996499,156,Exclusive,?????,AMP COMPSP,-,-,9,14,14,-,-,-,-,-,-,-,-,-,-,-,20426,8,6,Locked
+33996499,156,Exclusive,?????,AMP COMPSP,-,-,9,14,14,-,-,-,-,-,-,-,-,-,-,-,22301,8,6,Locked
 34044674,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,43%,-,-,-,-,-,-,-,10000,10,0,Locked
 34119540,16,Night Equip,?????,PEQ-16A,163277438,AK-Alfa,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,Locked
 34186446,68,Ammo Box,?????,IOP Maximum Ammo Box,176902193,Hanazono Yurine,-,-,-2,-,-,-,-,-,-,-,-,-,-,4,10000,10,0,Locked
@@ -585,7 +585,5 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37064691,124,Exclusive,?????,Gr G3 Barrel Kit,89401237,Gr G3 Mod,3,-,-,-,-,-,17%,-,-,-,-,-,-,-,1,0,0,
 37085242,145,Exclusive,?????,Prosthetic Arm,-,-,2,-,-2,-,-,-,-,-,6,-,-,-,-,-,1,0,0,Locked
 37088501,103,Exclusive,?????,Type 64 Exclusive Suppressor,89108400,Type64 Mod,-,-,9,-,-,-,14%,-,-,-,-,-,-,-,1,0,0,
-37104083,78,Slug Shell,???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37104084,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,198,-,-,-,-,-,-,0,0,0,
-37104086,18,AP Round,???,M993 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,66,-,-,-,-,-,-,0,0,0,
 37105486,123,Exclusive,?????,Bren L4 Barrel Kit,99163986,Bren Mod,2,11,-,-,-,-,15%,-,-,-,-,-,-,-,1,0,0,
+37115259,149,Exclusive,?????,Cybernetic Hands,-,-,2,-,-2,-,-,-,-,-,-,-,-,-,-,3,1,0,0,Locked
