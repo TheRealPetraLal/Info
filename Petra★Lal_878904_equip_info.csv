@@ -250,7 +250,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 30445031,80,Slug Shell,?????,SABOT Slug,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,1,Locked
 30542358,90,Camo Cloak,?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,11,Locked
 30597878,114,Exclusive,?????,MP446C Match Barrel,89107440,MP-446 Mod,-,8,10,-,-,-,20%,-,-,-,-,-,-,-,30000,10,16,Locked
-30613131,90,Camo Cloak,?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,5,Locked
+30613131,90,Camo Cloak,?????,Thermoptic Camouflage Cape,89919546,Super SASS Mod,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,5,Locked
 30630055,90,Camo Cloak,?????,Thermoptic Camouflage Cape,181850512,General Liu,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,2,Locked
 30740139,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,19%,-,-,-,-,-,-,-,0,0,0,Locked
 30751341,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,20%,-,-,-,-,-,-,-,0,0,0,Locked
@@ -337,7 +337,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33956904,95,HP Round,?????,16Lab Hollow-Point,128650011,PA-15,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
 33956905,110,HV Round,?????,16Lab High-Velocity Ammo,95535795,AK-12,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 33981820,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,17,Locked
-33996499,156,Exclusive,?????,AMP COMPSP,-,-,9,14,14,-,-,-,-,-,-,-,-,-,-,-,23451,9,6,Locked
+33996499,156,Exclusive,?????,AMP COMPSP,-,-,9,14,14,-,-,-,-,-,-,-,-,-,-,-,25326,9,6,Locked
 34044674,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,43%,-,-,-,-,-,-,-,10000,10,0,Locked
 34119540,16,Night Equip,?????,PEQ-16A,163277438,AK-Alfa,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,Locked
 34186446,68,Ammo Box,?????,IOP Maximum Ammo Box,176902193,Hanazono Yurine,-,-,-2,-,-,-,-,-,-,-,-,-,-,4,10000,10,0,Locked
@@ -588,6 +588,9 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37105486,123,Exclusive,?????,Bren L4 Barrel Kit,99163986,Bren Mod,2,11,-,-,-,-,15%,-,-,-,-,-,-,-,1,0,0,Locked
 37115259,149,Exclusive,?????,Cybernetic Hands,-,-,2,-,-2,-,-,-,-,-,-,-,-,-,-,3,1,0,0,Locked
 37126711,12,Red Dot,?????,ITI MARS,-,-,-,11,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
-37126712,88,Camo Cloak,???,Camouflage Cape,-,-,-,-,-,-3,-,6%,-,-,-,-,-,-,-,-,0,0,0,
-37126713,3,Optical,????,PSO-1,-,-,-,-,-,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,
-37127389,14,Night Equip,???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,63%,-,0,0,0,
+37131256,147,Exclusive,?????,White Knight's Armor,-,-,-,-,17,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
+37141583,13,Night Equip,??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,51%,-,0,0,0,
+37141584,37,T-Exo,??,IOP T1 Exoskeleton,-,-,-1,-,6,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37141586,17,AP Round,??,M61 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,48,-,-,-,-,-,-,0,0,0,
+37142217,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,190,-,-,-,-,-,-,0,0,0,
+37146113,3,Optical,????,PSO-1,-,-,-,-,-,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,
