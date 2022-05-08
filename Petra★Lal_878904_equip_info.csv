@@ -337,7 +337,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33956904,95,HP Round,?????,16Lab Hollow-Point,128650011,PA-15,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
 33956905,110,HV Round,?????,16Lab High-Velocity Ammo,95535795,AK-12,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 33981820,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,17,Locked
-33996499,156,Exclusive,?????,AMP COMPSP,-,-,9,14,14,-,-,-,-,-,-,-,-,-,-,-,25326,9,6,Locked
+33996499,156,Exclusive,?????,AMP COMPSP,-,-,9,14,14,-,-,-,-,-,-,-,-,-,-,-,27626,9,6,Locked
 34044674,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,43%,-,-,-,-,-,-,-,10000,10,0,Locked
 34119540,16,Night Equip,?????,PEQ-16A,163277438,AK-Alfa,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,Locked
 34186446,68,Ammo Box,?????,IOP Maximum Ammo Box,176902193,Hanazono Yurine,-,-,-2,-,-,-,-,-,-,-,-,-,-,4,10000,10,0,Locked
@@ -589,8 +589,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37115259,149,Exclusive,?????,Cybernetic Hands,-,-,2,-,-2,-,-,-,-,-,-,-,-,-,-,3,1,0,0,Locked
 37126711,12,Red Dot,?????,ITI MARS,-,-,-,11,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
 37131256,147,Exclusive,?????,White Knight's Armor,-,-,-,-,17,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
-37141583,13,Night Equip,??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,51%,-,0,0,0,
-37141584,37,T-Exo,??,IOP T1 Exoskeleton,-,-,-1,-,6,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37141586,17,AP Round,??,M61 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,48,-,-,-,-,-,-,0,0,0,
-37142217,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,190,-,-,-,-,-,-,0,0,0,
-37146113,3,Optical,????,PSO-1,-,-,-,-,-,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,
+37159077,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,243,-,-,-,-,-,-,0,0,0,
+37159078,63,Silencer,??,AC1 Suppressor,-,-,-,-,2,-,-,-,4%,-,-,-,-,-,-,-,0,0,0,
+37159079,13,Night Equip,??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,52%,-,0,0,0,
+37159080,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
