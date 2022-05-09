@@ -160,7 +160,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 26969078,72,HP Round,?????,ILM Hollow-Point Ammo,89281536,UMP9 Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 26999302,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 27004443,179,Exclusive,?????,WML & Tactical Handguard,132163029,M950A Mod,-,-,20,-,-,-,20%,-,-,-,-,-,-,-,30000,10,16,Locked
-27248071,134,Exclusive,?????,MPL M21,-,-,7,27,-,-,-1,-,-,-,-,-,-,-,-,-,6201,5,16,Locked
+27248071,134,Exclusive,?????,MPL M21,-,-,8,30,-,-,-1,-,-,-,-,-,-,-,-,-,12101,7,16,Locked
 27325694,80,Slug Shell,?????,SABOT Slug,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,12,Locked
 27328786,72,HP Round,?????,ILM Hollow-Point Ammo,89082443,STEN Mk? Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 27329801,66,Silencer,?????,AC4 Suppressor,-,-,-,-,7,-,-,-,16%,-,-,-,-,-,-,-,10000,10,0,Locked
@@ -337,7 +337,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33956904,95,HP Round,?????,16Lab Hollow-Point,128650011,PA-15,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
 33956905,110,HV Round,?????,16Lab High-Velocity Ammo,95535795,AK-12,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 33981820,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,17,Locked
-33996499,156,Exclusive,?????,AMP COMPSP,-,-,9,14,14,-,-,-,-,-,-,-,-,-,-,-,27626,9,6,Locked
+33996499,156,Exclusive,?????,AMP COMPSP,-,-,10,15,15,-,-,-,-,-,-,-,-,-,-,-,30000,10,6,Locked
 34044674,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,43%,-,-,-,-,-,-,-,10000,10,0,Locked
 34119540,16,Night Equip,?????,PEQ-16A,163277438,AK-Alfa,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,Locked
 34186446,68,Ammo Box,?????,IOP Maximum Ammo Box,176902193,Hanazono Yurine,-,-,-2,-,-,-,-,-,-,-,-,-,-,4,10000,10,0,Locked
@@ -578,7 +578,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36986380,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,114,-,-,-,-,-,-,0,0,0,Locked
 37016465,146,Exclusive,?????,MIRD Class-5 Rounds,-,-,13,-,-,-,-,-,-,-9,-,-,-,-,-,-,1,0,0,Locked
 37027215,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,240,-,-,-,-,-,-,0,0,0,Locked
-37034443,148,Exclusive,?????,Prosthetic Eye,-,-,-,-,-,-3,1,17%,-,-,-,-,-,-,-,-,1,0,0,Locked
+37034443,148,Exclusive,?????,Prosthetic Eye,187926065,Stella Hoshii,-,-,-,-3,1,17%,-,-,-,-,-,-,-,-,1,0,0,Locked
 37064502,225,Signal Flare,?????,Signal Flare,-,-,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37064681,166,Exclusive,?????,DO Reflex Sight,89419506,M38 Mod,5,6,-,-,-5,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 37064685,191,Exclusive,?????,ACS-L,89919546,Super SASS Mod,3,-,-,-,-,-,18%,-,-,-,-,-,-,-,1,0,0,Locked
@@ -590,6 +590,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37126711,12,Red Dot,?????,ITI MARS,-,-,-,11,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
 37131256,147,Exclusive,?????,White Knight's Armor,-,-,-,-,17,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 37159077,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,243,-,-,-,-,-,-,0,0,0,
-37159078,63,Silencer,??,AC1 Suppressor,-,-,-,-,2,-,-,-,4%,-,-,-,-,-,-,-,0,0,0,
-37159079,13,Night Equip,??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,52%,-,0,0,0,
-37159080,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37160216,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,0,0,0,

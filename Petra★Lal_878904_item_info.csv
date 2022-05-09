@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7525
-item-31,Basic Training Data,1654
-item-32,Intermediate Training Data,10093
-item-33,Advanced Training Data,4521
+item-10,Dummy Core,7599
+item-31,Basic Training Data,2494
+item-32,Intermediate Training Data,8853
+item-33,Advanced Training Data,4071
 -1,kalina_level,30
 -1,kalina_favor,482791
-item-1,T-Doll Contract,2800
-item-2,Equipment Contract,794
-item-3,Quick Production Contract,1757
-item-4,Quick Repair Contract,6891
+item-1,T-Doll Contract,2802
+item-2,Equipment Contract,797
+item-3,Quick Production Contract,1758
+item-4,Quick Repair Contract,6897
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,24
@@ -17,18 +17,18 @@ item-9,Enhancement Capsule,1453
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,51
-item-15,Pure Sample,24
-item-16,Quick Analysis Contract,145
-item-17,Data Patch,80
-item-41,Token,229
+item-14,Original Sample,91
+item-15,Pure Sample,10
+item-16,Quick Analysis Contract,146
+item-17,Data Patch,82
+item-41,Token,232
 item-42,Exchange Ticket,0
 item-43,Black Card,4
-item-44,Calibration Ticket,15715
-item-45,Memory Fragment,7174
+item-44,Calibration Ticket,15785
+item-45,Memory Fragment,7194
 item-46,Special Combat Report,7380
 item-47,Theater Material,6
-item-50,Universal Parts,1274
+item-50,Universal Parts,1203
 item-51,New Type Fire-Control Component,27
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,130
@@ -38,24 +38,24 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,4286
-item-507,Surplus EXP,189720
-item-508,Friendship Points,10040
+item-506,Battery,3425
+item-507,Surplus EXP,51336
+item-508,Friendship Points,10080
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,420
 item-513,Dark Star Kernel,18900
-item-514,Petri Dish,6537
-item-515,Basic Training Keycode,61775
-item-516,Advanced Training Keycode,39312
+item-514,Petri Dish,6581
+item-515,Basic Training Keycode,59475
+item-516,Advanced Training Keycode,38112
 item-519,HOC General Data,134
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,381
+item-525,Quick Auto-Battle Contract,384
 item-601,Infinite Surprise Dye,35
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,4
 item-604,Electronic Impulse,1
 item-605,Aid Commission,302
 item-606,Transfer Catalyst,145
@@ -179,6 +179,7 @@ item-1461,Icon: Kitty Friends Won't Leave,1
 item-1462,Icon: A Toast To This Damn World,1
 item-1463,Icon: Dear Becky,1
 item-1464,Icon: Super-Shorty Squad Leader,1
+item-1465,ID Card: Welcome to VA-11 Hall-A,1
 item-1482,Flying Fish Assault,1
 item-1491,Icon: Lost Queen-of-the-Night,1
 item-1492,ID: Train Station of the Beginning,1
@@ -290,9 +291,9 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
-item-4001,City's Gift,6514
-item-4002,Snowfield's Gift,7203
-item-4003,Forest's Gift,7308
+item-4001,City's Gift,6552
+item-4002,Snowfield's Gift,7548
+item-4003,Forest's Gift,7346
 item-4004,Wasteland's Gift,5330
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
@@ -341,6 +342,7 @@ item-100031,Platinum Medal,2
 item-100032,True Core Mask - Polarized Light,0
 item-100034,Platinum Medal,3
 item-100035,Tangerine Coin,60
+item-100040,True Core Mask - 4th Anniversary,0
 item-100041,1st Anniversary Costume Voucher,0
 item-100042,2nd Anniversary Costume Voucher,0
 item-100043,3rd Anniversary Costume Voucher,0
@@ -405,6 +407,7 @@ item-110016,Event Points,2400
 item-110017,Event Points,3000
 item-110018,Event Points,3000
 item-110019,Event Points,2400
+item-110020,Event Points,440
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -425,9 +428,7 @@ item-900041,Platinum Medal·The Photo Studio Mystery,144
 item-900042,Tangerine Coin,170
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-item-1465,ID Card: Welcome to VA-11 Hall-A,1
-item-100040,True Core Mask - 4th Anniversary,0
-item-110020,Event Points,440
+item-100045,4th Anniversary Special Supply Box,0
 gift-100001,Lollipop,1770
 gift-100002,Ice Cream Cone,123
 gift-100003,Strawberry Custard Cheesecake,3066
@@ -435,7 +436,7 @@ gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
 gift-400001,Rapid Growth Disk,7811
-gift-200001,Combat Report,180
+gift-200001,Combat Report,500
 gift-200003,Beer on Discount,20
 gift-100005,Mulan Tea,10
 furniture-10110,State-of-the-Art Workbench,10
