@@ -160,7 +160,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 26969078,72,HP Round,?????,ILM Hollow-Point Ammo,89281536,UMP9 Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 26999302,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 27004443,179,Exclusive,?????,WML & Tactical Handguard,132163029,M950A Mod,-,-,20,-,-,-,20%,-,-,-,-,-,-,-,30000,10,16,Locked
-27248071,134,Exclusive,?????,MPL M21,-,-,8,30,-,-,-1,-,-,-,-,-,-,-,-,-,12101,7,16,Locked
+27248071,134,Exclusive,?????,MPL M21,-,-,8,30,-,-,-1,-,-,-,-,-,-,-,-,-,13701,7,16,Locked
 27325694,80,Slug Shell,?????,SABOT Slug,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,12,Locked
 27328786,72,HP Round,?????,ILM Hollow-Point Ammo,89082443,STEN Mk? Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 27329801,66,Silencer,?????,AC4 Suppressor,-,-,-,-,7,-,-,-,16%,-,-,-,-,-,-,-,10000,10,0,Locked
@@ -439,7 +439,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35497092,32,HV Round,?????,APCR High-Velocity Ammo,184544857,FX-05,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,2,Locked
 35497094,8,Holographic,?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
 35509236,76,Buckshot Shell,?????,#000 Buckshot,181797005,LTLX7000,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
-35545991,259,Exclusive,?????,Old Camouflage Uniform,-,-,-,-,-,-,-,22%,-,-,-,-,-,-,-,-,1,0,0,Locked
+35545991,259,Exclusive,?????,Old Camouflage Uniform,-,-,-,-,-,-,-,25%,-,-,-,-,-,-,-,-,1,0,5,Locked
 35550716,192,Exclusive,?????,Beloved Dangle,95924334,RO635 Mod,-6,-,45,-,-,-,-,-,-,-,-,-,-,-,30000,10,16,Locked
 35565473,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,147319543,Desert Eagle,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,16,Locked
 35578410,227,Sniper Round,?????,M1022 Sniper Rounds,175629744,Carcano M91/38,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,6,Locked
