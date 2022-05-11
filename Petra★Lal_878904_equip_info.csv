@@ -552,7 +552,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36658395,264,Exclusive,?????,PK Exclusive Tripod,-,-,4,4,-,-,-,-,21%,-,-,-,-,-,-,-,1,0,0,Locked
 36680809,234,Chip,?????,#2 Processor,-,-,8,-,-,-,12,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 36726355,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
-36737353,235,Flash Shell,?????,Shotgun Flash Shells,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+36737353,235,Flash Shell,?????,Shotgun Flash Shells,187853464,Dana Zane,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36773223,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,99%,-,0,0,0,Locked
 36802273,227,Sniper Round,?????,M1022 Sniper Rounds,-,-,6,-,-,-,-,-,-,72,-,-,-,-,-,-,0,0,0,Locked
 36817894,66,Silencer,?????,AC4 Suppressor,-,-,-,-,6,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,Locked
@@ -583,7 +583,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37064681,166,Exclusive,?????,DO Reflex Sight,89419506,M38 Mod,5,6,-,-,-5,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 37064685,191,Exclusive,?????,ACS-L,89919546,Super SASS Mod,3,-,-,-,-,-,18%,-,-,-,-,-,-,-,1,0,0,Locked
 37064691,124,Exclusive,?????,Gr G3 Barrel Kit,89401237,Gr G3 Mod,3,-,-,-,-,-,17%,-,-,-,-,-,-,-,1,0,0,Locked
-37085242,145,Exclusive,?????,Prosthetic Arm,-,-,2,-,-2,-,-,-,-,-,6,-,-,-,-,-,1,0,0,Locked
+37085242,145,Exclusive,?????,Prosthetic Arm,187853464,Dana Zane,2,-,-2,-,-,-,-,-,6,-,-,-,-,-,1,0,0,Locked
 37088501,103,Exclusive,?????,Type 64 Exclusive Suppressor,89108400,Type64 Mod,-,-,9,-,-,-,14%,-,-,-,-,-,-,-,1,0,0,Locked
 37105486,123,Exclusive,?????,Bren L4 Barrel Kit,99163986,Bren Mod,2,11,-,-,-,-,15%,-,-,-,-,-,-,-,1,0,0,Locked
 37115259,149,Exclusive,?????,Cybernetic Hands,-,-,2,-,-2,-,-,-,-,-,-,-,-,-,-,3,1,0,0,Locked
@@ -607,3 +607,6 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37188722,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,190,-,-,-,-,-,-,0,0,0,
 37188723,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,192,-,-,-,-,-,-,0,0,0,
 37188724,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,193,-,-,-,-,-,-,0,0,0,
+37191092,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+37191093,223,Auxiliary Sights,????,RMR T2 Red Dot Sight,-,-,-,8,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
+37203976,7,Holographic,????,EOT 516,-,-,2,3,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
