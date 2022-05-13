@@ -160,7 +160,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 26969078,72,HP Round,?????,ILM Hollow-Point Ammo,89281536,UMP9 Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 26999302,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 27004443,179,Exclusive,?????,WML & Tactical Handguard,132163029,M950A Mod,-,-,20,-,-,-,20%,-,-,-,-,-,-,-,30000,10,16,Locked
-27248071,134,Exclusive,?????,MPL M21,-,-,9,34,-,-,-1,-,-,-,-,-,-,-,-,-,24151,9,16,Locked
+27248071,134,Exclusive,?????,MPL M21,-,-,9,34,-,-,-1,-,-,-,-,-,-,-,-,-,27901,9,16,Locked
 27325694,80,Slug Shell,?????,SABOT Slug,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,12,Locked
 27328786,72,HP Round,?????,ILM Hollow-Point Ammo,89082443,STEN Mk? Mod,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 27329801,66,Silencer,?????,AC4 Suppressor,-,-,-,-,7,-,-,-,16%,-,-,-,-,-,-,-,10000,10,0,Locked
@@ -591,17 +591,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37131256,147,Exclusive,?????,White Knight's Armor,-,-,-,-,17,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 37159077,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,243,-,-,-,-,-,-,0,0,0,Locked
 37160216,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,0,0,0,Locked
-37246603,39,T-Exo,????,IOP T3 Exoskeleton,-,-,-5,-,14,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37246604,6,Holographic,???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
-37247539,64,Silencer,???,AC2 Suppressor,-,-,-,-,3,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
-37247540,222,Auxiliary Sights,???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,5%,-,-,-,-,-,-,-,0,0,0,
-37247541,6,Holographic,???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
-37247542,2,Optical,???,LRA 2-12x50,-,-,-,-,-,-,-,-,11%,-,-,-,-,-,-,-,0,0,0,
-37247987,77,Slug Shell,??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37248046,56,X-Exo,???,IOP X2 Exoskeleton,-,-,-,-,4,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37248047,74,Buckshot Shell,???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
-37248048,74,Buckshot Shell,???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
-37253812,31,HV Round,????,JHP High-Velocity Ammo,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
 37253813,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,
-37253814,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37253815,71,HP Round,????,ILM Hollow-Point Ammo,-,-,4,-,-,-,-,-,-,-5,-,-,-,-,-,-,0,0,0,
