@@ -268,7 +268,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 31072043,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,8,Locked
 31088568,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,19%,-,-,-,-,-,-,-,0,0,0,Locked
 31120670,175,Exclusive,?????,BPR4 & SRM6,-,-,2,-,7,-,-,-,18%,-,-,-,-,-,-,-,1,0,0,Locked
-31209015,112,Exclusive,?????,CT 4X20,-,-,-,12,-,-,-2,-,15%,-,-,-,-,-,-,-,1,0,0,Locked
+31209015,112,Exclusive,?????,CT 4X20,-,-,-,15,-,-,-1,-,15%,-,-,-,-,-,-,-,1,0,7,Locked
 31209927,40,T-Exo,?????,IOP T4 Exoskeleton,130415829,P22,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
 31222211,66,Silencer,?????,AC4 Suppressor,-,-,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 31287738,68,Ammo Box,?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,0,0,0,Locked
@@ -609,3 +609,14 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37337271,234,Chip,?????,#2 Processor,-,-,8,-,-,-,15,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 37337615,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 37338076,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+37366681,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37366682,31,HV Round,????,JHP High-Velocity Ammo,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37366683,31,HV Round,????,JHP High-Velocity Ammo,-,-,6,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37366684,32,HV Round,?????,APCR High-Velocity Ammo,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+37366685,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37366686,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37366687,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37366688,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37366689,88,Camo Cloak,???,Camouflage Cape,-,-,-,-,-,-3,-,6%,-,-,-,-,-,-,-,-,0,0,0,
+37366690,222,Auxiliary Sights,???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
+37366691,6,Holographic,???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
