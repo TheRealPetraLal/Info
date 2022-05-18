@@ -321,7 +321,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33334887,32,HV Round,?????,APCR High-Velocity Ammo,89748707,416 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,4,Locked
 33415296,40,T-Exo,?????,IOP T4 Exoskeleton,161816245,Webley,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,10,Locked
 33460583,90,Camo Cloak,?????,Thermoptic Camouflage Cape,175629744,Carcano M91/38,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,2,Locked
-33513092,177,Exclusive,?????,MGP Upgrade Kit,-,-,-,27,-,-,-1,22%,-,-,-,-,-,-,-,-,20676,8,16,Locked
+33513092,177,Exclusive,?????,MGP Upgrade Kit,-,-,-,28,-,-,-1,23%,-,-,-,-,-,-,-,-,23101,9,16,Locked
 33560902,80,Slug Shell,?????,SABOT Slug,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 33571120,176,Exclusive,?????,7N31,-,-,15,-,-,-,3,-,-,35,-,-,-,-,-,-,30000,10,6,Locked
 33587433,90,Camo Cloak,?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
@@ -609,14 +609,3 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37337271,234,Chip,?????,#2 Processor,-,-,8,-,-,-,15,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
 37337615,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 37338076,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-37350332,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350333,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350334,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350335,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350336,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350337,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350338,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350339,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37350340,88,Camo Cloak,???,Camouflage Cape,-,-,-,-,-,-3,-,5%,-,-,-,-,-,-,-,-,0,0,0,
-37350341,2,Optical,???,LRA 2-12x50,-,-,-,-,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
-37350342,15,Night Equip,????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,77%,-,0,0,0,
