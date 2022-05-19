@@ -439,7 +439,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35497092,32,HV Round,?????,APCR High-Velocity Ammo,184544857,FX-05,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,2,Locked
 35497094,8,Holographic,?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
 35509236,76,Buckshot Shell,?????,#000 Buckshot,181797005,LTLX7000,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
-35545991,259,Exclusive,?????,Old Camouflage Uniform,-,-,-,-,-,-,-,25%,-,-,-,-,-,-,-,-,1,0,5,Locked
+35545991,259,Exclusive,?????,Old Camouflage Uniform,181907164,Mondragon M1908,-,-,-,-,-,25%,-,-,-,-,-,-,-,-,1,0,5,Locked
 35550716,192,Exclusive,?????,Beloved Dangle,95924334,RO635 Mod,-6,-,45,-,-,-,-,-,-,-,-,-,-,-,30000,10,16,Locked
 35565473,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,147319543,Desert Eagle,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,16,Locked
 35578410,227,Sniper Round,?????,M1022 Sniper Rounds,175629744,Carcano M91/38,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,6,Locked
@@ -535,7 +535,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36463417,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 36475538,225,Signal Flare,?????,Signal Flare,133256418,P22,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36475542,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
-36483434,107,Exclusive,?????,Infinite Ammo Box,-,-,-25,-10,-2,-,-,-,-,-,-,-,-,-,-,20,0,0,0,Locked
+36483434,107,Exclusive,?????,Infinite Ammo Box,101458173,MG3,-25,-10,-2,-,-,-,-,-,-,-,-,-,-,20,0,0,0,Locked
 36484201,119,Exclusive,?????,FÉLIN System Sight,-,-,3,1,-,-,-,-,20%,-,-,-,-,-,-,-,0,0,0,Locked
 36513047,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 36516477,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,245,-,-,-,-,-,-,0,0,0,Locked
@@ -610,3 +610,14 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37337615,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 37338076,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37366684,32,HV Round,?????,APCR High-Velocity Ammo,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+37379716,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,195,-,-,-,-,-,-,0,0,0,
+37379717,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,197,-,-,-,-,-,-,0,0,0,
+37379718,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,191,-,-,-,-,-,-,0,0,0,
+37379719,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,193,-,-,-,-,-,-,0,0,0,
+37379720,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+37379721,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
+37379722,88,Camo Cloak,???,Camouflage Cape,-,-,-,-,-,-3,-,5%,-,-,-,-,-,-,-,-,0,0,0,
+37379723,232,Chip,???,Experimental Processor,-,-,1,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
+37379724,11,Red Dot,????,COG M150,-,-,-,8,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+37379725,42,Armor Plate,???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
+37379726,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
