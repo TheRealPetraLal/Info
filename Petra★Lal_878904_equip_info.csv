@@ -321,7 +321,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33334887,32,HV Round,?????,APCR High-Velocity Ammo,89748707,416 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,4,Locked
 33415296,40,T-Exo,?????,IOP T4 Exoskeleton,161816245,Webley,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,10,Locked
 33460583,90,Camo Cloak,?????,Thermoptic Camouflage Cape,175629744,Carcano M91/38,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,2,Locked
-33513092,177,Exclusive,?????,MGP Upgrade Kit,-,-,-,28,-,-,-1,23%,-,-,-,-,-,-,-,-,28851,9,16,Locked
+33513092,177,Exclusive,?????,MGP Upgrade Kit,-,-,-,30,-,-,-1,24%,-,-,-,-,-,-,-,-,30000,10,16,Locked
 33560902,80,Slug Shell,?????,SABOT Slug,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 33571120,176,Exclusive,?????,7N31,-,-,15,-,-,-,3,-,-,35,-,-,-,-,-,-,30000,10,6,Locked
 33587433,90,Camo Cloak,?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,6,Locked
@@ -593,7 +593,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37160216,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,0,0,0,Locked
 37253813,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,
 37276954,80,Slug Shell,?????,SABOT Slug,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-37299224,256,Exclusive,?????,MICO,-,-,-,-,-,-,-,-,12%,-,-,-,-,-,-,3,1,0,0,Locked
+37299224,256,Exclusive,?????,MICO,-,-,-,-,-,-,-,-,14%,-,-,-,-,-,-,3,2001,2,0,Locked
 37308161,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,20%,-,-,-,-,-,-,-,0,0,0,
 37310781,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,19%,-,-,-,-,-,-,-,0,0,0,
 37314653,8,Holographic,?????,EOT 518,-,-,4,6,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
@@ -610,11 +610,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37337615,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 37338076,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37366684,32,HV Round,?????,APCR High-Velocity Ammo,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-37393522,71,HP Round,????,ILM Hollow-Point Ammo,-,-,5,-,-,-,-,-,-,-4,-,-,-,-,-,-,0,0,0,
-37393523,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
 37393524,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,
-37393525,233,Chip,????,#1 Processor,-,-,4,-,-,-,8,-50%,-,-,-,-,-,-,-,-,0,0,0,
-37393526,10,Red Dot,???,AMP COMPM4,-,-,-,5,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
-37393527,7,Holographic,????,EOT 516,-,-,2,4,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
-37393528,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
-37393529,89,Camo Cloak,????,Urban Camouflage Cape,-,-,-,-,-,-3,-,8%,-,-,-,-,-,-,-,-,0,0,0,
