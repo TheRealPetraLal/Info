@@ -593,7 +593,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37160216,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,94%,-,0,0,0,Locked
 37253813,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,
 37276954,80,Slug Shell,?????,SABOT Slug,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-37299224,256,Exclusive,?????,MICO,-,-,-,-,-,-,-,-,14%,-,-,-,-,-,-,3,2001,2,0,Locked
+37299224,256,Exclusive,?????,MICO,-,-,-,-,-,-,-,-,17%,-,-,-,-,-,-,4,2001,2,6,Locked
 37308161,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,20%,-,-,-,-,-,-,-,0,0,0,
 37310781,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,19%,-,-,-,-,-,-,-,0,0,0,
 37314653,8,Holographic,?????,EOT 518,-,-,4,6,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
@@ -611,3 +611,12 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37338076,58,X-Exo,?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37366684,32,HV Round,?????,APCR High-Velocity Ammo,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37393524,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,
+37407170,226,Sniper Round,????,M33 Sniper Rounds,-,-,1,-,-,-,-,-,-,53,-,-,-,-,-,-,0,0,0,
+37407171,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37407172,78,Slug Shell,???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37407173,69,HP Round,??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
+37407174,232,Chip,???,Experimental Processor,-,-,1,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
+37407175,11,Red Dot,????,COG M150,-,-,-,8,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+37407176,222,Auxiliary Sights,???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,5%,-,-,-,-,-,-,-,0,0,0,
+37407177,42,Armor Plate,???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
+37407671,162,Exclusive,?????,RPD Infantry Webbing,-,-,3,-,-2,-,-,-,-,-,-,-,-,-,-,3,1,0,6,Locked
