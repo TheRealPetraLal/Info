@@ -1,46 +1,46 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6822
+item-10,Dummy Core,6831
 item-31,Basic Training Data,3090
-item-32,Intermediate Training Data,1343
-item-33,Advanced Training Data,3101
+item-32,Intermediate Training Data,1243
+item-33,Advanced Training Data,3431
 -1,kalina_level,30
--1,kalina_favor,510146
-item-1,T-Doll Contract,2807
-item-2,Equipment Contract,232
-item-3,Quick Production Contract,463
-item-4,Quick Repair Contract,7020
+-1,kalina_favor,510319
+item-1,T-Doll Contract,2829
+item-2,Equipment Contract,229
+item-3,Quick Production Contract,467
+item-4,Quick Repair Contract,7031
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,24
-item-9,Enhancement Capsule,1158
+item-9,Enhancement Capsule,1153
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,11
-item-15,Pure Sample,9
+item-14,Original Sample,81
+item-15,Pure Sample,36
 item-16,Quick Analysis Contract,154
 item-17,Data Patch,109
-item-41,Token,81
+item-41,Token,36
 item-42,Exchange Ticket,0
-item-43,Black Card,1
-item-44,Calibration Ticket,14715
-item-45,Memory Fragment,6384
+item-43,Black Card,2
+item-44,Calibration Ticket,14725
+item-45,Memory Fragment,6614
 item-46,Special Combat Report,7400
 item-47,Theater Material,6
-item-50,Universal Parts,1028
+item-50,Universal Parts,1002
 item-51,New Type Fire-Control Component,21
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,130
-item-103,Challenger Medal,25
+item-103,Challenger Medal,26
 item-104,Elite Adventurer Medal,6
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,1118
-item-507,Surplus EXP,167352
-item-508,Friendship Points,2300
+item-506,Battery,1135
+item-507,Surplus EXP,66960
+item-508,Friendship Points,2420
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,460
@@ -55,7 +55,7 @@ item-522,Turret,8
 item-525,Quick Auto-Battle Contract,426
 item-601,Infinite Surprise Dye,31
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
+item-603,Potential Energy,2
 item-604,Electronic Impulse,0
 item-605,Aid Commission,160
 item-606,Transfer Catalyst,115
@@ -294,17 +294,17 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-4001,City's Gift,8486
-item-4002,Snowfield's Gift,13269
-item-4003,Forest's Gift,911
+item-4001,City's Gift,8566
+item-4002,Snowfield's Gift,14134
+item-4003,Forest's Gift,991
 item-4004,Wasteland's Gift,1562
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
-item-6004,Commonfolk Standard,0
+item-6004,Commonfolk Standard,1
 item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
-item-6007,Strawberry Cheesecake Slice,1
+item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
 item-6009,Sweet Explosives,0
 item-6010,"Baby  B-A-B-Y.",20
@@ -411,7 +411,7 @@ item-110016,Event Points,2400
 item-110017,Event Points,3000
 item-110018,Event Points,3000
 item-110019,Event Points,2400
-item-110020,Event Points,2390
+item-110020,Event Points,2730
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -433,15 +433,15 @@ item-900042,Tangerine Coin,170
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,709
-gift-100002,Ice Cream Cone,132
-gift-100003,Strawberry Custard Cheesecake,3150
+gift-100002,Ice Cream Cone,133
+gift-100003,Strawberry Custard Cheesecake,3152
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,940
+gift-200001,Combat Report,1020
 gift-200003,Beer on Discount,20
-gift-400001,Rapid Growth Disk,2134
+gift-400001,Rapid Growth Disk,2170
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
