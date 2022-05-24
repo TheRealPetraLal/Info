@@ -331,7 +331,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33795998,106,Exclusive,?????,EOT XPS3,151934555,416 Mod,8,14,-,-,-,-,25%,-,-,-,-,-,-,-,30000,10,16,Locked
 33806786,76,Buckshot Shell,?????,#000 Buckshot,-,-,8,-,-,-,-,10%,-,-,-,-,-,-,-,-,0,0,0,Locked
 33808843,106,Exclusive,?????,EOT XPS3,89748707,416 Mod,8,14,-,-,-,-,25%,-,-,-,-,-,-,-,30000,10,6,Locked
-33902764,16,Night Equip,?????,PEQ-16A,111977698,Python,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,6,Locked
+33902764,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,6,Locked
 33902801,76,Buckshot Shell,?????,#000 Buckshot,-,-,9,-,-,-,-,10%,-,-,-,-,-,-,-,-,0,0,0,Locked
 33917131,90,Camo Cloak,?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,1,Locked
 33956904,95,HP Round,?????,16Lab Hollow-Point,128650011,PA-15,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
@@ -379,7 +379,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34889824,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,Locked
 34889842,234,Chip,?????,#2 Processor,177875706,Vector,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 34905771,68,Ammo Box,?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,1,0,0,Locked
-34923506,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,-,-,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,6,Locked
+34923506,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,111977698,Python,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,6,Locked
 34934793,229,Special AP Round,?????,Mk1000 SLAP,176902193,Hanazono Yurine,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,20,Locked
 34965068,225,Signal Flare,?????,Signal Flare,130898923,P22,-,-,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,5,Locked
 34984268,211,Exclusive,?????,Arisaka AP Rounds,-,-,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,6,Locked
@@ -614,3 +614,18 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37407671,162,Exclusive,?????,RPD Infantry Webbing,-,-,3,-,-2,-,-,-,-,-,-,-,-,-,-,3,1,0,6,Locked
 37420046,246,Exclusive,?????,RBL Grip,-,-,-,-,8,-,-,-,12%,-,-,-,-,-,-,-,1,0,0,
 37436915,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,22%,-,-,-,-,-,-,-,0,0,0,
+37450367,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,191,-,-,-,-,-,-,0,0,0,
+37450368,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,244,-,-,-,-,-,-,0,0,0,
+37450369,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,192,-,-,-,-,-,-,0,0,0,
+37450370,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,190,-,-,-,-,-,-,0,0,0,
+37450371,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,195,-,-,-,-,-,-,0,0,0,
+37450372,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,194,-,-,-,-,-,-,0,0,0,
+37450373,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,192,-,-,-,-,-,-,0,0,0,
+37450374,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,194,-,-,-,-,-,-,0,0,0,
+37450375,6,Holographic,???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+37450376,7,Holographic,????,EOT 516,-,-,2,4,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
+37450377,39,T-Exo,????,IOP T3 Exoskeleton,-,-,-5,-,14,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37450378,222,Auxiliary Sights,???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
+37450379,38,T-Exo,???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37450380,232,Chip,???,Experimental Processor,-,-,1,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
+37450381,65,Silencer,????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
