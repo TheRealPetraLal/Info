@@ -547,7 +547,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36606685,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
 36621813,32,HV Round,?????,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 36621816,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
-36639709,234,Chip,?????,#2 Processor,-,-,13,-,-,-,21,-50%,-,-,-,-,-,-,-,-,3925,6,6,Locked
+36639709,234,Chip,?????,#2 Processor,-,-,14,-,-,-,23,-50%,-,-,-,-,-,-,-,-,7525,8,6,Locked
 36639713,225,Signal Flare,?????,Signal Flare,130913655,P22,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36658395,264,Exclusive,?????,PK Exclusive Tripod,-,-,4,4,-,-,-,-,21%,-,-,-,-,-,-,-,1,0,0,Locked
 36680809,234,Chip,?????,#2 Processor,-,-,8,-,-,-,12,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -617,8 +617,3 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37450368,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,244,-,-,-,-,-,-,0,0,0,Locked
 37466200,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,243,-,-,-,-,-,-,0,0,0,Locked
 37476819,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,242,-,-,-,-,-,-,0,0,0,Locked
-37489729,78,Slug Shell,???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37489730,30,HV Round,???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37489731,77,Slug Shell,??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37489732,11,Red Dot,????,COG M150,-,-,-,8,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
-37490181,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,194,-,-,-,-,-,-,0,0,0,
