@@ -175,6 +175,30 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Elementary4,Day,1026,MG,Claes,100,100,0,1,0,-,Exclusive (5-Star),Ammo Box (5-Star),5861,146,175,205,234,174
 714,Elementary4,Day,135,SMG,SR-3MP,30,100,0,1,0,-,-,-,1066,79,95,111,127,175
 714,Elementary4,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug Shell (5-Star),Night Equip (5-Star),1167,43,52,61,70,176
+714,Elementary4,Day,3,HG,M9,1,50,0,1,0,-,-,-,147,20,24,28,32,177
+714,Elementary4,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,19,23,27,31,178
+714,Elementary4,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,18,22,26,30,179
+714,Elementary4,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,18,22,26,30,180
+714,Elementary4,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,18,21,25,29,181
+714,Elementary4,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,18,21,25,28,182
+714,Elementary4,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,15,18,21,24,183
+714,Elementary4,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,184
+714,Elementary4,Day,280,SMG,MAT-49,1,50,0,1,0,-,-,-,207,15,18,21,24,185
+714,Elementary4,Day,94,SMG,Type64,1,50,0,1,0,-,-,-,195,14,17,20,23,186
+714,Elementary4,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,14,17,20,23,187
+714,Elementary4,Day,70,AR,FF FNC,1,50,0,1,0,-,-,-,170,14,17,20,23,188
+714,Elementary4,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,14,17,20,23,189
+714,Elementary4,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,14,17,19,22,190
+714,Elementary4,Day,63,AR,Gr G3,1,50,0,1,0,-,-,-,162,14,17,19,22,191
+714,Elementary4,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,13,15,18,21,192
+714,Elementary4,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,7,9,11,12,193
+714,Elementary4,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,7,9,11,12,194
+714,Elementary4,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,8,9,11,12,195
+714,Elementary4,Day,77,MG,M2HB,1,50,0,1,0,-,-,-,252,6,7,8,10,196
+714,Elementary4,Day,111,MG,AAT-52,1,50,0,1,0,-,-,-,237,5,7,8,9,197
+714,Elementary4,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,5,6,7,8,198
+714,Elementary4,Day,86,MG,MG42,1,50,0,1,0,-,-,-,222,5,6,7,8,199
+714,Elementary4,Day,87,MG,MG34,1,50,0,1,0,-,-,-,216,5,6,7,8,200
 718,Elementary8,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1167,1401,1634,1868,1
 718,Elementary8,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8001,1100,1320,1540,1760,2
 718,Elementary8,Day,20065,AR,416 Mod,120,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7594,1044,1253,1461,1670,3
@@ -381,6 +405,26 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Elementary8,Day,245,SMG,P90,30,100,0,1,0,-,-,-,1104,82,99,115,132,204
 718,Elementary8,Day,135,SMG,SR-3MP,30,100,0,1,0,-,-,-,1066,79,95,111,127,205
 718,Elementary8,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug Shell (5-Star),Night Equip (5-Star),1167,72,87,102,116,206
+718,Elementary8,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,22,27,31,36,207
+718,Elementary8,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,20,24,29,33,208
+718,Elementary8,Day,3,HG,M9,1,50,0,1,0,-,-,-,147,20,24,28,32,209
+718,Elementary8,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,19,23,27,31,210
+718,Elementary8,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,18,22,26,30,211
+718,Elementary8,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,18,22,26,30,212
+718,Elementary8,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,18,21,25,29,213
+718,Elementary8,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,18,21,25,28,214
+718,Elementary8,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,15,18,21,24,215
+718,Elementary8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,216
+718,Elementary8,Day,31,SMG,M38,1,50,0,1,0,-,-,-,206,15,18,21,24,217
+718,Elementary8,Day,280,SMG,MAT-49,1,50,0,1,0,-,-,-,207,15,18,21,24,218
+718,Elementary8,Day,94,SMG,Type64,1,50,0,1,0,-,-,-,195,14,17,20,23,219
+718,Elementary8,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,14,17,20,23,220
+718,Elementary8,Day,27,SMG,Skorpion,1,50,0,1,0,-,-,-,193,14,17,20,23,221
+718,Elementary8,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,14,17,19,22,222
+718,Elementary8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,13,15,18,21,223
+718,Elementary8,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,5,7,8,9,224
+718,Elementary8,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,5,7,8,9,225
+718,Elementary8,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,6,7,8,9,226
 724,Intermediate4,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1167,1401,1634,1868,1
 724,Intermediate4,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8001,1100,1320,1540,1760,2
 724,Intermediate4,Day,20065,AR,416 Mod,120,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7594,1044,1253,1461,1670,3
@@ -578,6 +622,30 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Intermediate4,Day,1009,HG,El Clear,30,100,0,1,0,-,-,-,689,94,113,132,151,195
 724,Intermediate4,Day,351,SG,M26-MASS,100,100,0,10,0,-,Buckshot Shell (5-Star),Night Equip (5-Star),1162,72,87,101,116,196
 724,Intermediate4,Day,294,HG,Webley,25,100,0,1,0,-,-,-,469,64,77,90,103,197
+724,Intermediate4,Day,280,SMG,MAT-49,1,50,0,1,0,-,-,-,207,25,31,36,41,198
+724,Intermediate4,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,25,30,35,40,199
+724,Intermediate4,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,25,30,35,40,200
+724,Intermediate4,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,24,29,34,39,201
+724,Intermediate4,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,23,28,33,37,202
+724,Intermediate4,Day,70,AR,FF FNC,1,50,0,1,0,-,-,-,170,23,28,32,37,203
+724,Intermediate4,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,22,27,31,36,204
+724,Intermediate4,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,20,24,29,33,205
+724,Intermediate4,Day,3,HG,M9,1,50,0,1,0,-,-,-,147,20,24,28,32,206
+724,Intermediate4,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,19,23,27,31,207
+724,Intermediate4,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,18,22,26,30,208
+724,Intermediate4,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,18,22,26,30,209
+724,Intermediate4,Day,5,HG,M1895,1,50,0,1,0,-,-,-,132,18,21,25,29,210
+724,Intermediate4,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,18,22,25,29,211
+724,Intermediate4,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,18,21,25,29,212
+724,Intermediate4,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,18,21,25,28,213
+724,Intermediate4,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,11,14,16,19,214
+724,Intermediate4,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,11,14,16,19,215
+724,Intermediate4,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,12,14,17,19,216
+724,Intermediate4,Day,77,MG,M2HB,1,50,0,1,0,-,-,-,252,9,11,13,15,217
+724,Intermediate4,Day,111,MG,AAT-52,1,50,0,1,0,-,-,-,237,8,10,12,14,218
+724,Intermediate4,Day,86,MG,MG42,1,50,0,1,0,-,-,-,222,8,9,11,13,219
+724,Intermediate4,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,220
+724,Intermediate4,Day,87,MG,MG34,1,50,0,1,0,-,-,-,216,8,9,11,12,221
 728,Intermediate8,Day,213,SMG,C-MS,100,150,1,10,0,Chip (5-Star),AP Round (5-Star),Red Dot (5-Star),8162,1020,1224,1428,1632,1
 728,Intermediate8,Day,183,HG,Contender,100,150,1,10,0,Auxiliary Sights (5-Star),AP Round (5-Star),X-Exo (5-Star),4964,992,1191,1389,1588,2
 728,Intermediate8,Day,164,SG,FP-6,100,100,0,10,0,Armor Plate (5-Star),Buckshot Shell (5-Star),Red Dot (5-Star),7813,937,1125,1312,1500,3
@@ -771,6 +839,28 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Intermediate8,Day,85,MG,PK,100,100,0,10,0,-,Exclusive (5-Star),Ammo Box (5-Star),6217,233,279,326,373,191
 728,Intermediate8,Day,1026,MG,Claes,100,100,0,1,0,-,Exclusive (5-Star),Ammo Box (5-Star),5861,219,263,307,351,192
 728,Intermediate8,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug Shell (5-Star),Night Equip (5-Star),1167,116,140,163,186,193
+728,Intermediate8,Day,3,HG,M9,1,50,0,1,0,-,-,-,147,29,35,41,47,194
+728,Intermediate8,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,28,34,40,46,195
+728,Intermediate8,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,27,32,38,43,196
+728,Intermediate8,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,27,32,38,43,197
+728,Intermediate8,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,26,31,37,42,198
+728,Intermediate8,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,26,31,36,41,199
+728,Intermediate8,Day,280,SMG,MAT-49,1,50,0,1,0,-,-,-,207,25,31,36,41,200
+728,Intermediate8,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,25,30,35,40,201
+728,Intermediate8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,25,30,35,40,202
+728,Intermediate8,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,24,29,34,39,203
+728,Intermediate8,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,23,28,33,37,204
+728,Intermediate8,Day,70,AR,FF FNC,1,50,0,1,0,-,-,-,170,14,17,20,23,205
+728,Intermediate8,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,14,17,20,23,206
+728,Intermediate8,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,13,15,18,21,207
+728,Intermediate8,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,11,14,16,19,208
+728,Intermediate8,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,11,14,16,19,209
+728,Intermediate8,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,12,14,17,19,210
+728,Intermediate8,Day,77,MG,M2HB,1,50,0,1,0,-,-,-,252,9,11,13,15,211
+728,Intermediate8,Day,111,MG,AAT-52,1,50,0,1,0,-,-,-,237,8,10,12,14,212
+728,Intermediate8,Day,86,MG,MG42,1,50,0,1,0,-,-,-,222,8,9,11,13,213
+728,Intermediate8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,214
+728,Intermediate8,Day,87,MG,MG34,1,50,0,1,0,-,-,-,216,8,9,11,12,215
 733,Advanced3,Day,183,HG,Contender,100,150,1,10,0,Auxiliary Sights (5-Star),AP Round (5-Star),X-Exo (5-Star),4964,992,1191,1389,1588,1
 733,Advanced3,Day,260,HG,PA-15,100,150,1,10,0,Auxiliary Sights (5-Star),HP Round (5-Star),X-Exo (5-Star),3924,941,1130,1318,1506,2
 733,Advanced3,Day,20221,HG,GSh-18 Mod,120,200,1,10,10,Auxiliary Sights (5-Star),Exclusive (5-Star),X-Exo (5-Star),4688,937,1125,1312,1500,3
@@ -955,6 +1045,31 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Advanced3,Day,245,SMG,P90,30,100,0,1,0,-,-,-,1104,82,99,115,132,182
 733,Advanced3,Day,135,SMG,SR-3MP,30,100,0,1,0,-,-,-,1066,79,95,111,127,183
 733,Advanced3,Day,213,SMG,C-MS,30,100,0,1,0,-,-,-,1054,79,94,110,126,184
+733,Advanced3,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,28,34,40,46,185
+733,Advanced3,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,27,32,38,43,186
+733,Advanced3,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,27,32,38,43,187
+733,Advanced3,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,26,31,37,42,188
+733,Advanced3,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,26,31,36,41,189
+733,Advanced3,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,18,21,25,29,190
+733,Advanced3,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,17,21,25,28,191
+733,Advanced3,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,17,21,25,28,192
+733,Advanced3,Day,215,AR,MDR,1,50,0,1,0,-,-,-,185,16,19,22,25,193
+733,Advanced3,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,15,18,21,24,194
+733,Advanced3,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,195
+733,Advanced3,Day,31,SMG,M38,1,50,0,1,0,-,-,-,206,15,18,21,24,196
+733,Advanced3,Day,280,SMG,MAT-49,1,50,0,1,0,-,-,-,207,15,18,21,24,197
+733,Advanced3,Day,94,SMG,Type64,1,50,0,1,0,-,-,-,195,14,17,20,23,198
+733,Advanced3,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,14,17,20,23,199
+733,Advanced3,Day,27,SMG,Skorpion,1,50,0,1,0,-,-,-,193,14,17,20,23,200
+733,Advanced3,Day,70,AR,FF FNC,1,50,0,1,0,-,-,-,170,14,17,20,23,201
+733,Advanced3,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,14,17,20,23,202
+733,Advanced3,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,14,17,19,22,203
+733,Advanced3,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,13,15,18,21,204
+733,Advanced3,Day,77,MG,M2HB,1,50,0,1,0,-,-,-,252,9,11,13,15,205
+733,Advanced3,Day,111,MG,AAT-52,1,50,0,1,0,-,-,-,237,8,10,12,14,206
+733,Advanced3,Day,86,MG,MG42,1,50,0,1,0,-,-,-,222,8,9,11,13,207
+733,Advanced3,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,208
+733,Advanced3,Day,87,MG,MG34,1,50,0,1,0,-,-,-,216,8,9,11,12,209
 736,Advanced6,Night,20055,AR,M4A1 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),7607,1426,1711,1996,2282,1
 736,Advanced6,Night,20122,AR,Gr G11 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6693,1254,1505,1756,2007,2
 736,Advanced6,Night,20065,AR,416 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6569,1231,1478,1724,1970,3
@@ -1142,6 +1257,31 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 736,Advanced6,Night,1009,HG,El Clear,30,100,0,1,0,-,-,-,548,95,115,134,153,185
 736,Advanced6,Night,351,SG,M26-MASS,100,100,0,10,0,-,Slug Shell (5-Star),Holographic (5-Star),1013,88,106,124,141,186
 736,Advanced6,Night,294,HG,Webley,25,100,0,1,0,-,-,-,388,67,81,95,108,187
+736,Advanced6,Night,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,196,31,38,44,50,188
+736,Advanced6,Night,33,SMG,m45,1,50,0,1,0,-,-,-,193,31,37,43,50,189
+736,Advanced6,Night,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,190,30,37,43,49,190
+736,Advanced6,Night,24,SMG,PP-2000,1,50,0,1,0,-,-,-,182,29,35,41,47,191
+736,Advanced6,Night,215,AR,MDR,1,50,0,1,0,-,-,-,159,29,35,41,47,192
+736,Advanced6,Night,70,AR,FF FNC,1,50,0,1,0,-,-,-,146,27,32,38,43,193
+736,Advanced6,Night,63,AR,Gr G3,1,50,0,1,0,-,-,-,141,26,31,37,42,194
+736,Advanced6,Night,107,AR,FF F2000,1,50,0,1,0,-,-,-,142,26,31,37,42,195
+736,Advanced6,Night,68,AR,L85A1,1,50,0,1,0,-,-,-,132,24,29,34,39,196
+736,Advanced6,Night,14,HG,Astra,1,50,0,1,0,-,-,-,132,23,27,32,36,197
+736,Advanced6,Night,3,HG,M9,1,50,0,1,0,-,-,-,130,22,27,31,36,198
+736,Advanced6,Night,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,122,21,25,29,34,199
+736,Advanced6,Night,5,HG,M1895,1,50,0,1,0,-,-,-,123,21,25,30,34,200
+736,Advanced6,Night,139,HG,Bren Ten,1,50,0,1,0,-,-,-,122,21,25,29,34,201
+736,Advanced6,Night,91,HG,MP-446,1,50,0,1,0,-,-,-,120,21,25,29,33,202
+736,Advanced6,Night,9,HG,P38,1,50,0,1,0,-,-,-,120,21,25,29,33,203
+736,Advanced6,Night,90,HG,FF FNP9,1,50,0,1,0,-,-,-,118,20,24,28,33,204
+736,Advanced6,Night,77,MG,M2HB,1,50,0,1,0,-,-,-,218,10,13,15,17,205
+736,Advanced6,Night,111,MG,AAT-52,1,50,0,1,0,-,-,-,198,9,11,13,15,206
+736,Advanced6,Night,86,MG,MG42,1,50,0,1,0,-,-,-,192,9,11,13,15,207
+736,Advanced6,Night,87,MG,MG34,1,50,0,1,0,-,-,-,188,9,11,13,15,208
+736,Advanced6,Night,110,MG,FG42,1,50,0,1,0,-,-,-,181,9,10,12,14,209
+736,Advanced6,Night,47,RF,G43,1,50,0,1,0,-,-,-,126,6,7,8,10,210
+736,Advanced6,Night,40,RF,SVT-38,1,50,0,1,0,-,-,-,128,6,7,8,10,211
+736,Advanced6,Night,41,RF,SKS,1,50,0,1,0,-,-,-,134,6,8,9,10,212
 738,Advanced8,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1592,1910,2229,2547,1
 738,Advanced8,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8001,1500,1800,2100,2400,2
 738,Advanced8,Day,20065,AR,416 Mod,120,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7594,1423,1708,1993,2278,3
@@ -1347,6 +1487,28 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Advanced8,Day,1010,HG,El Fail,30,100,0,1,0,-,-,-,689,120,144,168,192,203
 738,Advanced8,Day,1009,HG,El Clear,30,100,0,1,0,-,-,-,689,120,144,168,192,204
 738,Advanced8,Day,135,SMG,SR-3MP,30,100,0,1,0,-,-,-,1066,119,143,167,191,205
+738,Advanced8,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,31,37,43,49,206
+738,Advanced8,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,28,33,39,45,207
+738,Advanced8,Day,3,HG,M9,1,50,0,1,0,-,-,-,147,25,30,36,41,208
+738,Advanced8,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,25,30,35,40,209
+738,Advanced8,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,23,28,33,38,210
+738,Advanced8,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,23,28,33,38,211
+738,Advanced8,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,23,27,32,37,212
+738,Advanced8,Day,280,SMG,MAT-49,1,50,0,1,0,-,-,-,207,23,27,32,37,213
+738,Advanced8,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,22,27,31,36,214
+738,Advanced8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,215
+738,Advanced8,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,22,27,32,36,216
+738,Advanced8,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,22,26,31,35,217
+738,Advanced8,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,21,25,29,34,218
+738,Advanced8,Day,27,SMG,Skorpion,1,50,0,1,0,-,-,-,193,21,26,30,34,219
+738,Advanced8,Day,77,MG,M2HB,1,50,0,1,0,-,-,-,252,18,22,26,30,220
+738,Advanced8,Day,111,MG,AAT-52,1,50,0,1,0,-,-,-,237,17,21,24,28,221
+738,Advanced8,Day,86,MG,MG42,1,50,0,1,0,-,-,-,222,16,19,23,26,222
+738,Advanced8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,15,19,22,25,223
+738,Advanced8,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,15,19,22,25,224
+738,Advanced8,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,15,19,22,25,225
+738,Advanced8,Day,87,MG,MG34,1,50,0,1,0,-,-,-,216,16,19,22,25,226
+738,Advanced8,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,16,19,22,25,227
 743,Core3,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8492,1061,1273,1486,1698,1
 743,Core3,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV Round (5-Star),Exclusive (5-Star),8001,1000,1200,1400,1600,2
 743,Core3,Day,20065,AR,416 Mod,120,200,1,10,10,Exclusive (5-Star),HV Round (5-Star),Exclusive (5-Star),7594,949,1139,1328,1518,3
@@ -1539,6 +1701,29 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 743,Core3,Day,1010,HG,El Fail,30,100,0,1,0,-,-,-,689,60,72,84,96,190
 743,Core3,Day,1009,HG,El Clear,30,100,0,1,0,-,-,-,689,60,72,84,96,191
 743,Core3,Day,294,HG,Webley,25,100,0,1,0,-,-,-,469,41,49,57,65,192
+743,Core3,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,22,27,31,36,193
+743,Core3,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,194
+743,Core3,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,22,26,31,35,195
+743,Core3,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,21,25,29,34,196
+743,Core3,Day,70,AR,FF FNC,1,50,0,1,0,-,-,-,170,21,25,29,34,197
+743,Core3,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,20,24,29,33,198
+743,Core3,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,18,22,26,30,199
+743,Core3,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,12,15,17,20,200
+743,Core3,Day,77,MG,M2HB,1,50,0,1,0,-,-,-,252,12,15,17,20,201
+743,Core3,Day,3,HG,M9,1,50,0,1,0,-,-,-,147,12,15,18,20,202
+743,Core3,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,11,14,16,19,203
+743,Core3,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,11,14,16,19,204
+743,Core3,Day,5,HG,M1895,1,50,0,1,0,-,-,-,132,11,13,16,18,205
+743,Core3,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,11,14,16,18,206
+743,Core3,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,11,13,16,18,207
+743,Core3,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,11,13,16,18,208
+743,Core3,Day,111,MG,AAT-52,1,50,0,1,0,-,-,-,237,11,14,16,18,209
+743,Core3,Day,86,MG,MG42,1,50,0,1,0,-,-,-,222,11,13,15,17,210
+743,Core3,Day,87,MG,MG34,1,50,0,1,0,-,-,-,216,10,12,15,17,211
+743,Core3,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,10,12,14,16,212
+743,Core3,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,7,9,11,12,213
+743,Core3,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,7,9,11,12,214
+743,Core3,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,8,9,11,12,215
 746,Core6,Day,80,MG,M1919A4,100,100,0,10,0,Special AP Round (5-Star),Exclusive (5-Star),Ammo Box (5-Star),13029,1172,1407,1641,1876,1
 746,Core6,Day,88,MG,MG3,100,132,1,10,0,Special AP Round (5-Star),Auxiliary Sights (5-Star),Exclusive (5-Star),15154,1136,1363,1591,1818,2
 746,Core6,Day,20161,SG,Type97S Mod,120,200,1,10,10,Exclusive (5-Star),Buckshot Shell (5-Star),Red Dot (5-Star),9086,1135,1362,1590,1817,3
@@ -1731,6 +1916,29 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,1010,HG,El Fail,30,100,0,1,0,-,-,-,689,60,72,84,96,190
 746,Core6,Day,1009,HG,El Clear,30,100,0,1,0,-,-,-,689,60,72,84,96,191
 746,Core6,Day,294,HG,Webley,25,100,0,1,0,-,-,-,469,41,49,57,65,192
+746,Core6,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,22,27,31,36,193
+746,Core6,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,194
+746,Core6,Day,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,197,22,26,31,35,195
+746,Core6,Day,24,SMG,PP-2000,1,50,0,1,0,-,-,-,189,21,25,29,34,196
+746,Core6,Day,70,AR,FF FNC,1,50,0,1,0,-,-,-,170,21,25,29,34,197
+746,Core6,Day,107,AR,FF F2000,1,50,0,1,0,-,-,-,166,20,24,29,33,198
+746,Core6,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,18,22,26,30,199
+746,Core6,Day,77,MG,M2HB,1,50,0,1,0,-,-,-,252,18,22,26,30,200
+746,Core6,Day,111,MG,AAT-52,1,50,0,1,0,-,-,-,237,17,21,24,28,201
+746,Core6,Day,86,MG,MG42,1,50,0,1,0,-,-,-,222,16,19,23,26,202
+746,Core6,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,15,19,22,25,203
+746,Core6,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,15,19,22,25,204
+746,Core6,Day,40,RF,SVT-38,1,50,0,1,0,-,-,-,159,15,19,22,25,205
+746,Core6,Day,87,MG,MG34,1,50,0,1,0,-,-,-,216,16,19,22,25,206
+746,Core6,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,16,19,22,25,207
+746,Core6,Day,14,HG,Astra,1,50,0,1,0,-,-,-,144,12,15,17,20,208
+746,Core6,Day,3,HG,M9,1,50,0,1,0,-,-,-,147,12,15,18,20,209
+746,Core6,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,11,14,16,19,210
+746,Core6,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,11,14,16,19,211
+746,Core6,Day,5,HG,M1895,1,50,0,1,0,-,-,-,132,11,13,16,18,212
+746,Core6,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,11,14,16,18,213
+746,Core6,Day,9,HG,P38,1,50,0,1,0,-,-,-,131,11,13,16,18,214
+746,Core6,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,11,13,16,18,215
 748,Core8,Night,20055,AR,M4A1 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),7607,2091,2510,2928,3347,1
 748,Core8,Night,20122,AR,Gr G11 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6693,1840,2208,2576,2944,2
 748,Core8,Night,20065,AR,416 Mod,120,200,1,10,10,Night Equip (5-Star),HV Round (5-Star),Exclusive (5-Star),6569,1806,2167,2529,2890,3
@@ -1918,3 +2126,28 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 748,Core8,Night,1009,HG,El Clear,30,100,0,1,0,-,-,-,548,143,172,201,230,185
 748,Core8,Night,351,SG,M26-MASS,100,100,0,10,0,-,Slug Shell (5-Star),Holographic (5-Star),1013,126,151,177,202,186
 748,Core8,Night,294,HG,Webley,25,100,0,1,0,-,-,-,388,101,122,142,162,187
+748,Core8,Night,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,196,46,55,65,74,188
+748,Core8,Night,33,SMG,m45,1,50,0,1,0,-,-,-,193,45,55,64,73,189
+748,Core8,Night,92,SMG,Spectre M4,1,50,0,1,0,-,-,-,190,45,54,63,72,190
+748,Core8,Night,24,SMG,PP-2000,1,50,0,1,0,-,-,-,182,43,51,60,69,191
+748,Core8,Night,215,AR,MDR,1,50,0,1,0,-,-,-,159,43,52,61,69,192
+748,Core8,Night,70,AR,FF FNC,1,50,0,1,0,-,-,-,146,40,48,56,64,193
+748,Core8,Night,63,AR,Gr G3,1,50,0,1,0,-,-,-,141,38,46,54,62,194
+748,Core8,Night,107,AR,FF F2000,1,50,0,1,0,-,-,-,142,39,46,54,62,195
+748,Core8,Night,68,AR,L85A1,1,50,0,1,0,-,-,-,132,36,43,50,58,196
+748,Core8,Night,14,HG,Astra,1,50,0,1,0,-,-,-,132,34,41,48,55,197
+748,Core8,Night,3,HG,M9,1,50,0,1,0,-,-,-,130,34,40,47,54,198
+748,Core8,Night,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,122,32,38,44,51,199
+748,Core8,Night,5,HG,M1895,1,50,0,1,0,-,-,-,123,32,38,45,51,200
+748,Core8,Night,139,HG,Bren Ten,1,50,0,1,0,-,-,-,122,32,38,44,51,201
+748,Core8,Night,91,HG,MP-446,1,50,0,1,0,-,-,-,120,31,37,44,50,202
+748,Core8,Night,9,HG,P38,1,50,0,1,0,-,-,-,120,31,37,44,50,203
+748,Core8,Night,90,HG,FF FNP9,1,50,0,1,0,-,-,-,118,30,37,43,49,204
+748,Core8,Night,77,MG,M2HB,1,50,0,1,0,-,-,-,218,16,19,22,26,205
+748,Core8,Night,111,MG,AAT-52,1,50,0,1,0,-,-,-,198,14,17,20,23,206
+748,Core8,Night,86,MG,MG42,1,50,0,1,0,-,-,-,192,14,17,20,23,207
+748,Core8,Night,87,MG,MG34,1,50,0,1,0,-,-,-,188,14,16,19,22,208
+748,Core8,Night,110,MG,FG42,1,50,0,1,0,-,-,-,181,13,16,19,21,209
+748,Core8,Night,41,RF,SKS,1,50,0,1,0,-,-,-,134,10,12,14,16,210
+748,Core8,Night,47,RF,G43,1,50,0,1,0,-,-,-,126,9,11,13,15,211
+748,Core8,Night,40,RF,SVT-38,1,50,0,1,0,-,-,-,128,9,11,13,15,212
