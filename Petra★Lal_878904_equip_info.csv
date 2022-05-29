@@ -547,7 +547,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36606685,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
 36621813,32,HV Round,?????,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
 36621816,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
-36639709,234,Chip,?????,#2 Processor,-,-,14,-,-,-,23,-50%,-,-,-,-,-,-,-,-,7525,8,6,Locked
+36639709,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 36639713,225,Signal Flare,?????,Signal Flare,130913655,P22,-,-,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36658395,264,Exclusive,?????,PK Exclusive Tripod,-,-,4,4,-,-,-,-,21%,-,-,-,-,-,-,-,1,0,0,Locked
 36680809,234,Chip,?????,#2 Processor,-,-,8,-,-,-,12,-50%,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -617,3 +617,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37450368,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,244,-,-,-,-,-,-,0,0,0,Locked
 37466200,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,243,-,-,-,-,-,-,0,0,0,Locked
 37476819,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,242,-,-,-,-,-,-,0,0,0,Locked
+37504529,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,
+37517261,17,AP Round,??,M61 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,49,-,-,-,-,-,-,0,0,0,
+37517262,230,Birdshot,????,#6 Birdshot,-,-,-,-,-,-,3,-23%,-,-,-,-,-,-,-,-,0,0,0,
+37517263,73,Buckshot Shell,??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+37517264,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,110,-,-,-,-,-,-,0,0,0,Locked
+37517265,228,Special AP Round,????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,191,-,-,-,-,-,-,0,0,0,
+37517266,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
+37517267,15,Night Equip,????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,78%,-,0,0,0,
