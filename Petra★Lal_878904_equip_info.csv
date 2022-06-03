@@ -56,7 +56,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 22138143,100,Exclusive,?????,Lightweight Rail Kit,90041310,ST AR-15 Mod,-,10,-,-,-,20%,-,-,-,-,-,-,-,-,30000,10,6,Locked
 22227033,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10000,10,6,Locked
 22304840,12,Red Dot,?????,ITI MARS,-,-,-,26,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,3,Locked
-22306379,8,Holographic,?????,EOT 518,177875706,Vector,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
+22306379,8,Holographic,?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
 22306385,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,7,Locked
 22336677,40,T-Exo,?????,IOP T4 Exoskeleton,188057462,Dorothy Haze,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,6,Locked
 22382621,12,Red Dot,?????,ITI MARS,-,-,-,23,-,-,-2,-,-,-,-,-,-,-,-,-,8975,9,0,Locked
@@ -227,7 +227,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 29626060,68,Ammo Box,?????,IOP Maximum Ammo Box,147949376,Kord,-,-,-2,-,-,-,-,-,-,-,-,-,-,4,10000,10,0,Locked
 29640932,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,20,Locked
 29642126,169,Exclusive,?????,Am RFB Quad Rail,-,-,-,-,-,-,-,8%,20%,-,-,-,-,-,-,-,1,0,0,Locked
-29743728,8,Holographic,?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
+29743728,8,Holographic,?????,EOT 518,177875706,Vector,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
 29743735,16,Night Equip,?????,PEQ-16A,165486869,Ak 5,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,19,Locked
 29832066,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,12,Locked
 29832241,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,91391114,Mosin-Nagant Mod,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,10,Locked
@@ -377,7 +377,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 34877311,68,Ammo Box,?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,901,3,0,Locked
 34889705,234,Chip,?????,#2 Processor,165154921,Vector,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,16,Locked
 34889824,44,Armor Plate,?????,Type 3 Armor Plate,-,-,-,-,-2,-,-,-,-,-,6,-,-,-,-,-,0,0,0,Locked
-34889842,234,Chip,?????,#2 Processor,177875706,Vector,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
+34889842,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 34905771,68,Ammo Box,?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,1,0,0,Locked
 34923506,224,Auxiliary Sights,?????,RMR T4 Red Dot Sight,111977698,Python,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,6,Locked
 34934793,229,Special AP Round,?????,Mk1000 SLAP,176902193,Hanazono Yurine,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,20,Locked
@@ -541,7 +541,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36516477,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,245,-,-,-,-,-,-,0,0,0,Locked
 36552126,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,6,Locked
 36552467,66,Silencer,?????,AC4 Suppressor,-,-,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
-36571514,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,9,Locked
+36571514,234,Chip,?????,#2 Processor,177875706,Vector,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,9,Locked
 36572640,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
 36589534,234,Chip,?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,8,Locked
 36606685,72,HP Round,?????,ILM Hollow-Point Ammo,-,-,7,-,-,-,-,-,-,-8,-,-,-,-,-,-,0,0,0,Locked
@@ -622,3 +622,14 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37529666,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
 37529667,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,20%,-,-,-,-,-,-,-,0,0,0,
 37537538,229,Special AP Round,?????,Mk1000 SLAP,99163986,Bren Mod,-,-,-,-,-5,-,-,250,-,-,-,-,-,-,0,0,14,Locked
+37578136,63,Silencer,??,AC1 Suppressor,-,-,-,-,2,-,-,-,4%,-,-,-,-,-,-,-,0,0,0,
+37578137,16,Night Equip,?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,93%,-,0,0,0,
+37578138,77,Slug Shell,??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37578139,29,HV Round,??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37578140,57,X-Exo,????,IOP X3 Exoskeleton,-,-,-,-,6,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37578141,10,Red Dot,???,AMP COMPM4,-,-,-,5,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
+37578142,88,Camo Cloak,???,Camouflage Cape,-,-,-,-,-,-3,-,5%,-,-,-,-,-,-,-,-,0,0,0,
+37578143,6,Holographic,???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+37578144,6,Holographic,???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+37578145,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
+37578146,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
