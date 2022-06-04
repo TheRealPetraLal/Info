@@ -2,14 +2,14 @@ Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
 item-10,Dummy Core,7135
 item-31,Basic Training Data,222
-item-32,Intermediate Training Data,590
-item-33,Advanced Training Data,907
+item-32,Intermediate Training Data,289
+item-33,Advanced Training Data,307
 -1,kalina_level,30
 -1,kalina_favor,537009
 item-1,T-Doll Contract,2917
-item-2,Equipment Contract,326
+item-2,Equipment Contract,327
 item-3,Quick Production Contract,564
-item-4,Quick Repair Contract,7099
+item-4,Quick Repair Contract,7100
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,27
@@ -38,14 +38,14 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,3643
-item-507,Surplus EXP,0
+item-506,Battery,3731
+item-507,Surplus EXP,240000
 item-508,Friendship Points,3720
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,490
 item-513,Dark Star Kernel,16600
-item-514,Petri Dish,4038
+item-514,Petri Dish,4060
 item-515,Basic Training Keycode,58147
 item-516,Advanced Training Keycode,40592
 item-519,HOC General Data,144
@@ -55,7 +55,7 @@ item-522,Turret,8
 item-525,Quick Auto-Battle Contract,462
 item-601,Infinite Surprise Dye,10
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,0
 item-604,Electronic Impulse,0
 item-605,Aid Commission,254
 item-606,Transfer Catalyst,115
