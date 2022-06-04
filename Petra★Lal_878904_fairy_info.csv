@@ -43,7 +43,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 676581,11,?,0,17,Parachute Fairy,7.2,0.0,6.8,1.6,8.0,Keen,10,Locked
 677135,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Charge,1,
 677410,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion II,1,
-679835,6,?????,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,25.0,Fervor,9,Locked
+679835,6,?????,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,25.0,Fervor,10,Locked
 689089,11,?,30,16,Parachute Fairy,7.2,0.0,6.4,1.6,8.0,Accuracy II,10,Locked
 692681,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion I,1,
 692805,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Evasion II,1,
@@ -59,7 +59,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 734995,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Critical I,1,
 736005,10,?,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,2.4,Evasion I,1,
 738957,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Sturdy,1,
-741632,11,?,0,16,Parachute Fairy,7.2,0.0,6.4,1.6,8.0,Evasion I,8,Locked
+741632,11,?,0,16,Parachute Fairy,7.2,0.0,6.4,1.6,8.0,Evasion I,9,Locked
 743362,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Accuracy I,1,
 743471,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Accuracy I,1,
 743473,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Critical I,1,
@@ -141,6 +141,11 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 761057,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Accuracy I,1,
 761058,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Accuracy I,1,
 761343,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Sturdy,1,
+761556,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Evasion I,1,
+761557,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Accuracy I,1,
+761558,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Accuracy I,1,
+761559,6,?,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Sturdy,1,
+761560,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Suppression,1,
 668898,1008,?????,550,96,Kouji,14.4,21.6,51.2,13.6,0.0,Fervor,1,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 602579,11,??,390,100,Parachute Fairy,18.0,0.0,16.0,4.0,20.0,Accuracy I,10,Locked
