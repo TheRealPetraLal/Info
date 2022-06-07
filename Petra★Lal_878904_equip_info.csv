@@ -571,10 +571,10 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36918335,139,Exclusive,?????,Adelhyde,-,-,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 36918336,140,Exclusive,?????,Bronson Extract,-,-,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 36918337,141,Exclusive,?????,Powdered Delta,-,-,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
-36918338,142,Exclusive,?????,Karmotrine,-,-,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
-36918339,143,Exclusive,?????,Karmotrine,-,-,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
-36918340,144,Exclusive,?????,Karmotrine,-,-,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
-36938246,234,Chip,?????,#2 Processor,-,-,10,-,-,-,16,-50%,-,-,-,-,-,-,-,-,0,0,12,Locked
+36918338,142,Exclusive,?????,Karmotrine,187880955,Jill Stingray,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
+36918339,143,Exclusive,?????,Karmotrine,187880955,Jill Stingray,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
+36918340,144,Exclusive,?????,Karmotrine,187880955,Jill Stingray,-,-,15,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
+36938246,234,Chip,?????,#2 Processor,-,-,13,-,-,-,21,-50%,-,-,-,-,-,-,-,-,3475,6,12,Locked
 36986380,20,AP Round,?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,114,-,-,-,-,-,-,0,0,0,Locked
 37016465,146,Exclusive,?????,MIRD Class-5 Rounds,-,-,13,-,-,-,-,-,-,-9,-,-,-,-,-,-,1,0,0,Locked
 37027215,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,240,-,-,-,-,-,-,0,0,0,Locked
@@ -627,7 +627,3 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37599945,66,Silencer,?????,AC4 Suppressor,-,-,-,-,7,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 37600788,80,Slug Shell,?????,SABOT Slug,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 37600789,229,Special AP Round,?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,240,-,-,-,-,-,-,0,0,0,Locked
-37614193,56,X-Exo,???,IOP X2 Exoskeleton,-,-,-,-,4,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37614194,14,Night Equip,???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,62%,-,0,0,0,
-37614195,14,Night Equip,???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,65%,-,0,0,0,
-37614196,43,Armor Plate,????,Type 2 Armor Plate,-,-,-,-,-1,-,-,-,-,-,4,-,-,-,-,-,0,0,0,
