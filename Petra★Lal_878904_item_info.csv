@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7680
-item-31,Basic Training Data,12818
+item-10,Dummy Core,7718
+item-31,Basic Training Data,12618
 item-32,Intermediate Training Data,13653
 item-33,Advanced Training Data,9037
 -1,kalina_level,30
 -1,kalina_favor,583296
-item-1,T-Doll Contract,2915
-item-2,Equipment Contract,582
-item-3,Quick Production Contract,607
+item-1,T-Doll Contract,2919
+item-2,Equipment Contract,589
+item-3,Quick Production Contract,608
 item-4,Quick Repair Contract,7770
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,78
-item-9,Enhancement Capsule,1540
+item-9,Enhancement Capsule,1541
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,91
-item-15,Pure Sample,7
+item-14,Original Sample,61
+item-15,Pure Sample,27
 item-16,Quick Analysis Contract,63
-item-17,Data Patch,167
-item-41,Token,2039
+item-17,Data Patch,168
+item-41,Token,2041
 item-42,Exchange Ticket,0
 item-43,Black Card,4
 item-44,Calibration Ticket,17668
 item-45,Memory Fragment,9554
 item-46,Special Combat Report,8846
 item-47,Theater Material,6
-item-50,Universal Parts,593
+item-50,Universal Parts,595
 item-51,New Type Fire-Control Component,33
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,130
@@ -38,8 +38,8 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,10139
-item-507,Surplus EXP,157747
+item-506,Battery,9839
+item-507,Surplus EXP,117067
 item-508,Friendship Points,7050
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
@@ -49,7 +49,7 @@ item-514,Petri Dish,5334
 item-515,Basic Training Keycode,64994
 item-516,Advanced Training Keycode,44310
 item-517,Specified Equipment Contract,94
-item-519,HOC General Data,196
+item-519,HOC General Data,197
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
@@ -298,9 +298,9 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-4001,City's Gift,11609
-item-4002,Snowfield's Gift,12762
-item-4003,Forest's Gift,6176
+item-4001,City's Gift,11641
+item-4002,Snowfield's Gift,13051
+item-4003,Forest's Gift,6208
 item-4004,Wasteland's Gift,4299
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,1
@@ -446,7 +446,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,1780
+gift-200001,Combat Report,1940
 gift-400001,Rapid Growth Disk,7287
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
