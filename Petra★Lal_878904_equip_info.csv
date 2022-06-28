@@ -439,7 +439,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35497092,32,HV (Ammo),?????,APCR High-Velocity Ammo,112375832,OTs-14,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,2,Locked
 35497094,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
 35509236,76,Buck (Shell),?????,#000 Buckshot,-,-,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
-35545991,259,Sp. Eq (Exclusive),?????,Old Camouflage Uniform,181907164,Mondragon M1908,-,-,-,-,-,33%,-,-,-,-,-,-,-,-,5001,4,5,Locked
+35545991,259,Sp. Eq (Exclusive),?????,Old Camouflage Uniform,181907164,Mondragon M1908,-,-,-,-,-,39%,-,-,-,-,-,-,-,-,12776,7,5,Locked
 35550716,192,Sp. Eq (Exclusive),?????,Beloved Dangle,95924334,RO635 Mod,-6,-,45,-,-,-,-,-,-,-,-,-,-,-,30000,10,16,Locked
 35565473,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,111977698,Python,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,16,Locked
 35578410,227,SNIP (Ammo),?????,M1022 Sniper Rounds,121173906,PKP,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,6,Locked
@@ -487,7 +487,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36165361,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,22,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36166009,234,Chip (Body),?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,15,Locked
 36166645,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,Locked
-36166980,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,11%,-,-,-,-,-,-,-,-,0,0,0,Locked
+36166980,76,Buck (Shell),?????,#000 Buckshot,-,-,10,-,-,-,-,15%,-,-,-,-,-,-,-,-,0,0,16,Locked
 36172313,234,Chip (Body),?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,12,Locked
 36179418,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,10%,-,-,-,-,-,-,-,-,0,0,0,Locked
 36186383,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,9,-,-,-,-,-,-,-7,-,-,-,-,-,-,0,0,0,Locked
@@ -644,23 +644,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37848586,109,Optical,?????,16Lab 6-24X56,-,-,-,-,-,-,-,-,24%,-,-,-,-,-,-,-,1,0,0,
 37867008,180,Sp. Eq (Exclusive),?????,Tactical Grip,-,-,-,-,8,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,Locked
 37885895,110,HV (Ammo),?????,16Lab High-Velocity Ammo,-,-,12,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,
-37887381,226,SNIP (Ammo),????,M33 Sniper Rounds,-,-,1,-,-,-,-,-,-,55,-,-,-,-,-,-,0,0,0,
-37887382,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,79%,-,0,0,0,
-37887383,37,T Exo (Body),??,IOP T1 Exoskeleton,-,-,-1,-,6,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37887384,29,HV (Ammo),??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37887385,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,80%,-,0,0,0,
-37887386,64,Supp (Silencer),???,AC2 Suppressor,-,-,-,-,3,-,-,-,7%,-,-,-,-,-,-,-,0,0,0,
-37887387,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,78%,-,0,0,0,
-37887388,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
-37893612,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,61%,-,0,0,0,
-37893613,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,62%,-,0,0,0,
-37893614,232,Chip (Body),???,Experimental Processor,-,-,2,-,-,-,4,-50%,-,-,-,-,-,-,-,-,0,0,0,
-37893615,232,Chip (Body),???,Experimental Processor,-,-,1,-,-,-,4,-50%,-,-,-,-,-,-,-,-,0,0,0,
-37894599,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,65%,-,0,0,0,
-37894600,7,EOT (Holographic),????,EOT 516,-,-,2,4,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
-37894601,88,Cape (Body),???,Camouflage Cape,-,-,-,-,-,-3,-,6%,-,-,-,-,-,-,-,-,0,0,0,
-37894602,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-37894603,39,T Exo (Body),????,IOP T3 Exoskeleton,-,-,-5,-,14,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-37894604,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-37894605,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-37894606,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+37902609,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,245,-,-,-,-,-,-,1,0,0,
