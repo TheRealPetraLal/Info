@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7995
-item-31,Basic Training Data,9868
-item-32,Intermediate Training Data,10113
-item-33,Advanced Training Data,8814
+item-10,Dummy Core,7997
+item-31,Basic Training Data,8668
+item-32,Intermediate Training Data,9713
+item-33,Advanced Training Data,9894
 -1,kalina_level,30
 -1,kalina_favor,590448
-item-1,T-Doll Contract,2960
-item-2,Equipment Contract,566
-item-3,Quick Production Contract,644
-item-4,Quick Repair Contract,7803
+item-1,T-Doll Contract,2965
+item-2,Equipment Contract,571
+item-3,Quick Production Contract,648
+item-4,Quick Repair Contract,7805
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,79
@@ -17,18 +17,18 @@ item-9,Enhancement Capsule,1560
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,341
-item-15,Pure Sample,58
-item-16,Quick Analysis Contract,67
-item-17,Data Patch,173
-item-41,Token,2578
+item-14,Original Sample,71
+item-15,Pure Sample,37
+item-16,Quick Analysis Contract,51
+item-17,Data Patch,174
+item-41,Token,2580
 item-42,Exchange Ticket,0
 item-43,Black Card,4
-item-44,Calibration Ticket,18393
+item-44,Calibration Ticket,18293
 item-45,Memory Fragment,9574
 item-46,Special Combat Report,8846
 item-47,Theater Material,6
-item-50,Universal Parts,575
+item-50,Universal Parts,577
 item-51,New Type Fire-Control Component,33
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,130
@@ -38,27 +38,27 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,12629
-item-507,Surplus EXP,87138
-item-508,Friendship Points,7170
+item-506,Battery,12149
+item-507,Surplus EXP,176298
+item-508,Friendship Points,7180
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,500
-item-513,Dark Star Kernel,19700
+item-512,Supernova Kernel,530
+item-513,Dark Star Kernel,20200
 item-514,Petri Dish,5566
 item-515,Basic Training Keycode,68456
 item-516,Advanced Training Keycode,46310
-item-517,Specified Equipment Contract,104
+item-517,Specified Equipment Contract,100
 item-519,HOC General Data,198
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
-item-525,Quick Auto-Battle Contract,724
+item-525,Quick Auto-Battle Contract,727
 item-601,Infinite Surprise Dye,10
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,9
-item-605,Aid Commission,349
+item-604,Electronic Impulse,0
+item-605,Aid Commission,350
 item-606,Transfer Catalyst,145
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -298,9 +298,9 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-4001,City's Gift,12005
-item-4002,Snowfield's Gift,13249
-item-4003,Forest's Gift,2955
+item-4001,City's Gift,12041
+item-4002,Snowfield's Gift,13632
+item-4003,Forest's Gift,2991
 item-4004,Wasteland's Gift,5179
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,2
@@ -447,7 +447,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,1540
+gift-200001,Combat Report,1560
 gift-400001,Rapid Growth Disk,7673
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
