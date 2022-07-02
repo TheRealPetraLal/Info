@@ -1,19 +1,19 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,8050
+item-10,Dummy Core,8030
 item-31,Basic Training Data,9416
-item-32,Intermediate Training Data,9063
-item-33,Advanced Training Data,9994
+item-32,Intermediate Training Data,9835
+item-33,Advanced Training Data,9794
 -1,kalina_level,30
--1,kalina_favor,590774
-item-1,T-Doll Contract,2980
-item-2,Equipment Contract,583
-item-3,Quick Production Contract,663
-item-4,Quick Repair Contract,7816
+-1,kalina_favor,591527
+item-1,T-Doll Contract,2984
+item-2,Equipment Contract,573
+item-3,Quick Production Contract,668
+item-4,Quick Repair Contract,7818
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,81
-item-9,Enhancement Capsule,1521
+item-8,Quick Training Contract,82
+item-9,Enhancement Capsule,1517
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
@@ -21,14 +21,14 @@ item-14,Original Sample,11
 item-15,Pure Sample,17
 item-16,Quick Analysis Contract,50
 item-17,Data Patch,178
-item-41,Token,2592
+item-41,Token,2694
 item-42,Exchange Ticket,0
 item-43,Black Card,4
 item-44,Calibration Ticket,18718
 item-45,Memory Fragment,9674
 item-46,Special Combat Report,8846
 item-47,Theater Material,6
-item-50,Universal Parts,525
+item-50,Universal Parts,479
 item-51,New Type Fire-Control Component,33
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,130
@@ -38,9 +38,9 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,9999
-item-507,Surplus EXP,169258
-item-508,Friendship Points,7230
+item-506,Battery,11099
+item-507,Surplus EXP,38998
+item-508,Friendship Points,7250
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,530
@@ -56,7 +56,7 @@ item-522,Turret,8
 item-525,Quick Auto-Battle Contract,733
 item-601,Infinite Surprise Dye,10
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
+item-603,Potential Energy,12
 item-604,Electronic Impulse,0
 item-605,Aid Commission,350
 item-606,Transfer Catalyst,145
@@ -444,12 +444,12 @@ item-1100006,Bon appétit !,1
 gift-410,"Just This Time.",1
 gift-100001,Lollipop,1438
 gift-100002,Ice Cream Cone,155
-gift-100003,Strawberry Custard Cheesecake,3554
+gift-100003,Strawberry Custard Cheesecake,3566
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,2520
+gift-200001,Combat Report,2680
 gift-400001,Rapid Growth Disk,7817
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
