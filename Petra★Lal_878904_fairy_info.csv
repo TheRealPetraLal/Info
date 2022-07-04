@@ -148,7 +148,11 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 780584,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Damage I,1,
 780703,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Damage I,1,
 780757,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Fervor,1,
-746166,11,??,150,88,Parachute Fairy,16.5,0.0,15.0,3.5,18.5,Accuracy I,6,Locked
+781173,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Assault,1,
+781174,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Evasion I,1,
+781305,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Keen,1,
+781306,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Damage II,1,
+746166,11,??,150,89,Parachute Fairy,17.0,0.0,15.0,3.5,18.5,Accuracy I,6,Locked
 465187,22,?????,550,100,Beach Fairy,32.0,0.0,40.0,0.0,32.0,Fervor,10,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 561897,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Aim,10,Locked
