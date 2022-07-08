@@ -59,7 +59,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Ele.4,Day,1018,HG,Sei Asagiri,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),3827,526,631,736,841,58
 714,Ele.4,Day,285,HG,C-93,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3805,523,627,732,837,59
 714,Ele.4,Day,272,HG,Desert Eagle,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3803,522,627,732,836,60
-714,Ele.4,Day,114,HG,Welrod Mk?,100,100,1,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3798,522,626,731,835,61
+714,Ele.4,Day,114,HG,Welrod Mk?,100,104,1,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3798,522,626,731,835,61
 714,Ele.4,Day,303,HG,HP-35,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3795,521,626,730,834,62
 714,Ele.4,Day,20136,SMG,PP-19 Mod,120,200,1,10,10,T Exo (Body) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6840,513,615,718,820,63
 714,Ele.4,Day,166,HG,CZ75,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3721,511,613,716,818,64
@@ -82,9 +82,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Ele.4,Day,1029,AR,Agent 416,100,100,0,10,0,Optical (5-Star),Sp. Eq (Exclusive) (5-Star),T Exo (Body) (5-Star),5273,461,553,645,738,81
 714,Ele.4,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,T Exo (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),6091,456,548,639,730,82
 714,Ele.4,Day,1028,SMG,Agent Vector,100,100,0,10,0,T Exo (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),6000,450,540,630,720,83
-714,Ele.4,Day,72,AR,TAR-21,100,100,0,1,0,Optical (5-Star),-,Sp. Eq (Exclusive) (5-Star),4899,428,514,600,685,84
-714,Ele.4,Day,315,SMG,AUG Para,100,150,1,10,0,Chip (Body) (4-Star),-,Red Dot (5-Star),5703,427,513,598,684,85
-714,Ele.4,Day,234,SMG,JS 9,100,150,1,10,0,Chip (Body) (3-Star),-,Red Dot (5-Star),5353,401,481,562,642,86
+714,Ele.4,Day,1009,HG,El Clear,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),-,T Exo (Body) (3-Star),3131,430,516,602,688,84
+714,Ele.4,Day,72,AR,TAR-21,100,100,0,1,0,Optical (5-Star),-,Sp. Eq (Exclusive) (5-Star),4899,428,514,600,685,85
+714,Ele.4,Day,315,SMG,AUG Para,100,150,1,10,0,Chip (Body) (3-Star),-,Red Dot (5-Star),5417,406,487,568,650,86
 714,Ele.4,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),5288,396,475,555,634,87
 714,Ele.4,Day,88,MG,MG3,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),15527,388,465,543,621,88
 714,Ele.4,Day,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7750,387,465,542,620,89
@@ -102,24 +102,24 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Ele.4,Day,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7130,356,427,499,570,101
 714,Ele.4,Day,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7103,355,426,497,568,102
 714,Ele.4,Day,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7112,355,426,497,568,103
-714,Ele.4,Day,253,MG,Lewis,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),14110,352,423,493,564,104
-714,Ele.4,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7031,351,421,492,562,105
-714,Ele.4,Day,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6968,348,418,487,557,106
-714,Ele.4,Day,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6968,348,418,487,557,107
-714,Ele.4,Day,20089,MG,Bren Mod,120,200,1,10,10,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),13860,346,415,485,554,108
-714,Ele.4,Day,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6922,346,415,484,553,109
-714,Ele.4,Day,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6883,344,412,481,550,110
-714,Ele.4,Day,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6834,341,410,478,546,111
-714,Ele.4,Day,20161,SG,Type97S Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),9086,340,408,477,545,112
-714,Ele.4,Day,48,RF,WA2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6735,336,404,471,538,113
-714,Ele.4,Day,296,RF,Gr SL8,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6719,335,403,470,537,114
-714,Ele.4,Day,1033,MG,Hanazono Yurine,100,150,1,10,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),13419,335,402,469,536,115
-714,Ele.4,Day,80,MG,M1919A4,100,150,1,10,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),13304,332,399,465,532,116
-714,Ele.4,Day,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6661,333,399,466,532,117
-714,Ele.4,Day,79,MG,FF M249SAW,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),13312,332,399,465,532,118
-714,Ele.4,Day,312,RF,VSK-94,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6651,332,399,465,532,119
-714,Ele.4,Day,231,RF,M82A1,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6641,332,398,464,531,120
-714,Ele.4,Day,1034,SG,Minos,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),8846,331,398,464,530,121
+714,Ele.4,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7031,351,421,492,562,104
+714,Ele.4,Day,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6968,348,418,487,557,105
+714,Ele.4,Day,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6968,348,418,487,557,106
+714,Ele.4,Day,20089,MG,Bren Mod,120,200,1,10,10,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),13860,346,415,485,554,107
+714,Ele.4,Day,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6922,346,415,484,553,108
+714,Ele.4,Day,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6883,344,412,481,550,109
+714,Ele.4,Day,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6834,341,410,478,546,110
+714,Ele.4,Day,20161,SG,Type97S Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),9086,340,408,477,545,111
+714,Ele.4,Day,48,RF,WA2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6735,336,404,471,538,112
+714,Ele.4,Day,296,RF,Gr SL8,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6719,335,403,470,537,113
+714,Ele.4,Day,1033,MG,Hanazono Yurine,100,150,1,10,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),13419,335,402,469,536,114
+714,Ele.4,Day,80,MG,M1919A4,100,150,1,10,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),13304,332,399,465,532,115
+714,Ele.4,Day,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6661,333,399,466,532,116
+714,Ele.4,Day,79,MG,FF M249SAW,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),13312,332,399,465,532,117
+714,Ele.4,Day,312,RF,VSK-94,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6651,332,399,465,532,118
+714,Ele.4,Day,231,RF,M82A1,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6641,332,398,464,531,119
+714,Ele.4,Day,1034,SG,Minos,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),8846,331,398,464,530,120
+714,Ele.4,Day,253,MG,Lewis,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Box (MG Clip) (5-Star),13208,330,396,462,528,121
 714,Ele.4,Day,197,RF,Carcano M1891,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6578,328,394,460,526,122
 714,Ele.4,Day,257,RF,M200,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6586,329,395,461,526,123
 714,Ele.4,Day,292,MG,RPK-16,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Box (MG Clip) (5-Star),13172,329,395,461,526,124
@@ -138,7 +138,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Ele.4,Day,188,SG,S.A.T.8,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),8208,307,369,430,492,137
 714,Ele.4,Day,163,SG,AA-12,100,150,1,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),8184,306,368,429,491,138
 714,Ele.4,Day,323,SG,LTLX7000,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),8178,306,368,429,490,139
-714,Ele.4,Day,20152,SG,M1897 Mod,120,200,1,10,10,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Optical (5-Star),8034,301,361,421,482,140
+714,Ele.4,Day,20152,SG,M1897 Mod,120,200,1,10,10,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),8150,305,366,427,489,140
 714,Ele.4,Day,20154,SG,M500 Mod,120,100,0,10,10,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),7983,299,359,419,478,141
 714,Ele.4,Day,324,SG,M6 ASW,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7943,297,357,417,476,142
 714,Ele.4,Day,229,SG,M870,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7830,293,352,411,469,143
@@ -176,20 +176,32 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Ele.4,Day,305,RF,Tabuk,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5186,259,311,363,414,175
 714,Ele.4,Day,273,RF,SSG3000,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5154,257,309,360,412,176
 714,Ele.4,Day,283,SG,Liberator,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),6855,257,308,359,411,177
-714,Ele.4,Day,1009,HG,El Clear,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,224,269,314,359,178
-714,Ele.4,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (3-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),5961,223,268,312,357,179
-714,Ele.4,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,211,254,296,339,180
-714,Ele.4,Day,158,SG,KS-23,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5490,205,247,288,329,181
-714,Ele.4,Day,353,SG,MAG-7,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5492,205,247,288,329,182
-714,Ele.4,Day,159,SG,RMB-93,100,100,0,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),5477,205,246,287,328,183
-714,Ele.4,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (4-Star),5341,200,240,280,320,184
-714,Ele.4,Day,321,SG,TS12,100,100,0,4,0,-,Slug (Shell) (5-Star),Red Dot (3-Star),5038,188,226,264,302,185
-714,Ele.4,Day,85,MG,PK,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),6217,155,186,217,248,186
+714,Ele.4,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (3-Star),Buck (Shell) (4-Star),EOT (Holographic) (5-Star),5973,223,268,313,358,178
+714,Ele.4,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,211,254,296,339,179
+714,Ele.4,Day,158,SG,KS-23,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5490,205,247,288,329,180
+714,Ele.4,Day,353,SG,MAG-7,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5492,205,247,288,329,181
+714,Ele.4,Day,159,SG,RMB-93,100,100,0,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),5477,205,246,287,328,182
+714,Ele.4,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),5465,204,245,286,327,183
+714,Ele.4,Day,321,SG,TS12,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (4-Star),5077,190,228,266,304,184
+714,Ele.4,Day,85,MG,PK,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),6217,155,186,217,248,185
+714,Ele.4,Day,276,MG,Kord,100,150,1,10,0,-,Optical (4-Star),Box (MG Clip) (5-Star),6019,150,180,210,240,186
 714,Ele.4,Day,1026,MG,Claes,100,100,0,1,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),5861,146,175,205,234,187
 714,Ele.4,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),1167,43,52,61,70,188
-714,Ele.4,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,18,22,26,30,189
-714,Ele.4,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,18,22,26,30,190
-714,Ele.4,Day,63,AR,Gr G3,1,50,0,1,0,-,-,-,162,14,17,19,22,191
+714,Ele.4,Day,6,HG,Tokarev,1,50,0,1,0,-,-,-,150,20,24,28,33,189
+714,Ele.4,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,18,22,26,30,190
+714,Ele.4,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,18,21,25,29,191
+714,Ele.4,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,192
+714,Ele.4,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,15,18,21,24,193
+714,Ele.4,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,14,17,20,23,194
+714,Ele.4,Day,94,SMG,Type64,1,50,0,1,0,-,-,-,195,14,17,20,23,195
+714,Ele.4,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,14,17,20,23,196
+714,Ele.4,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,13,16,19,21,197
+714,Ele.4,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,13,15,18,21,198
+714,Ele.4,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,8,10,11,13,199
+714,Ele.4,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,8,9,11,12,200
+714,Ele.4,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,7,9,11,12,201
+714,Ele.4,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,5,6,7,8,202
+714,Ele.4,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,5,6,7,8,203
 718,Ele.8,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8492,1167,1401,1634,1868,1
 718,Ele.8,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8001,1100,1320,1540,1760,2
 718,Ele.8,Day,20065,AR,416 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7594,1044,1253,1461,1670,3
@@ -245,7 +257,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,20063,AR,Gr G3 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),-,T Exo (Body) (5-Star),5086,699,839,979,1118,53
 718,Ele.8,Day,183,HG,Contender,100,150,1,10,0,RMR (Auxiliary Sight) (5-Star),AP (Ammo) (5-Star),X Exo (Body) (5-Star),4964,682,819,955,1092,54
 718,Ele.8,Day,72,AR,TAR-21,100,100,0,1,0,Optical (5-Star),-,Sp. Eq (Exclusive) (5-Star),4899,673,808,943,1077,55
-718,Ele.8,Day,194,AR,K2,100,150,1,10,0,EOT (Holographic) (5-Star),-,Chip (Body) (4-Star),4860,668,801,935,1069,56
+718,Ele.8,Day,194,AR,K2,100,150,1,10,0,Optical (5-Star),-,T Exo (Body) (5-Star),4854,667,800,934,1067,56
 718,Ele.8,Day,172,AR,Am RFB,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,T Exo (Body) (5-Star),4805,660,792,924,1057,57
 718,Ele.8,Day,129,AR,Type95,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,T Exo (Body) (5-Star),4772,656,787,918,1049,58
 718,Ele.8,Day,214,AR,ADS,100,100,0,10,0,Optical (5-Star),-,T Exo (Body) (5-Star),4697,645,775,904,1033,59
@@ -268,10 +280,10 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,20012,HG,C96 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),4347,597,717,836,956,76
 718,Ele.8,Day,181,AR,T91,100,100,0,1,0,Optical (5-Star),-,T Exo (Body) (5-Star),4349,597,717,837,956,77
 718,Ele.8,Day,193,AR,T65,100,100,0,1,0,Optical (5-Star),-,T Exo (Body) (5-Star),4292,590,708,826,944,78
-718,Ele.8,Day,347,SMG,SR2,100,150,1,10,0,T Exo (Body) (5-Star),AP (Ammo) (5-Star),Red Dot (5-Star),7863,589,707,825,943,79
-718,Ele.8,Day,223,AR,Model L,100,150,1,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4238,582,699,815,932,80
-718,Ele.8,Day,20001,HG,SAA Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),4172,573,688,803,917,81
-718,Ele.8,Day,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),9136,571,685,799,913,82
+718,Ele.8,Day,223,AR,Model L,100,150,1,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4238,582,699,815,932,79
+718,Ele.8,Day,20001,HG,SAA Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),4172,573,688,803,917,80
+718,Ele.8,Day,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),9136,571,685,799,913,81
+718,Ele.8,Day,347,SMG,SR2,100,150,1,10,0,X Exo (Body) (5-Star),AP (Ammo) (5-Star),Red Dot (5-Star),7604,570,684,798,912,82
 718,Ele.8,Day,20161,SG,Type97S Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),9086,567,681,795,908,83
 718,Ele.8,Day,20143,SMG,RO635 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),Red Dot (5-Star),7532,564,677,790,903,84
 718,Ele.8,Day,20026,SMG,Gr MP5 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7423,556,668,779,890,85
@@ -292,8 +304,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,20002,HG,M1911 Mod,120,200,1,10,10,Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),X Exo (Body) (5-Star),3890,534,641,748,855,100
 718,Ele.8,Day,237,AR,SAR-21,100,100,0,1,0,Optical (5-Star),-,X Exo (Body) (5-Star),3882,533,640,747,854,101
 718,Ele.8,Day,20091,HG,MP-446 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3878,533,639,746,853,102
-718,Ele.8,Day,233,HG,Px4 Storm,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3872,532,638,745,851,103
-718,Ele.8,Day,1018,HG,Sei Asagiri,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),3816,524,629,734,839,104
+718,Ele.8,Day,1018,HG,Sei Asagiri,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),3816,524,629,734,839,103
+718,Ele.8,Day,233,HG,Px4 Storm,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (3-Star),3755,516,619,722,826,104
 718,Ele.8,Day,85,MG,PK,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),8225,514,616,719,822,105
 718,Ele.8,Day,84,MG,RPD,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),8211,513,615,718,821,106
 718,Ele.8,Day,188,SG,S.A.T.8,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),8208,513,615,718,820,107
@@ -316,7 +328,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,294,HG,Webley,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,3583,492,591,689,788,124
 718,Ele.8,Day,250,HG,HS2000,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,3578,491,590,688,787,125
 718,Ele.8,Day,6,HG,Tokarev,100,100,0,4,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,2971,490,588,686,784,126
-718,Ele.8,Day,114,HG,Welrod Mk?,100,100,1,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,3554,488,586,684,781,127
+718,Ele.8,Day,114,HG,Welrod Mk?,100,104,1,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,3554,488,586,684,781,127
 718,Ele.8,Day,285,HG,C-93,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,3552,488,586,683,781,128
 718,Ele.8,Day,303,HG,HP-35,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,3548,487,585,682,780,129
 718,Ele.8,Day,1030,SMG,Jashin-chan,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6450,483,580,677,774,130
@@ -346,7 +358,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,113,HG,Serdyukov,100,150,1,10,0,Sp. Eq (Exclusive) (5-Star),Flare (Ammo) (5-Star),-,3186,438,525,613,700,154
 718,Ele.8,Day,20029,SMG,STEN Mk? Mod,120,200,1,10,10,-,Flare (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),5824,436,524,611,698,155
 718,Ele.8,Day,325,SG,PM5,100,150,1,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),6987,436,524,611,698,156
-718,Ele.8,Day,8,HG,Makarov,100,142,1,10,0,Sp. Eq (Exclusive) (5-Star),Flare (Ammo) (5-Star),-,3172,436,523,610,697,157
+718,Ele.8,Day,8,HG,Makarov,100,146,1,10,0,Sp. Eq (Exclusive) (5-Star),Flare (Ammo) (5-Star),-,3172,436,523,610,697,157
 718,Ele.8,Day,168,HG,Spitfire,100,150,1,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3154,433,520,607,693,158
 718,Ele.8,Day,299,SG,HSM10,100,150,1,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),6907,431,518,604,690,159
 718,Ele.8,Day,20103,SMG,UMP45 Mod,120,200,1,10,10,-,Flare (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),5740,430,516,602,688,160
@@ -356,7 +368,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,100,HG,P7,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3069,421,506,590,675,164
 718,Ele.8,Day,202,HG,Thunder,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3071,422,506,591,675,165
 718,Ele.8,Day,310,HG,Rex Zero 1,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3045,418,502,586,669,166
-718,Ele.8,Day,199,MG,Type80,100,100,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),-,6666,416,499,583,666,167
+718,Ele.8,Day,199,MG,Type80,100,104,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),-,6666,416,499,583,666,167
 718,Ele.8,Day,319,MG,PM1910,100,100,0,8,0,AP (Ammo) (5-Star),Optical (5-Star),-,6652,415,498,582,665,168
 718,Ele.8,Day,1026,MG,Claes,100,100,0,1,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),-,6643,415,498,581,664,169
 718,Ele.8,Day,185,MG,Ameli,100,100,0,8,0,AP (Ammo) (5-Star),Optical (5-Star),-,6609,413,495,578,660,170
@@ -368,14 +380,14 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,127,SMG,Type79,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5336,400,480,560,640,176
 718,Ele.8,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),5288,396,475,555,634,177
 718,Ele.8,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5278,395,475,554,633,178
-718,Ele.8,Day,77,MG,M2HB,100,100,1,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,6327,395,474,553,632,179
+718,Ele.8,Day,77,MG,M2HB,100,103,1,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,6327,395,474,553,632,179
 718,Ele.8,Day,249,MG,62 Shiki,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,6311,394,473,552,631,180
 718,Ele.8,Day,86,MG,MG42,100,100,0,1,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,6271,391,470,548,627,181
-718,Ele.8,Day,195,MG,Gr MG23,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,6257,391,469,547,625,182
-718,Ele.8,Day,121,MG,Mk48,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,6251,390,468,546,625,183
+718,Ele.8,Day,121,MG,Mk48,100,100,0,1,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,6260,391,469,547,626,182
+718,Ele.8,Day,195,MG,Gr MG23,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,6257,391,469,547,625,183
 718,Ele.8,Day,271,MG,K3,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,6184,386,463,541,618,184
 718,Ele.8,Day,78,MG,M60,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,6155,384,461,538,615,185
-718,Ele.8,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (3-Star),Slug (Shell) (5-Star),Optical (5-Star),5945,371,445,520,594,186
+718,Ele.8,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (3-Star),Buck (Shell) (4-Star),EOT (Holographic) (5-Star),5973,373,447,522,597,186
 718,Ele.8,Day,82,MG,DP28,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,5896,368,442,515,589,187
 718,Ele.8,Day,111,MG,AAT-52,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,5841,365,438,511,584,188
 718,Ele.8,Day,87,MG,MG34,100,100,0,1,0,AP (Ammo) (5-Star),Optical (5-Star),-,5811,363,435,508,581,189
@@ -391,11 +403,11 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,20124,RF,Super SASS Mod,120,200,1,10,10,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7249,271,326,380,434,199
 718,Ele.8,Day,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7146,267,321,375,428,200
 718,Ele.8,Day,20037,RF,M14 Mod,120,200,1,10,10,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7106,266,319,373,426,201
-718,Ele.8,Day,50,RF,Lee Enfield,100,100,0,10,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6708,251,301,352,402,202
-718,Ele.8,Day,20051,RF,FF FN49 Mod,120,200,1,10,10,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6636,248,298,348,398,203
-718,Ele.8,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),6457,242,290,338,387,204
-718,Ele.8,Day,261,RF,QBU-88,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),6368,238,286,334,382,205
-718,Ele.8,Day,266,RF,R93,100,150,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),6383,239,287,335,382,206
+718,Ele.8,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7031,263,316,369,421,202
+718,Ele.8,Day,50,RF,Lee Enfield,100,100,0,10,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6708,251,301,352,402,203
+718,Ele.8,Day,20051,RF,FF FN49 Mod,120,200,1,10,10,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6636,248,298,348,398,204
+718,Ele.8,Day,266,RF,R93,100,150,1,10,0,SNIP (Ammo) (5-Star),Optical (4-Star),Cape (Body) (5-Star),6558,245,295,344,393,205
+718,Ele.8,Day,261,RF,QBU-88,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (4-Star),Cape (Body) (5-Star),6532,244,293,342,391,206
 718,Ele.8,Day,20044,RF,SV-98 Mod,120,200,1,10,10,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),6354,238,285,333,381,207
 718,Ele.8,Day,316,RF,General Liu,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),6274,235,282,329,376,208
 718,Ele.8,Day,1024,RF,Rico,100,150,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),6218,233,279,326,373,209
@@ -404,12 +416,24 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),5903,221,265,309,354,212
 718,Ele.8,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),5874,220,264,308,352,213
 718,Ele.8,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,211,254,296,339,214
-718,Ele.8,Day,348,RF,HS.50,100,150,1,10,0,-,Supp (Silencer) (3-Star),Cape (Body) (5-Star),4888,183,219,256,293,215
-718,Ele.8,Day,231,RF,M82A1,100,100,0,10,0,-,Red Dot (3-Star),Cape (Body) (5-Star),4504,168,202,236,270,216
-718,Ele.8,Day,1031,RF,Pekola,100,100,0,10,0,-,EOT (Holographic) (4-Star),Sp. Eq (Exclusive) (5-Star),4348,163,195,228,260,217
+718,Ele.8,Day,348,RF,HS.50,100,150,1,10,0,-,Supp (Silencer) (5-Star),Cape (Body) (5-Star),5141,192,231,269,308,215
+718,Ele.8,Day,231,RF,M82A1,100,100,0,10,0,-,Supp (Silencer) (5-Star),Cape (Body) (5-Star),4971,186,223,260,298,216
+718,Ele.8,Day,1031,RF,Pekola,100,100,0,10,0,-,Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),4961,186,223,260,297,217
 718,Ele.8,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),1167,72,87,102,116,218
-718,Ele.8,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,18,22,26,30,219
-718,Ele.8,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,18,22,26,30,220
+718,Ele.8,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,21,25,30,34,219
+718,Ele.8,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,20,24,29,33,220
+718,Ele.8,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,18,22,26,30,221
+718,Ele.8,Day,13,HG,Type92,1,50,0,1,0,-,-,-,139,19,22,26,30,222
+718,Ele.8,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,18,21,25,29,223
+718,Ele.8,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,17,21,25,28,224
+718,Ele.8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,225
+718,Ele.8,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,15,18,21,24,226
+718,Ele.8,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,14,17,20,23,227
+718,Ele.8,Day,94,SMG,Type64,1,50,0,1,0,-,-,-,195,14,17,20,23,228
+718,Ele.8,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,14,17,20,23,229
+718,Ele.8,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,6,7,8,10,230
+718,Ele.8,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,6,7,8,9,231
+718,Ele.8,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,5,7,8,9,232
 724,Int.4,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8492,1167,1401,1634,1868,1
 724,Int.4,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8001,1100,1320,1540,1760,2
 724,Int.4,Day,20065,AR,416 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7594,1044,1253,1461,1670,3
@@ -472,7 +496,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Int.4,Day,20,SMG,Vector,100,100,0,10,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),5916,739,887,1035,1183,60
 724,Int.4,Day,1028,SMG,Agent Vector,100,100,0,10,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),5916,739,887,1035,1183,61
 724,Int.4,Day,176,SMG,TMP,100,100,0,2,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),4920,738,885,1033,1180,62
-724,Int.4,Day,1029,AR,Agent 416,100,100,0,10,0,EOT (Holographic) (5-Star),Sp. Eq (Exclusive) (5-Star),Chip (Body) (4-Star),5265,723,868,1013,1158,63
+724,Int.4,Day,1029,AR,Agent 416,100,100,0,10,0,Optical (5-Star),Sp. Eq (Exclusive) (5-Star),X Exo (Body) (5-Star),5222,718,861,1005,1148,63
 724,Int.4,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),5571,696,835,974,1114,64
 724,Int.4,Day,20063,AR,Gr G3 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),-,X Exo (Body) (5-Star),5033,692,830,968,1107,65
 724,Int.4,Day,286,SMG,K-PDW,100,150,1,10,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),5526,690,828,967,1105,66
@@ -493,7 +517,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Int.4,Day,340,AR,TKB-408,100,100,0,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4609,633,760,887,1013,81
 724,Int.4,Day,137,SMG,PP-19-01,100,100,0,2,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),EOT (Holographic) (5-Star),5056,632,758,884,1011,82
 724,Int.4,Day,102,SMG,UMP40,100,100,0,4,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),EOT (Holographic) (5-Star),5057,632,758,884,1011,83
-724,Int.4,Day,328,SMG,AR-57,100,100,0,1,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),EOT (Holographic) (5-Star),5057,632,758,884,1011,84
+724,Int.4,Day,328,SMG,AR-57,100,100,0,1,0,T Exo (Body) (3-Star),Flare (Ammo) (5-Star),EOT (Holographic) (5-Star),4878,609,731,853,975,84
 724,Int.4,Day,27,SMG,Skorpion,100,100,0,10,0,Chip (Body) (3-Star),Flare (Ammo) (5-Star),EOT (Holographic) (5-Star),4768,596,715,834,953,85
 724,Int.4,Day,88,MG,MG3,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),15527,582,698,815,931,86
 724,Int.4,Day,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7750,581,697,813,930,87
@@ -556,12 +580,12 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Int.4,Day,197,RF,Carcano M1891,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6578,493,592,690,789,144
 724,Int.4,Day,198,RF,Carcano M91/38,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6552,491,589,687,786,145
 724,Int.4,Day,229,SG,M870,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7830,489,587,685,783,146
-724,Int.4,Day,1020,RF,Stella Hoshii,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6496,487,584,682,779,147
-724,Int.4,Day,1018,HG,Sei Asagiri,100,100,0,10,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),3522,484,581,677,774,148
-724,Int.4,Day,148,RF,IWS 2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6446,483,580,676,773,149
-724,Int.4,Day,164,SG,FP-6,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (3-Star),7717,482,578,675,771,150
-724,Int.4,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6393,479,575,671,767,151
-724,Int.4,Day,160,SG,Saiga-12,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (4-Star),7561,472,567,661,756,152
+724,Int.4,Day,164,SG,FP-6,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7831,489,587,685,783,147
+724,Int.4,Day,160,SG,Saiga-12,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7832,489,587,685,783,148
+724,Int.4,Day,1020,RF,Stella Hoshii,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6496,487,584,682,779,149
+724,Int.4,Day,1018,HG,Sei Asagiri,100,100,0,10,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),3522,484,581,677,774,150
+724,Int.4,Day,148,RF,IWS 2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6446,483,580,676,773,151
+724,Int.4,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6393,479,575,671,767,152
 724,Int.4,Day,157,SG,Am KSG,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Optical (5-Star),7525,470,564,658,752,153
 724,Int.4,Day,153,SG,M37,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),7523,470,564,658,752,154
 724,Int.4,Day,151,SG,M1887,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),Optical (5-Star),7423,463,556,649,742,155
@@ -579,8 +603,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Int.4,Day,1025,SG,Triela,100,100,0,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Optical (5-Star),6952,434,521,608,695,167
 724,Int.4,Day,325,SG,PM5,100,150,1,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),Optical (5-Star),6945,434,520,607,694,168
 724,Int.4,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,5729,429,515,601,687,169
-724,Int.4,Day,299,SG,HSM10,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Optical (5-Star),6852,428,513,599,685,170
-724,Int.4,Day,158,SG,KS-23,100,100,0,4,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),6619,413,496,579,661,171
+724,Int.4,Day,299,SG,HSM10,100,150,1,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),Optical (4-Star),6782,423,508,593,678,170
+724,Int.4,Day,283,SG,Liberator,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),Optical (4-Star),6754,422,506,590,675,171
 724,Int.4,Day,337,RF,De Lisle,100,150,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5384,403,484,565,646,172
 724,Int.4,Day,128,RF,M99,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5325,399,479,559,639,173
 724,Int.4,Day,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5318,398,478,558,638,174
@@ -594,16 +618,16 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Int.4,Day,146,RF,Gr G28,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,4949,371,445,519,593,182
 724,Int.4,Day,305,RF,Tabuk,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,4927,369,443,517,591,183
 724,Int.4,Day,117,RF,Gr PSG-1,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,4914,368,442,515,589,184
-724,Int.4,Day,283,SG,Liberator,100,100,0,10,0,Plate (Body) (3-Star),Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),5757,359,431,503,575,185
-724,Int.4,Day,278,SG,Six12,100,150,1,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),5327,332,399,466,532,186
+724,Int.4,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (3-Star),Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),5724,357,429,500,572,185
+724,Int.4,Day,158,SG,KS-23,100,100,0,4,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),5298,331,397,463,529,186
 724,Int.4,Day,159,SG,RMB-93,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),5255,328,394,459,525,187
 724,Int.4,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),5258,328,394,460,525,188
 724,Int.4,Day,353,SG,MAG-7,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),5240,327,393,458,524,189
 724,Int.4,Day,321,SG,TS12,100,100,0,4,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),4945,309,370,432,494,190
 724,Int.4,Day,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1951,268,321,375,429,191
-724,Int.4,Day,276,MG,Kord,100,150,1,10,0,-,RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),6956,260,313,365,417,192
-724,Int.4,Day,250,HG,HS2000,70,100,0,5,0,RMR (Auxiliary Sight) (5-Star),-,-,1877,258,309,361,412,193
-724,Int.4,Day,242,HG,P22,70,100,0,4,0,RMR (Auxiliary Sight) (5-Star),-,-,1871,257,308,360,411,194
+724,Int.4,Day,242,HG,P22,70,100,0,6,0,RMR (Auxiliary Sight) (5-Star),-,-,1923,264,317,370,423,192
+724,Int.4,Day,276,MG,Kord,100,150,1,10,0,-,RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),6956,260,313,365,417,193
+724,Int.4,Day,250,HG,HS2000,70,100,0,5,0,RMR (Auxiliary Sight) (5-Star),-,-,1877,258,309,361,412,194
 724,Int.4,Day,275,MG,M1895 CB,100,150,1,10,0,-,RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),6510,244,292,341,390,195
 724,Int.4,Day,294,HG,Webley,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1742,239,287,335,383,196
 724,Int.4,Day,85,MG,PK,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),6217,233,279,326,373,197
@@ -614,9 +638,24 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Int.4,Day,1026,MG,Claes,100,100,0,1,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),5861,219,263,307,351,202
 724,Int.4,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,211,254,296,339,203
 724,Int.4,Day,351,SG,M26-MASS,100,100,0,10,0,-,Buck (Shell) (5-Star),PEQ (Night Equip) (5-Star),1162,72,87,101,116,204
-724,Int.4,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,18,22,26,30,205
-724,Int.4,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,18,22,26,30,206
-724,Int.4,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,18,22,25,29,207
+724,Int.4,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,25,30,35,40,205
+724,Int.4,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,25,30,35,40,206
+724,Int.4,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,24,29,34,39,207
+724,Int.4,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,24,29,34,39,208
+724,Int.4,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,21,25,30,34,209
+724,Int.4,Day,6,HG,Tokarev,1,50,0,1,0,-,-,-,150,20,24,28,33,210
+724,Int.4,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,20,24,29,33,211
+724,Int.4,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,18,22,26,30,212
+724,Int.4,Day,13,HG,Type92,1,50,0,1,0,-,-,-,139,19,22,26,30,213
+724,Int.4,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,18,21,25,29,214
+724,Int.4,Day,5,HG,M1895,1,50,0,1,0,-,-,-,132,18,21,25,29,215
+724,Int.4,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,18,22,25,29,216
+724,Int.4,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,17,21,25,28,217
+724,Int.4,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,12,15,17,20,218
+724,Int.4,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,12,14,17,19,219
+724,Int.4,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,11,14,16,19,220
+724,Int.4,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,7,9,10,12,221
+724,Int.4,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,222
 728,Int.8,Day,347,SMG,SR2,100,150,1,10,0,Chip (Body) (5-Star),AP (Ammo) (5-Star),Red Dot (5-Star),8347,1043,1252,1460,1669,1
 728,Int.8,Day,213,SMG,C-MS,100,150,1,10,0,Chip (Body) (5-Star),AP (Ammo) (5-Star),Red Dot (5-Star),8162,1020,1224,1428,1632,2
 728,Int.8,Day,183,HG,Contender,100,150,1,10,0,RMR (Auxiliary Sight) (5-Star),AP (Ammo) (5-Star),X Exo (Body) (5-Star),4964,992,1191,1389,1588,3
@@ -695,7 +734,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Int.8,Day,126,HG,NZ75,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Flare (Ammo) (5-Star),X Exo (Body) (5-Star),3616,723,867,1012,1157,76
 728,Int.8,Day,1025,SG,Triela,100,100,0,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),7228,722,867,1011,1156,77
 728,Int.8,Day,224,SMG,PM-06,100,100,0,10,0,T Exo (Body) (5-Star),Flare (Ammo) (5-Star),EOT (Holographic) (5-Star),5775,721,866,1010,1155,78
-728,Int.8,Day,114,HG,Welrod Mk?,100,100,1,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),T Exo (Body) (5-Star),3606,721,865,1009,1153,79
+728,Int.8,Day,114,HG,Welrod Mk?,100,104,1,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),T Exo (Body) (5-Star),3606,721,865,1009,1153,79
 728,Int.8,Day,155,SG,M590,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),7054,705,846,987,1128,80
 728,Int.8,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8001,700,840,980,1120,81
 728,Int.8,Day,325,SG,PM5,100,150,1,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),6987,698,838,978,1117,82
@@ -705,7 +744,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Int.8,Day,303,HG,HP-35,100,100,0,10,0,Supp (Silencer) (5-Star),-,T Exo (Body) (5-Star),3443,688,826,964,1101,86
 728,Int.8,Day,272,HG,Desert Eagle,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),-,X Exo (Body) (5-Star),3437,687,824,962,1099,87
 728,Int.8,Day,283,SG,Liberator,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),6855,685,822,959,1096,88
-728,Int.8,Day,158,SG,KS-23,100,100,0,4,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),6815,681,817,954,1090,89
+728,Int.8,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (4-Star),EOT (Holographic) (5-Star),6823,682,818,955,1091,89
 728,Int.8,Day,285,HG,C-93,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),-,X Exo (Body) (5-Star),3405,681,817,953,1089,90
 728,Int.8,Day,336,SMG,PPD-40,100,100,0,10,0,T Exo (Body) (5-Star),-,EOT (Holographic) (5-Star),5446,680,816,953,1089,91
 728,Int.8,Day,295,SMG,CF-05,100,100,0,8,0,T Exo (Body) (5-Star),-,EOT (Holographic) (5-Star),5428,678,814,949,1085,92
@@ -724,24 +763,24 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Int.8,Day,102,SMG,UMP40,100,100,0,4,0,Chip (Body) (5-Star),-,EOT (Holographic) (5-Star),5117,639,767,895,1023,105
 728,Int.8,Day,137,SMG,PP-19-01,100,100,0,2,0,Chip (Body) (5-Star),-,EOT (Holographic) (5-Star),5065,633,759,886,1013,106
 728,Int.8,Day,20056,AR,M4 SOPMOD II Mod,120,200,1,10,10,Optical (5-Star),Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),7240,633,760,886,1013,107
-728,Int.8,Day,20057,AR,ST AR-15 Mod,120,200,1,10,10,Optical (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),6927,606,727,848,969,108
-728,Int.8,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (3-Star),Slug (Shell) (5-Star),Optical (5-Star),5945,594,713,832,951,109
-728,Int.8,Day,88,MG,MG3,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),15527,582,698,815,931,110
-728,Int.8,Day,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7750,581,697,813,930,111
-728,Int.8,Day,20039,RF,Mosin-Nagant Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),7601,570,684,798,912,112
-728,Int.8,Day,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7591,569,683,797,910,113
-728,Int.8,Day,280,SMG,MAT-49,100,100,0,1,0,Chip (Body) (4-Star),-,Red Dot (3-Star),4550,568,682,796,910,114
+728,Int.8,Day,8,HG,Makarov,100,146,1,10,0,Sp. Eq (Exclusive) (5-Star),-,T Exo (Body) (3-Star),3099,619,743,867,991,108
+728,Int.8,Day,20057,AR,ST AR-15 Mod,120,200,1,10,10,Optical (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),6927,606,727,848,969,109
+728,Int.8,Day,158,SG,KS-23,100,100,0,4,0,Plate (Body) (3-Star),Slug (Shell) (5-Star),Optical (5-Star),5908,590,708,827,945,110
+728,Int.8,Day,88,MG,MG3,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),15527,582,698,815,931,111
+728,Int.8,Day,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7750,581,697,813,930,112
+728,Int.8,Day,20039,RF,Mosin-Nagant Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),7601,570,684,798,912,113
+728,Int.8,Day,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7591,569,683,797,910,114
 728,Int.8,Day,62,AR,Gr G41,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6486,567,681,794,908,115
-728,Int.8,Day,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7509,563,675,788,901,116
-728,Int.8,Day,1027,AR,Angelica,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6410,560,673,785,897,117
-728,Int.8,Day,118,AR,9A-91,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6383,558,670,781,893,118
-728,Int.8,Day,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7401,555,666,777,888,119
-728,Int.8,Day,353,SG,MAG-7,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5492,549,659,768,878,120
-728,Int.8,Day,20075,MG,M1918 Mod,120,200,1,10,10,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),14551,545,654,763,873,121
-728,Int.8,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5462,546,655,764,873,122
-728,Int.8,Day,1032,AR,Medusa,100,150,1,10,0,Supp (Silencer) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6238,545,654,764,873,123
-728,Int.8,Day,159,SG,RMB-93,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5430,543,651,760,868,124
-728,Int.8,Day,301,SMG,MAS-38,100,100,0,1,0,Chip (Body) (3-Star),-,Supp (Silencer) (5-Star),4333,541,649,758,866,125
+728,Int.8,Day,23,SMG,PP-90,100,100,0,2,0,Chip (Body) (3-Star),-,EOT (Holographic) (5-Star),4538,567,680,794,907,116
+728,Int.8,Day,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7509,563,675,788,901,117
+728,Int.8,Day,1027,AR,Angelica,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6410,560,673,785,897,118
+728,Int.8,Day,118,AR,9A-91,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6383,558,670,781,893,119
+728,Int.8,Day,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7401,555,666,777,888,120
+728,Int.8,Day,353,SG,MAG-7,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5492,549,659,768,878,121
+728,Int.8,Day,20075,MG,M1918 Mod,120,200,1,10,10,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),14551,545,654,763,873,122
+728,Int.8,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5462,546,655,764,873,123
+728,Int.8,Day,1032,AR,Medusa,100,150,1,10,0,Supp (Silencer) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6238,545,654,764,873,124
+728,Int.8,Day,159,SG,RMB-93,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5430,543,651,760,868,125
 728,Int.8,Day,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7214,541,649,757,865,126
 728,Int.8,Day,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7190,539,647,754,862,127
 728,Int.8,Day,20081,MG,LWMMG Mod,120,200,1,10,10,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),14360,538,646,753,861,128
@@ -803,9 +842,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Int.8,Day,290,AR,89 Shiki,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),-,5328,466,559,652,745,184
 728,Int.8,Day,1026,MG,Claes,100,100,0,1,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),12198,457,548,640,731,185
 728,Int.8,Day,1029,AR,Agent 416,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),5222,456,548,639,731,186
-728,Int.8,Day,85,MG,PK,100,100,0,10,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),11674,437,525,612,700,187
+728,Int.8,Day,307,MG,ZB-26,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (4-Star),Box (MG Clip) (5-Star),11775,441,529,618,706,187
 728,Int.8,Day,138,AR,6P62,100,150,1,10,0,Supp (Silencer) (5-Star),SNIP (Ammo) (5-Star),-,4778,418,501,585,668,188
-728,Int.8,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),-,5467,410,492,574,656,189
+728,Int.8,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (4-Star),-,5521,414,496,579,662,189
 728,Int.8,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),-,5425,406,488,569,651,190
 728,Int.8,Day,128,RF,M99,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5325,399,479,559,639,191
 728,Int.8,Day,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5318,398,478,558,638,192
@@ -820,10 +859,24 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Int.8,Day,305,RF,Tabuk,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,4927,369,443,517,591,201
 728,Int.8,Day,117,RF,Gr PSG-1,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,4914,368,442,515,589,202
 728,Int.8,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,308,369,431,493,203
-728,Int.8,Day,307,MG,ZB-26,100,150,1,10,0,-,EOT (Holographic) (4-Star),Box (MG Clip) (5-Star),6205,232,279,325,372,204
+728,Int.8,Day,85,MG,PK,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),6217,233,279,326,373,204
 728,Int.8,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),1167,116,140,163,186,205
-728,Int.8,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,27,32,38,43,206
-728,Int.8,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,27,32,38,43,207
+728,Int.8,Day,6,HG,Tokarev,1,50,0,1,0,-,-,-,150,30,36,42,48,206
+728,Int.8,Day,13,HG,Type92,1,50,0,1,0,-,-,-,139,27,33,38,44,207
+728,Int.8,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,27,32,38,43,208
+728,Int.8,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,26,31,37,42,209
+728,Int.8,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,26,31,36,41,210
+728,Int.8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,25,30,35,40,211
+728,Int.8,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,25,30,35,40,212
+728,Int.8,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,24,29,34,39,213
+728,Int.8,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,24,29,34,39,214
+728,Int.8,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,13,16,19,21,215
+728,Int.8,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,13,15,18,21,216
+728,Int.8,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,12,15,17,20,217
+728,Int.8,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,12,14,17,19,218
+728,Int.8,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,11,14,16,19,219
+728,Int.8,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,7,9,10,12,220
+728,Int.8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,221
 733,Adv.3,Day,183,HG,Contender,100,150,1,10,0,RMR (Auxiliary Sight) (5-Star),AP (Ammo) (5-Star),X Exo (Body) (5-Star),4964,992,1191,1389,1588,1
 733,Adv.3,Day,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7112,960,1152,1344,1536,2
 733,Adv.3,Day,260,HG,PA-15,100,150,1,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3924,941,1130,1318,1506,3
@@ -883,7 +936,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Adv.3,Day,352,SG,Nova,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),7614,761,913,1065,1218,57
 733,Adv.3,Day,285,HG,C-93,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3805,761,913,1065,1217,58
 733,Adv.3,Day,272,HG,Desert Eagle,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3803,760,912,1064,1216,59
-733,Adv.3,Day,114,HG,Welrod Mk?,100,100,1,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3798,759,911,1063,1215,60
+733,Adv.3,Day,114,HG,Welrod Mk?,100,104,1,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3798,759,911,1063,1215,60
 733,Adv.3,Day,165,SG,M1014,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),7591,759,910,1062,1214,61
 733,Adv.3,Day,303,HG,HP-35,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3795,759,910,1062,1214,62
 733,Adv.3,Day,48,RF,WA2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6735,757,909,1060,1212,63
@@ -906,18 +959,18 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Adv.3,Day,1020,RF,Stella Hoshii,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6496,730,876,1023,1169,80
 733,Adv.3,Day,1010,HG,El Fail,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),3641,728,873,1019,1165,81
 733,Adv.3,Day,148,RF,IWS 2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6446,725,870,1015,1160,82
-733,Adv.3,Day,1009,HG,El Clear,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3601,720,864,1008,1152,83
-733,Adv.3,Day,99,HG,Gr Mk23,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3570,714,856,999,1142,84
-733,Adv.3,Day,156,SG,Super-Shorty,100,100,0,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),Red Dot (5-Star),7100,710,852,994,1136,85
+733,Adv.3,Day,156,SG,Super-Shorty,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (4-Star),Red Dot (5-Star),7219,721,866,1010,1155,83
+733,Adv.3,Day,1009,HG,El Clear,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3601,720,864,1008,1152,84
+733,Adv.3,Day,99,HG,Gr Mk23,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3570,714,856,999,1142,85
 733,Adv.3,Day,155,SG,M590,100,100,0,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),Red Dot (5-Star),7087,708,850,992,1133,86
-733,Adv.3,Day,8,HG,Makarov,100,142,1,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3535,707,848,989,1131,87
+733,Adv.3,Day,8,HG,Makarov,100,146,1,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3535,707,848,989,1131,87
 733,Adv.3,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8001,700,840,980,1120,88
 733,Adv.3,Day,202,HG,Thunder,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3492,698,838,977,1117,89
 733,Adv.3,Day,325,SG,PM5,100,150,1,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),6987,698,838,978,1117,90
 733,Adv.3,Day,212,HG,K5,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3459,691,830,968,1106,91
-733,Adv.3,Day,310,HG,Rex Zero 1,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3437,687,824,962,1099,92
-733,Adv.3,Day,100,HG,P7,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3432,686,823,960,1098,93
-733,Adv.3,Day,299,SG,HSM10,100,150,1,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),Optical (5-Star),6851,685,822,959,1096,94
+733,Adv.3,Day,299,SG,HSM10,100,150,1,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),6907,690,828,966,1105,92
+733,Adv.3,Day,310,HG,Rex Zero 1,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3437,687,824,962,1099,93
+733,Adv.3,Day,100,HG,P7,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),T Exo (Body) (5-Star),3432,686,823,960,1098,94
 733,Adv.3,Day,283,SG,Liberator,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),6855,685,822,959,1096,95
 733,Adv.3,Day,158,SG,KS-23,100,100,0,4,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),6815,681,817,954,1090,96
 733,Adv.3,Day,20065,AR,416 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7594,664,797,930,1063,97
@@ -952,15 +1005,15 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Adv.3,Day,184,RF,T-5000,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5128,576,692,807,923,126
 733,Adv.3,Day,20060,AR,AS Val Mod,120,200,1,10,10,EOT (Holographic) (5-Star),Sp. Eq (Exclusive) (5-Star),Chip (Body) (5-Star),6524,570,685,799,913,127
 733,Adv.3,Day,62,AR,Gr G41,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6486,567,681,794,908,128
-733,Adv.3,Day,20064,AR,Gr G36 Mod,120,200,1,10,10,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6458,565,678,791,904,129
-733,Adv.3,Day,206,AR,AK-12,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6446,564,676,789,902,130
-733,Adv.3,Day,1027,AR,Angelica,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6410,560,673,785,897,131
-733,Adv.3,Day,54,AR,M16A1,100,150,1,10,0,HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Chip (Body) (5-Star),6388,558,670,782,894,132
-733,Adv.3,Day,1032,AR,Medusa,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6386,558,670,782,894,133
-733,Adv.3,Day,118,AR,9A-91,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6383,558,670,781,893,134
-733,Adv.3,Day,205,AR,AN-94,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6371,557,668,780,891,135
-733,Adv.3,Day,318,AR,VHS,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6354,555,667,778,889,136
-733,Adv.3,Day,232,HG,MP-448,100,100,0,1,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,2773,554,665,776,887,137
+733,Adv.3,Day,232,HG,MP-448,100,100,0,1,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),T Exo (Body) (3-Star),2840,568,681,795,908,129
+733,Adv.3,Day,20064,AR,Gr G36 Mod,120,200,1,10,10,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6458,565,678,791,904,130
+733,Adv.3,Day,206,AR,AK-12,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6446,564,676,789,902,131
+733,Adv.3,Day,1027,AR,Angelica,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6410,560,673,785,897,132
+733,Adv.3,Day,54,AR,M16A1,100,150,1,10,0,HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Chip (Body) (5-Star),6388,558,670,782,894,133
+733,Adv.3,Day,1032,AR,Medusa,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6386,558,670,782,894,134
+733,Adv.3,Day,118,AR,9A-91,100,150,1,10,0,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6383,558,670,781,893,135
+733,Adv.3,Day,205,AR,AN-94,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6371,557,668,780,891,136
+733,Adv.3,Day,318,AR,VHS,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6354,555,667,778,889,137
 733,Adv.3,Day,140,HG,PSM,100,100,0,1,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,2771,554,665,775,886,138
 733,Adv.3,Day,293,AR,AK-15,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6326,553,664,774,885,139
 733,Adv.3,Day,306,AR,AK-Alfa,100,150,1,10,0,EOT (Holographic) (5-Star),HV (Ammo) (5-Star),Chip (Body) (5-Star),6277,549,659,768,878,140
@@ -1000,28 +1053,41 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Adv.3,Day,112,MG,Negev,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Box (MG Clip) (5-Star),12773,478,574,670,766,174
 733,Adv.3,Day,238,MG,QJY-88,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Box (MG Clip) (5-Star),12750,478,573,669,765,175
 733,Adv.3,Day,173,MG,PKP,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Box (MG Clip) (5-Star),12755,478,573,669,765,176
-733,Adv.3,Day,115,SMG,Suomi,100,150,1,10,0,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),6242,468,561,655,749,177
-733,Adv.3,Day,1030,SMG,Jashin-chan,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),6175,463,555,648,741,178
-733,Adv.3,Day,16,SMG,Thompson,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,Supp (Silencer) (5-Star),6116,458,550,642,733,179
-733,Adv.3,Day,20136,SMG,PP-19 Mod,120,200,1,10,10,Chip (Body) (4-Star),-,Sp. Eq (Exclusive) (5-Star),6108,458,549,641,732,180
+733,Adv.3,Day,339,MG,RPK-203,100,150,1,10,0,SLAP (Ammo) (5-Star),Optical (5-Star),Box (MG Clip) (5-Star),12697,476,571,666,761,177
+733,Adv.3,Day,115,SMG,Suomi,100,150,1,10,0,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),6242,468,561,655,749,178
+733,Adv.3,Day,1030,SMG,Jashin-chan,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),6175,463,555,648,741,179
+733,Adv.3,Day,16,SMG,Thompson,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,Supp (Silencer) (5-Star),6116,458,550,642,733,180
 733,Adv.3,Day,1026,MG,Claes,100,100,0,1,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),12198,457,548,640,731,181
 733,Adv.3,Day,203,SMG,Honey Badger,100,150,1,10,0,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),5977,448,537,627,717,182
-733,Adv.3,Day,339,MG,RPK-203,100,150,1,10,0,SLAP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),11914,446,536,625,714,183
-733,Adv.3,Day,307,MG,ZB-26,100,150,1,10,0,SLAP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),11840,444,532,621,710,184
+733,Adv.3,Day,307,MG,ZB-26,100,150,1,10,0,SLAP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),11840,444,532,621,710,183
+733,Adv.3,Day,20136,SMG,PP-19 Mod,120,200,1,10,10,Chip (Body) (3-Star),-,Sp. Eq (Exclusive) (5-Star),5914,443,532,620,709,184
 733,Adv.3,Day,1028,SMG,Agent Vector,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5916,443,532,621,709,185
-733,Adv.3,Day,20029,SMG,STEN Mk? Mod,120,200,1,10,10,Chip (Body) (3-Star),-,EOT (Holographic) (5-Star),5784,433,520,607,694,186
-733,Adv.3,Day,72,AR,TAR-21,100,100,0,1,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),4740,414,497,580,663,187
-733,Adv.3,Day,127,SMG,Type79,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5336,400,480,560,640,188
-733,Adv.3,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),5288,396,475,555,634,189
-733,Adv.3,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5278,395,475,554,633,190
-733,Adv.3,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,308,369,431,493,191
-733,Adv.3,Day,276,MG,Kord,100,150,1,10,0,-,EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),6395,239,287,335,383,192
-733,Adv.3,Day,85,MG,PK,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),6217,233,279,326,373,193
-733,Adv.3,Day,208,MG,HMG21,100,100,0,10,0,-,Red Dot (3-Star),Box (MG Clip) (5-Star),5851,219,263,307,351,194
-733,Adv.3,Day,275,MG,M1895 CB,100,150,1,10,0,-,EOT (Holographic) (4-Star),Box (MG Clip) (5-Star),5720,214,257,300,343,195
-733,Adv.3,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),1167,116,140,163,186,196
-733,Adv.3,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,27,32,38,43,197
-733,Adv.3,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,27,32,38,43,198
+733,Adv.3,Day,72,AR,TAR-21,100,100,0,1,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),4740,414,497,580,663,186
+733,Adv.3,Day,127,SMG,Type79,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5336,400,480,560,640,187
+733,Adv.3,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),-,EOT (Holographic) (5-Star),5288,396,475,555,634,188
+733,Adv.3,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5278,395,475,554,633,189
+733,Adv.3,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,308,369,431,493,190
+733,Adv.3,Day,276,MG,Kord,100,150,1,10,0,-,EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),6395,239,287,335,383,191
+733,Adv.3,Day,85,MG,PK,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),6217,233,279,326,373,192
+733,Adv.3,Day,208,MG,HMG21,100,100,0,10,0,-,EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),6164,231,277,323,369,193
+733,Adv.3,Day,275,MG,M1895 CB,100,150,1,10,0,-,EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),6076,227,273,318,364,194
+733,Adv.3,Day,84,MG,RPD,100,150,1,10,0,-,Optical (4-Star),Sp. Eq (Exclusive) (5-Star),5825,218,262,305,349,195
+733,Adv.3,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (4-Star),1197,119,143,167,191,196
+733,Adv.3,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,27,32,38,43,197
+733,Adv.3,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,26,31,37,42,198
+733,Adv.3,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,19,23,26,30,199
+733,Adv.3,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,18,21,25,29,200
+733,Adv.3,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,17,21,25,28,201
+733,Adv.3,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,15,18,21,24,202
+733,Adv.3,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,15,18,21,24,203
+733,Adv.3,Day,29,SMG,STEN Mk?,1,50,0,1,0,-,-,-,202,15,18,21,24,204
+733,Adv.3,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,14,17,20,23,205
+733,Adv.3,Day,94,SMG,Type64,1,50,0,1,0,-,-,-,195,14,17,20,23,206
+733,Adv.3,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,14,17,20,23,207
+733,Adv.3,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,13,16,19,21,208
+733,Adv.3,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,13,15,18,21,209
+733,Adv.3,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,7,9,10,12,210
+733,Adv.3,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,7,9,11,12,211
 736,Adv.6,Night,20055,AR,M4A1 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7607,1426,1711,1996,2282,1
 736,Adv.6,Night,20122,AR,Gr G11 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6693,1254,1505,1756,2007,2
 736,Adv.6,Night,20065,AR,416 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6569,1231,1478,1724,1970,3
@@ -1094,7 +1160,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 736,Adv.6,Night,176,SMG,TMP,100,100,0,2,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Red Dot (5-Star),3703,722,866,1010,1155,70
 736,Adv.6,Night,59,SMG,AK-74U,100,100,0,4,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4442,721,866,1010,1154,71
 736,Adv.6,Night,177,SMG,KLIN,100,100,0,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4411,716,860,1003,1146,72
-736,Adv.6,Night,178,SMG,F1,100,100,1,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4395,714,857,999,1142,73
+736,Adv.6,Night,178,SMG,F1,100,104,1,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4395,714,857,999,1142,73
 736,Adv.6,Night,191,SMG,M12,100,100,0,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4377,711,853,995,1138,74
 736,Adv.6,Night,137,SMG,PP-19-01,100,100,0,2,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4366,709,851,993,1135,75
 736,Adv.6,Night,301,SMG,MAS-38,100,100,0,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4344,705,847,988,1129,76
@@ -1105,21 +1171,21 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 736,Adv.6,Night,280,SMG,MAT-49,100,100,0,1,0,X Exo (Body) (5-Star),-,Red Dot (5-Star),4138,672,806,941,1075,81
 736,Adv.6,Night,1034,SG,Minos,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),7596,664,797,930,1063,82
 736,Adv.6,Night,225,SMG,Cx4 Storm,100,100,0,1,0,X Exo (Body) (5-Star),-,Red Dot (5-Star),4055,658,790,922,1054,83
-736,Adv.6,Night,323,SG,LTLX7000,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),7173,627,753,878,1004,84
-736,Adv.6,Night,1029,AR,Agent 416,100,100,0,10,0,Red Dot (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),3318,622,746,870,995,85
-736,Adv.6,Night,188,SG,S.A.T.8,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6976,610,732,854,976,86
-736,Adv.6,Night,20152,SG,M1897 Mod,120,200,1,10,10,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),6876,601,721,842,962,87
-736,Adv.6,Night,164,SG,FP-6,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6837,598,717,837,957,88
-736,Adv.6,Night,23,SMG,PP-90,100,100,0,2,0,Chip (Body) (4-Star),-,Red Dot (5-Star),3677,597,717,836,956,89
+736,Adv.6,Night,144,SMG,MT-9,100,100,0,1,0,T Exo (Body) (3-Star),-,Red Dot (5-Star),3907,634,761,888,1015,84
+736,Adv.6,Night,323,SG,LTLX7000,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),7173,627,753,878,1004,85
+736,Adv.6,Night,1029,AR,Agent 416,100,100,0,10,0,Red Dot (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),3318,622,746,870,995,86
+736,Adv.6,Night,188,SG,S.A.T.8,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6976,610,732,854,976,87
+736,Adv.6,Night,20152,SG,M1897 Mod,120,200,1,10,10,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),6876,601,721,842,962,88
+736,Adv.6,Night,164,SG,FP-6,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6837,598,717,837,957,89
 736,Adv.6,Night,324,SG,M6 ASW,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6800,595,714,833,952,90
 736,Adv.6,Night,163,SG,AA-12,100,150,1,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),6774,592,711,829,948,91
 736,Adv.6,Night,229,SG,M870,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6775,592,711,829,948,92
-736,Adv.6,Night,157,SG,Am KSG,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6692,585,702,819,936,93
-736,Adv.6,Night,20154,SG,M500 Mod,120,100,0,10,10,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),6681,584,701,818,935,94
-736,Adv.6,Night,160,SG,Saiga-12,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6676,584,700,817,934,95
-736,Adv.6,Night,151,SG,M1887,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6649,581,698,814,930,96
-736,Adv.6,Night,1022,SG,Dana Zane,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6622,579,695,811,927,97
-736,Adv.6,Night,150,SMG,Shipka,100,100,0,1,0,Chip (Body) (3-Star),-,Red Dot (5-Star),3543,575,690,806,921,98
+736,Adv.6,Night,23,SMG,PP-90,100,100,0,2,0,Chip (Body) (3-Star),-,Red Dot (5-Star),3608,586,703,820,938,93
+736,Adv.6,Night,157,SG,Am KSG,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6692,585,702,819,936,94
+736,Adv.6,Night,20154,SG,M500 Mod,120,100,0,10,10,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),6681,584,701,818,935,95
+736,Adv.6,Night,160,SG,Saiga-12,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6676,584,700,817,934,96
+736,Adv.6,Night,151,SG,M1887,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6649,581,698,814,930,97
+736,Adv.6,Night,1022,SG,Dana Zane,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6622,579,695,811,927,98
 736,Adv.6,Night,282,SG,DP-12,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6526,571,685,799,913,99
 736,Adv.6,Night,281,SG,CAWS,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6426,562,674,787,899,100
 736,Adv.6,Night,352,SG,Nova,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6395,559,671,783,895,101
@@ -1169,60 +1235,73 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 736,Adv.6,Night,1009,HG,El Clear,70,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1523,266,319,373,426,145
 736,Adv.6,Night,1033,MG,Hanazono Yurine,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),5301,265,318,371,424,146
 736,Adv.6,Night,208,MG,HMG21,100,100,0,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),5297,264,317,370,423,147
-736,Adv.6,Night,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1475,258,309,361,413,148
-736,Adv.6,Night,97,HG,M950A,70,100,0,6,0,Sp. Eq (Exclusive) (5-Star),-,-,1438,251,301,352,402,149
-736,Adv.6,Night,242,HG,P22,70,100,0,4,0,RMR (Auxiliary Sight) (5-Star),-,-,1435,251,301,351,401,150
+736,Adv.6,Night,242,HG,P22,70,100,0,6,0,RMR (Auxiliary Sight) (5-Star),-,-,1487,260,312,364,416,148
+736,Adv.6,Night,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1475,258,309,361,413,149
+736,Adv.6,Night,97,HG,M950A,70,100,0,7,0,Sp. Eq (Exclusive) (5-Star),-,-,1464,256,307,358,409,150
 736,Adv.6,Night,250,HG,HS2000,70,100,0,5,0,RMR (Auxiliary Sight) (5-Star),-,-,1383,242,290,338,387,151
 736,Adv.6,Night,294,HG,Webley,70,100,0,1,0,RMR (Auxiliary Sight) (5-Star),-,-,1333,233,279,326,373,152
 736,Adv.6,Night,20039,RF,Mosin-Nagant Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),4214,210,252,294,337,153
-736,Adv.6,Night,142,HG,Five-seven,70,100,0,1,0,Supp (Silencer) (3-Star),-,-,1189,208,249,291,332,154
-736,Adv.6,Night,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4059,202,243,284,324,155
-736,Adv.6,Night,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4006,200,240,280,320,156
-736,Adv.6,Night,109,MG,Gr MG5,100,100,0,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3887,194,233,272,310,157
-736,Adv.6,Night,84,MG,RPD,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Sp. Eq (Exclusive) (5-Star),3850,192,231,269,308,158
-736,Adv.6,Night,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3790,189,227,265,303,159
-736,Adv.6,Night,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3755,187,225,262,300,160
-736,Adv.6,Night,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3747,187,224,262,299,161
-736,Adv.6,Night,185,MG,Ameli,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3742,187,224,261,299,162
-736,Adv.6,Night,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3744,187,224,262,299,163
-736,Adv.6,Night,275,MG,M1895 CB,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3741,187,224,261,299,164
-736,Adv.6,Night,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3745,187,224,262,299,165
-736,Adv.6,Night,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3678,183,220,257,294,166
-736,Adv.6,Night,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3641,182,218,254,291,167
-736,Adv.6,Night,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3633,181,217,254,290,168
-736,Adv.6,Night,337,RF,De Lisle,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3516,175,210,246,281,169
-736,Adv.6,Night,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3503,175,210,245,280,170
-736,Adv.6,Night,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3499,174,209,244,279,171
-736,Adv.6,Night,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3488,174,209,244,279,172
-736,Adv.6,Night,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3469,173,208,242,277,173
-736,Adv.6,Night,257,RF,M200,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3453,172,207,241,276,174
-736,Adv.6,Night,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3456,172,207,241,276,175
-736,Adv.6,Night,197,RF,Carcano M1891,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,171,206,240,274,176
-736,Adv.6,Night,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,171,206,240,274,177
-736,Adv.6,Night,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3426,171,205,239,274,178
-736,Adv.6,Night,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3407,170,204,238,272,179
-736,Adv.6,Night,319,MG,PM1910,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3401,170,204,238,272,180
-736,Adv.6,Night,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3319,165,199,232,265,181
-736,Adv.6,Night,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3301,165,198,231,264,182
-736,Adv.6,Night,300,MG,CAR,100,150,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3299,164,197,230,263,183
-736,Adv.6,Night,48,RF,WA2000,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3269,163,196,228,261,184
-736,Adv.6,Night,85,MG,PK,100,100,0,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3272,163,196,229,261,185
-736,Adv.6,Night,1020,RF,Stella Hoshii,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3267,163,196,228,261,186
-736,Adv.6,Night,199,MG,Type80,100,100,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3259,162,195,228,260,187
-736,Adv.6,Night,296,RF,Gr SL8,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3262,163,195,228,260,188
-736,Adv.6,Night,312,RF,VSK-94,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3219,160,193,225,257,189
-736,Adv.6,Night,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3209,160,192,224,256,190
-736,Adv.6,Night,231,RF,M82A1,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3188,159,191,223,255,191
-736,Adv.6,Night,264,MG,Chauchat,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3184,159,191,222,254,192
-736,Adv.6,Night,240,MG,Mk46,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3170,158,190,221,253,193
-736,Adv.6,Night,1026,MG,Claes,100,100,0,1,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),-,3153,157,189,220,252,194
-736,Adv.6,Night,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2941,147,176,205,235,195
-736,Adv.6,Night,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2889,144,173,202,231,196
-736,Adv.6,Night,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),1013,88,106,124,141,197
-736,Adv.6,Night,63,AR,Gr G3,1,50,0,1,0,-,-,-,141,26,31,37,42,198
-736,Adv.6,Night,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,122,21,25,29,34,199
-736,Adv.6,Night,139,HG,Bren Ten,1,50,0,1,0,-,-,-,122,21,25,29,34,200
-736,Adv.6,Night,91,HG,MP-446,1,50,0,1,0,-,-,-,120,21,25,29,33,201
+736,Adv.6,Night,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4059,202,243,284,324,154
+736,Adv.6,Night,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4006,200,240,280,320,155
+736,Adv.6,Night,109,MG,Gr MG5,100,100,0,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3887,194,233,272,310,156
+736,Adv.6,Night,84,MG,RPD,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Sp. Eq (Exclusive) (5-Star),3850,192,231,269,308,157
+736,Adv.6,Night,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3790,189,227,265,303,158
+736,Adv.6,Night,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3755,187,225,262,300,159
+736,Adv.6,Night,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3747,187,224,262,299,160
+736,Adv.6,Night,185,MG,Ameli,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3742,187,224,261,299,161
+736,Adv.6,Night,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3744,187,224,262,299,162
+736,Adv.6,Night,275,MG,M1895 CB,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3741,187,224,261,299,163
+736,Adv.6,Night,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3745,187,224,262,299,164
+736,Adv.6,Night,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3678,183,220,257,294,165
+736,Adv.6,Night,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3641,182,218,254,291,166
+736,Adv.6,Night,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3633,181,217,254,290,167
+736,Adv.6,Night,337,RF,De Lisle,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3516,175,210,246,281,168
+736,Adv.6,Night,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3503,175,210,245,280,169
+736,Adv.6,Night,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3499,174,209,244,279,170
+736,Adv.6,Night,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3488,174,209,244,279,171
+736,Adv.6,Night,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3469,173,208,242,277,172
+736,Adv.6,Night,257,RF,M200,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3453,172,207,241,276,173
+736,Adv.6,Night,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3456,172,207,241,276,174
+736,Adv.6,Night,197,RF,Carcano M1891,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,171,206,240,274,175
+736,Adv.6,Night,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,171,206,240,274,176
+736,Adv.6,Night,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3426,171,205,239,274,177
+736,Adv.6,Night,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3407,170,204,238,272,178
+736,Adv.6,Night,319,MG,PM1910,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3401,170,204,238,272,179
+736,Adv.6,Night,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3319,165,199,232,265,180
+736,Adv.6,Night,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3301,165,198,231,264,181
+736,Adv.6,Night,300,MG,CAR,100,150,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3299,164,197,230,263,182
+736,Adv.6,Night,48,RF,WA2000,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3269,163,196,228,261,183
+736,Adv.6,Night,85,MG,PK,100,100,0,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3272,163,196,229,261,184
+736,Adv.6,Night,1020,RF,Stella Hoshii,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3267,163,196,228,261,185
+736,Adv.6,Night,199,MG,Type80,100,104,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3259,162,195,228,260,186
+736,Adv.6,Night,296,RF,Gr SL8,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3262,163,195,228,260,187
+736,Adv.6,Night,312,RF,VSK-94,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3219,160,193,225,257,188
+736,Adv.6,Night,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3209,160,192,224,256,189
+736,Adv.6,Night,231,RF,M82A1,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3188,159,191,223,255,190
+736,Adv.6,Night,264,MG,Chauchat,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3184,159,191,222,254,191
+736,Adv.6,Night,240,MG,Mk46,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3170,158,190,221,253,192
+736,Adv.6,Night,1026,MG,Claes,100,100,0,1,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),-,3153,157,189,220,252,193
+736,Adv.6,Night,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2941,147,176,205,235,194
+736,Adv.6,Night,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2889,144,173,202,231,195
+736,Adv.6,Night,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),1013,88,106,124,141,196
+736,Adv.6,Night,33,SMG,m45,1,50,0,1,0,-,-,-,193,31,37,43,50,197
+736,Adv.6,Night,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,196,31,38,44,50,198
+736,Adv.6,Night,25,SMG,MP40,1,50,0,1,0,-,-,-,191,31,37,43,49,199
+736,Adv.6,Night,22,SMG,PPS-43,1,50,0,1,0,-,-,-,191,31,37,43,49,200
+736,Adv.6,Night,133,AR,Type63,1,50,0,1,0,-,-,-,136,25,30,35,40,201
+736,Adv.6,Night,68,AR,L85A1,1,50,0,1,0,-,-,-,132,24,29,34,39,202
+736,Adv.6,Night,6,HG,Tokarev,1,50,0,1,0,-,-,-,136,23,28,33,38,203
+736,Adv.6,Night,11,HG,P08,1,50,0,1,0,-,-,-,125,21,26,30,35,204
+736,Adv.6,Night,5,HG,M1895,1,50,0,1,0,-,-,-,123,21,25,30,34,205
+736,Adv.6,Night,13,HG,Type92,1,50,0,1,0,-,-,-,124,21,26,30,34,206
+736,Adv.6,Night,90,HG,FF FNP9,1,50,0,1,0,-,-,-,118,20,24,28,33,207
+736,Adv.6,Night,91,HG,MP-446,1,50,0,1,0,-,-,-,120,21,25,29,33,208
+736,Adv.6,Night,10,HG,PPK,1,50,0,1,0,-,-,-,116,20,24,28,32,209
+736,Adv.6,Night,82,MG,DP28,1,50,0,1,0,-,-,-,176,8,10,12,14,210
+736,Adv.6,Night,110,MG,FG42,1,50,0,1,0,-,-,-,181,9,10,12,14,211
+736,Adv.6,Night,41,RF,SKS,1,50,0,1,0,-,-,-,134,6,8,9,10,212
+736,Adv.6,Night,52,RF,VM59,1,50,0,1,0,-,-,-,136,6,8,9,10,213
+736,Adv.6,Night,47,RF,G43,1,50,0,1,0,-,-,-,126,6,7,8,10,214
 738,Adv.8,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8492,1592,1910,2229,2547,1
 738,Adv.8,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8001,1500,1800,2100,2400,2
 738,Adv.8,Day,20065,AR,416 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7594,1423,1708,1993,2278,3
@@ -1302,9 +1381,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Adv.8,Day,1025,SG,Triela,100,100,0,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),7228,903,1084,1264,1445,77
 738,Adv.8,Day,172,AR,Am RFB,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,T Exo (Body) (5-Star),4805,900,1081,1261,1441,78
 738,Adv.8,Day,129,AR,Type95,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),-,T Exo (Body) (5-Star),4772,894,1073,1252,1431,79
-738,Adv.8,Day,214,AR,ADS,100,100,0,10,0,EOT (Holographic) (5-Star),-,Chip (Body) (4-Star),4739,888,1066,1243,1421,80
-738,Adv.8,Day,156,SG,Super-Shorty,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),7092,886,1063,1241,1418,81
-738,Adv.8,Day,155,SG,M590,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),7054,881,1058,1234,1410,82
+738,Adv.8,Day,156,SG,Super-Shorty,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (4-Star),EOT (Holographic) (5-Star),7132,891,1069,1248,1426,80
+738,Adv.8,Day,155,SG,M590,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),7054,881,1058,1234,1410,81
+738,Adv.8,Day,214,AR,ADS,100,100,0,10,0,Optical (5-Star),-,T Exo (Body) (5-Star),4697,880,1056,1232,1409,82
 738,Adv.8,Day,340,AR,TKB-408,100,100,0,10,0,Optical (5-Star),-,T Exo (Body) (5-Star),4655,872,1047,1221,1396,83
 738,Adv.8,Day,183,HG,Contender,100,150,1,10,0,RMR (Auxiliary Sight) (5-Star),AP (Ammo) (5-Star),X Exo (Body) (5-Star),4964,868,1042,1216,1389,84
 738,Adv.8,Day,299,SG,HSM10,100,150,1,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),6907,863,1036,1208,1381,85
@@ -1331,9 +1410,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Adv.8,Day,20097,HG,M950A Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),4650,813,976,1139,1302,106
 738,Adv.8,Day,20101,SMG,UMP9 Mod,120,200,1,10,10,T Exo (Body) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7156,805,966,1127,1288,107
 738,Adv.8,Day,298,AR,Vepr,100,150,1,10,0,Optical (5-Star),-,T Exo (Body) (5-Star),4293,804,965,1126,1287,108
-738,Adv.8,Day,193,AR,T65,100,100,0,1,0,Optical (5-Star),-,T Exo (Body) (5-Star),4292,804,965,1126,1287,109
-738,Adv.8,Day,70,AR,FF FNC,100,150,1,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4239,794,953,1112,1271,110
-738,Adv.8,Day,223,AR,Model L,100,150,1,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4238,794,953,1112,1271,111
+738,Adv.8,Day,70,AR,FF FNC,100,150,1,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4239,794,953,1112,1271,109
+738,Adv.8,Day,223,AR,Model L,100,150,1,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4238,794,953,1112,1271,110
+738,Adv.8,Day,193,AR,T65,100,100,0,1,0,Optical (5-Star),-,X Exo (Body) (5-Star),4232,793,952,1110,1269,111
 738,Adv.8,Day,20007,HG,Stechkin Mod,120,200,1,10,10,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),4462,780,937,1093,1249,112
 738,Adv.8,Day,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7750,775,930,1085,1240,113
 738,Adv.8,Day,20032,SMG,Micro Uzi Mod,120,200,1,10,10,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6795,764,917,1070,1223,114
@@ -1356,17 +1435,17 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Adv.8,Day,20001,HG,SAA Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),X Exo (Body) (5-Star),4172,730,876,1022,1168,131
 738,Adv.8,Day,237,AR,SAR-21,100,100,0,1,0,Optical (5-Star),-,X Exo (Body) (5-Star),3882,727,873,1019,1164,132
 738,Adv.8,Day,1030,SMG,Jashin-chan,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6450,725,870,1015,1161,133
-738,Adv.8,Day,314,AR,StG-940,100,100,0,1,0,Optical (5-Star),-,X Exo (Body) (5-Star),3856,723,867,1012,1156,134
-738,Adv.8,Day,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7214,721,865,1009,1154,135
-738,Adv.8,Day,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7190,719,862,1006,1150,136
-738,Adv.8,Day,16,SMG,Thompson,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6370,716,859,1003,1146,137
-738,Adv.8,Day,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7146,714,857,1000,1143,138
-738,Adv.8,Day,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7145,714,857,1000,1143,139
-738,Adv.8,Day,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7130,713,855,998,1140,140
-738,Adv.8,Day,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7112,711,853,995,1137,141
-738,Adv.8,Day,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7103,710,852,994,1136,142
-738,Adv.8,Day,203,SMG,Honey Badger,100,150,1,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6259,704,844,985,1126,143
-738,Adv.8,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7031,703,843,984,1124,144
+738,Adv.8,Day,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7214,721,865,1009,1154,134
+738,Adv.8,Day,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7190,719,862,1006,1150,135
+738,Adv.8,Day,16,SMG,Thompson,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6370,716,859,1003,1146,136
+738,Adv.8,Day,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7146,714,857,1000,1143,137
+738,Adv.8,Day,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7145,714,857,1000,1143,138
+738,Adv.8,Day,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7130,713,855,998,1140,139
+738,Adv.8,Day,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7112,711,853,995,1137,140
+738,Adv.8,Day,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7103,710,852,994,1136,141
+738,Adv.8,Day,203,SMG,Honey Badger,100,150,1,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6259,704,844,985,1126,142
+738,Adv.8,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7031,703,843,984,1124,143
+738,Adv.8,Day,20103,SMG,UMP45 Mod,120,200,1,10,10,T Exo (Body) (3-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6241,702,842,982,1123,144
 738,Adv.8,Day,307,MG,ZB-26,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),9331,699,839,979,1119,145
 738,Adv.8,Day,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6968,696,836,975,1114,146
 738,Adv.8,Day,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6968,696,836,975,1114,147
@@ -1381,7 +1460,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Adv.8,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),5465,683,819,956,1093,156
 738,Adv.8,Day,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6834,683,820,956,1093,157
 738,Adv.8,Day,208,MG,HMG21,100,100,0,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),9013,675,811,946,1081,158
-738,Adv.8,Day,20103,SMG,UMP45 Mod,120,200,1,10,10,Chip (Body) (3-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6005,675,810,945,1080,159
+738,Adv.8,Day,314,AR,StG-940,100,100,0,1,0,EOT (Holographic) (5-Star),-,Chip (Body) (3-Star),3604,675,810,946,1081,159
 738,Adv.8,Day,48,RF,WA2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6735,673,808,942,1077,160
 738,Adv.8,Day,296,RF,Gr SL8,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6719,671,806,940,1075,161
 738,Adv.8,Day,1018,HG,Sei Asagiri,100,100,0,10,0,RMR (Auxiliary Sight) (5-Star),HP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),3827,669,803,937,1071,162
@@ -1410,37 +1489,51 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Adv.8,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),5571,626,752,877,1002,185
 738,Adv.8,Day,250,HG,HS2000,100,100,0,10,0,Supp (Silencer) (5-Star),HP (Ammo) (5-Star),-,3578,626,751,876,1001,186
 738,Adv.8,Day,228,SMG,100 Shiki,100,100,0,10,0,-,Flare (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),5438,611,734,856,978,187
-738,Adv.8,Day,245,SMG,P90,100,100,0,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5266,592,710,829,947,188
-738,Adv.8,Day,315,SMG,AUG Para,100,150,1,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5261,591,710,828,946,189
-738,Adv.8,Day,114,HG,Welrod Mk?,100,100,1,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3358,587,705,822,940,190
-738,Adv.8,Day,303,HG,HP-35,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3352,586,703,821,938,191
-738,Adv.8,Day,234,SMG,JS 9,100,150,1,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5207,585,702,820,937,192
-738,Adv.8,Day,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),5828,582,699,815,932,193
-738,Adv.8,Day,285,HG,C-93,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3324,581,698,814,930,194
-738,Adv.8,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),5162,580,696,813,929,195
-738,Adv.8,Day,20094,SMG,Type64 Mod,120,200,1,10,10,-,Flare (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),5161,580,696,812,928,196
-738,Adv.8,Day,127,SMG,Type79,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Red Dot (3-Star),5159,580,696,812,928,197
-738,Adv.8,Day,272,HG,Desert Eagle,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3314,579,695,811,927,198
-738,Adv.8,Day,1020,RF,Stella Hoshii,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),5766,576,691,807,922,199
+738,Adv.8,Day,245,SMG,P90,100,100,0,10,0,-,Flare (Ammo) (5-Star),EOT (Holographic) (5-Star),5358,602,723,843,964,188
+738,Adv.8,Day,127,SMG,Type79,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),5336,600,720,840,960,189
+738,Adv.8,Day,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (4-Star),Cape (Body) (5-Star),5982,598,717,837,957,190
+738,Adv.8,Day,315,SMG,AUG Para,100,150,1,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5261,591,710,828,946,191
+738,Adv.8,Day,1020,RF,Stella Hoshii,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (4-Star),Sp. Eq (Exclusive) (5-Star),5895,589,707,825,943,192
+738,Adv.8,Day,114,HG,Welrod Mk?,100,104,1,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3358,587,705,822,940,193
+738,Adv.8,Day,303,HG,HP-35,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3352,586,703,821,938,194
+738,Adv.8,Day,234,SMG,JS 9,100,150,1,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5207,585,702,820,937,195
+738,Adv.8,Day,285,HG,C-93,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3324,581,698,814,930,196
+738,Adv.8,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),5162,580,696,813,929,197
+738,Adv.8,Day,20094,SMG,Type64 Mod,120,200,1,10,10,-,Flare (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),5161,580,696,812,928,198
+738,Adv.8,Day,272,HG,Desert Eagle,100,100,0,10,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),-,3314,579,695,811,927,199
 738,Adv.8,Day,311,SMG,Lusa,100,100,0,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5039,566,680,793,907,200
 738,Adv.8,Day,259,SMG,PM-9,100,100,0,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5018,564,677,790,903,201
 738,Adv.8,Day,104,SMG,Gr G36c,100,150,1,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5010,563,676,789,901,202
-738,Adv.8,Day,84,MG,RPD,100,150,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (4-Star),Sp. Eq (Exclusive) (5-Star),7196,539,647,755,863,203
-738,Adv.8,Day,337,RF,De Lisle,100,150,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5384,538,646,753,861,204
-738,Adv.8,Day,148,RF,IWS 2000,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5348,534,641,748,855,205
-738,Adv.8,Day,128,RF,M99,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5325,532,639,745,852,206
-738,Adv.8,Day,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5318,531,638,744,850,207
-738,Adv.8,Day,211,RF,SRS,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5285,528,634,739,845,208
-738,Adv.8,Day,222,RF,TAC-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5285,528,634,739,845,209
-738,Adv.8,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5189,518,622,726,830,210
-738,Adv.8,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5157,515,618,721,825,211
-738,Adv.8,Day,200,RF,XM3,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,512,614,717,819,212
+738,Adv.8,Day,337,RF,De Lisle,100,150,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5384,538,646,753,861,203
+738,Adv.8,Day,148,RF,IWS 2000,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5348,534,641,748,855,204
+738,Adv.8,Day,128,RF,M99,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5325,532,639,745,852,205
+738,Adv.8,Day,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5318,531,638,744,850,206
+738,Adv.8,Day,211,RF,SRS,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5285,528,634,739,845,207
+738,Adv.8,Day,222,RF,TAC-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5285,528,634,739,845,208
+738,Adv.8,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5189,518,622,726,830,209
+738,Adv.8,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5157,515,618,721,825,210
+738,Adv.8,Day,200,RF,XM3,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,512,614,717,819,211
+738,Adv.8,Day,84,MG,RPD,100,150,1,10,0,SNIP (Ammo) (5-Star),-,Sp. Eq (Exclusive) (5-Star),6817,511,613,715,818,212
 738,Adv.8,Day,1010,HG,El Fail,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,285,342,400,457,213
 738,Adv.8,Day,1009,HG,El Clear,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,285,342,400,457,214
 738,Adv.8,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,269,323,377,431,215
 738,Adv.8,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),1167,145,175,204,233,216
-738,Adv.8,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,23,28,33,38,217
-738,Adv.8,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,23,28,33,38,218
+738,Adv.8,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,29,35,41,47,217
+738,Adv.8,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,28,33,39,45,218
+738,Adv.8,Day,6,HG,Tokarev,1,50,0,1,0,-,-,-,150,26,31,36,42,219
+738,Adv.8,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,23,28,33,38,220
+738,Adv.8,Day,13,HG,Type92,1,50,0,1,0,-,-,-,139,24,29,34,38,221
+738,Adv.8,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,23,27,32,37,222
+738,Adv.8,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,223
+738,Adv.8,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,22,27,31,36,224
+738,Adv.8,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,22,27,31,36,225
+738,Adv.8,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,22,26,31,35,226
+738,Adv.8,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,22,26,31,35,227
+738,Adv.8,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,17,20,23,27,228
+738,Adv.8,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,16,19,22,25,229
+738,Adv.8,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,15,19,22,25,230
+738,Adv.8,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,15,19,22,25,231
+738,Adv.8,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,15,18,21,24,232
 743,Core3,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8492,1061,1273,1486,1698,1
 743,Core3,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8001,1000,1200,1400,1600,2
 743,Core3,Day,20065,AR,416 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7594,949,1139,1328,1518,3
@@ -1546,8 +1639,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 743,Core3,Day,189,SG,USAS-12,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7304,639,766,894,1022,103
 743,Core3,Day,156,SG,Super-Shorty,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7293,638,765,893,1021,104
 743,Core3,Day,162,SG,SPAS-12,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),EOT (Holographic) (5-Star),7279,636,764,891,1019,105
-743,Core3,Day,20063,AR,Gr G3 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),-,X Exo (Body) (5-Star),5033,629,754,880,1006,106
-743,Core3,Day,1025,SG,Triela,100,100,0,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (3-Star),7122,623,747,872,997,107
+743,Core3,Day,1025,SG,Triela,100,100,0,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),7228,632,758,885,1011,106
+743,Core3,Day,20063,AR,Gr G3 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),-,X Exo (Body) (5-Star),5033,629,754,880,1006,107
 743,Core3,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),5503,619,742,866,990,108
 743,Core3,Day,155,SG,M590,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),Optical (5-Star),6996,612,734,857,979,109
 743,Core3,Day,325,SG,PM5,100,150,1,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),Optical (5-Star),6945,607,729,850,972,110
@@ -1569,87 +1662,101 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 743,Core3,Day,119,AR,OTs-14,100,100,0,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4521,565,678,791,904,126
 743,Core3,Day,177,SMG,KLIN,100,100,0,1,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5023,565,678,791,904,127
 743,Core3,Day,137,SMG,PP-19-01,100,100,0,2,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4995,561,674,786,899,128
-743,Core3,Day,178,SMG,F1,100,100,1,1,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4992,561,673,786,898,129
+743,Core3,Day,178,SMG,F1,100,104,1,1,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4992,561,673,786,898,129
 743,Core3,Day,175,AR,ART556,100,100,0,10,0,Optical (5-Star),-,X Exo (Body) (5-Star),4494,561,674,786,898,130
-743,Core3,Day,187,AR,Ak 5,100,150,1,10,0,Supp (Silencer) (5-Star),-,Chip (Body) (4-Star),4407,550,661,771,881,131
+743,Core3,Day,102,SMG,UMP40,100,100,0,4,0,T Exo (Body) (3-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4829,543,651,760,869,131
 743,Core3,Day,278,SG,Six12,100,150,1,10,0,Plate (Body) (3-Star),Slug (Shell) (5-Star),Optical (5-Star),5945,520,624,728,832,132
-743,Core3,Day,102,SMG,UMP40,100,100,0,4,0,Chip (Body) (3-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4548,511,613,716,818,133
-743,Core3,Day,328,SMG,AR-57,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4443,499,599,699,799,134
-743,Core3,Day,27,SMG,Skorpion,100,100,0,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4432,498,598,698,797,135
-743,Core3,Day,280,SMG,MAT-49,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4417,496,596,695,795,136
-743,Core3,Day,301,SMG,MAS-38,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4404,495,594,693,792,137
-743,Core3,Day,327,SMG,SUB-2000,100,100,0,4,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4396,494,593,692,791,138
-743,Core3,Day,191,SMG,M12,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4392,494,592,691,790,139
-743,Core3,Day,131,SMG,EVO 3,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4374,492,590,688,787,140
-743,Core3,Day,158,SG,KS-23,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5490,480,576,672,768,141
-743,Core3,Day,353,SG,MAG-7,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5492,480,576,672,768,142
-743,Core3,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5462,477,573,669,764,143
-743,Core3,Day,159,SG,RMB-93,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5430,475,570,665,760,144
-743,Core3,Day,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),9136,456,548,639,730,145
-743,Core3,Day,321,SG,TS12,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5143,450,540,630,720,146
-743,Core3,Day,275,MG,M1895 CB,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),8903,445,534,623,712,147
-743,Core3,Day,109,MG,Gr MG5,100,100,0,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),8864,443,531,620,709,148
-743,Core3,Day,84,MG,RPD,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),8605,430,516,602,688,149
-743,Core3,Day,199,MG,Type80,100,100,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),8584,429,515,600,686,150
-743,Core3,Day,183,HG,Contender,100,150,1,10,0,RMR (Auxiliary Sight) (5-Star),AP (Ammo) (5-Star),-,4775,417,501,584,668,151
-743,Core3,Day,20221,HG,GSh-18 Mod,120,200,1,10,10,RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),-,4477,391,470,548,626,152
-743,Core3,Day,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7750,387,465,542,620,153
-743,Core3,Day,20039,RF,Mosin-Nagant Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),7601,380,456,532,608,154
-743,Core3,Day,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7591,379,455,531,607,155
-743,Core3,Day,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7509,375,450,525,600,156
-743,Core3,Day,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7401,370,444,518,592,157
-743,Core3,Day,85,MG,PK,100,100,0,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),-,7259,362,435,508,580,158
-743,Core3,Day,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7214,360,432,504,577,159
-743,Core3,Day,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7190,359,431,503,575,160
-743,Core3,Day,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7146,357,428,500,571,161
-743,Core3,Day,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7145,357,428,500,571,162
-743,Core3,Day,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7130,356,427,499,570,163
-743,Core3,Day,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7103,355,426,497,568,164
-743,Core3,Day,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7112,355,426,497,568,165
-743,Core3,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7031,351,421,492,562,166
-743,Core3,Day,20007,HG,Stechkin Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),-,Sp. Eq (Exclusive) (5-Star),4016,351,421,491,562,167
-743,Core3,Day,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6968,348,418,487,557,168
-743,Core3,Day,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6968,348,418,487,557,169
-743,Core3,Day,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6922,346,415,484,553,170
-743,Core3,Day,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6883,344,412,481,550,171
-743,Core3,Day,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6834,341,410,478,546,172
-743,Core3,Day,48,RF,WA2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6735,336,404,471,538,173
-743,Core3,Day,296,RF,Gr SL8,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6719,335,403,470,537,174
-743,Core3,Day,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6661,333,399,466,532,175
-743,Core3,Day,319,MG,PM1910,100,100,0,8,0,AP (Ammo) (5-Star),Optical (5-Star),-,6652,332,399,465,532,176
-743,Core3,Day,20002,HG,M1911 Mod,120,200,1,10,10,Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),-,3676,321,385,450,514,177
-743,Core3,Day,231,RF,M82A1,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6421,321,385,449,513,178
-743,Core3,Day,312,RF,VSK-94,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6404,320,384,448,512,179
-743,Core3,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6393,319,383,447,511,180
-743,Core3,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6387,319,383,447,510,181
-743,Core3,Day,197,RF,Carcano M1891,100,150,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6352,317,381,444,508,182
-743,Core3,Day,257,RF,M200,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6357,317,381,444,508,183
-743,Core3,Day,1026,MG,Claes,100,100,0,1,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),-,6358,317,381,445,508,184
-743,Core3,Day,96,HG,Grizzly,100,150,1,10,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),3624,317,380,443,507,185
-743,Core3,Day,300,MG,CAR,100,150,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6340,317,380,443,507,186
-743,Core3,Day,264,MG,Chauchat,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6342,317,380,443,507,187
-743,Core3,Day,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6325,316,379,442,506,188
-743,Core3,Day,185,MG,Ameli,100,100,0,8,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6328,316,379,442,506,189
-743,Core3,Day,1017,HG,Jill Stingray,100,100,0,10,0,Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),3598,314,377,440,503,190
-743,Core3,Day,254,MG,UKM-2000,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6276,313,376,439,502,191
-743,Core3,Day,1018,HG,Sei Asagiri,100,100,0,10,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),3522,308,369,431,493,192
-743,Core3,Day,149,MG,AEK-999,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (4-Star),-,5805,290,348,406,464,193
+743,Core3,Day,328,SMG,AR-57,100,100,0,1,0,Chip (Body) (3-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4519,508,610,711,813,133
+743,Core3,Day,27,SMG,Skorpion,100,100,0,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4432,498,598,698,797,134
+743,Core3,Day,280,SMG,MAT-49,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4417,496,596,695,795,135
+743,Core3,Day,301,SMG,MAS-38,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4404,495,594,693,792,136
+743,Core3,Day,327,SMG,SUB-2000,100,100,0,4,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4396,494,593,692,791,137
+743,Core3,Day,191,SMG,M12,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4392,494,592,691,790,138
+743,Core3,Day,131,SMG,EVO 3,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4374,492,590,688,787,139
+743,Core3,Day,158,SG,KS-23,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5490,480,576,672,768,140
+743,Core3,Day,353,SG,MAG-7,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5492,480,576,672,768,141
+743,Core3,Day,190,SG,NS2000,100,150,1,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5462,477,573,669,764,142
+743,Core3,Day,159,SG,RMB-93,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),5430,475,570,665,760,143
+743,Core3,Day,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),9136,456,548,639,730,144
+743,Core3,Day,321,SG,TS12,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5143,450,540,630,720,145
+743,Core3,Day,275,MG,M1895 CB,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),8903,445,534,623,712,146
+743,Core3,Day,109,MG,Gr MG5,100,100,0,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),8864,443,531,620,709,147
+743,Core3,Day,84,MG,RPD,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),8605,430,516,602,688,148
+743,Core3,Day,199,MG,Type80,100,104,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),8584,429,515,600,686,149
+743,Core3,Day,183,HG,Contender,100,150,1,10,0,RMR (Auxiliary Sight) (5-Star),AP (Ammo) (5-Star),-,4775,417,501,584,668,150
+743,Core3,Day,20221,HG,GSh-18 Mod,120,200,1,10,10,RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),-,4477,391,470,548,626,151
+743,Core3,Day,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7750,387,465,542,620,152
+743,Core3,Day,20039,RF,Mosin-Nagant Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),7601,380,456,532,608,153
+743,Core3,Day,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7591,379,455,531,607,154
+743,Core3,Day,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7509,375,450,525,600,155
+743,Core3,Day,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7401,370,444,518,592,156
+743,Core3,Day,85,MG,PK,100,100,0,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),-,7259,362,435,508,580,157
+743,Core3,Day,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7214,360,432,504,577,158
+743,Core3,Day,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7190,359,431,503,575,159
+743,Core3,Day,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),7146,357,428,500,571,160
+743,Core3,Day,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7145,357,428,500,571,161
+743,Core3,Day,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7130,356,427,499,570,162
+743,Core3,Day,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7103,355,426,497,568,163
+743,Core3,Day,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),7112,355,426,497,568,164
+743,Core3,Day,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),7031,351,421,492,562,165
+743,Core3,Day,20007,HG,Stechkin Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),-,Sp. Eq (Exclusive) (5-Star),4016,351,421,491,562,166
+743,Core3,Day,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6968,348,418,487,557,167
+743,Core3,Day,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),6968,348,418,487,557,168
+743,Core3,Day,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6922,346,415,484,553,169
+743,Core3,Day,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6883,344,412,481,550,170
+743,Core3,Day,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6834,341,410,478,546,171
+743,Core3,Day,48,RF,WA2000,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6735,336,404,471,538,172
+743,Core3,Day,296,RF,Gr SL8,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6719,335,403,470,537,173
+743,Core3,Day,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6661,333,399,466,532,174
+743,Core3,Day,319,MG,PM1910,100,100,0,8,0,AP (Ammo) (5-Star),Optical (5-Star),-,6652,332,399,465,532,175
+743,Core3,Day,20002,HG,M1911 Mod,120,200,1,10,10,Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),-,3676,321,385,450,514,176
+743,Core3,Day,231,RF,M82A1,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6421,321,385,449,513,177
+743,Core3,Day,312,RF,VSK-94,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6404,320,384,448,512,178
+743,Core3,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6393,319,383,447,511,179
+743,Core3,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6387,319,383,447,510,180
+743,Core3,Day,197,RF,Carcano M1891,100,150,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6352,317,381,444,508,181
+743,Core3,Day,257,RF,M200,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6357,317,381,444,508,182
+743,Core3,Day,1026,MG,Claes,100,100,0,1,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),-,6358,317,381,445,508,183
+743,Core3,Day,96,HG,Grizzly,100,150,1,10,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),3624,317,380,443,507,184
+743,Core3,Day,300,MG,CAR,100,150,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6340,317,380,443,507,185
+743,Core3,Day,264,MG,Chauchat,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6342,317,380,443,507,186
+743,Core3,Day,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6325,316,379,442,506,187
+743,Core3,Day,185,MG,Ameli,100,100,0,8,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6328,316,379,442,506,188
+743,Core3,Day,1017,HG,Jill Stingray,100,100,0,10,0,Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),3598,314,377,440,503,189
+743,Core3,Day,254,MG,UKM-2000,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,6276,313,376,439,502,190
+743,Core3,Day,1018,HG,Sei Asagiri,100,100,0,10,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),3522,308,369,431,493,191
+743,Core3,Day,149,MG,AEK-999,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (4-Star),-,5965,298,357,417,477,192
+743,Core3,Day,240,MG,Mk46,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (4-Star),-,5891,294,353,412,471,193
 743,Core3,Day,1020,RF,Stella Hoshii,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),5766,288,345,403,461,194
-743,Core3,Day,337,RF,De Lisle,100,150,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5384,269,323,376,430,195
-743,Core3,Day,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1951,170,204,238,273,196
-743,Core3,Day,97,HG,M950A,70,100,0,6,0,Sp. Eq (Exclusive) (5-Star),-,-,1918,167,201,234,268,197
-743,Core3,Day,242,HG,P22,70,100,0,4,0,Supp (Silencer) (5-Star),-,-,1860,162,195,227,260,198
-743,Core3,Day,250,HG,HS2000,70,100,0,5,0,Supp (Silencer) (5-Star),-,-,1852,162,194,226,259,199
-743,Core3,Day,294,HG,Webley,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1742,152,182,213,243,200
-743,Core3,Day,142,HG,Five-seven,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1683,147,176,206,235,201
-743,Core3,Day,272,HG,Desert Eagle,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1640,143,172,200,229,202
-743,Core3,Day,1010,HG,El Fail,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,142,171,200,228,203
-743,Core3,Day,1009,HG,El Clear,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,142,171,200,228,204
-743,Core3,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,134,161,188,215,205
-743,Core3,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),1167,102,122,142,163,206
-743,Core3,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,11,14,16,19,207
-743,Core3,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,11,14,16,19,208
-743,Core3,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,11,14,16,18,209
+743,Core3,Day,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1951,170,204,238,273,195
+743,Core3,Day,97,HG,M950A,70,100,0,7,0,Sp. Eq (Exclusive) (5-Star),-,-,1944,170,204,238,272,196
+743,Core3,Day,242,HG,P22,70,100,0,6,0,Supp (Silencer) (5-Star),-,-,1912,167,200,234,267,197
+743,Core3,Day,250,HG,HS2000,70,100,0,5,0,Supp (Silencer) (5-Star),-,-,1852,162,194,226,259,198
+743,Core3,Day,294,HG,Webley,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1742,152,182,213,243,199
+743,Core3,Day,142,HG,Five-seven,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1683,147,176,206,235,200
+743,Core3,Day,272,HG,Desert Eagle,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1640,143,172,200,229,201
+743,Core3,Day,1010,HG,El Fail,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,142,171,200,228,202
+743,Core3,Day,1009,HG,El Clear,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,142,171,200,228,203
+743,Core3,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,134,161,188,215,204
+743,Core3,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),PEQ (Night Equip) (5-Star),1167,102,122,142,163,205
+743,Core3,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,206
+743,Core3,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,22,27,31,36,207
+743,Core3,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,22,26,31,35,208
+743,Core3,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,22,26,31,35,209
+743,Core3,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,19,23,27,31,210
+743,Core3,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,18,22,26,30,211
+743,Core3,Day,6,HG,Tokarev,1,50,0,1,0,-,-,-,150,13,15,18,21,212
+743,Core3,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,11,14,16,19,213
+743,Core3,Day,13,HG,Type92,1,50,0,1,0,-,-,-,139,12,14,17,19,214
+743,Core3,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,11,13,16,18,215
+743,Core3,Day,5,HG,M1895,1,50,0,1,0,-,-,-,132,11,13,16,18,216
+743,Core3,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,11,13,15,18,217
+743,Core3,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,11,14,16,18,218
+743,Core3,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,10,12,14,16,219
+743,Core3,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,10,12,14,16,220
+743,Core3,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,8,10,11,13,221
+743,Core3,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,8,9,11,12,222
+743,Core3,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,7,9,11,12,223
 746,Core6,Day,80,MG,M1919A4,100,150,1,10,0,SLAP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),13304,1197,1436,1676,1915,1
 746,Core6,Day,88,MG,MG3,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Sp. Eq (Exclusive) (5-Star),15527,1164,1397,1630,1863,2
 746,Core6,Day,20161,SG,Type97S Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),9086,1135,1362,1590,1817,3
@@ -1696,7 +1803,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,326,SG,512,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),7569,946,1135,1324,1513,44
 746,Core6,Day,347,SMG,SR2,100,150,1,10,0,Chip (Body) (5-Star),AP (Ammo) (5-Star),Red Dot (5-Star),8347,939,1126,1314,1502,45
 746,Core6,Day,1025,SG,Triela,100,100,0,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),7476,934,1121,1308,1495,46
-746,Core6,Day,153,SG,M37,100,100,0,10,0,Plate (Body) (5-Star),Birdshot (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),7313,914,1096,1279,1462,47
+746,Core6,Day,153,SG,M37,100,100,0,10,0,Plate (Body) (5-Star),Buck (Shell) (4-Star),Sp. Eq (Exclusive) (5-Star),7323,915,1098,1281,1464,47
 746,Core6,Day,20056,AR,M4 SOPMOD II Mod,120,200,1,10,10,Optical (5-Star),Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),7240,905,1086,1267,1448,48
 746,Core6,Day,162,SG,SPAS-12,100,150,1,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),7112,889,1066,1244,1422,49
 746,Core6,Day,189,SG,USAS-12,100,100,0,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),7105,888,1065,1243,1421,50
@@ -1769,9 +1876,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,353,SG,MAG-7,100,100,0,10,0,-,Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),5543,692,831,970,1108,117
 746,Core6,Day,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6922,692,830,969,1107,118
 746,Core6,Day,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),6883,688,825,963,1101,119
-746,Core6,Day,259,SMG,PM-9,100,100,0,10,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6113,687,825,962,1100,120
-746,Core6,Day,20094,SMG,Type64 Mod,120,200,1,10,10,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6102,686,823,961,1098,121
-746,Core6,Day,158,SG,KS-23,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5490,686,823,960,1098,122
+746,Core6,Day,158,SG,KS-23,100,100,0,4,0,-,Birdshot (Shell) (5-Star),EOT (Holographic) (5-Star),5506,688,825,963,1101,120
+746,Core6,Day,259,SMG,PM-9,100,100,0,10,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6113,687,825,962,1100,121
+746,Core6,Day,20094,SMG,Type64 Mod,120,200,1,10,10,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6102,686,823,961,1098,122
 746,Core6,Day,104,SMG,Gr G36c,100,150,1,10,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),EOT (Holographic) (5-Star),6095,685,822,959,1097,123
 746,Core6,Day,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),9136,685,822,959,1096,124
 746,Core6,Day,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6834,683,820,956,1093,125
@@ -1792,9 +1899,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,224,SMG,PM-06,100,100,0,10,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),5854,658,790,922,1053,140
 746,Core6,Day,251,SMG,X95,100,100,0,10,0,T Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),5819,654,785,916,1047,141
 746,Core6,Day,321,SG,TS12,100,100,0,4,0,-,Slug (Shell) (5-Star),Optical (5-Star),5143,642,771,900,1028,142
-746,Core6,Day,1028,SMG,Agent Vector,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),Red Dot (3-Star),5696,640,768,897,1025,143
-746,Core6,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6393,639,767,895,1022,144
-746,Core6,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6387,638,766,894,1021,145
+746,Core6,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6393,639,767,895,1022,143
+746,Core6,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6387,638,766,894,1021,144
+746,Core6,Day,1028,SMG,Agent Vector,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),5668,637,765,892,1020,145
 746,Core6,Day,197,RF,Carcano M1891,100,150,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6352,635,762,889,1016,146
 746,Core6,Day,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),6325,632,759,885,1012,147
 746,Core6,Day,20063,AR,Gr G3 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),-,X Exo (Body) (5-Star),5033,629,754,880,1006,148
@@ -1819,18 +1926,18 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,177,SMG,KLIN,100,100,0,1,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),5023,565,678,791,904,167
 746,Core6,Day,137,SMG,PP-19-01,100,100,0,2,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4995,561,674,786,899,168
 746,Core6,Day,148,RF,IWS 2000,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5617,561,674,786,898,169
-746,Core6,Day,178,SMG,F1,100,100,1,1,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4992,561,673,786,898,170
+746,Core6,Day,178,SMG,F1,100,104,1,1,0,X Exo (Body) (5-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4992,561,673,786,898,170
 746,Core6,Day,337,RF,De Lisle,100,150,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5603,560,672,784,896,171
 746,Core6,Day,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5594,559,671,783,895,172
 746,Core6,Day,128,RF,M99,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5588,558,670,782,894,173
-746,Core6,Day,175,AR,ART556,100,100,0,10,0,Supp (Silencer) (5-Star),-,Chip (Body) (4-Star),4467,558,670,781,893,174
-746,Core6,Day,222,RF,TAC-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5548,554,665,776,887,175
-746,Core6,Day,211,RF,SRS,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5542,554,665,775,886,176
-746,Core6,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5453,545,654,763,872,177
+746,Core6,Day,222,RF,TAC-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5548,554,665,776,887,174
+746,Core6,Day,211,RF,SRS,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5542,554,665,775,886,175
+746,Core6,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5453,545,654,763,872,176
+746,Core6,Day,102,SMG,UMP40,100,100,0,4,0,T Exo (Body) (3-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4829,543,651,760,869,177
 746,Core6,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5435,543,652,760,869,178
 746,Core6,Day,200,RF,XM3,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5385,538,646,753,861,179
 746,Core6,Day,192,RF,JS05,100,100,0,4,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5368,536,644,751,858,180
-746,Core6,Day,102,SMG,UMP40,100,100,0,4,0,Chip (Body) (3-Star),Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4548,511,613,716,818,181
+746,Core6,Day,175,AR,ART556,100,100,0,10,0,Supp (Silencer) (5-Star),-,Chip (Body) (3-Star),4130,516,619,722,826,181
 746,Core6,Day,328,SMG,AR-57,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4443,499,599,699,799,182
 746,Core6,Day,27,SMG,Skorpion,100,100,0,10,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4432,498,598,698,797,183
 746,Core6,Day,280,SMG,MAT-49,100,100,0,1,0,-,Flare (Ammo) (5-Star),Supp (Silencer) (5-Star),4417,496,596,695,795,184
@@ -1845,8 +1952,8 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,1017,HG,Jill Stingray,100,100,0,10,0,Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),3598,314,377,440,503,193
 746,Core6,Day,1018,HG,Sei Asagiri,100,100,0,10,0,Supp (Silencer) (5-Star),-,Sp. Eq (Exclusive) (5-Star),3522,308,369,431,493,194
 746,Core6,Day,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1951,170,204,238,273,195
-746,Core6,Day,97,HG,M950A,70,100,0,6,0,Sp. Eq (Exclusive) (5-Star),-,-,1918,167,201,234,268,196
-746,Core6,Day,242,HG,P22,70,100,0,4,0,Supp (Silencer) (5-Star),-,-,1860,162,195,227,260,197
+746,Core6,Day,97,HG,M950A,70,100,0,7,0,Sp. Eq (Exclusive) (5-Star),-,-,1944,170,204,238,272,196
+746,Core6,Day,242,HG,P22,70,100,0,6,0,Supp (Silencer) (5-Star),-,-,1912,167,200,234,267,197
 746,Core6,Day,250,HG,HS2000,70,100,0,5,0,Supp (Silencer) (5-Star),-,-,1852,162,194,226,259,198
 746,Core6,Day,294,HG,Webley,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1742,152,182,213,243,199
 746,Core6,Day,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),Optical (5-Star),1212,151,181,212,242,200
@@ -1854,10 +1961,25 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,272,HG,Desert Eagle,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1640,143,172,200,229,202
 746,Core6,Day,1010,HG,El Fail,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,142,171,200,228,203
 746,Core6,Day,1009,HG,El Clear,70,100,0,1,0,Supp (Silencer) (5-Star),-,-,1633,142,171,200,228,204
-746,Core6,Day,346,HG,CZ100,70,50,0,1,0,Supp (Silencer) (5-Star),-,-,1541,134,161,188,215,205
-746,Core6,Day,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,137,11,14,16,19,206
-746,Core6,Day,139,HG,Bren Ten,1,50,0,1,0,-,-,-,137,11,14,16,19,207
-746,Core6,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,11,14,16,18,208
+746,Core6,Day,346,HG,CZ100,70,50,0,1,0,PEQ (Night Equip) (5-Star),-,-,1432,125,150,175,200,205
+746,Core6,Day,33,SMG,m45,1,50,0,1,0,-,-,-,200,22,27,31,36,206
+746,Core6,Day,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,203,22,27,31,36,207
+746,Core6,Day,25,SMG,MP40,1,50,0,1,0,-,-,-,197,22,26,31,35,208
+746,Core6,Day,22,SMG,PPS-43,1,50,0,1,0,-,-,-,198,22,26,31,35,209
+746,Core6,Day,133,AR,Type63,1,50,0,1,0,-,-,-,157,19,23,27,31,210
+746,Core6,Day,68,AR,L85A1,1,50,0,1,0,-,-,-,151,18,22,26,30,211
+746,Core6,Day,52,RF,VM59,1,50,0,1,0,-,-,-,171,17,20,23,27,212
+746,Core6,Day,41,RF,SKS,1,50,0,1,0,-,-,-,162,16,19,22,25,213
+746,Core6,Day,110,MG,FG42,1,50,0,1,0,-,-,-,212,15,19,22,25,214
+746,Core6,Day,47,RF,G43,1,50,0,1,0,-,-,-,159,15,19,22,25,215
+746,Core6,Day,82,MG,DP28,1,50,0,1,0,-,-,-,207,15,18,21,24,216
+746,Core6,Day,6,HG,Tokarev,1,50,0,1,0,-,-,-,150,13,15,18,21,217
+746,Core6,Day,11,HG,P08,1,50,0,1,0,-,-,-,137,11,14,16,19,218
+746,Core6,Day,13,HG,Type92,1,50,0,1,0,-,-,-,139,12,14,17,19,219
+746,Core6,Day,90,HG,FF FNP9,1,50,0,1,0,-,-,-,133,11,13,16,18,220
+746,Core6,Day,5,HG,M1895,1,50,0,1,0,-,-,-,132,11,13,16,18,221
+746,Core6,Day,10,HG,PPK,1,50,0,1,0,-,-,-,130,11,13,15,18,222
+746,Core6,Day,91,HG,MP-446,1,50,0,1,0,-,-,-,134,11,14,16,18,223
 748,Core8,Night,20055,AR,M4A1 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7607,2091,2510,2928,3347,1
 748,Core8,Night,20122,AR,Gr G11 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6693,1840,2208,2576,2944,2
 748,Core8,Night,20065,AR,416 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6569,1806,2167,2529,2890,3
@@ -1928,7 +2050,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 748,Core8,Night,286,SMG,K-PDW,100,150,1,10,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4545,1079,1295,1511,1727,68
 748,Core8,Night,59,SMG,AK-74U,100,100,0,4,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4442,1054,1265,1476,1687,69
 748,Core8,Night,177,SMG,KLIN,100,100,0,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4411,1047,1257,1466,1676,70
-748,Core8,Night,178,SMG,F1,100,100,1,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4395,1043,1252,1461,1670,71
+748,Core8,Night,178,SMG,F1,100,104,1,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4395,1043,1252,1461,1670,71
 748,Core8,Night,191,SMG,M12,100,100,0,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4377,1039,1247,1455,1663,72
 748,Core8,Night,137,SMG,PP-19-01,100,100,0,2,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4366,1036,1244,1451,1659,73
 748,Core8,Night,301,SMG,MAS-38,100,100,0,1,0,X Exo (Body) (5-Star),HP (Ammo) (5-Star),Supp (Silencer) (5-Star),4344,1031,1238,1444,1650,74
@@ -1941,9 +2063,9 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 748,Core8,Night,225,SMG,Cx4 Storm,100,100,0,1,0,X Exo (Body) (5-Star),-,Red Dot (5-Star),4055,963,1155,1348,1540,81
 748,Core8,Night,144,SMG,MT-9,100,100,0,1,0,X Exo (Body) (5-Star),-,Red Dot (5-Star),4045,960,1152,1344,1537,82
 748,Core8,Night,1034,SG,Minos,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Sp. Eq (Exclusive) (5-Star),7596,949,1139,1329,1519,83
-748,Core8,Night,1029,AR,Agent 416,100,100,0,10,0,Red Dot (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),3318,912,1094,1277,1459,84
-748,Core8,Night,323,SG,LTLX7000,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),7173,896,1075,1255,1434,85
-748,Core8,Night,23,SMG,PP-90,100,100,0,2,0,Chip (Body) (4-Star),-,Red Dot (5-Star),3677,873,1047,1222,1397,86
+748,Core8,Night,23,SMG,PP-90,100,100,0,2,0,T Exo (Body) (3-Star),-,Red Dot (5-Star),3893,924,1109,1294,1479,84
+748,Core8,Night,1029,AR,Agent 416,100,100,0,10,0,Red Dot (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),3318,912,1094,1277,1459,85
+748,Core8,Night,323,SG,LTLX7000,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),7173,896,1075,1255,1434,86
 748,Core8,Night,188,SG,S.A.T.8,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6976,872,1046,1220,1395,87
 748,Core8,Night,20152,SG,M1897 Mod,120,200,1,10,10,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),Red Dot (5-Star),6876,859,1031,1203,1375,88
 748,Core8,Night,164,SG,FP-6,100,150,1,10,0,Plate (Body) (5-Star),Buck (Shell) (5-Star),Red Dot (5-Star),6837,854,1025,1196,1367,89
@@ -2005,57 +2127,70 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 748,Core8,Night,1009,HG,El Clear,70,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1523,399,479,559,639,145
 748,Core8,Night,1033,MG,Hanazono Yurine,100,150,1,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),5301,397,477,556,636,146
 748,Core8,Night,208,MG,HMG21,100,100,0,10,0,SLAP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),Box (MG Clip) (5-Star),5297,397,476,556,635,147
-748,Core8,Night,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1475,387,464,542,619,148
-748,Core8,Night,97,HG,M950A,70,100,0,6,0,Sp. Eq (Exclusive) (5-Star),-,-,1438,377,452,528,603,149
-748,Core8,Night,242,HG,P22,70,100,0,4,0,RMR (Auxiliary Sight) (5-Star),-,-,1435,376,452,527,602,150
+748,Core8,Night,242,HG,P22,70,100,0,6,0,RMR (Auxiliary Sight) (5-Star),-,-,1487,390,468,546,624,148
+748,Core8,Night,233,HG,Px4 Storm,77,100,0,1,0,Sp. Eq (Exclusive) (5-Star),-,-,1475,387,464,542,619,149
+748,Core8,Night,97,HG,M950A,70,100,0,7,0,Sp. Eq (Exclusive) (5-Star),-,-,1464,384,461,538,614,150
 748,Core8,Night,250,HG,HS2000,70,100,0,5,0,RMR (Auxiliary Sight) (5-Star),-,-,1383,363,435,508,580,151
 748,Core8,Night,294,HG,Webley,70,100,0,1,0,RMR (Auxiliary Sight) (5-Star),-,-,1333,349,419,489,559,152
 748,Core8,Night,20039,RF,Mosin-Nagant Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),4214,316,379,442,505,153
-748,Core8,Night,142,HG,Five-seven,70,100,0,1,0,Supp (Silencer) (3-Star),-,-,1189,312,374,436,499,154
-748,Core8,Night,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4059,304,365,426,487,155
-748,Core8,Night,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4006,300,360,420,480,156
-748,Core8,Night,109,MG,Gr MG5,100,100,0,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3887,291,349,408,466,157
-748,Core8,Night,84,MG,RPD,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Sp. Eq (Exclusive) (5-Star),3850,288,346,404,462,158
-748,Core8,Night,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3790,284,341,397,454,159
-748,Core8,Night,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3755,281,337,394,450,160
-748,Core8,Night,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3747,281,337,393,449,161
-748,Core8,Night,185,MG,Ameli,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3742,280,336,392,449,162
-748,Core8,Night,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3744,280,336,393,449,163
-748,Core8,Night,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3745,280,337,393,449,164
-748,Core8,Night,275,MG,M1895 CB,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3741,280,336,392,448,165
-748,Core8,Night,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3678,275,331,386,441,166
-748,Core8,Night,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3641,273,327,382,436,167
-748,Core8,Night,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3633,272,326,381,435,168
-748,Core8,Night,337,RF,De Lisle,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3516,263,316,369,421,169
-748,Core8,Night,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3503,262,315,367,420,170
-748,Core8,Night,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3499,262,314,367,419,171
-748,Core8,Night,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3488,261,313,366,418,172
-748,Core8,Night,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3469,260,312,364,416,173
-748,Core8,Night,257,RF,M200,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3453,258,310,362,414,174
-748,Core8,Night,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3456,259,311,362,414,175
-748,Core8,Night,197,RF,Carcano M1891,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,257,309,360,412,176
-748,Core8,Night,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,257,309,360,412,177
-748,Core8,Night,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3426,256,308,359,411,178
-748,Core8,Night,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3407,255,306,357,408,179
-748,Core8,Night,319,MG,PM1910,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3401,255,306,357,408,180
-748,Core8,Night,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3319,248,298,348,398,181
-748,Core8,Night,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3301,247,297,346,396,182
-748,Core8,Night,300,MG,CAR,100,150,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3299,247,296,346,395,183
-748,Core8,Night,48,RF,WA2000,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3269,245,294,343,392,184
-748,Core8,Night,85,MG,PK,100,100,0,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3272,245,294,343,392,185
-748,Core8,Night,1020,RF,Stella Hoshii,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3267,245,294,343,392,186
-748,Core8,Night,199,MG,Type80,100,100,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3259,244,293,342,391,187
-748,Core8,Night,296,RF,Gr SL8,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3262,244,293,342,391,188
-748,Core8,Night,312,RF,VSK-94,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3219,241,289,337,386,189
-748,Core8,Night,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3209,240,288,336,385,190
-748,Core8,Night,231,RF,M82A1,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3188,239,286,334,382,191
-748,Core8,Night,264,MG,Chauchat,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3184,238,286,334,382,192
-748,Core8,Night,240,MG,Mk46,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3170,237,285,332,380,193
-748,Core8,Night,1026,MG,Claes,100,100,0,1,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),-,3153,236,283,331,378,194
-748,Core8,Night,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2941,220,264,308,352,195
-748,Core8,Night,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2889,216,260,303,346,196
-748,Core8,Night,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),1013,126,151,177,202,197
-748,Core8,Night,63,AR,Gr G3,1,50,0,1,0,-,-,-,141,38,46,54,62,198
-748,Core8,Night,141,HG,Gr USPCompact,1,50,0,1,0,-,-,-,122,32,38,44,51,199
-748,Core8,Night,139,HG,Bren Ten,1,50,0,1,0,-,-,-,122,32,38,44,51,200
-748,Core8,Night,91,HG,MP-446,1,50,0,1,0,-,-,-,120,31,37,44,50,201
+748,Core8,Night,20053,RF,NTW-20 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4059,304,365,426,487,154
+748,Core8,Night,20252,RF,KSVK Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),4006,300,360,420,480,155
+748,Core8,Night,109,MG,Gr MG5,100,100,0,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3887,291,349,408,466,156
+748,Core8,Night,84,MG,RPD,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Sp. Eq (Exclusive) (5-Star),3850,288,346,404,462,157
+748,Core8,Night,20037,RF,M14 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3790,284,341,397,454,158
+748,Core8,Night,20095,RF,Type88 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3755,281,337,394,450,159
+748,Core8,Night,20124,RF,Super SASS Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3747,281,337,393,449,160
+748,Core8,Night,185,MG,Ameli,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3742,280,336,392,449,161
+748,Core8,Night,266,RF,R93,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3744,280,336,393,449,162
+748,Core8,Night,276,MG,Kord,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3745,280,337,393,449,163
+748,Core8,Night,275,MG,M1895 CB,100,150,1,10,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),Box (MG Clip) (5-Star),3741,280,336,392,448,164
+748,Core8,Night,20044,RF,SV-98 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3678,275,331,386,441,165
+748,Core8,Night,261,RF,QBU-88,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3641,273,327,382,436,166
+748,Core8,Night,329,RF,SVCh,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3633,272,326,381,435,167
+748,Core8,Night,337,RF,De Lisle,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3516,263,316,369,421,168
+748,Core8,Night,316,RF,General Liu,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3503,262,315,367,420,169
+748,Core8,Night,1024,RF,Rico,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3499,262,314,367,419,170
+748,Core8,Night,1031,RF,Pekola,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3488,261,313,366,418,171
+748,Core8,Night,20051,RF,FF FN49 Mod,120,200,1,10,10,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3469,260,312,364,416,172
+748,Core8,Night,257,RF,M200,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3453,258,310,362,414,173
+748,Core8,Night,348,RF,HS.50,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3456,259,311,362,414,174
+748,Core8,Night,197,RF,Carcano M1891,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,257,309,360,412,175
+748,Core8,Night,204,RF,Ballista,100,100,0,10,0,AP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3435,257,309,360,412,176
+748,Core8,Night,317,RF,Mondragon M1908,100,150,1,10,0,AP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3426,256,308,359,411,177
+748,Core8,Night,50,RF,Lee Enfield,100,100,0,10,0,AP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),Cape (Body) (5-Star),3407,255,306,357,408,178
+748,Core8,Night,319,MG,PM1910,100,100,0,8,0,AP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3401,255,306,357,408,179
+748,Core8,Night,36,RF,Springfield,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3319,248,298,348,398,180
+748,Core8,Night,198,RF,Carcano M91/38,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3301,247,297,346,396,181
+748,Core8,Night,300,MG,CAR,100,150,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3299,247,296,346,395,182
+748,Core8,Night,48,RF,WA2000,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3269,245,294,343,392,183
+748,Core8,Night,85,MG,PK,100,100,0,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3272,245,294,343,392,184
+748,Core8,Night,1020,RF,Stella Hoshii,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Sp. Eq (Exclusive) (5-Star),3267,245,294,343,392,185
+748,Core8,Night,199,MG,Type80,100,104,1,10,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3259,244,293,342,391,186
+748,Core8,Night,296,RF,Gr SL8,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3262,244,293,342,391,187
+748,Core8,Night,312,RF,VSK-94,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3219,241,289,337,386,188
+748,Core8,Night,179,RF,Gd DSR-50,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3209,240,288,336,385,189
+748,Core8,Night,231,RF,M82A1,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),Cape (Body) (5-Star),3188,239,286,334,382,190
+748,Core8,Night,264,MG,Chauchat,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3184,238,286,334,382,191
+748,Core8,Night,240,MG,Mk46,100,100,0,1,0,SNIP (Ammo) (5-Star),EOT (Holographic) (5-Star),-,3170,237,285,332,380,192
+748,Core8,Night,1026,MG,Claes,100,100,0,1,0,SNIP (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),-,3153,236,283,331,378,193
+748,Core8,Night,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2941,220,264,308,352,194
+748,Core8,Night,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),Optical (5-Star),-,2889,216,260,303,346,195
+748,Core8,Night,351,SG,M26-MASS,100,100,0,10,0,-,Slug (Shell) (5-Star),EOT (Holographic) (5-Star),1013,126,151,177,202,196
+748,Core8,Night,21,SMG,PPSh-41,1,50,0,1,0,-,-,-,196,46,55,65,74,197
+748,Core8,Night,33,SMG,m45,1,50,0,1,0,-,-,-,193,45,55,64,73,198
+748,Core8,Night,25,SMG,MP40,1,50,0,1,0,-,-,-,191,45,54,63,72,199
+748,Core8,Night,22,SMG,PPS-43,1,50,0,1,0,-,-,-,191,45,54,63,72,200
+748,Core8,Night,133,AR,Type63,1,50,0,1,0,-,-,-,136,37,44,52,59,201
+748,Core8,Night,68,AR,L85A1,1,50,0,1,0,-,-,-,132,36,43,50,58,202
+748,Core8,Night,6,HG,Tokarev,1,50,0,1,0,-,-,-,136,35,42,49,57,203
+748,Core8,Night,11,HG,P08,1,50,0,1,0,-,-,-,125,32,39,45,52,204
+748,Core8,Night,13,HG,Type92,1,50,0,1,0,-,-,-,124,32,39,45,52,205
+748,Core8,Night,5,HG,M1895,1,50,0,1,0,-,-,-,123,32,38,45,51,206
+748,Core8,Night,91,HG,MP-446,1,50,0,1,0,-,-,-,120,31,37,44,50,207
+748,Core8,Night,90,HG,FF FNP9,1,50,0,1,0,-,-,-,118,30,37,43,49,208
+748,Core8,Night,10,HG,PPK,1,50,0,1,0,-,-,-,116,30,36,42,48,209
+748,Core8,Night,82,MG,DP28,1,50,0,1,0,-,-,-,176,13,15,18,21,210
+748,Core8,Night,110,MG,FG42,1,50,0,1,0,-,-,-,181,13,16,19,21,211
+748,Core8,Night,41,RF,SKS,1,50,0,1,0,-,-,-,134,10,12,14,16,212
+748,Core8,Night,52,RF,VM59,1,50,0,1,0,-,-,-,136,10,12,14,16,213
+748,Core8,Night,47,RF,G43,1,50,0,1,0,-,-,-,126,9,11,13,15,214
