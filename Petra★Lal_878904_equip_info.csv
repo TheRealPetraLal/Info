@@ -96,7 +96,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 24176985,68,Box (MG Clip),?????,IOP Maximum Ammo Box,90605914,M1918 Mod,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,6,Locked
 24198349,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,6,Locked
 24222859,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,10%,-,-,-,-,-,-,-,-,1,0,0,Locked
-24271560,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,9,Locked
+24271560,4,Optical,?????,VFL 6-24X56,187917228,Alma Armas,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,9,Locked
 24295131,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 24351804,4,Optical,?????,VFL 6-24X56,191023837,HS.50,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,15,Locked
 24403135,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,6,Locked
@@ -626,7 +626,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37589647,190,Sp. Eq (Exclusive),?????,G-box,95155182,Gr G11 Mod,10,4,-,-,-,10%,-,-,-,-,-,-,-,-,1,0,0,Locked
 37599945,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,7,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,Locked
 37600788,80,Slug (Shell),?????,SABOT Slug,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-37600789,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,19,Locked
+37600789,229,SLAP (Ammo),?????,Mk1000 SLAP,187917228,Alma Armas,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,19,Locked
 37625986,229,SLAP (Ammo),?????,Mk1000 SLAP,176902193,Hanazono Yurine,-,-,-,-,-5,-,-,500,-,-,-,-,-,-,10000,10,16,Locked
 37669186,227,SNIP (Ammo),?????,M1022 Sniper Rounds,-,-,6,-,-,-,-,-,-,74,-,-,-,-,-,-,0,0,0,Locked
 37685070,194,Sp. Eq (Exclusive),?????,Tactical Rails,94043139,Serdyukov,-,-,9,-,-,-,12%,-,-,-,-,-,-,-,1,0,0,Locked
@@ -661,3 +661,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38063224,6,EOT (Holographic),???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
 38063225,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
 38063226,6,EOT (Holographic),???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+38063663,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-2,-,-,-,-,-,-,-,-,-,1,0,0,
