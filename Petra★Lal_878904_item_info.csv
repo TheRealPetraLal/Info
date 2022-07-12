@@ -1,27 +1,27 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7590
+item-10,Dummy Core,7576
 item-31,Basic Training Data,8212
 item-32,Intermediate Training Data,7567
 item-33,Advanced Training Data,8558
 -1,kalina_level,30
 -1,kalina_favor,611426
 item-1,T-Doll Contract,2524
-item-2,Equipment Contract,616
+item-2,Equipment Contract,603
 item-3,Quick Production Contract,689
 item-4,Quick Repair Contract,7956
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,2
 item-8,Quick Training Contract,82
-item-9,Enhancement Capsule,1792
+item-9,Enhancement Capsule,1758
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,41
+item-14,Original Sample,51
 item-15,Pure Sample,22
 item-16,Quick Analysis Contract,38
 item-17,Data Patch,202
-item-41,Token,233
+item-41,Token,234
 item-42,Exchange Ticket,0
 item-43,Black Card,1
 item-44,Calibration Ticket,18283
@@ -38,8 +38,8 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,9999
-item-507,Surplus EXP,206447
+item-506,Battery,9759
+item-507,Surplus EXP,56447
 item-508,Friendship Points,7570
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
@@ -57,7 +57,7 @@ item-525,Quick Auto-Battle Contract,763
 item-601,Infinite Surprise Dye,10
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,0
+item-604,Electronic Impulse,3
 item-605,Aid Commission,351
 item-606,Transfer Catalyst,145
 item-1001,AAT-52 Icon,1
@@ -299,9 +299,9 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-4001,City's Gift,13276
-item-4002,Snowfield's Gift,6066
-item-4003,Forest's Gift,3560
+item-4001,City's Gift,13307
+item-4002,Snowfield's Gift,6378
+item-4003,Forest's Gift,3591
 item-4004,Wasteland's Gift,2434
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
