@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7560
+item-10,Dummy Core,7591
 item-31,Basic Training Data,9756
-item-32,Intermediate Training Data,9061
+item-32,Intermediate Training Data,8681
 item-33,Advanced Training Data,9656
 -1,kalina_level,30
 -1,kalina_favor,612035
-item-1,T-Doll Contract,2562
-item-2,Equipment Contract,643
+item-1,T-Doll Contract,2563
+item-2,Equipment Contract,649
 item-3,Quick Production Contract,728
-item-4,Quick Repair Contract,7998
+item-4,Quick Repair Contract,7997
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,2
 item-8,Quick Training Contract,82
@@ -17,8 +17,8 @@ item-9,Enhancement Capsule,1696
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,161
-item-15,Pure Sample,1
+item-14,Original Sample,11
+item-15,Pure Sample,21
 item-16,Quick Analysis Contract,46
 item-17,Data Patch,209
 item-41,Token,803
@@ -38,8 +38,8 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,10009
-item-507,Surplus EXP,190337
+item-506,Battery,9564
+item-507,Surplus EXP,351617
 item-508,Friendship Points,7820
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
@@ -303,9 +303,9 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-4001,City's Gift,11379
-item-4002,Snowfield's Gift,8219
-item-4003,Forest's Gift,5130
+item-4001,City's Gift,11414
+item-4002,Snowfield's Gift,8570
+item-4003,Forest's Gift,5165
 item-4004,Wasteland's Gift,2614
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
@@ -456,7 +456,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,6310
+gift-200001,Combat Report,6470
 gift-400001,Rapid Growth Disk,9256
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
