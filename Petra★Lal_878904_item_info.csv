@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7434
-item-31,Basic Training Data,7666
-item-32,Intermediate Training Data,7085
-item-33,Advanced Training Data,7034
+item-10,Dummy Core,7450
+item-31,Basic Training Data,7366
+item-32,Intermediate Training Data,6865
+item-33,Advanced Training Data,7234
 -1,kalina_level,30
--1,kalina_favor,612335
-item-1,T-Doll Contract,2631
-item-2,Equipment Contract,676
-item-3,Quick Production Contract,776
-item-4,Quick Repair Contract,8068
+-1,kalina_favor,612463
+item-1,T-Doll Contract,2635
+item-2,Equipment Contract,672
+item-3,Quick Production Contract,778
+item-4,Quick Repair Contract,8070
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,82
@@ -17,11 +17,11 @@ item-9,Enhancement Capsule,1666
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,331
-item-15,Pure Sample,4
-item-16,Quick Analysis Contract,42
+item-14,Original Sample,341
+item-15,Pure Sample,14
+item-16,Quick Analysis Contract,43
 item-17,Data Patch,221
-item-41,Token,882
+item-41,Token,883
 item-42,Exchange Ticket,0
 item-43,Black Card,1
 item-44,Calibration Ticket,17343
@@ -38,7 +38,7 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,6421
+item-506,Battery,6662
 item-507,Surplus EXP,80742
 item-508,Friendship Points,8720
 item-509,Fairy Command,200
@@ -48,7 +48,7 @@ item-513,Dark Star Kernel,15500
 item-514,Petri Dish,6574
 item-515,Basic Training Keycode,73685
 item-516,Advanced Training Keycode,48557
-item-517,Specified Equipment Contract,92
+item-517,Specified Equipment Contract,84
 item-519,HOC General Data,229
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
@@ -303,10 +303,10 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-4001,City's Gift,11766
+item-4001,City's Gift,11798
 item-4002,Snowfield's Gift,12125
-item-4003,Forest's Gift,6664
-item-4004,Wasteland's Gift,2736
+item-4003,Forest's Gift,6696
+item-4004,Wasteland's Gift,3034
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
@@ -315,7 +315,7 @@ item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
-item-6009,Sweet Explosives,1
+item-6009,Sweet Explosives,0
 item-6010,"Baby  B-A-B-Y.",21
 item-6011,Streetside Oden,17
 item-6012,Wild Honeycomb,6
@@ -455,7 +455,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,6952
+gift-200001,Combat Report,7032
 gift-400001,Rapid Growth Disk,11002
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
