@@ -167,7 +167,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 714,Ele.4,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5453,272,327,381,436,166
 714,Ele.4,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5435,271,326,380,434,167
 714,Ele.4,Day,1025,SG,Triela,100,100,0,10,0,Plate (Body) (5-Star),Sp. Eq (Exclusive) (5-Star),EOT (Holographic) (5-Star),7228,271,325,379,433,168
-714,Ele.4,Day,200,RF,XM3,100,104,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5385,269,323,376,430,169
+714,Ele.4,Day,200,RF,XM3,100,105,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5385,269,323,376,430,169
 714,Ele.4,Day,192,RF,JS05,100,100,0,4,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5368,268,322,375,429,170
 714,Ele.4,Day,247,RF,K31,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5358,267,321,375,428,171
 714,Ele.4,Day,162,SG,SPAS-12,100,150,1,10,0,Plate (Body) (5-Star),Slug (Shell) (5-Star),EOT (Holographic) (5-Star),7112,266,320,373,426,172
@@ -402,7 +402,6 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 718,Ele.8,Day,1031,RF,Pekola,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),Sp. Eq (Exclusive) (5-Star),6101,228,274,320,366,214
 718,Ele.8,Day,270,RF,4 Shiki,100,100,0,10,0,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),Cape (Body) (5-Star),5903,221,265,309,354,215
 718,Ele.8,Day,43,RF,SVD,100,100,0,8,0,Sp. Eq (Exclusive) (5-Star),-,Cape (Body) (5-Star),5310,199,238,278,318,216
-718,Ele.8,Day,31,SMG,M38,1,50,0,1,0,-,-,-,206,15,18,21,24,217
 724,Int.4,Day,20055,AR,M4A1 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8492,1167,1401,1634,1868,1
 724,Int.4,Day,20122,AR,Gr G11 Mod,120,200,1,10,10,Optical (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),8001,1100,1320,1540,1760,2
 724,Int.4,Day,20065,AR,416 Mod,120,200,1,10,10,Sp. Eq (Exclusive) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7594,1044,1253,1461,1670,3
@@ -583,7 +582,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 724,Int.4,Day,211,RF,SRS,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5285,396,475,554,634,178
 724,Int.4,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5189,389,467,544,622,179
 724,Int.4,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5157,386,464,541,618,180
-724,Int.4,Day,200,RF,XM3,100,104,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,384,461,537,614,181
+724,Int.4,Day,200,RF,XM3,100,105,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,384,461,537,614,181
 724,Int.4,Day,192,RF,JS05,100,100,0,4,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5112,383,460,536,613,182
 724,Int.4,Day,247,RF,K31,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5068,380,456,532,608,183
 724,Int.4,Day,146,RF,Gr G28,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,4949,371,445,519,593,184
@@ -804,7 +803,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 728,Int.8,Day,211,RF,SRS,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5285,396,475,554,634,196
 728,Int.8,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5189,389,467,544,622,197
 728,Int.8,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5157,386,464,541,618,198
-728,Int.8,Day,200,RF,XM3,100,104,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,384,461,537,614,199
+728,Int.8,Day,200,RF,XM3,100,105,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,384,461,537,614,199
 728,Int.8,Day,192,RF,JS05,100,100,0,4,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5112,383,460,536,613,200
 728,Int.8,Day,247,RF,K31,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5068,380,456,532,608,201
 728,Int.8,Day,146,RF,Gr G28,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,4949,371,445,519,593,202
@@ -927,7 +926,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Adv.3,Day,98,HG,SPP-1,100,100,0,1,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),T Exo (Body) (5-Star),3037,607,728,850,971,114
 733,Adv.3,Day,3,HG,M9,100,100,0,4,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),T Exo (Body) (5-Star),3032,606,727,848,970,115
 733,Adv.3,Day,20057,AR,ST AR-15 Mod,120,200,1,10,10,Optical (5-Star),Sp. Eq (Exclusive) (5-Star),Sp. Eq (Exclusive) (5-Star),6927,606,727,848,969,116
-733,Adv.3,Day,200,RF,XM3,100,104,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5385,605,726,848,969,117
+733,Adv.3,Day,200,RF,XM3,100,105,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5385,605,726,848,969,117
 733,Adv.3,Day,346,HG,CZ100,100,100,0,1,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),T Exo (Body) (5-Star),3024,604,725,846,967,118
 733,Adv.3,Day,192,RF,JS05,100,100,0,4,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5368,603,724,845,966,119
 733,Adv.3,Day,244,HG,TEC-9,100,100,0,1,0,Supp (Silencer) (5-Star),Flare (Ammo) (5-Star),T Exo (Body) (5-Star),3021,604,725,845,966,120
@@ -1004,7 +1003,6 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 733,Adv.3,Day,20093,SMG,IDW Mod,120,200,1,1,1,Sp. Eq (Exclusive) (5-Star),-,Supp (Silencer) (5-Star),5252,393,472,551,630,191
 733,Adv.3,Day,1019,SMG,Dorothy Haze,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Supp (Silencer) (5-Star),5162,387,464,542,619,192
 733,Adv.3,Day,85,MG,PK,100,100,0,10,0,-,Sp. Eq (Exclusive) (5-Star),Box (MG Clip) (5-Star),6217,233,279,326,373,193
-733,Adv.3,Day,31,SMG,M38,1,50,0,1,0,-,-,-,206,15,18,21,24,194
 736,Adv.6,Night,20055,AR,M4A1 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),7607,1426,1711,1996,2282,1
 736,Adv.6,Night,20122,AR,Gr G11 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6693,1254,1505,1756,2007,2
 736,Adv.6,Night,20065,AR,416 Mod,120,200,1,10,10,PEQ (Night Equip) (5-Star),HV (Ammo) (5-Star),Sp. Eq (Exclusive) (5-Star),6569,1231,1478,1724,1970,3
@@ -1412,7 +1410,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 738,Adv.8,Day,211,RF,SRS,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5285,528,634,739,845,209
 738,Adv.8,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5189,518,622,726,830,210
 738,Adv.8,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5157,515,618,721,825,211
-738,Adv.8,Day,200,RF,XM3,100,104,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,512,614,717,819,212
+738,Adv.8,Day,200,RF,XM3,100,105,1,10,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5123,512,614,717,819,212
 738,Adv.8,Day,84,MG,RPD,100,150,1,10,0,SNIP (Ammo) (5-Star),-,Sp. Eq (Exclusive) (5-Star),6817,511,613,715,818,213
 738,Adv.8,Day,192,RF,JS05,100,100,0,4,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5112,511,613,715,817,214
 738,Adv.8,Day,247,RF,K31,100,100,0,1,0,SNIP (Ammo) (5-Star),Supp (Silencer) (5-Star),-,5068,506,608,709,810,215
@@ -1803,7 +1801,7 @@ Area ID,Area Name,Battle Type,Doll ID,Type,Name,Level,Affection,Oathed,Skill1,Sk
 746,Core6,Day,226,RF,Mk 12,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5453,545,654,763,872,177
 746,Core6,Day,46,RF,Kar98k,100,100,0,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5435,543,652,760,869,178
 746,Core6,Day,199,MG,Type80,100,150,1,10,0,SNIP (Ammo) (5-Star),RMR (Auxiliary Sight) (5-Star),-,7201,540,648,756,864,179
-746,Core6,Day,200,RF,XM3,100,104,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5385,538,646,753,861,180
+746,Core6,Day,200,RF,XM3,100,105,1,10,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5385,538,646,753,861,180
 746,Core6,Day,192,RF,JS05,100,100,0,4,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5368,536,644,751,858,181
 746,Core6,Day,247,RF,K31,100,100,0,1,0,SNIP (Ammo) (5-Star),Optical (5-Star),-,5358,535,642,750,857,182
 746,Core6,Day,175,AR,ART556,100,100,0,10,0,Supp (Silencer) (5-Star),-,Chip (Body) (3-Star),4130,516,619,722,826,183
