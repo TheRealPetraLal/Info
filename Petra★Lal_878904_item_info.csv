@@ -1,31 +1,31 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7098
-item-31,Basic Training Data,7294
-item-32,Intermediate Training Data,7822
+item-10,Dummy Core,7101
+item-31,Basic Training Data,7444
+item-32,Intermediate Training Data,7952
 item-33,Advanced Training Data,10029
 -1,kalina_level,30
 -1,kalina_favor,618947
-item-1,T-Doll Contract,2655
-item-2,Equipment Contract,712
-item-3,Quick Production Contract,808
-item-4,Quick Repair Contract,8028
+item-1,T-Doll Contract,2659
+item-2,Equipment Contract,715
+item-3,Quick Production Contract,814
+item-4,Quick Repair Contract,8035
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,72
-item-9,Enhancement Capsule,1801
+item-9,Enhancement Capsule,1819
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,151
-item-15,Pure Sample,257
-item-16,Quick Analysis Contract,46
+item-14,Original Sample,201
+item-15,Pure Sample,276
+item-16,Quick Analysis Contract,47
 item-17,Data Patch,226
-item-41,Token,2637
+item-41,Token,2641
 item-42,Exchange Ticket,0
 item-43,Black Card,1
 item-44,Calibration Ticket,17603
-item-45,Memory Fragment,1424
+item-45,Memory Fragment,1454
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
 item-50,Universal Parts,820
@@ -38,8 +38,8 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,8930
-item-507,Surplus EXP,632510
+item-506,Battery,8960
+item-507,Surplus EXP,666254
 item-508,Friendship Points,9180
 item-509,Fairy Command,150
 item-510,Combat Sim Extra Energy,20
@@ -54,7 +54,7 @@ item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,811
+item-525,Quick Auto-Battle Contract,814
 item-601,Infinite Surprise Dye,11
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
@@ -334,7 +334,7 @@ item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
-item-6009,Sweet Explosives,1
+item-6009,Sweet Explosives,0
 item-6010,"Baby  B-A-B-Y.",22
 item-6011,Streetside Oden,17
 item-6012,Wild Honeycomb,6
@@ -404,9 +404,9 @@ item-100072,Platinum Medal - Bounty Feast,0
 item-100073,Star Ornament,20
 item-100074,Nova Medal·A Snowy Night Capriccio,3
 item-100075,Platinum Medal·A Snowy Night Capriccio,0
-item-100077,Supply Box - Mirror Stage,39
+item-100077,Supply Box - Mirror Stage,0
 item-100078,Nova Medal - Mirror Stage,16
-item-100079,Platinum Medal - Mirror Stage,72
+item-100079,Platinum Medal - Mirror Stage,116
 item-100081,Nova Medal - The Photo Studio Mystery,3
 item-100082,Platinum Medal - The Photo Studio Mystery,1
 item-100083,Tangerine Coin,80
