@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,7024
-item-31,Basic Training Data,6844
-item-32,Intermediate Training Data,6423
+item-10,Dummy Core,7033
+item-31,Basic Training Data,6874
+item-32,Intermediate Training Data,6833
 item-33,Advanced Training Data,9724
 -1,kalina_level,30
--1,kalina_favor,618947
-item-1,T-Doll Contract,2666
-item-2,Equipment Contract,725
-item-3,Quick Production Contract,824
-item-4,Quick Repair Contract,8041
+-1,kalina_favor,619956
+item-1,T-Doll Contract,2667
+item-2,Equipment Contract,723
+item-3,Quick Production Contract,831
+item-4,Quick Repair Contract,8048
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
-item-8,Quick Training Contract,62
-item-9,Enhancement Capsule,1750
+item-8,Quick Training Contract,63
+item-9,Enhancement Capsule,1718
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,31
+item-14,Original Sample,11
 item-15,Pure Sample,23
-item-16,Quick Analysis Contract,47
-item-17,Data Patch,231
-item-41,Token,2645
+item-16,Quick Analysis Contract,49
+item-17,Data Patch,232
+item-41,Token,2656
 item-42,Exchange Ticket,0
 item-43,Black Card,1
-item-44,Calibration Ticket,17603
-item-45,Memory Fragment,1474
+item-44,Calibration Ticket,17753
+item-45,Memory Fragment,2284
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
-item-50,Universal Parts,796
+item-50,Universal Parts,792
 item-51,New Type Fire-Control Component,35
 item-100,Elite Griffin Combat Medal,6
 item-101,Combat Ranking Medal,130
@@ -38,23 +38,23 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,8494
-item-507,Surplus EXP,335800
-item-508,Friendship Points,9360
-item-509,Fairy Command,190
+item-506,Battery,8414
+item-507,Surplus EXP,95800
+item-508,Friendship Points,9410
+item-509,Fairy Command,185
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1110
 item-513,Dark Star Kernel,25750
 item-514,Petri Dish,5430
 item-515,Basic Training Keycode,72361
-item-516,Advanced Training Keycode,50609
+item-516,Advanced Training Keycode,50109
 item-517,Specified Equipment Contract,80
 item-519,HOC General Data,232
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,814
+item-525,Quick Auto-Battle Contract,817
 item-601,Infinite Surprise Dye,11
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
@@ -341,7 +341,7 @@ item-6008,One Week's Cake Selection,0
 item-6009,Sweet Explosives,0
 item-6010,"Baby  B-A-B-Y.",22
 item-6011,Streetside Oden,17
-item-6012,Wild Honeycomb,6
+item-6012,Wild Honeycomb,5
 item-6013,Icy Theater,19
 item-7001,Candy Pocket,0
 item-7004,Lovestruck,2
@@ -369,7 +369,7 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,15
-item-10604,Extra Impulse,5
+item-10604,Extra Impulse,6
 item-100009,Crown of Respect,80
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -408,7 +408,7 @@ item-100072,Platinum Medal - Bounty Feast,0
 item-100073,Star Ornament,20
 item-100074,Nova Medal·A Snowy Night Capriccio,3
 item-100075,Platinum Medal·A Snowy Night Capriccio,0
-item-100077,Supply Box - Mirror Stage,20
+item-100077,Supply Box - Mirror Stage,0
 item-100078,Nova Medal - Mirror Stage,88
 item-100079,Platinum Medal - Mirror Stage,199
 item-100080,True Core Mask - Mirror Stage,0
@@ -478,13 +478,13 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,1470
 gift-100002,Ice Cream Cone,165
-gift-100003,Strawberry Custard Cheesecake,3572
+gift-100003,Strawberry Custard Cheesecake,3574
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,180
-gift-400001,Rapid Growth Disk,8854
+gift-200001,Combat Report,340
+gift-400001,Rapid Growth Disk,8998
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
