@@ -626,7 +626,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37734157,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,22%,-,-,-,-,-,-,-,0,0,0,
 37744895,250,Sp. Eq (Exclusive),?????,MkQ Light Exoskeleton,-,-,15,-,35,-,-,-,-,-,-,-,-,-,-,-,30000,10,16,Locked
 37767890,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,11%,-,-,-,-,-,-,-,-,1,0,0,Locked
-37788332,248,Sp. Eq (Exclusive),?????,9A High-Performance Chip,-,-,8,-,-,-,14,-,-,-,-,-,-,-,-,-,1,0,0,Locked
+37788332,248,Sp. Eq (Exclusive),?????,9A High-Performance Chip,90517920,9A-91,8,-,-,-,14,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 37790404,190,Sp. Eq (Exclusive),?????,G-box,140763718,Gr G11 Mod,10,4,-,-,-,10%,-,-,-,-,-,-,-,-,1,0,0,Locked
 37815642,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 37819137,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,20%,-,-,-,-,-,-,-,0,0,0,
@@ -663,4 +663,15 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38288649,214,Sp. Eq (Exclusive),?????,Survival Expert,110170399,F1 Mod,3,-,20,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38295908,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-19%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38304005,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,
-38311502,217,Sp. Eq (Exclusive),?????,SB 2.5-10x56,-,-,3,-,-,-,-,-,25%,-,-,-,-,-,-,-,1,0,0,
+38311502,217,Sp. Eq (Exclusive),?????,SB 2.5-10x56,-,-,3,-,-,-,-,-,25%,-,-,-,-,-,-,-,1,0,0,Locked
+38316721,89,Cape (Body),????,Urban Camouflage Cape,-,-,-,-,-,-3,-,8%,-,-,-,-,-,-,-,-,0,0,0,
+38316722,69,HP (Ammo),??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
+38316723,30,HV (Ammo),???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38316724,78,Slug (Shell),???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38316731,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,1,0,0,
+38318642,64,Supp (Silencer),???,AC2 Suppressor,-,-,-,-,3,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
+38318643,64,Supp (Silencer),???,AC2 Suppressor,-,-,-,-,3,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
+38318644,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
+38318645,7,EOT (Holographic),????,EOT 516,-,-,2,4,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
+38318646,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,80%,-,0,0,0,
+38318647,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
