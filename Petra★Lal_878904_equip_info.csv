@@ -501,7 +501,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36226389,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,7,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 36231583,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,191960819,Desert Eagle,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,6,Locked
 36244806,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,12%,-,-,-,-,-,-,-,-,0,0,0,Locked
-36250846,220,Sp. Eq (Exclusive),?????,Special Steel Buttstock,90259250,M1919A4,-,25,-,-,-,8%,24%,-,-,-,-,-,-,-,10601,6,6,Locked
+36250846,220,Sp. Eq (Exclusive),?????,Special Steel Buttstock,90259250,M1919A4,-,27,-,-,-,8%,25%,-,-,-,-,-,-,-,14726,7,6,Locked
 36258575,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36281602,32,HV (Ammo),?????,APCR High-Velocity Ammo,89413427,M4A1 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,1,Locked
 36289026,205,Sp. Eq (Exclusive),?????,Galil Special Handguards,89082391,Galil Mod,10,5,-5,-,-,-,-,-,-,-,-,-,-,-,1,0,16,Locked
@@ -662,14 +662,5 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38280108,215,Sp. Eq (Exclusive),?????,Custom API Rounds,127297851,Type80 Mod,3,-,-,-,-,-,-,111,-,-,-,-,-,-,1,0,0,Locked
 38288649,214,Sp. Eq (Exclusive),?????,Survival Expert,110170399,F1 Mod,3,-,20,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38295908,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-19%,-,-,-,-,-,-,-,-,0,0,0,Locked
-38304001,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-38304002,29,HV (Ammo),??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38304003,55,X Exo (Body),??,IOP X1 Exoskeleton,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38304004,79,Slug (Shell),????,WAD Slug,-,-,-,6,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
 38304005,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,
-38304006,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
-38304007,43,Plate (Body),????,Type 2 Armor Plate,-,-,-,-,-1,-,-,-,-,-,4,-,-,-,-,-,0,0,0,
-38304008,232,Chip (Body),???,Experimental Processor,-,-,1,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
-38304009,2,Optical,???,LRA 2-12x50,-,-,-,-,-,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
-38304010,233,Chip (Body),????,#1 Processor,-,-,4,-,-,-,8,-50%,-,-,-,-,-,-,-,-,0,0,0,
-38304011,2,Optical,???,LRA 2-12x50,-,-,-,-,-,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+38311502,217,Sp. Eq (Exclusive),?????,SB 2.5-10x56,-,-,3,-,-,-,-,-,25%,-,-,-,-,-,-,-,1,0,0,
