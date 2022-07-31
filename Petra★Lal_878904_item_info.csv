@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6891
-item-31,Basic Training Data,8014
-item-32,Intermediate Training Data,8123
-item-33,Advanced Training Data,10194
+item-10,Dummy Core,6856
+item-31,Basic Training Data,6414
+item-32,Intermediate Training Data,8473
+item-33,Advanced Training Data,10734
 -1,kalina_level,30
--1,kalina_favor,620965
-item-1,T-Doll Contract,2684
-item-2,Equipment Contract,737
-item-3,Quick Production Contract,846
-item-4,Quick Repair Contract,8057
+-1,kalina_favor,622554
+item-1,T-Doll Contract,2688
+item-2,Equipment Contract,747
+item-3,Quick Production Contract,851
+item-4,Quick Repair Contract,7962
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
-item-8,Quick Training Contract,65
-item-9,Enhancement Capsule,1725
+item-8,Quick Training Contract,56
+item-9,Enhancement Capsule,1722
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,11
-item-15,Pure Sample,8
+item-14,Original Sample,201
+item-15,Pure Sample,84
 item-16,Quick Analysis Contract,50
-item-17,Data Patch,233
-item-41,Token,2665
+item-17,Data Patch,234
+item-41,Token,2674
 item-42,Exchange Ticket,0
 item-43,Black Card,1
-item-44,Calibration Ticket,17163
-item-45,Memory Fragment,2934
+item-44,Calibration Ticket,16518
+item-45,Memory Fragment,1714
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
-item-50,Universal Parts,766
+item-50,Universal Parts,440
 item-51,New Type Fire-Control Component,35
 item-100,Elite Griffin Combat Medal,6
 item-101,Combat Ranking Medal,130
@@ -38,23 +38,23 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,9135
-item-507,Surplus EXP,95800
-item-508,Friendship Points,9500
-item-509,Fairy Command,200
+item-506,Battery,8667
+item-507,Surplus EXP,549076
+item-508,Friendship Points,9580
+item-509,Fairy Command,11
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1110
 item-513,Dark Star Kernel,25750
-item-514,Petri Dish,6118
-item-515,Basic Training Keycode,73361
-item-516,Advanced Training Keycode,50209
+item-514,Petri Dish,3808
+item-515,Basic Training Keycode,55589
+item-516,Advanced Training Keycode,37309
 item-517,Specified Equipment Contract,80
 item-519,HOC General Data,233
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,820
+item-525,Quick Auto-Battle Contract,823
 item-601,Infinite Surprise Dye,11
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
@@ -186,7 +186,7 @@ item-1465,ID Card: Welcome to VA-11 Hall-A,1
 item-1482,Flying Fish Assault,1
 item-1491,Icon: Lost Queen-of-the-Night,1
 item-1492,ID: Train Station of the Beginning,1
-item-1493,MP5 Neural Upgrade Icon,1
+item-1493,MP5 Neural Upgrade Icon,2
 item-1494,416 Neural Upgrade Icon,2
 item-1495,Type88 Neural Upgrade Icon,2
 item-1496,UMP9 Neural Upgrade Icon,1
@@ -326,10 +326,10 @@ item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
 item-2124,ID Card: Mirror Stage,1
-item-4001,City's Gift,12711
-item-4002,Snowfield's Gift,14607
-item-4003,Forest's Gift,8150
-item-4004,Wasteland's Gift,3224
+item-4001,City's Gift,12773
+item-4002,Snowfield's Gift,14638
+item-4003,Forest's Gift,8508
+item-4004,Wasteland's Gift,3855
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
@@ -341,7 +341,7 @@ item-6008,One Week's Cake Selection,0
 item-6009,Sweet Explosives,0
 item-6010,"Baby  B-A-B-Y.",23
 item-6011,Streetside Oden,17
-item-6012,Wild Honeycomb,2
+item-6012,Wild Honeycomb,1
 item-6013,Icy Theater,19
 item-7001,Candy Pocket,0
 item-7004,Lovestruck,2
@@ -408,9 +408,9 @@ item-100072,Platinum Medal - Bounty Feast,0
 item-100073,Star Ornament,20
 item-100074,Nova Medal·A Snowy Night Capriccio,3
 item-100075,Platinum Medal·A Snowy Night Capriccio,0
-item-100077,Supply Box - Mirror Stage,0
-item-100078,Nova Medal - Mirror Stage,88
-item-100079,Platinum Medal - Mirror Stage,199
+item-100077,Supply Box - Mirror Stage,60
+item-100078,Nova Medal - Mirror Stage,104
+item-100079,Platinum Medal - Mirror Stage,231
 item-100080,True Core Mask - Mirror Stage,0
 item-100081,Nova Medal - The Photo Studio Mystery,3
 item-100082,Platinum Medal - The Photo Studio Mystery,1
@@ -453,7 +453,7 @@ item-110017,Event Points,3000
 item-110018,Event Points,3000
 item-110019,Event Points,2400
 item-110020,Event Points,3000
-item-110039,Event Points,7665520
+item-110039,Event Points,15920984
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -479,13 +479,13 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,1470
 gift-100002,Ice Cream Cone,165
-gift-100003,Strawberry Custard Cheesecake,3576
+gift-100003,Strawberry Custard Cheesecake,3386
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,804
-gift-400001,Rapid Growth Disk,10098
+gift-200001,Combat Report,335
+gift-400001,Rapid Growth Disk,4718
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
