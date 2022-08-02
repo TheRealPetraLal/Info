@@ -501,7 +501,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36226389,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,7,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 36231583,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,125771369,Contender,-,20,-,-,-,-,30%,-,-,-,-,-,-,-,10000,10,6,Locked
 36244806,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,12%,-,-,-,-,-,-,-,-,0,0,0,Locked
-36250846,220,Sp. Eq (Exclusive),?????,Special Steel Buttstock,90259250,M1919A4,-,30,-,-,-,9%,28%,-,-,-,-,-,-,-,24101,9,6,Locked
+36250846,220,Sp. Eq (Exclusive),?????,Special Steel Buttstock,90259250,M1919A4,-,30,-,-,-,9%,28%,-,-,-,-,-,-,-,28001,9,6,Locked
 36258575,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36281602,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,1,Locked
 36289026,205,Sp. Eq (Exclusive),?????,Galil Special Handguards,89082391,Galil Mod,10,5,-5,-,-,-,-,-,-,-,-,-,-,-,1,0,16,Locked
@@ -667,11 +667,14 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38316731,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38322150,157,Sp. Eq (Exclusive),?????,LED Weapon Light,160340087,Gr MP5 Mod,5,9,10,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38332143,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,11%,-,-,-,-,-,-,-,-,1,0,0,Locked
-38338942,18,AP (Ammo),???,M993 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,67,-,-,-,-,-,-,0,0,0,
-38338943,17,AP (Ammo),??,M61 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,47,-,-,-,-,-,-,0,0,0,
-38338944,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38338945,13,PEQ (Night Equip),??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,51%,-,0,0,0,
-38338946,89,Cape (Body),????,Urban Camouflage Cape,-,-,-,-,-,-3,-,8%,-,-,-,-,-,-,-,-,0,0,0,
-38338947,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,63%,-,0,0,0,
-38338948,57,X Exo (Body),????,IOP X3 Exoskeleton,-,-,-,-,6,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38338949,6,EOT (Holographic),???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+38351543,78,Slug (Shell),???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38351544,78,Slug (Shell),???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38351545,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38351546,79,Slug (Shell),????,WAD Slug,-,-,-,6,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38351547,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38351548,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38351549,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38351550,78,Slug (Shell),???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38351551,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
+38351552,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,6,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
+38351553,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,77%,-,0,0,0,
