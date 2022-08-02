@@ -1,30 +1,30 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6882
+item-10,Dummy Core,6874
 item-31,Basic Training Data,5544
-item-32,Intermediate Training Data,7673
-item-33,Advanced Training Data,11054
+item-32,Intermediate Training Data,6873
+item-33,Advanced Training Data,10854
 -1,kalina_level,30
 -1,kalina_favor,623563
-item-1,T-Doll Contract,2695
-item-2,Equipment Contract,769
+item-1,T-Doll Contract,2694
+item-2,Equipment Contract,761
 item-3,Quick Production Contract,860
-item-4,Quick Repair Contract,7973
+item-4,Quick Repair Contract,7974
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,57
-item-9,Enhancement Capsule,1751
+item-9,Enhancement Capsule,1746
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,6
-item-14,Original Sample,1
-item-15,Pure Sample,13
+item-14,Original Sample,51
+item-15,Pure Sample,43
 item-16,Quick Analysis Contract,52
 item-17,Data Patch,240
-item-41,Token,2685
+item-41,Token,2688
 item-42,Exchange Ticket,0
 item-43,Black Card,1
-item-44,Calibration Ticket,16578
+item-44,Calibration Ticket,16588
 item-45,Memory Fragment,2594
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
@@ -38,15 +38,15 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,8727
+item-506,Battery,9043
 item-507,Surplus EXP,117987
-item-508,Friendship Points,9620
-item-509,Fairy Command,71
+item-508,Friendship Points,9790
+item-509,Fairy Command,101
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1110
 item-513,Dark Star Kernel,25750
 item-514,Petri Dish,3808
-item-515,Basic Training Keycode,55589
+item-515,Basic Training Keycode,55689
 item-516,Advanced Training Keycode,37309
 item-517,Specified Equipment Contract,80
 item-519,HOC General Data,233
@@ -326,12 +326,12 @@ item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
 item-2124,ID Card: Mirror Stage,1
-item-4001,City's Gift,12804
-item-4002,Snowfield's Gift,14934
-item-4003,Forest's Gift,8539
-item-4004,Wasteland's Gift,3855
+item-4001,City's Gift,12839
+item-4002,Snowfield's Gift,15316
+item-4003,Forest's Gift,8862
+item-4004,Wasteland's Gift,3886
 item-6001,Ordinary Meat Bun,0
-item-6002,Bundle of Meat Buns,0
+item-6002,Bundle of Meat Buns,1
 item-6003,Trove of Meat Buns,1
 item-6004,Commonfolk Standard,0
 item-6005,Comfort Bucket for One,0
@@ -453,7 +453,7 @@ item-110017,Event Points,3000
 item-110018,Event Points,3000
 item-110019,Event Points,2400
 item-110020,Event Points,3000
-item-110039,Event Points,31748726
+item-110039,Event Points,33305874
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
