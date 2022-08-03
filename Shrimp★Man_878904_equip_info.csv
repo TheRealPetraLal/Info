@@ -23,7 +23,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 20954500,80,Slug (Shell),?????,SABOT Slug,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,8,Locked
 21061990,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,6,Locked
 21075984,66,Supp (Silencer),?????,AC4 Suppressor,133256418,P22,-,-,10,-,-,-,20%,-,-,-,-,-,-,-,10000,10,3,Locked
-21076008,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,6,Locked
+21076008,4,Optical,?????,VFL 6-24X56,181038761,Defender,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,6,Locked
 21076025,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 21076117,8,EOT (Holographic),?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
 21114873,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,5,Locked
@@ -121,7 +121,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 25375736,129,Sp. Eq (Exclusive),?????,M2 Bipod,89261929,M14 Mod,-,10,-,-,-,-,48%,-,-,-,-,-,-,-,30000,10,16,Locked
 25377110,4,Optical,?????,VFL 6-24X56,190087296,Carcano M91/38,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,10,Locked
 25378501,40,T Exo (Body),?????,IOP T4 Exoskeleton,120756243,El Clear,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,10,Locked
-25404946,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,14,Locked
+25404946,4,Optical,?????,VFL 6-24X56,191023837,HS.50,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,14,Locked
 25415132,40,T Exo (Body),?????,IOP T4 Exoskeleton,173811924,HP-35,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,6,Locked
 25426571,8,EOT (Holographic),?????,EOT 518,-,-,5,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 25614540,86,Sp. Eq (Exclusive),?????,Hayha Memory Chip,91391114,Mosin-Nagant Mod,30,-,5,-,-,30%,-,-,-,-,-,-,-,-,30000,10,16,Locked
@@ -333,7 +333,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 33808843,106,Sp. Eq (Exclusive),?????,EOT XPS3,151934555,416 Mod,8,14,-,-,-,-,25%,-,-,-,-,-,-,-,30000,10,6,Locked
 33902764,16,PEQ (Night Equip),?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,6,Locked
 33902801,76,Buck (Shell),?????,#000 Buckshot,-,-,9,-,-,-,-,10%,-,-,-,-,-,-,-,-,0,0,0,Locked
-33917131,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,1,Locked
+33917131,90,Cape (Body),?????,Thermoptic Camouflage Cape,191023837,HS.50,-,-,-,-3,-,25%,-,-,-,-,-,-,-,-,10000,10,1,Locked
 33956904,95,HP (Ammo),?????,16Lab Hollow-Point,191960819,Desert Eagle,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
 33956905,110,HV (Ammo),?????,16Lab High-Velocity Ammo,89762386,Am RFB,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 33981820,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,184225571,General Liu,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,17,Locked
@@ -409,7 +409,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 35217694,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,114,-,-,-,-,-,-,0,0,0,Locked
 35217714,16,PEQ (Night Equip),?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,23,Locked
 35227558,227,SNIP (Ammo),?????,M1022 Sniper Rounds,142830514,Rico,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,16,Locked
-35227560,227,SNIP (Ammo),?????,M1022 Sniper Rounds,175094142,De Lisle,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,14,Locked
+35227560,227,SNIP (Ammo),?????,M1022 Sniper Rounds,191023837,HS.50,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,14,Locked
 35227576,68,Box (MG Clip),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,0,0,0,Locked
 35235834,227,SNIP (Ammo),?????,M1022 Sniper Rounds,123350019,R93,10,-,-,-,-,-,-,120,-,-,-,-,-,-,10000,10,20,Locked
 35235857,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -487,7 +487,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36165361,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,22,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 36166009,234,Chip (Body),?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,15,Locked
 36166645,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,14%,-,-,-,-,-,-,-,0,0,0,Locked
-36166980,76,Buck (Shell),?????,#000 Buckshot,-,-,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
+36166980,76,Buck (Shell),?????,#000 Buckshot,181038761,Defender,15,-,-,-,-,22%,-,-,-,-,-,-,-,-,10000,10,16,Locked
 36172313,234,Chip (Body),?????,#2 Processor,-,-,15,-,-,-,25,-50%,-,-,-,-,-,-,-,-,10000,10,12,Locked
 36179418,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,10%,-,-,-,-,-,-,-,-,0,0,0,Locked
 36186383,72,HP (Ammo),?????,ILM Hollow-Point Ammo,121204845,Px4 Storm,9,-,-,-,-,-,-,-7,-,-,-,-,-,-,0,0,0,Locked
@@ -678,3 +678,15 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38351551,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
 38351552,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,6,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
 38351553,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,77%,-,0,0,0,
+38365530,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38365531,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38365532,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38365533,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38365534,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38365535,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
+38365536,78,Slug (Shell),???,FST Slug,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38365537,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38365538,64,Supp (Silencer),???,AC2 Suppressor,-,-,-,-,3,-,-,-,6%,-,-,-,-,-,-,-,0,0,0,
+38365539,65,Supp (Silencer),????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+38365540,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38365936,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,7,-,-,-,-,11%,-,-,-,-,-,-,-,0,0,0,
