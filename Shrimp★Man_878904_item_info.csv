@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6728
+item-10,Dummy Core,6735
 item-31,Basic Training Data,5644
-item-32,Intermediate Training Data,6663
-item-33,Advanced Training Data,11114
+item-32,Intermediate Training Data,6063
+item-33,Advanced Training Data,10814
 -1,kalina_level,30
 -1,kalina_favor,625732
-item-1,T-Doll Contract,2701
-item-2,Equipment Contract,783
-item-3,Quick Production Contract,869
-item-4,Quick Repair Contract,7991
+item-1,T-Doll Contract,2699
+item-2,Equipment Contract,774
+item-3,Quick Production Contract,871
+item-4,Quick Repair Contract,7997
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,57
@@ -17,18 +17,18 @@ item-9,Enhancement Capsule,1880
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,8
-item-14,Original Sample,321
-item-15,Pure Sample,69
+item-14,Original Sample,211
+item-15,Pure Sample,19
 item-16,Quick Analysis Contract,53
 item-17,Data Patch,240
 item-41,Token,2894
 item-42,Exchange Ticket,0
 item-43,Black Card,1
-item-44,Calibration Ticket,16608
-item-45,Memory Fragment,3204
+item-44,Calibration Ticket,16403
+item-45,Memory Fragment,3294
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
-item-50,Universal Parts,1595
+item-50,Universal Parts,1555
 item-51,New Type Fire-Control Component,37
 item-100,Elite Griffin Combat Medal,6
 item-101,Combat Ranking Medal,130
@@ -40,13 +40,13 @@ item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
 item-506,Battery,11273
 item-507,Surplus EXP,130867
-item-508,Friendship Points,9850
-item-509,Fairy Command,146
+item-508,Friendship Points,9970
+item-509,Fairy Command,161
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1110
 item-513,Dark Star Kernel,25750
-item-514,Petri Dish,3808
-item-515,Basic Training Keycode,54189
+item-514,Petri Dish,3896
+item-515,Basic Training Keycode,53389
 item-516,Advanced Training Keycode,37309
 item-517,Specified Equipment Contract,80
 item-519,HOC General Data,233
@@ -331,7 +331,7 @@ item-4002,Snowfield's Gift,4169
 item-4003,Forest's Gift,6182
 item-4004,Wasteland's Gift,3917
 item-6001,Ordinary Meat Bun,0
-item-6002,Bundle of Meat Buns,1
+item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
 item-6004,Commonfolk Standard,1
 item-6005,Comfort Bucket for One,0
