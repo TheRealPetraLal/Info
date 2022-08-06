@@ -659,7 +659,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38258056,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
 38280070,212,Sp. Eq (Exclusive),?????,Custom Tracer Rounds,92997359,Type56R Mod,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,15,Locked
 38280106,213,Sp. Eq (Exclusive),?????,Special Ops Bag,121273575,Welrod Mk? Mod,-,-,15,-,-,-,-,-,5,-,-,-,-,-,1,0,16,Locked
-38280108,215,Sp. Eq (Exclusive),?????,Custom API Rounds,127297851,Type80 Mod,8,-,-,-,-,-,-,162,-,-,-,-,-,-,13826,7,26,Locked
+38280108,215,Sp. Eq (Exclusive),?????,Custom API Rounds,127297851,Type80 Mod,9,-,-,-,-,-,-,168,-,-,-,-,-,-,17926,8,26,Locked
 38288649,214,Sp. Eq (Exclusive),?????,Survival Expert,110170399,F1 Mod,3,-,20,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38295908,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-19%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38304005,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,
@@ -667,13 +667,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38316731,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38322150,157,Sp. Eq (Exclusive),?????,LED Weapon Light,160340087,Gr MP5 Mod,5,9,10,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38332143,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,11%,-,-,-,-,-,-,-,-,1,0,0,Locked
-38397448,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
-38397449,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-38397450,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
-38397451,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,61%,-,0,0,0,
-38397629,18,AP (Ammo),???,M993 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,65,-,-,-,-,-,-,0,0,0,
-38397630,30,HV (Ammo),???,JSP High-Velocity Ammo,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38397631,7,EOT (Holographic),????,EOT 516,-,-,2,4,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
-38397632,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38397633,57,X Exo (Body),????,IOP X3 Exoskeleton,-,-,-,-,6,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38397634,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38412677,87,Cape (Body),??,Ragged Cape,-,-,-,-,-,-3,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38412678,87,Cape (Body),??,Ragged Cape,-,-,-,-,-,-3,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38412679,17,AP (Ammo),??,M61 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,51,-,-,-,-,-,-,0,0,0,
+38412680,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38412681,2,Optical,???,LRA 2-12x50,-,-,-,-,-,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+38414246,75,Buck (Shell),????,#00 Buckshot,-,-,4,-,-,-,-,7%,-,-,-,-,-,-,-,-,0,0,0,
+38414247,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,6,-,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+38414248,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,76%,-,0,0,0,
