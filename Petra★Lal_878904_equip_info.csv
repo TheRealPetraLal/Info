@@ -204,7 +204,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 28417806,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 28417808,8,EOT (Holographic),?????,EOT 518,-,-,5,11,-,-,-5,-,-,-,-,-,-,-,-,-,6300,8,0,Locked
 28433245,58,X Exo (Body),?????,IOP X4 Exoskeleton,147319543,Desert Eagle,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,2,Locked
-28462913,95,HP (Ammo),?????,16Lab Hollow-Point,125771369,Contender,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
+28462913,95,HP (Ammo),?????,16Lab Hollow-Point,128650011,PA-15,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,0,Locked
 28631147,16,PEQ (Night Equip),?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,6,Locked
 28747936,4,Optical,?????,VFL 6-24X56,98267171,NTW-20 Mod,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,7,Locked
 28805185,16,PEQ (Night Equip),?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,10,Locked
@@ -658,7 +658,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38258051,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
 38258056,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
 38280070,212,Sp. Eq (Exclusive),?????,Custom Tracer Rounds,92997359,Type56R Mod,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,15,Locked
-38280106,213,Sp. Eq (Exclusive),?????,Special Ops Bag,121273575,Welrod Mk? Mod,-,-,20,-,-,-,-,-,5,-,-,-,-,-,8101,5,16,Locked
+38280106,213,Sp. Eq (Exclusive),?????,Special Ops Bag,121273575,Welrod Mk? Mod,-,-,22,-,-,-,-,-,5,-,-,-,-,-,12101,7,16,Locked
 38280108,215,Sp. Eq (Exclusive),?????,Custom API Rounds,127297851,Type80 Mod,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,26,Locked
 38288649,214,Sp. Eq (Exclusive),?????,Survival Expert,110170399,F1 Mod,3,-,20,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38295908,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-19%,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -667,6 +667,18 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38316731,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38322150,157,Sp. Eq (Exclusive),?????,LED Weapon Light,160340087,Gr MP5 Mod,5,9,10,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38332143,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,11%,-,-,-,-,-,-,-,-,1,0,0,Locked
-38446158,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,246,-,-,-,-,-,-,1,0,0,
-38450246,80,Slug (Shell),?????,SABOT Slug,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,
-38459956,235,Flash (Shell),?????,Shotgun Flash Shells,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38446158,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,246,-,-,-,-,-,-,1,0,0,Locked
+38450246,80,Slug (Shell),?????,SABOT Slug,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
+38459956,235,Flash (Shell),?????,Shotgun Flash Shells,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
+38473071,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
+38473072,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38473073,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38473074,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
+38473418,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-15%,-,-,-,-,-,-,-,-,0,0,0,
+38473419,235,Flash (Shell),?????,Shotgun Flash Shells,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38473420,230,Birdshot (Shell),????,#6 Birdshot,-,-,-,-,-,-,3,-26%,-,-,-,-,-,-,-,-,0,0,0,
+38473421,230,Birdshot (Shell),????,#6 Birdshot,-,-,-,-,-,-,3,-27%,-,-,-,-,-,-,-,-,0,0,0,
+38479238,7,EOT (Holographic),????,EOT 516,-,-,2,3,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
+38479239,232,Chip (Body),???,Experimental Processor,-,-,1,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
+38479240,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,76%,-,0,0,0,
+38479241,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,62%,-,0,0,0,
