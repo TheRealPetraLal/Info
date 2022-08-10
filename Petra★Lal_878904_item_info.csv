@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6817
-item-31,Basic Training Data,3914
-item-32,Intermediate Training Data,5187
+item-10,Dummy Core,6820
+item-31,Basic Training Data,3814
+item-32,Intermediate Training Data,4187
 item-33,Advanced Training Data,9754
 -1,kalina_level,30
 -1,kalina_favor,636923
-item-1,T-Doll Contract,2709
-item-2,Equipment Contract,865
-item-3,Quick Production Contract,942
-item-4,Quick Repair Contract,8089
+item-1,T-Doll Contract,2711
+item-2,Equipment Contract,878
+item-3,Quick Production Contract,943
+item-4,Quick Repair Contract,8093
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,58
@@ -17,11 +17,11 @@ item-9,Enhancement Capsule,1941
 item-11,Key Card,0
 item-12,Points,350
 item-13,Name Change Card,7
-item-14,Original Sample,81
-item-15,Pure Sample,60
+item-14,Original Sample,11
+item-15,Pure Sample,0
 item-16,Quick Analysis Contract,62
 item-17,Data Patch,255
-item-41,Token,1191
+item-41,Token,1192
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,16338
@@ -38,13 +38,13 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,10613
-item-507,Surplus EXP,345153
-item-508,Friendship Points,10840
+item-506,Battery,10373
+item-507,Surplus EXP,375153
+item-508,Friendship Points,10870
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1420
-item-513,Dark Star Kernel,35050
+item-513,Dark Star Kernel,35450
 item-514,Petri Dish,4037
 item-515,Basic Training Keycode,52565
 item-516,Advanced Training Keycode,35848
@@ -453,7 +453,7 @@ item-110017,Event Points,3000
 item-110018,Event Points,3000
 item-110019,Event Points,2400
 item-110020,Event Points,3000
-item-110039,Event Points,68904937
+item-110039,Event Points,69954232
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
 item-120003,Besties Chatter,1
@@ -484,7 +484,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,778
+gift-200001,Combat Report,858
 gift-400001,Rapid Growth Disk,6538
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
