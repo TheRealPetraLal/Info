@@ -47,7 +47,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 21809659,62,Sp. Eq (Exclusive),?????,GSG UX Exoskeleton,160340087,Gr MP5 Mod,-10,-,58,-,-,-,-,-,-,-,-,-,-,-,30000,10,25,Locked
 21809751,62,Sp. Eq (Exclusive),?????,GSG UX Exoskeleton,90244940,Gr MP5 Mod,-6,-,58,-,-,-,-,-,-,-,-,-,-,-,30000,10,16,Locked
 21815923,155,Sp. Eq (Exclusive),?????,PPK Suppressor,-,-,-,-,18,-,-,-,30%,-,-,-,-,-,-,-,30000,10,16,Locked
-21860704,8,EOT (Holographic),?????,EOT 518,-,-,7,9,-,-,-5,-,-,-,-,-,-,-,-,-,10000,10,1,Locked
+21860704,8,EOT (Holographic),?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,26,Locked
 21996205,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,15,Locked
 21998353,61,Sp. Eq (Exclusive),?????,Titan Fire-Control Chip,-,-,-2,-,-,-,-1,-,-,-,-,-,-,-,-,6,30000,10,16,Locked
 22078209,127,Sp. Eq (Exclusive),?????,Hi-Performance Tactical Hair Accessory,-,-,25,10,20,-,-,-,-,-,-,-,-,-,-,-,30000,10,0,Locked
@@ -658,7 +658,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38258051,12,Red Dot,?????,ITI MARS,-,-,-,12,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
 38258056,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
 38280070,212,Sp. Eq (Exclusive),?????,Custom Tracer Rounds,92997359,Type56R Mod,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,15,Locked
-38280106,213,Sp. Eq (Exclusive),?????,Special Ops Bag,121273575,Welrod Mk? Mod,-,-,22,-,-,-,-,-,5,-,-,-,-,-,12101,7,16,Locked
+38280106,213,Sp. Eq (Exclusive),?????,Special Ops Bag,121273575,Welrod Mk? Mod,-,-,22,-,-,-,-,-,5,-,-,-,-,-,16701,7,16,Locked
 38280108,215,Sp. Eq (Exclusive),?????,Custom API Rounds,127297851,Type80 Mod,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,26,Locked
 38288649,214,Sp. Eq (Exclusive),?????,Survival Expert,110170399,F1 Mod,3,-,20,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38295908,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-19%,-,-,-,-,-,-,-,-,0,0,0,Locked
@@ -670,15 +670,19 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38446158,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,246,-,-,-,-,-,-,1,0,0,Locked
 38450246,80,Slug (Shell),?????,SABOT Slug,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 38459956,235,Flash (Shell),?????,Shotgun Flash Shells,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-38473071,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
-38473072,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38473073,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
-38473074,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
 38473418,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-15%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38473419,235,Flash (Shell),?????,Shotgun Flash Shells,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-38473420,230,Birdshot (Shell),????,#6 Birdshot,-,-,-,-,-,-,3,-26%,-,-,-,-,-,-,-,-,0,0,0,
-38473421,230,Birdshot (Shell),????,#6 Birdshot,-,-,-,-,-,-,3,-27%,-,-,-,-,-,-,-,-,0,0,0,
-38479238,7,EOT (Holographic),????,EOT 516,-,-,2,3,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
-38479239,232,Chip (Body),???,Experimental Processor,-,-,1,-,-,-,3,-50%,-,-,-,-,-,-,-,-,0,0,0,
-38479240,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,76%,-,0,0,0,
-38479241,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,62%,-,0,0,0,
+38490491,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38490492,230,Birdshot (Shell),????,#6 Birdshot,-,-,-,-,-,-,3,-24%,-,-,-,-,-,-,-,-,0,0,0,
+38490493,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38490494,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38490495,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
+38490496,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38490497,75,Buck (Shell),????,#00 Buckshot,-,-,4,-,-,-,-,8%,-,-,-,-,-,-,-,-,0,0,0,
+38490498,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
+38490499,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38490500,6,EOT (Holographic),???,EOT 512,-,-,1,2,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
+38490501,65,Supp (Silencer),????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+38490502,65,Supp (Silencer),????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+38490503,7,EOT (Holographic),????,EOT 516,-,-,2,3,-,-,-3,-,-,-,-,-,-,-,-,-,0,0,0,
+38490504,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,

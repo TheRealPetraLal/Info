@@ -2,33 +2,33 @@ Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
 item-10,Dummy Core,6821
 item-31,Basic Training Data,3314
-item-32,Intermediate Training Data,3387
-item-33,Advanced Training Data,9354
+item-32,Intermediate Training Data,3267
+item-33,Advanced Training Data,9554
 -1,kalina_level,30
--1,kalina_favor,637136
-item-1,T-Doll Contract,2720
-item-2,Equipment Contract,885
-item-3,Quick Production Contract,950
-item-4,Quick Repair Contract,8097
+-1,kalina_favor,637349
+item-1,T-Doll Contract,2726
+item-2,Equipment Contract,887
+item-3,Quick Production Contract,958
+item-4,Quick Repair Contract,8105
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,58
-item-9,Enhancement Capsule,1936
-item-11,Key Card,1
-item-12,Points,420
+item-9,Enhancement Capsule,1931
+item-11,Key Card,0
+item-12,Points,510
 item-13,Name Change Card,7
-item-14,Original Sample,11
-item-15,Pure Sample,4
-item-16,Quick Analysis Contract,63
+item-14,Original Sample,111
+item-15,Pure Sample,50
+item-16,Quick Analysis Contract,64
 item-17,Data Patch,256
-item-41,Token,1207
+item-41,Token,1214
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,16348
+item-44,Calibration Ticket,16008
 item-45,Memory Fragment,5014
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
-item-50,Universal Parts,1376
+item-50,Universal Parts,1350
 item-51,New Type Fire-Control Component,37
 item-100,Elite Griffin Combat Medal,6
 item-101,Combat Ranking Medal,130
@@ -38,9 +38,9 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,10233
-item-507,Surplus EXP,270578
-item-508,Friendship Points,10970
+item-506,Battery,10103
+item-507,Surplus EXP,226821
+item-508,Friendship Points,11150
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,1420
@@ -48,8 +48,8 @@ item-513,Dark Star Kernel,35450
 item-514,Petri Dish,4125
 item-515,Basic Training Keycode,53048
 item-516,Advanced Training Keycode,36352
-item-517,Specified Equipment Contract,76
-item-519,HOC General Data,234
+item-517,Specified Equipment Contract,72
+item-519,HOC General Data,235
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
@@ -58,7 +58,7 @@ item-525,Quick Auto-Battle Contract,844
 item-601,Infinite Surprise Dye,11
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,1
+item-604,Electronic Impulse,6
 item-605,Aid Commission,41
 item-606,Transfer Catalyst,75
 item-1001,AAT-52 Icon,1
@@ -326,9 +326,9 @@ item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
 item-2124,ID Card: Mirror Stage,1
-item-4001,City's Gift,14318
-item-4002,Snowfield's Gift,6388
-item-4003,Forest's Gift,7741
+item-4001,City's Gift,14353
+item-4002,Snowfield's Gift,6739
+item-4003,Forest's Gift,7776
 item-4004,Wasteland's Gift,4817
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
@@ -338,8 +338,8 @@ item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,1
-item-6009,Sweet Explosives,1
-item-6010,"Baby  B-A-B-Y.",23
+item-6009,Sweet Explosives,2
+item-6010,"Baby  B-A-B-Y.",24
 item-6011,Streetside Oden,17
 item-6012,Wild Honeycomb,1
 item-6013,Icy Theater,19
@@ -408,7 +408,7 @@ item-100072,Platinum Medal - Bounty Feast,0
 item-100073,Star Ornament,20
 item-100074,Nova Medal·A Snowy Night Capriccio,3
 item-100075,Platinum Medal·A Snowy Night Capriccio,0
-item-100077,Supply Box - Mirror Stage,60
+item-100077,Supply Box - Mirror Stage,120
 item-100078,Nova Medal - Mirror Stage,336
 item-100079,Platinum Medal - Mirror Stage,231
 item-100080,True Core Mask - Mirror Stage,0
@@ -479,12 +479,12 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,2091
 gift-100002,Ice Cream Cone,172
-gift-100003,Strawberry Custard Cheesecake,3583
+gift-100003,Strawberry Custard Cheesecake,3585
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,938
+gift-200001,Combat Report,1018
 gift-400001,Rapid Growth Disk,6638
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
