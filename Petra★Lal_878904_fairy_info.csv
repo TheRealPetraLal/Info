@@ -8,7 +8,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 228732,2,?????,3000,100,Fury Fairy,15.0,0.0,40.0,10.0,40.0,Fervor,10,Locked
 244953,9,?????,3000,100,Airstrike Fairy,30.0,50.0,40.0,10.0,0.0,Assault,10,Locked
 257422,20,?????,550,100,Fireworks Fairy,32.0,75.0,32.0,8.0,0.0,Damage II,10,Locked
-259131,5,??,300,24,Defense Fairy,6.5,0.0,23.5,6.0,0.0,Evasion II,4,Locked
+259131,5,??,300,26,Defense Fairy,7.0,0.0,23.5,6.0,0.0,Evasion II,4,Locked
 266091,1,?????,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0.0,Fervor,10,Locked
 267172,25,?????,3000,100,Twin Fairies,18.0,60.0,48.0,12.0,0.0,Damage II,10,Locked
 284125,1005,?????,550,100,Sehra & Nina,15.0,40.0,50.0,0.0,20.0,Fervor,10,Locked
@@ -149,6 +149,9 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 802501,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Damage II,1,
 802949,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Aim,1,
 802950,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Damage II,1,
+803376,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Accuracy II,1,
+803377,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Armor I,1,
+803514,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Aim,1,
 689089,11,???,510,84,Parachute Fairy,19.2,0.0,17.4,4.2,21.6,Accuracy II,10,Locked
 602579,11,??,420,100,Parachute Fairy,18.0,0.0,16.0,4.0,20.0,Accuracy I,10,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
