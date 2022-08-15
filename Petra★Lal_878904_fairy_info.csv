@@ -156,7 +156,9 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 803801,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Damage II,1,
 803997,4,?,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0.0,Evasion I,1,
 804498,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Evasion II,1,
-689089,11,???,510,85,Parachute Fairy,19.8,0.0,17.4,4.2,21.6,Accuracy II,10,Locked
+804936,4,?,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0.0,Keen,1,
+804937,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Evasion II,1,
+689089,11,???,510,87,Parachute Fairy,19.8,0.0,18.0,4.2,22.2,Accuracy II,10,Locked
 602579,11,??,420,100,Parachute Fairy,18.0,0.0,16.0,4.0,20.0,Accuracy I,10,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 354824,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
