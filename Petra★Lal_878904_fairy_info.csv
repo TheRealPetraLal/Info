@@ -160,7 +160,10 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 805602,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Evasion I,1,
 805603,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Suppression,1,
 805604,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Critical I,1,
-689089,11,???,510,87,Parachute Fairy,19.8,0.0,18.0,4.2,22.2,Accuracy II,10,Locked
+806277,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Damage II,1,
+806278,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Critical I,1,
+806421,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Critical I,1,
+689089,11,???,510,88,Parachute Fairy,19.8,0.0,18.0,4.2,22.2,Accuracy II,10,Locked
 602579,11,??,420,100,Parachute Fairy,18.0,0.0,16.0,4.0,20.0,Accuracy I,10,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 794035,29,?????,550,40,Cheerleader Fairy,13.8,29.4,7.8,7.2,0.0,Fervor,10,Locked

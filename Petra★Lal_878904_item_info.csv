@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6779
-item-31,Basic Training Data,2294
-item-32,Intermediate Training Data,307
-item-33,Advanced Training Data,7484
+item-10,Dummy Core,6764
+item-31,Basic Training Data,9114
+item-32,Intermediate Training Data,8969
+item-33,Advanced Training Data,8144
 -1,kalina_level,30
--1,kalina_favor,638201
-item-1,T-Doll Contract,2729
-item-2,Equipment Contract,956
-item-3,Quick Production Contract,1008
-item-4,Quick Repair Contract,8165
+-1,kalina_favor,638414
+item-1,T-Doll Contract,2736
+item-2,Equipment Contract,963
+item-3,Quick Production Contract,1019
+item-4,Quick Repair Contract,8189
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,61
-item-9,Enhancement Capsule,2001
-item-11,Key Card,18
+item-9,Enhancement Capsule,2012
+item-11,Key Card,26
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,41
-item-15,Pure Sample,29
-item-16,Quick Analysis Contract,71
-item-17,Data Patch,262
-item-41,Token,1355
+item-14,Original Sample,81
+item-15,Pure Sample,33
+item-16,Quick Analysis Contract,72
+item-17,Data Patch,263
+item-41,Token,1880
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,15048
-item-45,Memory Fragment,6424
+item-44,Calibration Ticket,15618
+item-45,Memory Fragment,7464
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
-item-50,Universal Parts,1218
+item-50,Universal Parts,1204
 item-51,New Type Fire-Control Component,37
 item-100,Elite Griffin Combat Medal,6
 item-101,Combat Ranking Medal,130
@@ -38,9 +38,9 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,9999
-item-507,Surplus EXP,59218
-item-508,Friendship Points,11770
+item-506,Battery,10009
+item-507,Surplus EXP,39538
+item-508,Friendship Points,11820
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,620
@@ -54,7 +54,7 @@ item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,849
+item-525,Quick Auto-Battle Contract,852
 item-601,Infinite Surprise Dye,11
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
@@ -408,7 +408,7 @@ item-100072,Platinum Medal - Bounty Feast,0
 item-100073,Star Ornament,20
 item-100074,Nova Medal·A Snowy Night Capriccio,3
 item-100075,Platinum Medal·A Snowy Night Capriccio,0
-item-100077,Supply Box - Mirror Stage,60
+item-100077,Supply Box - Mirror Stage,0
 item-100078,Nova Medal - Mirror Stage,336
 item-100079,Platinum Medal - Mirror Stage,231
 item-100080,True Core Mask - Mirror Stage,0
@@ -477,16 +477,16 @@ item-900044,Platinum Medal·Far Side of the Sea,4
 item-900045,Azure Conch,0
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
+gift-6204,A Loyal Friend's Company,1
 gift-100001,Lollipop,2093
 gift-100002,Ice Cream Cone,173
-gift-100003,Strawberry Custard Cheesecake,3593
+gift-100003,Strawberry Custard Cheesecake,3600
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,960
-gift-400001,Rapid Growth Disk,7174
-gift-6204,A Loyal Friend's Company,1
+gift-200001,Combat Report,1120
+gift-400001,Rapid Growth Disk,7318
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
