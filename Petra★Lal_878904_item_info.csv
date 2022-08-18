@@ -1,27 +1,27 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6732
-item-31,Basic Training Data,9114
-item-32,Intermediate Training Data,9169
-item-33,Advanced Training Data,7944
+item-10,Dummy Core,6582
+item-31,Basic Training Data,8814
+item-32,Intermediate Training Data,8849
+item-33,Advanced Training Data,7344
 -1,kalina_level,30
 -1,kalina_favor,638622
-item-1,T-Doll Contract,2739
-item-2,Equipment Contract,966
-item-3,Quick Production Contract,1023
-item-4,Quick Repair Contract,8189
+item-1,T-Doll Contract,2747
+item-2,Equipment Contract,961
+item-3,Quick Production Contract,1029
+item-4,Quick Repair Contract,8194
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,61
 item-9,Enhancement Capsule,2007
-item-11,Key Card,26
+item-11,Key Card,29
 item-12,Points,0
 item-13,Name Change Card,7
 item-14,Original Sample,81
 item-15,Pure Sample,33
 item-16,Quick Analysis Contract,72
 item-17,Data Patch,263
-item-41,Token,1894
+item-41,Token,1896
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,16618
@@ -57,7 +57,7 @@ item-524,Goliath Projectile,0
 item-525,Quick Auto-Battle Contract,852
 item-601,Infinite Surprise Dye,11
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,12
+item-603,Potential Energy,0
 item-604,Electronic Impulse,8
 item-605,Aid Commission,42
 item-606,Transfer Catalyst,75
@@ -485,8 +485,8 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,2200
-gift-400001,Rapid Growth Disk,7398
+gift-200001,Combat Report,150
+gift-400001,Rapid Growth Disk,7542
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
