@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6614
-item-31,Basic Training Data,7934
-item-32,Intermediate Training Data,9395
-item-33,Advanced Training Data,7584
+item-10,Dummy Core,6605
+item-31,Basic Training Data,8474
+item-32,Intermediate Training Data,8485
+item-33,Advanced Training Data,7724
 -1,kalina_level,30
 -1,kalina_favor,639048
-item-1,T-Doll Contract,2758
-item-2,Equipment Contract,982
-item-3,Quick Production Contract,1041
-item-4,Quick Repair Contract,8213
+item-1,T-Doll Contract,2763
+item-2,Equipment Contract,980
+item-3,Quick Production Contract,1044
+item-4,Quick Repair Contract,8222
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,61
-item-9,Enhancement Capsule,1995
-item-11,Key Card,41
+item-9,Enhancement Capsule,2016
+item-11,Key Card,42
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,141
-item-15,Pure Sample,6
-item-16,Quick Analysis Contract,76
+item-14,Original Sample,1
+item-15,Pure Sample,5
+item-16,Quick Analysis Contract,78
 item-17,Data Patch,267
-item-41,Token,1904
+item-41,Token,1909
 item-42,Exchange Ticket,0
 item-43,Black Card,0
-item-44,Calibration Ticket,16618
-item-45,Memory Fragment,7464
+item-44,Calibration Ticket,16708
+item-45,Memory Fragment,7574
 item-46,Special Combat Report,10796
 item-47,Theater Material,6
-item-50,Universal Parts,1162
+item-50,Universal Parts,1150
 item-51,New Type Fire-Control Component,37
 item-100,Elite Griffin Combat Medal,6
 item-101,Combat Ranking Medal,130
@@ -38,9 +38,9 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,10099
+item-506,Battery,10209
 item-507,Surplus EXP,202750
-item-508,Friendship Points,12010
+item-508,Friendship Points,12070
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,620
@@ -54,7 +54,7 @@ item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,858
+item-525,Quick Auto-Battle Contract,861
 item-601,Infinite Surprise Dye,11
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
@@ -408,7 +408,7 @@ item-100072,Platinum Medal - Bounty Feast,0
 item-100073,Star Ornament,20
 item-100074,Nova Medal·A Snowy Night Capriccio,3
 item-100075,Platinum Medal·A Snowy Night Capriccio,0
-item-100077,Supply Box - Mirror Stage,100
+item-100077,Supply Box - Mirror Stage,0
 item-100078,Nova Medal - Mirror Stage,336
 item-100079,Platinum Medal - Mirror Stage,231
 item-100080,True Core Mask - Mirror Stage,0

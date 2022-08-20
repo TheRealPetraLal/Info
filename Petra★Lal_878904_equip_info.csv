@@ -652,7 +652,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38280070,212,Sp. Eq (Exclusive),?????,Custom Tracer Rounds,92997359,Type56R Mod,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,15,Locked
 38280106,213,Sp. Eq (Exclusive),?????,Special Ops Bag,121273575,Welrod Mk? Mod,-,-,25,-,-,-,-,-,5,-,-,-,-,-,30000,10,16,Locked
 38280108,215,Sp. Eq (Exclusive),?????,Custom API Rounds,127297851,Type80 Mod,10,-,-,-,-,-,-,180,-,-,-,-,-,-,30000,10,26,Locked
-38288649,214,Sp. Eq (Exclusive),?????,Survival Expert,110170399,F1 Mod,3,-,20,-,-,-,-,-,-,-,-,-,-,-,1001,1,0,Locked
+38288649,214,Sp. Eq (Exclusive),?????,Survival Expert,110170399,F1 Mod,4,-,24,-,-,-,-,-,-,-,-,-,-,-,5976,5,0,Locked
 38295908,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6,-19%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38304005,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,
 38311502,217,Sp. Eq (Exclusive),?????,SB 2.5-10x56,-,-,3,-,-,-,-,-,25%,-,-,-,-,-,-,-,1,0,0,Locked
@@ -676,18 +676,3 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38575103,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,18%,-,-,-,-,-,-,-,0,0,0,
 38585496,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,12%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38586528,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,22,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-38599847,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
-38599848,89,Cape (Body),????,Urban Camouflage Cape,-,-,-,-,-,-3,-,8%,-,-,-,-,-,-,-,-,0,0,0,
-38599849,88,Cape (Body),???,Camouflage Cape,-,-,-,-,-,-3,-,5%,-,-,-,-,-,-,-,-,0,0,0,
-38599850,222,RMR (Auxiliary Sight),???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,5%,-,-,-,-,-,-,-,0,0,0,
-38599851,65,Supp (Silencer),????,AC3 Suppressor,-,-,-,-,4,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
-38599852,11,Red Dot,????,COG M150,-,-,-,7,-,-,-2,-,-,-,-,-,-,-,-,-,0,0,0,
-38612219,69,HP (Ammo),??,ILM Hollow-Point Ammo,-,-,1,-,-,-,-,-,-,-1,-,-,-,-,-,-,0,0,0,
-38612220,233,Chip (Body),????,#1 Processor,-,-,4,-,-,-,8,-50%,-,-,-,-,-,-,-,-,0,0,0,
-38612221,70,HP (Ammo),???,ILM Hollow-Point Ammo,-,-,2,-,-,-,-,-,-,-2,-,-,-,-,-,-,0,0,0,
-38612222,73,Buck (Shell),??,#1 Buckshot,-,-,1,-,-,-,-,3%,-,-,-,-,-,-,-,-,0,0,0,
-38612223,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38612224,222,RMR (Auxiliary Sight),???,RMR Red Dot Sight,-,-,-,3,-,-,-,-,5%,-,-,-,-,-,-,-,0,0,0,
-38612225,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
-38612226,2,Optical,???,LRA 2-12x50,-,-,-,-,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
-38612227,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,6,-,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
