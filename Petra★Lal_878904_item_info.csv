@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6696
-item-31,Basic Training Data,8024
+item-10,Dummy Core,6741
+item-31,Basic Training Data,8044
 item-32,Intermediate Training Data,5957
-item-33,Advanced Training Data,7680
+item-33,Advanced Training Data,7180
 -1,kalina_level,30
 -1,kalina_favor,643473
-item-1,T-Doll Contract,2756
-item-2,Equipment Contract,1026
-item-3,Quick Production Contract,1084
-item-4,Quick Repair Contract,8274
+item-1,T-Doll Contract,2711
+item-2,Equipment Contract,1025
+item-3,Quick Production Contract,1086
+item-4,Quick Repair Contract,8276
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
 item-8,Quick Training Contract,61
@@ -17,11 +17,11 @@ item-9,Enhancement Capsule,2045
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,41
-item-15,Pure Sample,34
+item-14,Original Sample,1
+item-15,Pure Sample,14
 item-16,Quick Analysis Contract,85
-item-17,Data Patch,275
-item-41,Token,1950
+item-17,Data Patch,276
+item-41,Token,1952
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,16668
@@ -38,9 +38,9 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,11309
-item-507,Surplus EXP,171108
-item-508,Friendship Points,12470
+item-506,Battery,10589
+item-507,Surplus EXP,555780
+item-508,Friendship Points,12540
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,980
@@ -326,10 +326,10 @@ item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
 item-2124,ID Card: Mirror Stage,1
-item-4001,City's Gift,15287
-item-4002,Snowfield's Gift,9940
-item-4003,Forest's Gift,10951
-item-4004,Wasteland's Gift,6034
+item-4001,City's Gift,15328
+item-4002,Snowfield's Gift,10372
+item-4003,Forest's Gift,11233
+item-4004,Wasteland's Gift,6059
 item-6001,Ordinary Meat Bun,0
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
@@ -338,8 +338,8 @@ item-6005,Comfort Bucket for One,0
 item-6006,Full Meal for Two,0
 item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,0
-item-6009,Sweet Explosives,1
-item-6010,"Baby  B-A-B-Y.",25
+item-6009,Sweet Explosives,0
+item-6010,"Baby  B-A-B-Y.",26
 item-6011,Streetside Oden,18
 item-6012,Wild Honeycomb,1
 item-6013,Icy Theater,20
@@ -484,7 +484,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,720
+gift-200001,Combat Report,960
 gift-400001,Rapid Growth Disk,8140
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
