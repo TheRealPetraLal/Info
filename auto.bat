@@ -1,4 +1,4 @@
 @echo off
-git add --all
+git add .
 git commit -m "scheduled commit"
 git push 
