@@ -113,7 +113,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 24980714,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,3,Locked
 25005470,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 25005471,4,Optical,?????,VFL 6-24X56,184225571,General Liu,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,12,Locked
-25017897,12,Red Dot,?????,ITI MARS,-,-,-,25,-,-,-1,-,-,-,-,-,-,-,-,-,4425,7,16,Locked
+25017897,12,Red Dot,?????,ITI MARS,-,-,-,28,-,-,-1,-,-,-,-,-,-,-,-,-,8225,9,16,Locked
 25085583,40,T Exo (Body),?????,IOP T4 Exoskeleton,130415829,P22,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,6,Locked
 25202461,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-4,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 25225818,4,Optical,?????,VFL 6-24X56,123050147,SRS,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,10,Locked
@@ -153,7 +153,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 26665913,72,HP (Ammo),?????,ILM Hollow-Point Ammo,136560266,Python,15,-,-,-,-,-,-,-7,-,-,-,-,-,-,10000,10,16,Locked
 26665968,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,190987637,Carcano M91/38,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,11,Locked
 26722858,66,Supp (Silencer),?????,AC4 Suppressor,106392321,Gr G36c,-,-,7,-,-,-,16%,-,-,-,-,-,-,-,10000,10,0,Locked
-26758054,133,Sp. Eq (Exclusive),?????,Stechkin Buttstock,-,-,-,1,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
+26758054,133,Sp. Eq (Exclusive),?????,Stechkin Buttstock,132163007,Stechkin,-,1,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 26877099,44,Plate (Body),?????,Type 3 Armor Plate,193829779,FO-12,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10000,10,6,Locked
 26905680,4,Optical,?????,VFL 6-24X56,147949376,Kord,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,7,Locked
 26939465,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,4,Locked
@@ -678,8 +678,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38665166,235,Flash (Shell),?????,Shotgun Flash Shells,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
 38687553,8,EOT (Holographic),?????,EOT 518,-,-,4,7,-,-,-5,-,-,-,-,-,-,-,-,-,0,0,0,
 38687567,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,
-38699904,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
-38700702,43,Plate (Body),????,Type 2 Armor Plate,-,-,-,-,-1,-,-,-,-,-,4,-,-,-,-,-,0,0,0,
-38700703,233,Chip (Body),????,#1 Processor,-,-,4,-,-,-,8,-50%,-,-,-,-,-,-,-,-,0,0,0,
-38700704,15,PEQ (Night Equip),????,PEQ-15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,76%,-,0,0,0,
-38700705,39,T Exo (Body),????,IOP T3 Exoskeleton,-,-,-5,-,14,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38712284,77,Slug (Shell),??,BK Slug,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38712285,74,Buck (Shell),???,#0 Buckshot,-,-,2,-,-,-,-,5%,-,-,-,-,-,-,-,-,0,0,0,
+38712286,233,Chip (Body),????,#1 Processor,-,-,4,-,-,-,8,-50%,-,-,-,-,-,-,-,-,0,0,0,
+38712325,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5,-,-,195,-,-,-,-,-,-,0,0,0,
