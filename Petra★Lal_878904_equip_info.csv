@@ -268,7 +268,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 31072043,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,180,-,-,-,-,-,-,10000,10,8,Locked
 31088568,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,-,19%,-,-,-,-,-,-,-,0,0,0,Locked
 31120670,175,Sp. Eq (Exclusive),?????,BPR4 & SRM6,-,-,2,-,7,-,-,-,18%,-,-,-,-,-,-,-,1,0,0,Locked
-31209015,112,Sp. Eq (Exclusive),?????,CT 4X20,-,-,-,27,-,-,-1,-,27%,-,-,-,-,-,-,-,19901,8,7,Locked
+31209015,112,Sp. Eq (Exclusive),?????,CT 4X20,-,-,-,28,-,-,-1,-,28%,-,-,-,-,-,-,-,24026,9,7,Locked
 31209927,40,T Exo (Body),?????,IOP T4 Exoskeleton,130913655,P22,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,16,Locked
 31222211,66,Supp (Silencer),?????,AC4 Suppressor,121273575,Welrod Mk? Mod,-,-,6,-,-,-,12%,-,-,-,-,-,-,-,0,0,0,Locked
 31287738,68,Box (MG Clip),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,2,0,0,0,Locked
@@ -680,7 +680,3 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38687567,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,1,0,0,
 38721787,16,PEQ (Night Equip),?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,95%,-,0,0,0,Locked
 38733546,235,Flash (Shell),?????,Shotgun Flash Shells,-,-,-,10,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
-38768129,13,PEQ (Night Equip),??,PEQ-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,52%,-,0,0,0,
-38768130,18,AP (Ammo),???,M993 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,70,-,-,-,-,-,-,0,0,0,
-38768131,87,Cape (Body),??,Ragged Cape,-,-,-,-,-,-3,-,3%,-,-,-,-,-,-,-,-,0,0,0,
-38768132,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,8,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
