@@ -15,7 +15,6 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 289401,1006,?????,550,100,Preiya & Camilia,22.0,50.0,10.0,10.0,22.0,Fervor,10,Locked
 313987,1004,?????,550,100,Suee,0.0,0.0,70.0,18.0,30.0,Fervor,10,Locked
 346689,12,?,0,40,Landmine Fairy,7.6,13.2,25.2,0.0,0.0,Critical I,4,Locked
-354824,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
 366421,10,????,1500,71,Reinforcement Fairy,8.0,0.0,58.4,8.0,10.4,Damage I,4,Locked
 373900,21,?????,550,100,Zodiac Fairy,25.0,0.0,20.0,20.0,25.0,Damage II,10,Locked
 391838,13,?,0,12,Rocket Fairy,0.0,11.2,0.0,5.6,8.8,Charge,4,Locked
@@ -45,7 +44,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 677135,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Charge,1,
 677410,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion II,1,
 679835,6,?????,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,25.0,Fervor,10,Locked
-689089,11,???,510,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Accuracy II,10,Locked
+689089,11,???,525,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Accuracy II,10,Locked
 692681,5,?,0,1,Defense Fairy,4.0,0.0,14.4,3.6,0.0,Evasion I,1,
 692805,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Evasion II,1,
 721263,28,?????,550,100,Sand Dancer Fairy,30.0,30.0,60.0,0.0,16.0,Fervor,10,Locked
@@ -130,6 +129,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 792759,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Evasion I,10,
 793452,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Aim,1,
 793454,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Accuracy I,1,
+794035,29,?????,550,41,Cheerleader Fairy,13.8,29.4,7.8,7.2,0.0,Fervor,10,Locked
 795545,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Critical I,1,
 795546,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Accuracy II,1,
 797536,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Damage II,1,
@@ -147,7 +147,6 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 802501,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Damage II,1,
 802949,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Aim,1,
 802950,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Damage II,1,
-803376,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Accuracy II,1,
 803377,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Armor I,1,
 803514,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Aim,1,
 803800,6,?,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Armor II,1,
@@ -198,9 +197,18 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 815261,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0.0,Evasion II,1,
 815594,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Assault,1,
 815595,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Sturdy,1,
-794575,29,?????,550,74,Cheerleader Fairy,24.0,50.4,13.6,12.8,0.0,Damage II,10,Locked
+816304,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Critical I,1,
+816305,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Evasion II,1,
+816306,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Evasion II,1,
+816505,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Damage I,1,
+816506,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Damage I,1,
+816673,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Aim,1,
+816942,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Fervor,1,
+817091,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Critical I,1,
+817092,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Charge,1,
+794575,29,?????,550,84,Cheerleader Fairy,25.6,54.4,14.4,13.6,0.0,Damage II,10,Locked
 602579,11,??,420,100,Parachute Fairy,18.0,0.0,16.0,4.0,20.0,Accuracy I,10,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
-794035,29,?????,550,41,Cheerleader Fairy,13.8,29.4,7.8,7.2,0.0,Fervor,10,Locked
+354824,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
 441155,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
 181576,8,?????,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0.0,Damage II,10,Locked
