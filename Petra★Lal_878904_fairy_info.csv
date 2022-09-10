@@ -14,7 +14,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 284125,1005,?????,550,100,Sehra & Nina,15.0,40.0,50.0,0.0,20.0,Fervor,10,Locked
 289401,1006,?????,550,100,Preiya & Camilia,22.0,50.0,10.0,10.0,22.0,Fervor,10,Locked
 313987,1004,?????,550,100,Suee,0.0,0.0,70.0,18.0,30.0,Fervor,10,Locked
-346689,12,?,0,40,Landmine Fairy,7.6,13.2,25.2,0.0,0.0,Critical I,4,Locked
+346689,12,??,150,40,Landmine Fairy,9.5,16.5,31.5,0.0,0.0,Critical I,4,Locked
 366421,10,????,1500,71,Reinforcement Fairy,8.0,0.0,58.4,8.0,10.4,Damage I,4,Locked
 373900,21,?????,550,100,Zodiac Fairy,25.0,0.0,20.0,20.0,25.0,Damage II,10,Locked
 391838,13,?,0,12,Rocket Fairy,0.0,11.2,0.0,5.6,8.8,Charge,4,Locked
@@ -54,7 +54,6 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 723444,12,?,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0.0,Fervor,1,
 729896,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Damage I,1,
 731174,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Fervor,10,
-731802,12,?,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0.0,Critical I,1,
 736005,10,?,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,2.4,Evasion I,1,
 738957,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Sturdy,1,
 741632,11,??,135,40,Parachute Fairy,11.5,0.0,10.5,2.5,13.0,Evasion I,10,Locked
@@ -206,7 +205,10 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 816942,13,?,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,8.0,Fervor,1,
 817091,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Critical I,1,
 817092,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Charge,1,
-794575,29,?????,550,86,Cheerleader Fairy,26.4,55.2,14.4,13.6,0.0,Damage II,10,Locked
+817719,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Critical II,1,
+817780,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Critical I,1,
+817781,17,?,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Damage I,1,
+794575,29,?????,550,88,Cheerleader Fairy,26.4,56.0,14.4,13.6,0.0,Damage II,10,Locked
 602579,11,??,420,100,Parachute Fairy,18.0,0.0,16.0,4.0,20.0,Accuracy I,10,Locked
 346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 354824,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
