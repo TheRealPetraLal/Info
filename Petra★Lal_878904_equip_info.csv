@@ -617,7 +617,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 37822322,49,PEQ (Night Equip),?????,16Lab Infrared Designator,89413427,M4A1 Mod,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,1,0,0,Locked
 37848533,225,Flare (Ammo),?????,Signal Flare,-,-,-,-,-,-,-3,-,-,-,-,-,-,-,-,-,1,0,0,Locked
 37848586,109,Optical,?????,16Lab 6-24X56,121173906,PKP,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,10000,10,0,Locked
-37867008,180,Sp. Eq (Exclusive),?????,Tactical Grip,89563705,Makarov,-,-,17,-,-,-,18%,-,-,-,-,-,-,-,8476,6,16,Locked
+37867008,180,Sp. Eq (Exclusive),?????,Tactical Grip,89563705,Makarov,-,-,18,-,-,-,18%,-,-,-,-,-,-,-,12651,7,16,Locked
 37885895,110,HV (Ammo),?????,16Lab High-Velocity Ammo,151934555,416 Mod,20,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,0,Locked
 37902609,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,245,-,-,-,-,-,-,1,0,0,Locked
 37952738,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5,-,-,244,-,-,-,-,-,-,0,0,0,Locked
@@ -681,4 +681,15 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38908097,76,Buck (Shell),?????,#000 Buckshot,-,-,7,-,-,-,-,13%,-,-,-,-,-,-,-,-,0,0,0,Locked
 38926493,58,X Exo (Body),?????,IOP X4 Exoskeleton,-,-,-,-,9,-,-,-,-,-,-,-,-,-,-,-,0,0,0,Locked
 38926497,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,-,-,-,10,-,-,-,-,13%,-,-,-,-,-,-,-,0,0,0,
-38956078,43,Plate (Body),????,Type 2 Armor Plate,-,-,-,-,-1,-,-,-,-,-,4,-,-,-,-,-,1,0,0,
+38961800,55,X Exo (Body),??,IOP X1 Exoskeleton,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38961801,71,HP (Ammo),????,ILM Hollow-Point Ammo,-,-,5,-,-,-,-,-,-,-5,-,-,-,-,-,-,0,0,0,
+38961802,29,HV (Ammo),??,FMJ High-Velocity Ammo,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38961803,230,Birdshot (Shell),????,#6 Birdshot,-,-,-,-,-,-,3,-27%,-,-,-,-,-,-,-,-,0,0,0,
+38961804,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
+38961805,38,T Exo (Body),???,IOP T2 Exoskeleton,-,-,-3,-,10,-,-,-,-,-,-,-,-,-,-,-,0,0,0,
+38961806,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
+38961807,10,Red Dot,???,AMP COMPM4,-,-,-,4,-,-,-1,-,-,-,-,-,-,-,-,-,0,0,0,
+38961808,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,7,-,-,-,-,10%,-,-,-,-,-,-,-,0,0,0,
+38961809,2,Optical,???,LRA 2-12x50,-,-,-,-,-,-,-,-,9%,-,-,-,-,-,-,-,0,0,0,
+38961810,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1,-,-,-,-,-,3,-,-,-,-,-,0,0,0,
+38961811,14,PEQ (Night Equip),???,PEQ-5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,65%,-,0,0,0,
