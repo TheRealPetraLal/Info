@@ -1,15 +1,15 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,6483
+item-10,Dummy Core,6491
 item-31,Basic Training Data,5844
-item-32,Intermediate Training Data,52
-item-33,Advanced Training Data,6048
+item-32,Intermediate Training Data,445
+item-33,Advanced Training Data,5848
 -1,kalina_level,30
 -1,kalina_favor,701059
-item-1,T-Doll Contract,2941
-item-2,Equipment Contract,1272
-item-3,Quick Production Contract,1323
-item-4,Quick Repair Contract,8603
+item-1,T-Doll Contract,2946
+item-2,Equipment Contract,1274
+item-3,Quick Production Contract,1325
+item-4,Quick Repair Contract,8607
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,72
@@ -17,11 +17,11 @@ item-9,Enhancement Capsule,1230
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,91
-item-15,Pure Sample,7
-item-16,Quick Analysis Contract,154
-item-17,Data Patch,134
-item-41,Token,329
+item-14,Original Sample,201
+item-15,Pure Sample,68
+item-16,Quick Analysis Contract,155
+item-17,Data Patch,135
+item-41,Token,332
 item-42,Exchange Ticket,0
 item-43,Black Card,5
 item-44,Calibration Ticket,11823
@@ -40,14 +40,14 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,29
-item-506,Battery,3202
-item-507,Surplus EXP,149740
-item-508,Friendship Points,4730
-item-509,Fairy Command,124
+item-506,Battery,3454
+item-507,Surplus EXP,21700
+item-508,Friendship Points,4880
+item-509,Fairy Command,154
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,820
 item-513,Dark Star Kernel,53400
-item-514,Petri Dish,5998
+item-514,Petri Dish,6086
 item-515,Basic Training Keycode,61656
 item-516,Advanced Training Keycode,45039
 item-517,Specified Equipment Contract,56
@@ -56,7 +56,7 @@ item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,1005
+item-525,Quick Auto-Battle Contract,1008
 item-601,Infinite Surprise Dye,13
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
