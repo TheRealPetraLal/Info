@@ -193,3 +193,275 @@ Datetime,Area ID,Area Boss,Remain Count,Capture Type,Capture Status,Sangvis ID,S
 2022-10-13 12:08:44,17,Intruder,98,PULSE,O,3010,?,Goliath Factory
 2022-10-13 12:08:59,17,Intruder,97,PULSE,O,2014,??,Aegis_SWAP
 2022-10-13 12:09:10,17,Intruder,96,PULSE,O,3001,?,Ripper
+2022-10-16 12:08:32,17,Intruder,96,PULSE,X,2002,??,Dragoon
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,59,SVAROG,O,3003,?,Guard
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,58,SVAROG,O,3007,?,Scout
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,57,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,56,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,55,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,54,SVAROG,O,2006,??,Manticore
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,53,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,52,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,51,SVAROG,O,2017,??,Zombie Bride
+2022-10-18 07:16:21,27,Intruder - Sorceress of the End,50,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:16:32,27,Intruder - Sorceress of the End,49,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:16:41,27,Intruder - Sorceress of the End,48,SVAROG,O,3001,?,Ripper
+2022-10-18 07:16:45,27,Intruder - Sorceress of the End,47,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:16:48,27,Intruder - Sorceress of the End,46,SVAROG,O,2003,??,Aegis
+2022-10-18 07:16:52,27,Intruder - Sorceress of the End,45,SVAROG,O,3005,?,Striker
+2022-10-18 07:16:55,27,Intruder - Sorceress of the End,44,SVAROG,O,3003,?,Guard
+2022-10-18 07:16:58,27,Intruder - Sorceress of the End,43,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:17:00,27,Intruder - Sorceress of the End,42,SVAROG,O,2003,??,Aegis
+2022-10-18 07:17:02,27,Intruder - Sorceress of the End,41,SVAROG,O,3008,?,Prowler
+2022-10-18 07:17:06,27,Intruder - Sorceress of the End,40,SVAROG,O,3002,?,Vespid
+2022-10-18 07:17:08,27,Intruder - Sorceress of the End,39,SVAROG,O,2017,??,Zombie Bride
+2022-10-18 07:17:10,27,Intruder - Sorceress of the End,38,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:17:12,27,Intruder - Sorceress of the End,37,SVAROG,O,3003,?,Guard
+2022-10-18 07:17:14,27,Intruder - Sorceress of the End,36,SVAROG,O,3002,?,Vespid
+2022-10-18 07:17:17,27,Intruder - Sorceress of the End,35,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:17:19,27,Intruder - Sorceress of the End,34,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:17:21,27,Intruder - Sorceress of the End,33,SVAROG,O,3001,?,Ripper
+2022-10-18 07:17:23,27,Intruder - Sorceress of the End,32,SVAROG,O,3007,?,Scout
+2022-10-18 07:17:25,27,Intruder - Sorceress of the End,31,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:17:27,27,Intruder - Sorceress of the End,30,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:17:29,27,Intruder - Sorceress of the End,29,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:17:31,27,Intruder - Sorceress of the End,28,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:17:33,27,Intruder - Sorceress of the End,27,SVAROG,O,3003,?,Guard
+2022-10-18 07:17:35,27,Intruder - Sorceress of the End,26,SVAROG,O,3001,?,Ripper
+2022-10-18 07:17:36,27,Intruder - Sorceress of the End,25,SVAROG,O,3008,?,Prowler
+2022-10-18 07:17:38,27,Intruder - Sorceress of the End,24,SVAROG,O,3001,?,Ripper
+2022-10-18 07:17:40,27,Intruder - Sorceress of the End,23,SVAROG,O,3002,?,Vespid
+2022-10-18 07:17:42,27,Intruder - Sorceress of the End,22,SVAROG,O,3007,?,Scout
+2022-10-18 07:17:43,27,Intruder - Sorceress of the End,21,SVAROG,O,3001,?,Ripper
+2022-10-18 07:17:45,27,Intruder - Sorceress of the End,20,SVAROG,O,3008,?,Prowler
+2022-10-18 07:17:47,27,Intruder - Sorceress of the End,19,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:17:49,27,Intruder - Sorceress of the End,18,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:17:52,27,Intruder - Sorceress of the End,17,SVAROG,O,2017,??,Zombie Bride
+2022-10-18 07:20:08,27,Intruder - Sorceress of the End,16,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:20:10,27,Intruder - Sorceress of the End,15,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:20:14,27,Intruder - Sorceress of the End,14,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:20:18,27,Intruder - Sorceress of the End,13,SVAROG,O,2003,??,Aegis
+2022-10-18 07:20:20,27,Intruder - Sorceress of the End,12,SVAROG,O,3002,?,Vespid
+2022-10-18 07:20:22,27,Intruder - Sorceress of the End,11,SVAROG,O,1016,???,Intruder - Sorceress of the End
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,99,SVAROG,O,2004,??,Nemeum
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,98,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,97,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,96,SVAROG,O,3003,?,Guard
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,95,SVAROG,O,3005,?,Striker
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,94,SVAROG,O,2003,??,Aegis
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,93,SVAROG,O,3001,?,Ripper
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,92,SVAROG,O,3008,?,Prowler
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,91,SVAROG,O,3007,?,Scout
+2022-10-18 07:20:39,27,Intruder - Sorceress of the End,90,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,89,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,88,SVAROG,O,2004,??,Nemeum
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,87,SVAROG,O,2017,??,Zombie Bride
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,86,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,85,SVAROG,O,3005,?,Striker
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,84,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,83,SVAROG,O,3008,?,Prowler
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,82,SVAROG,O,3002,?,Vespid
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,81,SVAROG,O,2006,??,Manticore
+2022-10-18 07:20:45,27,Intruder - Sorceress of the End,80,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,79,SVAROG,O,3005,?,Striker
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,78,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,77,SVAROG,O,3001,?,Ripper
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,76,SVAROG,O,3007,?,Scout
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,75,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,74,SVAROG,O,3007,?,Scout
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,73,SVAROG,O,3003,?,Guard
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,72,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,71,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:20:50,27,Intruder - Sorceress of the End,70,SVAROG,O,3008,?,Prowler
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,69,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,68,SVAROG,O,2017,??,Zombie Bride
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,67,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,66,SVAROG,O,3007,?,Scout
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,65,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,64,SVAROG,O,2006,??,Manticore
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,63,SVAROG,O,3005,?,Striker
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,62,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,61,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:20:55,27,Intruder - Sorceress of the End,60,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:21:02,27,Intruder - Sorceress of the End,60,PULSE,X,1016,???,Intruder - Sorceress of the End
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,59,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,58,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,57,SVAROG,O,2004,??,Nemeum
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,56,SVAROG,O,3002,?,Vespid
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,55,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,54,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,53,SVAROG,O,3005,?,Striker
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,52,SVAROG,O,2006,??,Manticore
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,51,SVAROG,O,2003,??,Aegis
+2022-10-18 07:21:11,27,Intruder - Sorceress of the End,50,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:21:19,27,Intruder - Sorceress of the End,49,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:21:22,27,Intruder - Sorceress of the End,48,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:22:14,27,Intruder - Sorceress of the End,47,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:22:17,27,Intruder - Sorceress of the End,46,SVAROG,O,3008,?,Prowler
+2022-10-18 07:22:19,27,Intruder - Sorceress of the End,45,SVAROG,O,2017,??,Zombie Bride
+2022-10-18 07:22:22,27,Intruder - Sorceress of the End,44,SVAROG,O,1016,???,Intruder - Sorceress of the End
+2022-10-18 07:26:26,18,Destroyer,99,PULSE,O,3003,?,Guard
+2022-10-18 07:26:35,18,Destroyer,98,PULSE,O,3008,?,Prowler
+2022-10-18 07:26:44,18,Destroyer,97,PULSE,O,3009,?,Jaguar
+2022-10-18 07:29:27,18,Destroyer,96,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:29:27,18,Destroyer,95,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:29:27,18,Destroyer,94,SVAROG,O,3008,?,Prowler
+2022-10-18 07:29:27,18,Destroyer,93,SVAROG,O,3002,?,Vespid
+2022-10-18 07:29:27,18,Destroyer,92,SVAROG,O,3003,?,Guard
+2022-10-18 07:29:27,18,Destroyer,91,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:29:27,18,Destroyer,90,SVAROG,O,3002,?,Vespid
+2022-10-18 07:29:27,18,Destroyer,89,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:29:27,18,Destroyer,88,SVAROG,O,3005,?,Striker
+2022-10-18 07:29:27,18,Destroyer,87,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:29:32,18,Destroyer,86,PULSE,O,3007,?,Scout
+2022-10-18 07:29:43,18,Destroyer,85,PULSE,O,3006,?,Dinergate
+2022-10-18 07:34:18,18,Destroyer,84,PULSE,O,3005,?,Striker
+2022-10-18 07:34:30,18,Destroyer,83,PULSE,O,3002,?,Vespid
+2022-10-18 07:34:42,18,Destroyer,82,PULSE,O,3008,?,Prowler
+2022-10-18 07:34:54,18,Destroyer,81,PULSE,O,3010,?,Goliath Factory
+2022-10-18 07:35:12,18,Destroyer,80,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:35:12,18,Destroyer,79,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:35:12,18,Destroyer,78,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:35:12,18,Destroyer,77,SVAROG,O,2015,??,Jaeger SWAP
+2022-10-18 07:35:12,18,Destroyer,76,SVAROG,O,3007,?,Scout
+2022-10-18 07:35:12,18,Destroyer,75,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:35:12,18,Destroyer,74,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:35:12,18,Destroyer,73,SVAROG,O,3003,?,Guard
+2022-10-18 07:35:12,18,Destroyer,72,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:35:12,18,Destroyer,71,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:35:17,18,Destroyer,70,SVAROG,O,3008,?,Prowler
+2022-10-18 07:35:17,18,Destroyer,69,SVAROG,O,3001,?,Ripper
+2022-10-18 07:35:17,18,Destroyer,68,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:35:17,18,Destroyer,67,SVAROG,O,2010,??,Vespid_SWAP
+2022-10-18 07:35:17,18,Destroyer,66,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:35:17,18,Destroyer,65,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:35:17,18,Destroyer,64,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:35:17,18,Destroyer,63,SVAROG,O,3008,?,Prowler
+2022-10-18 07:35:17,18,Destroyer,62,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:35:17,18,Destroyer,61,SVAROG,O,3001,?,Ripper
+2022-10-18 07:35:23,18,Destroyer,60,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:35:23,18,Destroyer,59,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:35:23,18,Destroyer,58,SVAROG,O,3001,?,Ripper
+2022-10-18 07:35:23,18,Destroyer,57,SVAROG,O,3003,?,Guard
+2022-10-18 07:35:23,18,Destroyer,56,SVAROG,O,2012,??,Dragoon_SWAP
+2022-10-18 07:35:23,18,Destroyer,55,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:35:23,18,Destroyer,54,SVAROG,O,2010,??,Vespid_SWAP
+2022-10-18 07:35:23,18,Destroyer,53,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:35:23,18,Destroyer,52,SVAROG,O,3005,?,Striker
+2022-10-18 07:35:23,18,Destroyer,51,SVAROG,O,2012,??,Dragoon_SWAP
+2022-10-18 07:35:30,18,Destroyer,51,PULSE,X,1005,???,Destroyer
+2022-10-18 07:35:44,18,Destroyer,50,PULSE,O,3001,?,Ripper
+2022-10-18 07:35:57,18,Destroyer,49,PULSE,O,3006,?,Dinergate
+2022-10-18 07:37:13,18,Destroyer,48,SVAROG,O,3003,?,Guard
+2022-10-18 07:37:16,18,Destroyer,47,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:37:18,18,Destroyer,46,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:37:20,18,Destroyer,45,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:37:22,18,Destroyer,44,SVAROG,O,3002,?,Vespid
+2022-10-18 07:37:24,18,Destroyer,43,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:39:30,18,Destroyer,42,SVAROG,O,2015,??,Jaeger SWAP
+2022-10-18 07:39:34,18,Destroyer,41,SVAROG,O,3005,?,Striker
+2022-10-18 07:39:37,18,Destroyer,40,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:39:40,18,Destroyer,39,SVAROG,O,2015,??,Jaeger SWAP
+2022-10-18 07:39:42,18,Destroyer,38,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:39:45,18,Destroyer,37,SVAROG,O,2012,??,Dragoon_SWAP
+2022-10-18 07:39:48,18,Destroyer,36,SVAROG,O,3005,?,Striker
+2022-10-18 07:39:50,18,Destroyer,35,SVAROG,O,3001,?,Ripper
+2022-10-18 07:39:52,18,Destroyer,34,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:39:54,18,Destroyer,33,SVAROG,O,3002,?,Vespid
+2022-10-18 07:39:56,18,Destroyer,32,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:39:59,18,Destroyer,31,SVAROG,O,3002,?,Vespid
+2022-10-18 07:40:01,18,Destroyer,30,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:40:03,18,Destroyer,29,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:40:06,18,Destroyer,28,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:40:08,18,Destroyer,27,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:40:10,18,Destroyer,26,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:40:12,18,Destroyer,25,SVAROG,O,3002,?,Vespid
+2022-10-18 07:40:15,18,Destroyer,24,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:43:36,18,Destroyer,23,SVAROG,O,3001,?,Ripper
+2022-10-18 07:43:39,18,Destroyer,22,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:43:42,18,Destroyer,21,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:43:44,18,Destroyer,20,SVAROG,O,3007,?,Scout
+2022-10-18 07:43:45,18,Destroyer,19,SVAROG,O,2010,??,Vespid_SWAP
+2022-10-18 07:43:47,18,Destroyer,18,SVAROG,O,3008,?,Prowler
+2022-10-18 07:43:49,18,Destroyer,17,SVAROG,O,2010,??,Vespid_SWAP
+2022-10-18 07:43:51,18,Destroyer,16,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:43:53,18,Destroyer,15,SVAROG,O,3003,?,Guard
+2022-10-18 07:43:55,18,Destroyer,14,SVAROG,O,2015,??,Jaeger SWAP
+2022-10-18 07:43:56,18,Destroyer,13,SVAROG,O,3005,?,Striker
+2022-10-18 07:43:58,18,Destroyer,12,SVAROG,O,3007,?,Scout
+2022-10-18 07:44:00,18,Destroyer,11,SVAROG,O,3007,?,Scout
+2022-10-18 07:44:02,18,Destroyer,10,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:44:04,18,Destroyer,9,SVAROG,O,3001,?,Ripper
+2022-10-18 07:44:05,18,Destroyer,8,SVAROG,O,2012,??,Dragoon_SWAP
+2022-10-18 07:44:07,18,Destroyer,7,SVAROG,O,3007,?,Scout
+2022-10-18 07:44:09,18,Destroyer,6,SVAROG,O,1005,???,Destroyer
+2022-10-18 07:44:34,18,Destroyer,99,SVAROG,O,3002,?,Vespid
+2022-10-18 07:44:34,18,Destroyer,98,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:44:34,18,Destroyer,97,SVAROG,O,3001,?,Ripper
+2022-10-18 07:44:34,18,Destroyer,96,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:44:34,18,Destroyer,95,SVAROG,O,3007,?,Scout
+2022-10-18 07:44:34,18,Destroyer,94,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:44:34,18,Destroyer,93,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:44:34,18,Destroyer,92,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:44:34,18,Destroyer,91,SVAROG,O,3001,?,Ripper
+2022-10-18 07:44:34,18,Destroyer,90,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:44:39,18,Destroyer,89,SVAROG,O,3005,?,Striker
+2022-10-18 07:44:39,18,Destroyer,88,SVAROG,O,3002,?,Vespid
+2022-10-18 07:44:39,18,Destroyer,87,SVAROG,O,3002,?,Vespid
+2022-10-18 07:44:39,18,Destroyer,86,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:44:39,18,Destroyer,85,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:44:39,18,Destroyer,84,SVAROG,O,3008,?,Prowler
+2022-10-18 07:44:39,18,Destroyer,83,SVAROG,O,3003,?,Guard
+2022-10-18 07:44:39,18,Destroyer,82,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:44:39,18,Destroyer,81,SVAROG,O,2012,??,Dragoon_SWAP
+2022-10-18 07:44:39,18,Destroyer,80,SVAROG,O,3001,?,Ripper
+2022-10-18 07:44:45,18,Destroyer,79,SVAROG,O,3007,?,Scout
+2022-10-18 07:44:45,18,Destroyer,78,SVAROG,O,3008,?,Prowler
+2022-10-18 07:44:45,18,Destroyer,77,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:44:45,18,Destroyer,76,SVAROG,O,3001,?,Ripper
+2022-10-18 07:44:45,18,Destroyer,75,SVAROG,O,3007,?,Scout
+2022-10-18 07:44:45,18,Destroyer,74,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:44:45,18,Destroyer,73,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:44:45,18,Destroyer,72,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:44:45,18,Destroyer,71,SVAROG,O,3008,?,Prowler
+2022-10-18 07:44:45,18,Destroyer,70,SVAROG,O,2015,??,Jaeger SWAP
+2022-10-18 07:46:29,18,Destroyer,69,SVAROG,O,2015,??,Jaeger SWAP
+2022-10-18 07:46:29,18,Destroyer,68,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:46:29,18,Destroyer,67,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:46:29,18,Destroyer,66,SVAROG,O,3005,?,Striker
+2022-10-18 07:46:29,18,Destroyer,65,SVAROG,O,2012,??,Dragoon_SWAP
+2022-10-18 07:46:29,18,Destroyer,64,SVAROG,O,3003,?,Guard
+2022-10-18 07:46:29,18,Destroyer,63,SVAROG,O,3007,?,Scout
+2022-10-18 07:46:29,18,Destroyer,62,SVAROG,O,2009,??,Ripper SWAP
+2022-10-18 07:46:29,18,Destroyer,61,SVAROG,O,3005,?,Striker
+2022-10-18 07:46:29,18,Destroyer,60,SVAROG,O,2010,??,Vespid_SWAP
+2022-10-18 07:46:36,18,Destroyer,59,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:46:36,18,Destroyer,58,SVAROG,O,3002,?,Vespid
+2022-10-18 07:46:36,18,Destroyer,57,SVAROG,O,3001,?,Ripper
+2022-10-18 07:46:36,18,Destroyer,56,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:46:36,18,Destroyer,55,SVAROG,O,3002,?,Vespid
+2022-10-18 07:46:36,18,Destroyer,54,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:46:36,18,Destroyer,53,SVAROG,O,3009,?,Jaguar
+2022-10-18 07:46:36,18,Destroyer,52,SVAROG,O,3002,?,Vespid
+2022-10-18 07:46:36,18,Destroyer,51,SVAROG,O,2013,??,Striker_SWAP
+2022-10-18 07:46:36,18,Destroyer,50,SVAROG,O,3008,?,Prowler
+2022-10-18 07:46:40,18,Destroyer,49,SVAROG,O,2005,??,Tarantula
+2022-10-18 07:46:40,18,Destroyer,48,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:46:40,18,Destroyer,47,SVAROG,O,3008,?,Prowler
+2022-10-18 07:46:40,18,Destroyer,46,SVAROG,O,2015,??,Jaeger SWAP
+2022-10-18 07:46:40,18,Destroyer,45,SVAROG,O,3005,?,Striker
+2022-10-18 07:46:40,18,Destroyer,44,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:46:40,18,Destroyer,43,SVAROG,O,2008,??,Guard_SWAP
+2022-10-18 07:46:40,18,Destroyer,42,SVAROG,O,3005,?,Striker
+2022-10-18 07:46:40,18,Destroyer,41,SVAROG,O,3006,?,Dinergate
+2022-10-18 07:46:40,18,Destroyer,40,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:46:47,18,Destroyer,39,SVAROG,O,3003,?,Guard
+2022-10-18 07:46:48,18,Destroyer,38,SVAROG,O,3004,?,Jaeger
+2022-10-18 07:46:50,18,Destroyer,37,SVAROG,O,3010,?,Goliath Factory
+2022-10-18 07:46:52,18,Destroyer,36,SVAROG,O,3003,?,Guard
+2022-10-21 11:49:00,18,Destroyer,99,PULSE,O,3004,?,Jaeger
+2022-10-21 11:49:11,18,Destroyer,98,PULSE,O,3007,?,Scout
+2022-10-21 11:49:20,18,Destroyer,97,PULSE,O,3009,?,Jaguar
+2022-10-21 11:49:29,18,Destroyer,96,PULSE,O,3001,?,Ripper
+2022-10-21 11:49:39,18,Destroyer,95,PULSE,O,3007,?,Scout
+2022-10-21 11:49:49,18,Destroyer,94,PULSE,O,3002,?,Vespid
