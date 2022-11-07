@@ -238,11 +238,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 29989802,159,Sp. Eq (Exclusive),?????,Tactical Headwear,89748707,416 Mod,25,-,20,-,-,-,10%,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
 30006157,44,Plate (Body),?????,Type 3 Armor Plate,192506496,LTLX7000,-,-,-2,-,-,-,-,-,11,-,-,-,-,-,10000,10,MAX,2,Locked
 30106775,201,Sp. Eq (Exclusive),?????,Go-Bag "V",154173787,Agent Vector,-6.0000,-,35.0000,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
-30106782,204,Sp. Eq (Exclusive),?????,416's Go-Bag,154433867,Agent 416,-,-,20.0000,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
+30106782,204,Sp. Eq (Exclusive),?????,416's Go-Bag,-,-,-,-,20.0000,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
 30107734,200,Sp. Eq (Exclusive),?????,.45 Hollow Point Ammo (Incendiary),154173787,Agent Vector,15.0000,-,-,-,-,-,-,-7.0000,-,-,-,-,-,-,10000,10,MAX,0,Locked
 30108348,133,Sp. Eq (Exclusive),?????,Stechkin Buttstock,116383794,Stechkin Mod,-,4,10,-,-,20%,-,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
-30137289,202,Sp. Eq (Exclusive),?????,ACOG (4X),154433867,Agent 416,-,-,-,-,-,48.0000%,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
-30137310,203,Sp. Eq (Exclusive),?????,556 High-Velocity Ammo (Explosive),154433867,Agent 416,20.0000,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
+30137289,202,Sp. Eq (Exclusive),?????,ACOG (4X),-,-,-,-,-,-,-,48.0000%,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
+30137310,203,Sp. Eq (Exclusive),?????,556 High-Velocity Ammo (Explosive),-,-,20.0000,-,-,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
 30164034,199,Sp. Eq (Exclusive),?????,Osprey 45 Silencer,154173787,Agent Vector,-,-,10.0000,-,-,20.000%,-,-,-,-,-,-,-,-,10000,10,MAX,0,Locked
 30204764,16,PEQ (Night Equip),?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,100%,-,0,0,MAX,13,Locked
 30391312,159,Sp. Eq (Exclusive),?????,Tactical Headwear,151934555,416 Mod,25,-,20,-,-,-,10%,-,-,-,-,-,-,-,30000,10,MAX,6,Locked
@@ -704,3 +704,4 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 39491950,73,Buck (Shell),??,#1 Buckshot,-,-,1.0000,-,-,-,-,-,3.1807%,-,-,-,-,-,-,-,0,0,,0,
 39491951,71,HP (Ammo),????,ILM Hollow-Point Ammo,-,-,4.4544,-,-,-,-,-,-,-5.2238,-,-,-,-,-,-,0,0,,0,
 39491952,70,HP (Ammo),???,ILM Hollow-Point Ammo,-,-,2.4277,-,-,-,-,-,-,-2.7292,-,-,-,-,-,-,0,0,,0,
+39495247,240,Sp. Eq (Exclusive),?????,Wing-Shaped Mechanical Shield,198445978,RMB-93 Mod,-,-,-,3.0000,-,-,-,-,7.0066,-,-,-,-,-,1,0,,0,

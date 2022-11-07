@@ -1,14 +1,14 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5881
-item-31,Basic Training Data,4655
-item-32,Intermediate Training Data,2642
-item-33,Advanced Training Data,3074
+item-10,Dummy Core,5861
+item-31,Basic Training Data,3455
+item-32,Intermediate Training Data,2402
+item-33,Advanced Training Data,2874
 -1,kalina_level,30
 -1,kalina_favor,818750
-item-1,T-Doll Contract,3350
-item-2,Equipment Contract,1314
-item-3,Quick Production Contract,1610
+item-1,T-Doll Contract,3351
+item-2,Equipment Contract,1319
+item-3,Quick Production Contract,1612
 item-4,Quick Repair Contract,8679
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,0
@@ -17,15 +17,15 @@ item-9,Enhancement Capsule,1166
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,411
-item-15,Pure Sample,37
+item-14,Original Sample,31
+item-15,Pure Sample,17
 item-16,Quick Analysis Contract,187
-item-17,Data Patch,187
+item-17,Data Patch,192
 item-41,Token,2028
 item-42,Exchange Ticket,0
 item-43,Black Card,0
 item-44,Calibration Ticket,10688
-item-45,Memory Fragment,4779
+item-45,Memory Fragment,3179
 item-46,Special Combat Report,13571
 item-47,Theater Material,4
 item-50,Universal Parts,1072
@@ -40,10 +40,10 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,29
-item-506,Battery,5991
-item-507,Surplus EXP,448110
-item-508,Friendship Points,8470
-item-509,Fairy Command,130
+item-506,Battery,5111
+item-507,Surplus EXP,367350
+item-508,Friendship Points,8480
+item-509,Fairy Command,145
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,2020
 item-513,Dark Star Kernel,51250
@@ -51,7 +51,7 @@ item-514,Petri Dish,4065
 item-515,Basic Training Keycode,42798
 item-516,Advanced Training Keycode,40354
 item-517,Specified Equipment Contract,0
-item-519,HOC General Data,264
+item-519,HOC General Data,265
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
@@ -303,7 +303,7 @@ item-1847,ID: "Debate",1
 item-1860,ID: Fragments of Precious Treasures,1
 item-1861,Makarov Neural Upgrade Icon,1
 item-1862,Gr MG4 Neural Upgrade Icon,1
-item-1863,RMB-93 Neural Upgrade Icon,1
+item-1863,RMB-93 Neural Upgrade Icon,2
 item-1864,XM3 Neural Upgrade Icon,1
 item-1879,Lady Thief of Champagne,1
 item-1889,Icon: Waves Wrangler,1
@@ -523,7 +523,7 @@ gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,200
+gift-200001,Combat Report,440
 gift-400001,Rapid Growth Disk,5178
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
