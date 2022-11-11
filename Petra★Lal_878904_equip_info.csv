@@ -6,7 +6,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 18361031,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,5,Locked
 18400386,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,7,Locked
 18527707,8,EOT (Holographic),?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,MAX,14,Locked
-18665433,12,Red Dot,?????,ITI MARS,-,-,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+18665433,12,Red Dot,?????,ITI MARS,198445978,RMB-93 Mod,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
 18678362,4,Optical,?????,VFL 6-24X56,89413427,M4A1 Mod,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
 18678366,12,Red Dot,?????,ITI MARS,-,-,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
 19239019,169,Sp. Eq (Exclusive),?????,Am RFB Quad Rail,89762386,Am RFB,-,-,-,-,-,48%,18%,-,-,-,-,-,-,-,30000,10,MAX,26,Locked
@@ -35,7 +35,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 21289724,59,Sp. Eq (Exclusive),?????,National Match-Grade Armor-Piercing Ammo,-,-,-,-,-,-,10,-,-,195,-,-,-,-,-,-,30000,10,MAX,23,Locked
 21305788,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6,-,35,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
 21326687,66,Supp (Silencer),?????,AC4 Suppressor,95924334,RO635 Mod,-,-,10,-,-,20%,-,-,-,-,-,-,-,-,10000,10,MAX,8,Locked
-21424888,12,Red Dot,?????,ITI MARS,-,-,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
+21424888,12,Red Dot,?????,ITI MARS,99470877,RMB-93 Mod,-,30,-,-,-1,-,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
 21433570,8,EOT (Holographic),?????,EOT 518,-,-,8,14,-,-,-4,-,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
 21534746,68,Box (MG Clip),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,6,Locked
 21546527,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,48%,-,-,-,-,-,-,-,-,10000,10,MAX,16,Locked
@@ -135,7 +135,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 26111658,66,Supp (Silencer),?????,AC4 Suppressor,129876330,Gr Mk23,-,-,10,-,-,20%,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
 26129767,58,X Exo (Body),?????,IOP X4 Exoskeleton,128650011,PA-15,-,-,20,-,-,-,-,-,-,-,-,-,-,-,10000,10,MAX,6,Locked
 26155014,132,Sp. Eq (Exclusive),?????,Gr MG4 MGO,121149752,Gr MG4 Mod,-,36.0000,-,-,-1.000,35.0000%,-,-,-,-,-,-,-,-,30000,10,MAX,0,Locked
-26156626,68,Box (MG Clip),?????,IOP Maximum Ammo Box,-,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,6,Locked
+26156626,68,Box (MG Clip),?????,IOP Maximum Ammo Box,121149752,Gr MG4 Mod,-,-,-2,-,-,-,-,-,-,-,-,-,-,5,10000,10,MAX,6,Locked
 26157647,44,Plate (Body),?????,Type 3 Armor Plate,-,-,-,-,-2.813,-,-,-,-,-,6.5702,-,-,-,-,-,0,0,,0,Locked
 26159759,76,Buck (Shell),?????,#000 Buckshot,-,-,15,-,-,-,-,-,22%,-,-,-,-,-,-,-,10000,10,MAX,14,Locked
 26160758,122,Sp. Eq (Exclusive),?????,SAA Long Barrel,90970299,SAA Mod,3,-,10,-,-,20%,-,-,-,-,-,-,-,-,30000,10,MAX,16,Locked
@@ -646,7 +646,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 38665166,235,Flash (Shell),?????,Shotgun Flash Shells,187853464,Dana Zane,-,9.6044,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 38687567,224,RMR (Auxiliary Sight),?????,RMR T4 Red Dot Sight,-,-,-,10.2534,-,-,-,13.5268%,-,-,-,-,-,-,-,-,1,0,,0,
 38721787,16,PEQ (Night Equip),?????,PEQ-16A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,95.2453%,-,0,0,,0,Locked
-38733546,235,Flash (Shell),?????,Shotgun Flash Shells,177001801,Minos,-,10.6116,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+38733546,235,Flash (Shell),?????,Shotgun Flash Shells,99470877,RMB-93 Mod,-,10.6116,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 38787810,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,24%,-,-,-,-,-,-,-,9901,9,MAX,6,Locked
 38800336,12,Red Dot,?????,ITI MARS,-,-,-,12.8716,-,-,-2.2168,-,-,-,-,-,-,-,-,-,0,0,,0,
 38800339,12,Red Dot,?????,ITI MARS,-,-,-,12.5192,-,-,-2.9725,-,-,-,-,-,-,-,-,-,0,0,,0,
@@ -691,7 +691,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 39412110,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,114.4620,-,-,-,-,-,-,0,0,,0,
 39412117,76,Buck (Shell),?????,#000 Buckshot,-,-,7.7257,-,-,-,-,-,10.6975%,-,-,-,-,-,-,-,0,0,,0,
 39412118,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6.4542,-,-16.2140%,-,-,-,-,-,-,-,0,0,,0,Locked
-39412199,235,Flash (Shell),?????,Shotgun Flash Shells,193829779,FO-12,-,10.1132,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39412199,235,Flash (Shell),?????,Shotgun Flash Shells,198445978,RMB-93 Mod,-,10.1132,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 39412204,231,Birdshot (Shell),?????,#7.5 Birdshot,-,-,-,-,-,-,6.5708,-,-15.3830%,-,-,-,-,-,-,-,0,0,,0,Locked
 39442890,72,HP (Ammo),?????,ILM Hollow-Point Ammo,-,-,8.2858,-,-,-,-,-,-,-8.7733,-,-,-,-,-,-,0,0,,0,
 39446398,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,7.078,-,-,13.7931%,-,-,-,-,-,-,-,-,0,0,,0,
@@ -700,6 +700,10 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 39451366,241,Sp. Eq (Exclusive),?????,M118LR,115700135,XM3 Mod,2.0368,5.0000,-,-,-,-,-,111.9640,-,-,-,-,-,-,1,0,,0,Locked
 39451576,240,Sp. Eq (Exclusive),?????,Wing-Shaped Mechanical Shield,99470877,RMB-93 Mod,-,-,-,3.0000,-,-,-,-,12,-,-,-,-,-,30000,10,MAX,9,Locked
 39467447,4,Optical,?????,VFL 6-24X56,-,-,-,-,-,-,-,20.619%,-,-,-,-,-,-,-,-,0,0,,0,
-39495247,240,Sp. Eq (Exclusive),?????,Wing-Shaped Mechanical Shield,198445978,RMB-93 Mod,-,-,-,3.0000,-,-,-,-,9,-,-,-,-,-,5326,4,MAX,1,Locked
+39495247,240,Sp. Eq (Exclusive),?????,Wing-Shaped Mechanical Shield,198445978,RMB-93 Mod,-,-,-,3.0000,-,-,-,-,10,-,-,-,-,-,16526,7,MAX,1,Locked
 39501028,66,Supp (Silencer),?????,AC4 Suppressor,-,-,-,-,6.7966,-,-,13.0878%,-,-,-,-,-,-,-,-,1,0,,0,
 39502066,40,T Exo (Body),?????,IOP T4 Exoskeleton,-,-,-6.3428,-,20.6460,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
+39537933,73,Buck (Shell),??,#1 Buckshot,-,-,1.0000,-,-,-,-,-,3.4446%,-,-,-,-,-,-,-,0,0,,0,
+39537934,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,195.0470,-,-,-,-,-,-,0,0,,0,
+39537935,70,HP (Ammo),???,ILM Hollow-Point Ammo,-,-,2.3978,-,-,-,-,-,-,-2.5434,-,-,-,-,-,-,0,0,,0,
+39537936,30,HV (Ammo),???,JSP High-Velocity Ammo,-,-,3.1894,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
