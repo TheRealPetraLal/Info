@@ -106,10 +106,13 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 847016,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Accuracy I,1,
 847179,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Evasion I,1,
 847180,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Keen,1,
-346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+847401,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Aim,1,
+847402,1,?,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Charge,1,
+847478,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy II,1,
+665430,11,??,330,95,Parachute Fairy,17.5,0.0,15.5,4.0,0,Critical II,10,Locked
 771019,11,??,150,100,Parachute Fairy,18.0,0.0,16.0,4.0,0,Fervor,10,Locked
 441155,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
-665430,11,??,330,94,Parachute Fairy,17.5,0.0,15.5,4.0,0,Critical II,10,Locked
+346781,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 561897,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 354824,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
 676095,11,?????,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
