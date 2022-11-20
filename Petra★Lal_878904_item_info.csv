@@ -1,13 +1,13 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,5267
-item-31,Basic Training Data,2225
-item-32,Intermediate Training Data,6526
-item-33,Advanced Training Data,2419
+item-10,Dummy Core,5277
+item-31,Basic Training Data,1445
+item-32,Intermediate Training Data,6406
+item-33,Advanced Training Data,2439
 -1,kalina_level,30
 -1,kalina_favor,863141
-item-1,T-Doll Contract,3472
-item-2,Equipment Contract,1382
+item-1,T-Doll Contract,3475
+item-2,Equipment Contract,1383
 item-3,Quick Production Contract,1744
 item-4,Quick Repair Contract,8825
 item-5,Daily Pause Permit,1
@@ -28,7 +28,7 @@ item-44,Calibration Ticket,10733
 item-45,Memory Fragment,5229
 item-46,Special Combat Report,13571
 item-47,Theater Material,4
-item-50,Universal Parts,848
+item-50,Universal Parts,852
 item-51,New Type Fire-Control Component,28
 item-100,Elite Griffin Combat Medal,7
 item-101,Combat Ranking Medal,130
@@ -40,15 +40,15 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,29
-item-506,Battery,9978
-item-507,Surplus EXP,190036
-item-508,Friendship Points,9210
+item-506,Battery,9999
+item-507,Surplus EXP,53476
+item-508,Friendship Points,9230
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,2000
 item-513,Dark Star Kernel,52850
 item-514,Petri Dish,4945
-item-515,Basic Training Keycode,40910
+item-515,Basic Training Keycode,40110
 item-516,Advanced Training Keycode,41658
 item-517,Specified Equipment Contract,0
 item-519,HOC General Data,272
@@ -354,9 +354,9 @@ item-2074,ID: A Promise of Four Years,1
 item-2124,ID Card: Mirror Stage,1
 item-2174,ID: Power Struggle,1
 item-4001,City's Gift,13094
-item-4002,Snowfield's Gift,12102
-item-4003,Forest's Gift,20909
-item-4004,Wasteland's Gift,2620
+item-4002,Snowfield's Gift,12133
+item-4003,Forest's Gift,21205
+item-4004,Wasteland's Gift,2651
 item-6001,Ordinary Meat Bun,1
 item-6002,Bundle of Meat Buns,0
 item-6003,Trove of Meat Buns,0
@@ -526,7 +526,7 @@ gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
 gift-400001,Rapid Growth Disk,6056
-gift-200001,Combat Report,4334
+gift-200001,Combat Report,4414
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
