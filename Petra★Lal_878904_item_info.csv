@@ -1,34 +1,34 @@
 Item ID,Item Name,Item Number
 -1,reg_time,2019-11-02 17:04:51
-item-10,Dummy Core,4906
-item-31,Basic Training Data,7437
-item-32,Intermediate Training Data,8250
-item-33,Advanced Training Data,4069
+item-10,Dummy Core,5019
+item-31,Basic Training Data,9857
+item-32,Intermediate Training Data,7384
+item-33,Advanced Training Data,5252
 -1,kalina_level,30
--1,kalina_favor,866516
-item-1,T-Doll Contract,3507
-item-2,Equipment Contract,1170
-item-3,Quick Production Contract,1084
-item-4,Quick Repair Contract,8860
+-1,kalina_favor,867333
+item-1,T-Doll Contract,3552
+item-2,Equipment Contract,1232
+item-3,Quick Production Contract,1130
+item-4,Quick Repair Contract,8877
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
-item-8,Quick Training Contract,63
-item-9,Enhancement Capsule,1190
+item-8,Quick Training Contract,64
+item-9,Enhancement Capsule,1220
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,7
-item-14,Original Sample,91
-item-15,Pure Sample,18
-item-16,Quick Analysis Contract,212
-item-17,Data Patch,217
-item-41,Token,1006
+item-14,Original Sample,111
+item-15,Pure Sample,25
+item-16,Quick Analysis Contract,219
+item-17,Data Patch,223
+item-41,Token,1057
 item-42,Exchange Ticket,0
 item-43,Black Card,3
-item-44,Calibration Ticket,11288
-item-45,Memory Fragment,7369
+item-44,Calibration Ticket,11538
+item-45,Memory Fragment,8249
 item-46,Special Combat Report,13571
 item-47,Theater Material,4
-item-50,Universal Parts,582
+item-50,Universal Parts,522
 item-51,New Type Fire-Control Component,28
 item-100,Elite Griffin Combat Medal,7
 item-101,Combat Ranking Medal,130
@@ -40,23 +40,23 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,29
-item-506,Battery,10219
-item-507,Surplus EXP,132460
-item-508,Friendship Points,9380
+item-506,Battery,9483
+item-507,Surplus EXP,26880
+item-508,Friendship Points,9750
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,2000
 item-513,Dark Star Kernel,52850
-item-514,Petri Dish,3743
-item-515,Basic Training Keycode,31360
-item-516,Advanced Training Keycode,34108
+item-514,Petri Dish,3565
+item-515,Basic Training Keycode,30676
+item-516,Advanced Training Keycode,34445
 item-517,Specified Equipment Contract,0
-item-519,HOC General Data,274
+item-519,HOC General Data,276
 item-520,Frag Grenade,106
 item-521,Stun Grenade,19
 item-522,Turret,8
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,1237
+item-525,Quick Auto-Battle Contract,1252
 item-601,Infinite Surprise Dye,13
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
@@ -398,8 +398,8 @@ item-9004,Supply Box,0
 item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,18
-item-10604,Extra Impulse,1
+item-10603,Extra Potential Energy,15
+item-10604,Extra Impulse,4
 item-100009,Crown of Respect,80
 item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
@@ -458,9 +458,9 @@ item-100097,Star Marker,70
 item-100098,Nova Medal – My Devil's Frontline,3
 item-100099,Platinum Medal – My Devil's Frontline,0
 item-100100,Token of Life,50
-item-100101,Supply Crate: Poincarre Recurrence,0
+item-100101,Supply Crate: Poincarre Recurrence,60
 item-100102,Nova Medal: Poincarre Recurrence,135
-item-100103,Platinum Medal: Poincarre Recurrence,1009
+item-100103,Platinum Medal: Poincarre Recurrence,1310
 item-100104,True Core Mask: Poincarre Recurrence,0
 item-100108,Strange Soap,190
 item-100109,Nova Medal - Freaky Pandemic,76
@@ -492,7 +492,7 @@ item-110019,Event Points,2400
 item-110020,Event Points,3000
 item-110021,Event Points,3000
 item-110039,Event Points,81926807
-item-110043,Event Points,842786
+item-110043,Event Points,5213562
 item-110044,Event Points,6362531
 item-120001,Besties Chatter,1
 item-120002,Besties Chatter,1
@@ -521,13 +521,13 @@ item-1100007,Corona Fusion,1
 item-1100008,Corona Fusion,1
 gift-100001,Lollipop,2242
 gift-100002,Ice Cream Cone,2472
-gift-100003,Strawberry Custard Cheesecake,5066
+gift-100003,Strawberry Custard Cheesecake,4997
 gift-100005,Mulan Tea,20
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,39
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,6044
-gift-400001,Rapid Growth Disk,3236
+gift-200001,Combat Report,547
+gift-400001,Rapid Growth Disk,2478
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
