@@ -719,8 +719,5 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 39635343,8,EOT (Holographic),?????,EOT 518,-,-,4.4648,7.3376,-,-,-5.7172,-,-,-,-,-,-,-,-,-,0,0,,0,
 39643038,277,Sp. Eq (Exclusive),?????,DHG Extended Handguard,-,-,-,4.7442,7.882,3.000,-,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
 39652879,80,Slug (Shell),?????,SABOT Slug,-,-,-,9.5604,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
-39661019,249,Sp. Eq (Exclusive),?????,SR3 Special Suppressor,-,-,6.000,11.000,10.0000,-,-,-,-,-,-,-,-,-,-,-,1001,1,MAX,0,Locked
-39691146,42,Plate (Body),???,Type 1 Armor Plate,-,-,-,-,-1.0000,-,-,-,-,-,3.0000,-,-,-,-,-,0,0,MAX,0,
-39695001,43,Plate (Body),????,Type 2 Armor Plate,-,-,-,-,-1.0000,-,-,-,-,-,4.186,-,-,-,-,-,0,0,,0,
-39695002,18,AP (Ammo),???,M993 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,68.2070,-,-,-,-,-,-,0,0,,0,
-39695003,18,AP (Ammo),???,M993 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,67.8370,-,-,-,-,-,-,0,0,,0,
+39661019,249,Sp. Eq (Exclusive),?????,SR3 Special Suppressor,-,-,7.000,14.000,10.0000,-,-,-,-,-,-,-,-,-,-,-,4476,4,MAX,0,Locked
+39700509,55,X Exo (Body),??,IOP X1 Exoskeleton,-,-,-,-,2.3475,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
