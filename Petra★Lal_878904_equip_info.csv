@@ -566,7 +566,7 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 36986380,20,AP (Ammo),?????,Mk211 High-Explosive Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,114.5810,-,-,-,-,-,-,0,0,,0,Locked
 37016465,146,Sp. Eq (Exclusive),?????,MIRD Class-5 Rounds,188057462,Dorothy Haze,13.2093,-,-,-,-,-,-,-9.3658,-,-,-,-,-,-,1,0,,0,Locked
 37027215,229,SLAP (Ammo),?????,Mk1000 SLAP,-,-,-,-,-,-,-5.0000,-,-,240.7290,-,-,-,-,-,-,0,0,,0,Locked
-37034443,148,Sp. Eq (Exclusive),?????,Prosthetic Eye,187926065,Stella Hoshii,-,-,-,-3.00,2,-,17.0%,-,-,-,-,-,-,-,1,0,,5,Locked
+37034443,148,Sp. Eq (Exclusive),?????,Prosthetic Eye,187926065,Stella Hoshii,-,-,-,-3.00,1,-,20%,-,-,-,-,-,-,-,1,0,,10,Locked
 37064502,225,Flare (Ammo),?????,Signal Flare,121273575,Welrod Mk? Mod,-,-,-,-,-2.4104,-,-,-,-,-,-,-,-,-,0,0,,0,Locked
 37064681,166,Sp. Eq (Exclusive),?????,DO Reflex Sight,89419506,M38 Mod,5.1964,6.6108,-,-,-5.2398,-,-,-,-,-,-,-,-,-,1,0,,0,Locked
 37064685,191,Sp. Eq (Exclusive),?????,ACS-L,89919546,Super SASS Mod,3.3772,-,-,-,-,18.211%,-,-,-,-,-,-,-,-,1,0,,0,Locked
@@ -733,3 +733,11 @@ ID,No.,Type,Star,Name,Doll ID,Doll,Damage,Accuracy,Evasion,Move Speed,Rate of Fi
 39862003,12,Red Dot,?????,ITI MARS,-,-,-,11.9092,-,-,-2.7319,-,-,-,-,-,-,-,-,-,0,0,,0,
 39874075,90,Cape (Body),?????,Thermoptic Camouflage Cape,-,-,-,-,-,-3.0000,-,-,12.9976%,-,-,-,-,-,-,-,1,0,,0,
 39874266,32,HV (Ammo),?????,APCR High-Velocity Ammo,-,-,10.5596,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
+39912962,222,RMR (Auxiliary Sight),???,RMR Red Dot Sight,-,-,-,3.9086,-,-,-,6.4844%,-,-,-,-,-,-,-,-,0,0,,0,
+39912963,17,AP (Ammo),??,M61 Armor-Piercing Ammo,-,-,-,-,-,-,-,-,-,51.2360,-,-,-,-,-,-,0,0,,0,
+39912964,223,RMR (Auxiliary Sight),????,RMR T2 Red Dot Sight,-,-,-,7.2342,-,-,-,10.3566%,-,-,-,-,-,-,-,-,0,0,,0,
+39912965,73,Buck (Shell),??,#1 Buckshot,-,-,1.0000,-,-,-,-,-,3.2837%,-,-,-,-,-,-,-,0,0,,0,
+39918140,228,SLAP (Ammo),????,Mk900 SLAP,-,-,-,-,-,-,-5.0000,-,-,192.540,-,-,-,-,-,-,0,0,,0,
+39918141,30,HV (Ammo),???,JSP High-Velocity Ammo,-,-,3.006,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
+39918142,310,?????,????,M1050 LRF,-,-,2.0362,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,,0,
+39918143,87,Cape (Body),??,Ragged Cape,-,-,-,-,-,-3.0000,-,-,3.2599%,-,-,-,-,-,-,-,0,0,,0,
