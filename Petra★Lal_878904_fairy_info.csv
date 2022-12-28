@@ -46,7 +46,7 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 746299,1007,?????,550,100,Anna Graem,25.0,30.0,65.0,8.0,0,Damage II,10,Locked
 808655,14,?,0,1,Construction Fairy,3.6,12.0,9.6,2.4,0,Fervor,1,Locked
 813696,29,??,130,20,Cheerleader Fairy,9.5,20.0,5.5,5.0,0,Cheering Type,2,Locked
-816942,13,???,500,70,Rocket Fairy,0.0,23.4,0.0,12.0,0,Fervor,2,Locked
+816942,13,???,500,70,Rocket Fairy,0.0,23.4,0.0,12.0,0,Fervor,4,Locked
 817781,17,?????,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Fervor,10,Locked
 831583,19,?????,550,70,Cooking Fairy,6.4,12.8,50.4,12.8,0,Chef,2,Locked
 831584,19,?,0,14,Cooking Fairy,1.6,3.2,12.4,3.2,0,Keen,1,Locked
@@ -122,6 +122,30 @@ ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Tale
 888113,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Keen,1,
 888114,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Evasion I,1,
 888115,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Suppression,1,
+888285,25,?,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Evasion I,1,
+888286,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Evasion I,1,
+888287,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Assault,1,
+888288,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Keen,1,
+888452,6,?,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Evasion I,1,
+888487,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Suppression,1,
+888488,24,?,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Evasion I,1,
+888536,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Evasion I,1,
+888537,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Damage I,1,
+888602,8,?,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Evasion I,1,
+888603,9,?,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Evasion I,1,
+888674,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Aim,1,
+888711,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Damage II,1,
+888745,6,?,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,0,Sturdy,1,
+888757,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Charge,1,
+888760,4,?,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Accuracy II,1,
+889492,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Armor I,1,
+889493,15,?,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Accuracy II,1,
+889494,4,?,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Assault,1,
+889495,4,?,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Suppression,1,
+889496,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Suppression,1,
+889497,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Suppression,1,
+889498,7,?,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Aim,1,
+889499,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Sturdy,1,
 794035,29,?????,550,92,Cheerleader Fairy,27.2,56.8,15.2,13.6,0,Fervor,10,Locked
 771019,11,??,390,100,Parachute Fairy,18.0,0.0,16.0,4.0,0,Fervor,10,Locked
 794575,29,?????,550,100,Cheerleader Fairy,36.0,75.0,20.0,18.0,0,Damage II,10,Locked
