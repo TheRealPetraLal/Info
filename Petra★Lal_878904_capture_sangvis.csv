@@ -1390,3 +1390,56 @@ Datetime,Area ID,Area Boss,Remain Count,Capture Type,Capture Status,Sangvis ID,S
 2023-01-07 01:44:19,21,Ouroboros,56,PULSE,X,1007,???,Ouroboros
 2023-01-07 01:45:28,21,Ouroboros,55,SVAROG,O,2011,??,Prowler_SWAP
 2023-01-07 01:45:34,21,Ouroboros,54,SVAROG,O,2012,??,Dragoon_SWAP
+2023-01-07 12:07:27,21,Ouroboros,53,PULSE,O,3002,?,Vespid
+2023-01-07 12:35:47,21,Ouroboros,52,SVAROG,O,3006,?,Dinergate
+2023-01-07 12:35:51,21,Ouroboros,51,SVAROG,O,2006,??,Manticore
+2023-01-07 12:35:55,21,Ouroboros,50,SVAROG,O,3003,?,Guard
+2023-01-07 12:35:58,21,Ouroboros,49,SVAROG,O,3007,?,Scout
+2023-01-07 12:36:01,21,Ouroboros,48,SVAROG,O,2008,??,Guard_SWAP
+2023-01-07 12:36:04,21,Ouroboros,47,SVAROG,O,2011,??,Prowler_SWAP
+2023-01-07 12:36:07,21,Ouroboros,46,SVAROG,O,3010,?,Goliath Factory
+2023-01-07 12:36:10,21,Ouroboros,45,SVAROG,O,3004,?,Jaeger
+2023-01-07 12:36:13,21,Ouroboros,44,SVAROG,O,3010,?,Goliath Factory
+2023-01-07 12:36:16,21,Ouroboros,43,SVAROG,O,2009,??,Ripper SWAP
+2023-01-07 12:36:23,21,Ouroboros,42,SVAROG,O,2008,??,Guard_SWAP
+2023-01-07 12:36:27,21,Ouroboros,41,SVAROG,O,3001,?,Ripper
+2023-01-07 12:36:30,21,Ouroboros,40,SVAROG,O,3009,?,Jaguar
+2023-01-07 12:36:32,21,Ouroboros,39,SVAROG,O,3009,?,Jaguar
+2023-01-07 12:36:34,21,Ouroboros,38,SVAROG,O,3010,?,Goliath Factory
+2023-01-07 12:36:36,21,Ouroboros,37,SVAROG,O,2005,??,Tarantula
+2023-01-07 12:36:39,21,Ouroboros,36,SVAROG,O,3010,?,Goliath Factory
+2023-01-07 12:36:41,21,Ouroboros,35,SVAROG,O,2012,??,Dragoon_SWAP
+2023-01-07 12:36:43,21,Ouroboros,34,SVAROG,O,2008,??,Guard_SWAP
+2023-01-07 12:36:46,21,Ouroboros,33,SVAROG,O,3007,?,Scout
+2023-01-07 12:36:54,21,Ouroboros,32,SVAROG,O,2011,??,Prowler_SWAP
+2023-01-07 12:36:57,21,Ouroboros,31,SVAROG,O,3006,?,Dinergate
+2023-01-07 12:37:00,21,Ouroboros,30,SVAROG,O,2006,??,Manticore
+2023-01-07 12:37:03,21,Ouroboros,29,SVAROG,O,2010,??,Vespid_SWAP
+2023-01-07 12:37:05,21,Ouroboros,28,SVAROG,O,3008,?,Prowler
+2023-01-07 12:37:07,21,Ouroboros,27,SVAROG,O,3001,?,Ripper
+2023-01-07 12:37:09,21,Ouroboros,26,SVAROG,O,3009,?,Jaguar
+2023-01-07 12:37:12,21,Ouroboros,25,SVAROG,O,3006,?,Dinergate
+2023-01-07 12:37:14,21,Ouroboros,24,SVAROG,O,3004,?,Jaeger
+2023-01-07 12:37:16,21,Ouroboros,23,SVAROG,O,3002,?,Vespid
+2023-01-07 12:37:25,21,Ouroboros,22,SVAROG,O,3001,?,Ripper
+2023-01-07 12:37:27,21,Ouroboros,21,SVAROG,O,3001,?,Ripper
+2023-01-07 12:37:30,21,Ouroboros,20,SVAROG,O,3002,?,Vespid
+2023-01-07 12:37:33,21,Ouroboros,19,SVAROG,O,3007,?,Scout
+2023-01-07 12:37:35,21,Ouroboros,18,SVAROG,O,3003,?,Guard
+2023-01-07 12:37:37,21,Ouroboros,17,SVAROG,O,3008,?,Prowler
+2023-01-07 12:37:39,21,Ouroboros,16,SVAROG,O,3001,?,Ripper
+2023-01-07 12:38:01,21,Ouroboros,15,SVAROG,O,3002,?,Vespid
+2023-01-07 12:38:04,21,Ouroboros,14,SVAROG,O,3004,?,Jaeger
+2023-01-07 12:38:07,21,Ouroboros,13,SVAROG,O,2005,??,Tarantula
+2023-01-07 12:38:16,21,Ouroboros,12,SVAROG,O,3010,?,Goliath Factory
+2023-01-07 12:38:19,21,Ouroboros,11,SVAROG,O,2010,??,Vespid_SWAP
+2023-01-07 12:38:21,21,Ouroboros,10,SVAROG,O,3006,?,Dinergate
+2023-01-07 12:38:24,21,Ouroboros,9,SVAROG,O,2012,??,Dragoon_SWAP
+2023-01-07 12:38:27,21,Ouroboros,8,SVAROG,O,3004,?,Jaeger
+2023-01-07 12:38:30,21,Ouroboros,7,SVAROG,O,3005,?,Striker
+2023-01-07 12:38:32,21,Ouroboros,6,SVAROG,O,3005,?,Striker
+2023-01-07 12:38:35,21,Ouroboros,5,SVAROG,O,3002,?,Vespid
+2023-01-07 12:38:37,21,Ouroboros,4,SVAROG,O,1007,???,Ouroboros
+2023-01-10 11:32:51,23,Alchemist,99,PULSE,O,1008,???,Alchemist
+2023-01-10 22:39:03,23,Alchemist,99,PULSE,O,2011,??,Prowler_SWAP
+2023-01-10 22:39:24,23,Alchemist,98,PULSE,O,2011,??,Prowler_SWAP
